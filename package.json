@@ -1,0 +1,28 @@
+{
+  "name": "innersight",
+  "version": "1.0.0",
+  "description": "InnerSight - Un sitio estático para exploración interior",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "deploy": "gh-pages -d docs/.vuepress/dist"
+  },
+  "keywords": [
+    "vuepress",
+    "static-site",
+    "github-pages",
+    "innersight"
+  ],
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.9.7",
+    "gh-pages": "^4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tu-usuario/InnerSight.git"
+  },
+  "homepage": "https://tu-usuario.github.io/InnerSight/"
+}
