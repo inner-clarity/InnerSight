@@ -27,7 +27,7 @@ module.exports = {
     lastUpdated: 'Última actualización',
     
     // Configuración del repositorio
-    repo: 'tu-usuario/InnerSight',
+    repo: 'AlejandroParada/InnerSight',
     repoLabel: 'GitHub',
     docsDir: 'docs',
     docsBranch: 'main',
