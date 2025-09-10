@@ -116,7 +116,7 @@ Es como cuando alguien con depresión busca foros de apoyo - no es infidelidad, 
 - Usar pañales como ropa interior **3 veces por semana para dormir**
 - A veces incluir un chupete (regresión completa)
 - **Como ritual de autocuidado**, no como actividad sexual
-- Wilquer dijo que es peor si lo vivo "ocultando" es como tener una doble vida, ademas genera otros traumas, miedos e inseguridades, en mi y en vos, termina siendo peor 
+- Mi psicólogo dijo que es peor si lo vivo "ocultando" es como tener una doble vida, ademas genera otros traumas, miedos e inseguridades, en mi y en vos, termina siendo peor 
 - Que halla un equilibrio, moderación y adaptación
 
 ### **Lo Que NO Cambia Entre Nosotros**

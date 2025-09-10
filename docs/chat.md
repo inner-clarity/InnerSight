@@ -28,7 +28,7 @@
 **👩‍🦰 Ella:**
 > Ok\
 > En cuanto a tu propuesta no sé si pueda aceptarlo por más que te ame y que vos no lo elijas y todo eso.\
-> Tengo que pensarlo y primero capaz hablar en persona los dos solos, además del jueves con Wilquer\
+> Tengo que pensarlo y primero capaz hablar en persona los dos solos, además del jueves con el psicologo\
 > No es sobre como te afecta solo a vos, si no el trauma que me genera a mi actualmente aceptar eso\
 > Te soy sincera te amo montones y con todo mi corazón, agradezco que al fin pudieras explicarme\
 > Se que debió ser difícil para vos hacerlo.\
