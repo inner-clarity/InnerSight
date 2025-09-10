@@ -45,6 +45,6 @@
 
 -  Todo surgió (lo de "los pañales") por tener "más garantías" y claridad de lo que me pasaba y de como "regulaba mis emociones" antes sin entender porque lo hacía (Y por eso busque una manera de equilibrarlo, y negaba esa "necesidad" de 'regular mis emociones' con los pañales, porque para ella no era 'aceptable' (según mi esposa)). 
 - Yo hago mindfullness, running y HIIT, y eso me ayuda mucho, pero con sus "altibajos emocionales y fricciones" con mi esposa, ahora cuando logro entender que "**no es o debería ser una carga, o no es o deberia ser una culpa**", el tema de los pañales siento que me darían esa "**regulacion emocional**" faltante, pero que ahora **"es un tema controversial, incomprensible e inaceptable"** de su parte.
-- Por eso ahora quiere la separación, de aca a un año (lo dice por el desapego con mi hija), Es una situación que se salió de control, ella cierra todas las puertas de ayuda posible, solo Dios sabe nuestro futuro. 
+- Por eso ahora quiere la separación, de aca a un año (lo dice por el desapego con mi hija), Es una situación que se salió de control, ella cierra todas las puertas de ayuda posible, solo Dios sabe nuestro futuro. (yo creo en los milagros, el milagro de su compresión y aceptación) 
  No acepta mas terapia de nadie, ni terapia de pareja. por eso cancela todo.
-- Pineso que esto se le va a pasar (eso espero), se que ahora esta sensible por la situación.
+- Pienso que esto se le va a pasar (eso espero), se que ahora esta sensible por la situación.
