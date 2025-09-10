@@ -30,10 +30,10 @@
       <li>"Yo me hacía 'el vivo' porque me gustaba usar pañales, y aprovechaba la situación"</li>
       <li>"Que no se imaginaba o no le entraba en la cabeza la imagen de que si me tuviera que pedir una bendicion del sacerdocio y me viera usando pañales no parecería bien, que no se lo imagina, que no seria digno". <router-link to="/Sacerdocio_y_Salud_Mental.html">El sacerdocio no deja de funcionar.</router-link></li>
       <li>"ya veo que ya elegiste, que vos preferís eso a nosotras o tu familia, y en eso no somos compatibles, porque yo pienso diferente"</li>
-      <li>Al otro día no permitió que Ana se quedara conmigo por "miedo a que le pase algo" y que ya no dejara a Ana "a solas" conmigo por que entro en desconfienza <router-link to="/Lo_Que_No_Es.html">piensa que es otra cosa</router-link></li>
+      <li>Al otro día no permitió que nuestra hija se quedara conmigo por "miedo a que le pase algo" y que ya no dejara a Ana "a solas" conmigo por que entro en desconfienza <router-link to="/Lo_Que_No_Es.html">piensa que es otra cosa</router-link></li>
       <li>Todo intento por mi parte de aclarar el tema con las aclaraciones (que me referi anteriormente) no es aceptado (solo tomado como justificación para "mi transgresión")</li>
       <li>Además ella quedo inestable emocionalmente (por que pensaba que era un tema "resuelto" que la "descoloca") ambos no pudimos dormir bien en la noche, porque ella no lo puede aceptar o lo rechaza (con solo pensarlo o la idea).</li>
-      <li>Incluso me niega los besos porque "no sabe de ahora que va a pasar" con nosotros</li>
+      <li>Incluso me niega los besos porque "no sabe de ahora que va a pasar" con nosotros, me niega que le tome la mano en publico</li>
       <li>No sé sí estuve bien en decirselo o decirselo así (quizá debio haber sido gradual) porque no sabía como le afectaría, pero el algun momento tendría que hacerlo.</li>
     </ul>
 

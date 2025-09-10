@@ -32,7 +32,7 @@
 
 - Además ella quedo inestable emocionalmente (por que pensaba que era un tema "resuelto" que la "descoloca") ambos no pudimos dormir bien en la noche, porque ella no lo puede aceptar o lo rechaza (con solo pensarlo o la idea). 
  
- Incluso me niega los besos porque "no sabe de ahora que va a pasar" con nosotros
+ Incluso me niega los besos porque "no sabe de ahora que va a pasar" con nosotros, me niega que le tome la mano en publico
  
  No sé sí estuve bien en decirselo o decirselo así (quizá debio haber sido gradual) porque no sabía como le afectaría, pero el algun momento tendría que hacerlo. 
 

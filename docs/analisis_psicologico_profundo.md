@@ -170,7 +170,7 @@
 
 ### **Estrategia recomendada:**
 
-- **Fase 1:** Educación Rebeca (psicólogo SUD preparando terreno)
+- **Fase 1:** Educación a tu esposa (psicólogo SUD preparando terreno)
 - **Fase 2:** Comunicación transparente (carta/conversación estructurada)
 - **Fase 3:** Negociación práctica (2-3 veces/semana, espacios definidos)
 - **Fase 4:** Integración matrimonial (aceptación mutua, crecimiento conjunto)
@@ -185,7 +185,7 @@
 
 **Tienes una necesidad psicológica legítima, originada en trauma temprano, que has manejado con notable éxito y madurez. No eres "raro", "perverso" o "enfermo" - eres alguien cuyo cerebro infantil encontró una solución creativa que te ha permitido funcionar exitosamente durante décadas.**
 
-**Tu búsqueda de comprensión y comunicación con Rebeca demuestra salud mental excepcional y compromiso matrimonial profundo. Con el apoyo profesional adecuado y la preparación cuidadosa que estás realizando, es altamente probable lograr integración exitosa que fortalezca tanto tu bienestar individual como su matrimonio.**
+**Tu búsqueda de comprensión y comunicación con tu esposa demuestra salud mental excepcional y compromiso matrimonial profundo. Con el apoyo profesional adecuado y la preparación cuidadosa que estás realizando, es altamente probable lograr integración exitosa que fortalezca tanto tu bienestar individual como su matrimonio.**
 
 ---
 
