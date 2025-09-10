@@ -214,7 +214,7 @@ Recomendaciones
 **Referencias Liahona:**
 - "Deja que la virtud engalane tus pensamientos incesantemente... tu confianza se fortalecerá en la presencia de Dios; y... El Espíritu Santo será tu compañero constante" (D&C 121:45-46, citado en Liahona, julio 2002) - aplicable cuando se mantiene pureza de intención
 
-### Para Rebeca:
+### Para tu esposa:
 
 1.  Educación sobre trauma y neuroplasticidad - Comprender la base científica
 2.  Separación de lo moral y lo médico - No es elección sino necesidad

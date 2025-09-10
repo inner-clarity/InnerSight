@@ -1,9 +1,5 @@
 # Esto es lo que esta pasando:
 
-<ContenidoActual />
-
-
-
 - Porque ahora tengo las garantías profesionales/sicológico/y de valides eclesiástica que nunca tuve antes que me respaldan (y aclaran de que **no estoy loco**). Antes me sentía vulnerable al plantear el tema, o tenía que **"esconderlo"** porque no sabía como explicarlo, y al plantearlo me añadian "**mas culpa**" por la incompresion, poque se me decía que el trauma era **el querer usar pañales** (segun mi esposa)
 - Porque después hacer una reflexion profunda, descubrí que el tema de "querer usar pañales" como un **"mecanismo sicológico de regulación emocional"** no lo había identificado antes, y arrastraba **una culpa innecesaria**, no era un problema era parte de una solución 
 - Aunque compenzo con minfulness, ejercicios: running, HITT y alimentación adecuados, aun siento que me falta esa **regulacion emocional** que quiero tener en mi vida, el tema ahora es el ser **comprendido**
