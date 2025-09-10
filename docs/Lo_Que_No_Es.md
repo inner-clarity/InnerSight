@@ -1,4 +1,4 @@
-Diferenciación Fundamental: Autocuidado vs. Pedofilia
+# Autocuidado vs. Pedofilia
 -----------------------------------------------------
 
 ### Definición de Pedofilia

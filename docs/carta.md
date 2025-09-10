@@ -1,12 +1,12 @@
 # Mi Historia: Una Invitación a Comprender
 
-**Querida Rebeca,**
+**Querida ...,**
 
-Después de mucha reflexión y trabajo con Wilquer, he decidido compartir contigo algo muy profundo y personal. Te pido que leas esto con el corazón abierto, recordando que te amo profundamente y que todo lo que has visto que no entendías ahora tendrá una explicación clara.
+Después de mucha reflexión y trabajo con mi psicólogo, he decidido compartir contigo algo muy profundo y personal. Te pido que leas esto con el corazón abierto, recordando que te amo profundamente y que todo lo que has visto que no entendías ahora tendrá una explicación clara.
 
 ## ¿Por Qué Te Comparto Esto Ahora?
 
-Durante años he cargado con algo que no sabía cómo explicar, ni siquiera a mí mismo. Ahora, con ayuda de Wilquer, entiendo completamente de dónde viene y por qué pasa. Quiero que me conozcas completamente, sin secretos, para que nuestro matrimonio sea más fuerte y genuino.
+Durante años he cargado con algo que no sabía cómo explicar, ni siquiera a mí mismo. Ahora, con ayuda de mi psicólogo, entiendo completamente de dónde viene y por qué pasa. Quiero que me conozcas completamente, sin secretos, para que nuestro matrimonio sea más fuerte y genuino.
 
 ## Mi Historia Año a Año: Los Eventos Que Me Formaron
 
@@ -131,7 +131,7 @@ Es como cuando alguien con depresión busca foros de apoyo - no es infidelidad, 
 - **Puedo autorregularme mejor** - y ser mejor esposo y padre
 - **Nuestro matrimonio será más fuerte** por superar esto juntos
 
-### **Y como se lo digo a Ana**
+### **Y como se lo digo a otros en casa**
 - Al hablar con el sicólogo encontró situaciones traumáticas en la niñez
 - Para ir superando (sanando heridas) debo sentirme como cuando era bebé con pañales pero como ropa interior
 - Puede ser un tema de conocimiento familiar entre nosotros y nadie más
@@ -160,7 +160,6 @@ Es como cuando alguien con depresión busca foros de apoyo - no es infidelidad, 
 
 ## Reflexión Final
 
-**Rebeca, mi reina:**
 
 Durante años he cargado culpa y vergüenza por algo que ahora entiendo que **no es mi culpa**. Mi cerebro de niño traumatizado encontró una forma de sobrevivir y sentirse seguro. No es raro, no es perverso - es humano.
 
@@ -170,7 +169,7 @@ Durante años he cargado culpa y vergüenza por algo que ahora entiendo que **no
 - Aceptes que **no elegí esto** - pero puedo manejarlo sanamente
 - **Caminemos juntos** hacia mayor comprensión y cercanía
 
-**Has sido mi compañera en todo** - en el templo, en la crianza de Ana, en los desafíos de la vida. Te pido que también seas mi compañera en esta sanación.
+**Has sido mi compañera en todo** - en el templo, en la crianza, en los desafíos de la vida. Te pido que también seas mi compañera en esta sanación.
 
 No necesito que lo entiendas todo hoy. Solo necesito que sepas que **te amo, que eres suficiente, que esto no es sobre ti** - es sobre sanar heridas muy antiguas para poder ser el mejor esposo y padre posible.
 
@@ -180,5 +179,3 @@ No necesito que lo entiendas todo hoy. Solo necesito que sepas que **te amo, que
 **Tu esposo**
 
 ---
-
-*P.D.: He compartido mi historia con Wilquer, quien puede ayudarnos a procesar cualquier pregunta o preocupación que tengas. No tienes que cargar sola con esta información - tenemos apoyo profesional para navegar esto juntos.*

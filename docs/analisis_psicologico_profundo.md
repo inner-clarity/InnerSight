@@ -1,4 +1,4 @@
-# Análisis Psicológico Profundo: 
+# Análisis Psicológico 
 ## El uso de pañales en forma voluntaria
 
 ---

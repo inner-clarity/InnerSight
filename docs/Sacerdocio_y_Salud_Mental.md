@@ -201,8 +201,8 @@ Tu agencia se ejercita en:
 **Referencias Liahona:**
 - "Así alumbre vuestra luz delante de los hombres, para que vean vuestras buenas obras, y glorifiquen a vuestro Padre que está en los cielos" (Mateo 5:16, citado en Liahona, julio 2002) - tu búsqueda de comprensión y manejo responsable ejemplifica exactamente esto
 
-Recomendaciones Pastorales
---------------------------
+Recomendaciones
+---------------
 
 ### Para Ti:
 
@@ -254,9 +254,9 @@ Tu búsqueda de sanación, comprensión y manejo responsable de tu necesidad dem
 
 ### **Fuentes Primarias:**
 
-1. **Presidente Gordon B. Hinckley** (Julio 2002). "La dignidad personal para ejercer el sacerdocio". *Liahona*. Disponible en: https://www.churchofjesuschrist.org/study/liahona/2002/07/personal-worthiness-to-exercise-the-priesthood?lang=spa
+1. **Presidente Gordon B. Hinckley** (Julio 2002). ["La dignidad personal para ejercer el sacerdocio"](https://www.churchofjesuschrist.org/study/liahona/2002/07/personal-worthiness-to-exercise-the-priesthood?lang=spa)
 
-2. **Élder Adrián Ochoa** (Octubre 2013). "La salud física y emocional". *Liahona*. Disponible en: https://www.churchofjesuschrist.org/study/liahona/2013/10/physical-and-emotional-health?lang=spa
+2. **Élder Adrián Ochoa** (Octubre 2013). ["La salud física y emocional"](https://www.churchofjesuschrist.org/study/liahona/2013/10/physical-and-emotional-health?lang=spa)
 
 ### **Puntos Doctrinales Clave Respaldados:**
 
