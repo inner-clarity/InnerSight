@@ -1,5 +1,5 @@
 <template>
-  <div class="contenido-actual">
+  <div class="contenido-actual"> 
     
     <h2>¿Por que llego a este tema ahora y no antes?</h2>
     <ul>
