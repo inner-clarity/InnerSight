@@ -868,7 +868,52 @@ Ahora vamos a crear un script más específico para actualizaciones rápidas:
 
 - ✅ **Ahorra tiempo**: Todo en un solo comando
 - ✅ **Evita errores**: Secuencia correcta automatizada
-- ✅ **Flexibilidad**: Puedes elegir mensaje personal
+- ✅ **Flexibilidad**: Puedes elegir mensaje personalizado
+- ✅ **Feedback visual**: Te muestra cada paso
+
+¿Te gustaría probar uno de los scripts ahora para ver cómo funciona?
+
+---
+
+_**User (2025-09-10 13:11Z)**_
+
+ Muchas gracias, si prueba el script por favor
+
+---
+
+_**Assistant**_
+
+¡Perfecto! Vamos a probar el script. Primero veamos qué scripts tenemos disponibles y luego ejecutemos uno:
+
+---
+
+```bash
+dir *.bat
+```
+
+```
+$ dir *.bat
+quick-update.bat  update-site.bat
+```
+
+---
+
+Excelente, los scripts están listos. Vamos a probar el script `update-site.bat` que es el más completo:
+
+---
+
+```bash
+.\update-site.bat
+```
+
+```
+$ .\update-site.bat
+bash: .update-site.bat: command not found
+```
+
+---
+
+
 
 ---
 

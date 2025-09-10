@@ -9,7 +9,7 @@
     </ul>
 
     <h2>¿Como explicarserlo a mi esposa?</h2>
-    <p>Estuve pensado como decirselo a mi esposa la semana pasada, entoces escribi una <router-link to="/carta.html">carta</router-link>, (sincera, muy franca y directa, y con la mayor delicadeza posible) (por que me dijiste que se lo dijera a Rebeca), entonces le di la carta el jueves de mañana le di la carta antes de ir a trabajar (en papel impreso). Tardo en leerla (en su trabajo), cuando la leyo empezaron a caer sus mensajes: <router-link to="/chat.html">chat de WhatsApp</router-link></p>
+    <p>Estuve pensado como decirselo a mi esposa la semana pasada, entoces escribi una <router-link to="/carta.html">carta</router-link>, (sincera, muy franca y directa, y con la mayor delicadeza posible) (por que me dijiste que se lo dijera a mi esposa), entonces le di la carta el jueves de mañana le di la carta antes de ir a trabajar (en papel impreso). Tardo en leerla (en su trabajo), cuando la leyo empezaron a caer sus mensajes: <router-link to="/chat.html">chat de WhatsApp</router-link></p>
     
     <p><strong>Mis conclusiones o reflexiones:</strong></p>
     <ul>
