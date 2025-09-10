@@ -5,7 +5,7 @@
 > Ya que ví que ese era uno de los puntos
 
 **🧑‍ Yo:**
-> Entonces cual es tu respuesta?</p>
+> Entonces cual es tu respuesta?
 
 **👩‍🦰 Ella:**
 > No lo sé.\
@@ -16,14 +16,14 @@
 > Es mi deber como su madre y el tuyo como su padre.
 
 **🧑‍ Yo:**
-> Si eso lo se</p>
+> Si eso lo se
 
 **👩‍🦰 Ella:**
 > No entiendo porque se te ocurrió decirle algo a ella
 
 **🧑‍ Yo:**
-> No le dije nada</p>
-> Solo lo puse escrito</p>
+> No le dije nada
+> Solo lo puse escrito
 
 **👩‍🦰 Ella:**
 > Ok\
@@ -48,7 +48,7 @@
 > Tengo varias dudas
 
 **🧑‍ Yo:**
-> No es un tratamiento, es modo de aliviar esa carga para mi</p>
+> No es un tratamiento, es modo de aliviar esa carga para mi
 
 **👩‍🦰 Ella:**
 > Tampoco pensé que con una sola sesión ya ibas a descubrir toda la causa de años sin saber.\
@@ -62,7 +62,7 @@
 > Solo para que me trates de entender, solo con pensarlo o visualizarlo  empecé a sudar,
 
 **🧑‍ Yo:**
->Yo hice un auto sicоanálisis días antes, y muy profundo, detallando cada año de descubrí por recuerdos muy traumáticos que le fui poniendo una época o edad, y lo vio Wilquer, se mande en la sección. No es que surgió en ese momento, salió antes. Hable de con el de algunas cosas de cada año de mi vida. No de esta carta, en la carta esta muy simplificada. Lo que expuse es lo hacia para sobrellevar la carga emocional
+>Yo hice un auto sicоanálisis días antes, y muy profundo, detallando cada año de descubrí por recuerdos muy traumáticos que le fui poniendo una época o edad, y lo vio el psicólogo, se mande en la sección. No es que surgió en ese momento, salió antes. Hable de con el de algunas cosas de cada año de mi vida. No de esta carta, en la carta esta muy simplificada. Lo que expuse es lo hacia para sobrellevar la carga emocional
 
 **👩‍🦰 Ella:**
 > Me siento ansiosa\
@@ -76,28 +76,28 @@
 > El de los días a la semana, etc??
 
 **🧑‍ Yo:**
-> Como te digo la versión que te di es muy resumida</p>
+> Como te digo la versión que te di es muy resumida
 
 **👩‍🦰 Ella:**
 > Por favor responde esto ? Que tengo que ir afuera
 
 **🧑‍ Yo:**
-> Lo de los días lo dije yo, se me ocurrio</p>
+> Lo de los días lo dije yo, se me ocurrio
 
 **👩‍🦰 Ella:**
 > No me estás respondiendo y me estoy poniendo peor
 
 **🧑‍ Yo:**
-> El no dijo los días</p>
+> El no dijo los días
 
 **👩‍🦰 Ella:**
 > Que dijo claramente???
 
 **🧑‍ Yo:**
 > Ni nada, solo yo lo propongo en esta carta
-El me dijo veo que siempre estas como 'a escondidas' es lo que veo siempre el mismo patrón
-Esto fue lo que dijo
-El dijo "siempre hay un secretismo" como el tema es un secreto
+>El me dijo veo que siempre estas como 'a escondidas' es lo que veo siempre el mismo patrón
+>Esto fue lo que dijo
+>El dijo "siempre hay un secretismo" como el tema es un secreto
 
 **👩‍🦰 Ella:**
 > Pero ya no es secreto\
@@ -107,15 +107,14 @@ El dijo "siempre hay un secretismo" como el tema es un secreto
 > Y como sanar es lo que te va a decir un profesional
 
 **🧑‍ Yo:**
-> No lo de ahora, es sobre lo que viví en el pasado</p>
+> No lo de ahora, es sobre lo que viví en el pasado
 
 **👩‍🦰 Ella:**
-**👩‍🦰 Rebeca Suárez:**
 > Con más razón, ya esta
 
 **🧑‍ Yo:**
 > Lo de la carta es solo un planteo nada más
-El me dijo "esto lo tenés que hablar con Rebeca", y por eso se me ocurrió la carta, ahora con lo "nuevo" que surgió, de "porque me pasan estas cosas", ni sabía hasta hace 4 días y que me cuesta entender aún, y que es difícil hablarlo. Como te puse nunca se lo dije a nadie
+>El me dijo "esto lo tenés que hablar con ella", y por eso se me ocurrió la carta, ahora con lo "nuevo" que surgió, de "porque me pasan estas cosas", ni sabía hasta hace 4 días y que me cuesta entender aún, y que es difícil hablarlo. Como te puse nunca se lo dije a nadie
 
 **👩‍🦰 Ella:**
 > Yo creo que tenemos que hablar pero que si vos no vas a buscar superar esto del pañal, etc de una vez por todas, no hay tratamiento que sirva\

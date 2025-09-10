@@ -38,13 +38,13 @@
 
 ## Actualización:
 
-  - Ayer ella vio como estoy armando esto (agarro mi celular para "auditarme", y vio mi busqueda de tratarta de entender "lo que me pasa" de como explicarlo, no es nada en contra de ella).
+  - Ayer ella vio como estoy armando esto (este sitio, incluso hice unos similacro en IA sobre como seria la session (yo queria evitar la confrontacion)) (agarro mi celular para "auditarme", y vio mi busqueda de trataba de entender "lo que me pasa" de como explicarlo, no es nada en contra de ella), ella entendio todo mal y que "todo esta arreglado", solo fueron "suposiciones mias" nada más, bueno ella piensa que "son reales".
  - Ella piensa que es una conspiración en "su contra" (esto de hacer que lo de "los pañales parezca bien" y ella dice que esta "mal y punto" ) (una confabulación en contra de ella de parte mi y tuya). 
- - Ella me dijo que vos "le habías prometido" que "lo de los pañales hiba a desaparecer" (Entonces ya no cree en el sistema "que le daba la razon" y que ahora "se puso en su contra"). 
- - No acepta "ninguna explicación" de nadie más, según lo que ella entiende, lo que ella piensa "es la única verdad y esta bien", y yo estoy mal (no piensa cambiar), es decir no le importa nada como sobrellevo la situación de los traumas. 
+ - Ella me dijo que vos "le habías prometido" que "lo de los pañales hiba a desaparecer" (Entonces ya no cree en el sistema "que le daba la razon" y que ahora "se puso en su contra" (es lo que dio a entender)). 
+ - No acepta "ninguna explicación" de nadie más, según lo que ella entiende, lo que ella piensa "es la única verdad y esta bien", y yo estoy mal (no piensa cambiar), es decir no le importa nada como sobrellevo la situación de los traumas, porque no me cree. 
 
--  Todo surgió (lo de "los pañales") por tener "más garantías" y claridad de lo que me pasaba y de como "regulaba mis emociones" antes sin entender porque lo hacía (Y por eso busque una manera de equilibrarlo, y negaba esa "necesidad" de 'regular mis emociones' con los pañales, porque no era 'aceptable' (según mi esposa)). 
-- Yo hago mindfullness, running y HIIT, y eso me ayuda mucho, pero con sus "altibajos emocionales y fricciones" con mi esposa, ahora cuando logro entender que "**no es o debería ser una carga, o no es o deberia ser una culpa**", el tema de los pañales siento que me darían esa "**regulacion emocional**" faltante, pero que ahora **"es un tema controversial e incomprensible"** de su parte.
+-  Todo surgió (lo de "los pañales") por tener "más garantías" y claridad de lo que me pasaba y de como "regulaba mis emociones" antes sin entender porque lo hacía (Y por eso busque una manera de equilibrarlo, y negaba esa "necesidad" de 'regular mis emociones' con los pañales, porque para ella no era 'aceptable' (según mi esposa)). 
+- Yo hago mindfullness, running y HIIT, y eso me ayuda mucho, pero con sus "altibajos emocionales y fricciones" con mi esposa, ahora cuando logro entender que "**no es o debería ser una carga, o no es o deberia ser una culpa**", el tema de los pañales siento que me darían esa "**regulacion emocional**" faltante, pero que ahora **"es un tema controversial, incomprensible e inaceptable"** de su parte.
 - Por eso ahora quiere la separación, de aca a un año (lo dice por el desapego con mi hija), Es una situación que se salió de control, ella cierra todas las puertas de ayuda posible, solo Dios sabe nuestro futuro. 
  No acepta mas terapia de nadie, ni terapia de pareja. por eso cancela todo.
 - Pineso que esto se le va a pasar (eso espero), se que ahora esta sensible por la situación.

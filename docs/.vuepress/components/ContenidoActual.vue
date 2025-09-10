@@ -45,8 +45,8 @@
       <li>No acepta "ninguna explicación" de nadie más, según lo que ella entiende, lo que ella piensa "es la única verdad y esta bien", y yo estoy mal (no piensa cambiar), es decir no le importa nada como sobrellevo la situación de los traumas.</li>
       <li>Todo surgió (lo de "los pañales") por tener "más garantías" y claridad de lo que me pasaba y de como "regulaba mis emociones" antes sin entender porque lo hacía (Y por eso busque una manera de equilibrarlo, y negaba esa "necesidad" de 'regular mis emociones' con los pañales, porque no era 'aceptable' (según mi esposa)).</li>
       <li>Yo hago mindfullness, running y HIIT, y eso me ayuda mucho, pero con sus "altibajos emocionales y fricciones" con mi esposa, ahora cuando logro entender que <strong>"no es o debería ser una carga, o no es o deberia ser una culpa"</strong>, el tema de los pañales siento que me darían esa <strong>"regulacion emocional"</strong> faltante, pero que ahora <strong>"es un tema controversial e incomprensible"</strong> de su parte.</li>
-      <li>Por eso ahora quiere la separación, de aca a un año (lo dice por el desapego con mi hija), Es una situación que se salió de control, ella cierra todas las puertas de ayuda posible, solo Dios sabe nuestro futuro. No acepta mas terapia de nadie, ni terapia de pareja. por eso cancela todo.</li>
-      <li>Pineso que esto se le va a pasar (eso espero), se que ahora esta sensible por la situación.</li>
+      <li>Por eso ahora quiere la separación, de aca a un año (lo dice por el desapego con mi hija), Es una situación que se salió de control, ella cierra todas las puertas de ayuda posible, solo Dios sabe nuestro futuro. (yo creo en los milagros, el milagro de su compresión y aceptación). No acepta mas terapia de nadie, ni terapia de pareja. por eso cancela todo.</li>
+      <li>Pienso que esto se le va a pasar (eso espero), se que ahora esta sensible por la situación.</li>
     </ul>
   </div>
 </template>
