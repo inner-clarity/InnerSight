@@ -6,7 +6,7 @@
 
 ## ¿Como explicarserlo a mi esposa?
 
- Estuve pensado como decirselo a Rebeca la semana pasada, entoces escribi una [carta](carta.md), (sincera, muy franca y directa, y con la mayor delicadeza posible) (por que me dijiste que se lo dijera a Rebeca), entonces le di la carta el jueves de mañana le di la carta antes de ir a trabajar (en papel impreso). Tardo en leerla (en su trabajo), cuando la leyo empezaron a caer sus mensajes: [chat de WhatsApp](chat.md)
+ Estuve pensado como decirselo a Rebeca la semana pasada, entoces escribi una [carta](carta.md), (sincera, muy franca y directa, y con la mayor delicadeza posible) (por que me dijiste que se lo dijera a mi esposa), entonces le di la carta el jueves de mañana le di la carta antes de ir a trabajar (en papel impreso). Tardo en leerla (en su trabajo), cuando la leyo empezaron a caer sus mensajes: [chat de WhatsApp](chat.md)
  
  Mis conclusiones o reflexiones:
 - No le importó la historia de mi vida, piensa que la invento como una excusa (siento que pisoteo mi vulnerabilidad)
