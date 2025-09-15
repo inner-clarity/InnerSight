@@ -8,6 +8,9 @@ Después de mucha reflexión y trabajo con mi psicólogo, he decidido compartir 
 
 Durante años he cargado con algo que no sabía cómo explicar, ni siquiera a mí mismo. Ahora, con ayuda de mi psicólogo, entiendo completamente de dónde viene y por qué pasa. Quiero que me conozcas completamente, sin secretos, para que nuestro matrimonio sea más fuerte y genuino.
 
+[Ver más detalles de mi vida aquí](mi_vida.md)
+
+
 ## Mi Historia Año a Año: Los Eventos Que Me Formaron
 
 ### **Años 1-2: Los Primeros Traumas**

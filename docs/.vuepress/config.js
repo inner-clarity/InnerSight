@@ -16,6 +16,7 @@ module.exports = {
       '/',
       '/about/',
       '/contact/',
+      '/Mi_vida',
       '/Lo_que_esta_pasando',
       '/analisis_psicologico_profundo',
       '/Sacerdocio_y_Salud_Mental',
