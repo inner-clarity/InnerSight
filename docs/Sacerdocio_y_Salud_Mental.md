@@ -27,7 +27,7 @@ Fundamentos doctrinales que apoyan esta conclusión:
 -   Sin intención de transgresión moral o sexual
 
 **Referencias Liahona:**
-- Presidente Gordon B. Hinckley enseñó: "Nuestra conducta en público debe ser intachable; nuestra conducta en privado es aún más importante; debe aprobar la norma establecida por el Señor" (Liahona, julio 2002, "La dignidad personal para ejercer el sacerdocio")
+- Presidente Gordon B. Hinckley enseñó: "Nuestra conducta en público debe ser intachable; nuestra conducta en privado es aún más importante; debe aprobar la norma establecida por el Señor" (<SideWebPageDrawerText pageUrl="https://www.churchofjesuschrist.org/study/liahona/2002/07/personal-worthiness-to-exercise-the-priesthood?lang=spa" triggerText="citado en Liahona, julio 2002" :external="true" />)
 
 **B) Principio de Necesidades Médicas/Psicológicas:** La Iglesia reconoce diferencias entre:
 
@@ -36,11 +36,11 @@ Fundamentos doctrinales que apoyan esta conclusión:
 -   Mecanismos de supervivencia desarrollados por trauma
 
 **Referencias Liahona:**
-- "El cuidar de tu cuerpo también bendice tu mente y te ayuda a recordar que eres hijo o hija de Dios, a tener confianza en ti mismo y sentirte feliz. Nuestra naturaleza emocional, física y espiritual están conectadas" (Élder Adrián Ochoa, Liahona, octubre 2013, "La salud física y emocional")
+- "El cuidar de tu cuerpo también bendice tu mente y te ayuda a recordar que eres hijo o hija de Dios, a tener confianza en ti mismo y sentirte feliz. Nuestra naturaleza emocional, física y espiritual están conectadas" (Élder Adrián Ochoa, Liahona, octubre 2013, <SideWebPageDrawerText pageUrl="https://www.churchofjesuschrist.org/study/liahona/2013/10/physical-and-emotional-health?lang=spa" triggerText="La salud física y emocional" :external="true" />)
 
 **C) Doctrina de la Expiación y Sanación:**
 
--   Cristo entiende nuestras "enfermedades" (Alma 7:11-12)
+-   Cristo entiende nuestras "enfermedades" (<SideWebPageDrawerText pageUrl="https://www.churchofjesuschrist.org/study/scriptures/bofm/alma/7?lang=spa&id=p11" triggerText="Alma 7:11-12" :external="true" />)
 -   Incluye trauma psicológico y sus efectos
 -   La sanación puede requerir medios inusuales pero legítimos
 
@@ -60,7 +60,7 @@ Razones psicológicas fundamentales:
 -   No es una elección consciente sino respuesta neurológica establecida
 
 **Referencias Liahona:**
-- "Analicen lo que significa estar emocionalmente saludable" y reconocer que "la forma de entender y manejar las emociones, entre ellas la ira y la tristeza" son parte del crecimiento espiritual (Liahona, octubre 2013, "La salud física y emocional")
+- "Analicen lo que significa estar emocionalmente saludable" y reconocer que "la forma de entender y manejar las emociones, entre ellas la ira y la tristeza" son parte del crecimiento espiritual (Liahona, octubre 2013, <SideWebPageDrawerText pageUrl="https://www.churchofjesuschrist.org/study/liahona/2013/10/physical-and-emotional-health?lang=spa" triggerText="La salud física y emocional" :external="true" />)
 
 **B) Función Adaptativa Actual:**
 
@@ -108,12 +108,12 @@ Fundamentos doctrinales:
 -   La dignidad no se mide por normalidad física
 
 **References Liahona:**
-- El presidente Hinckley enfatizó que la invalidación del sacerdocio viene por "encubrir nuestros pecados, o satisfacer nuestro orgullo, nuestra vana ambición, o ejercer mando, dominio o compulsión", NO por necesidades de salud (Liahona, julio 2002)
+- El presidente Hinckley enfatizó que la invalidación del sacerdocio viene por "encubrir nuestros pecados, o satisfacer nuestro orgullo, nuestra vana ambición, o ejercer mando, dominio o compulsión", NO por necesidades de salud (<SideWebPageDrawerText pageUrl="https://www.churchofjesuschrist.org/study/liahona/2002/07/personal-worthiness-to-exercise-the-priesthood?lang=spa" triggerText="Liahona, julio 2002" :external="true" />)
 
 **C) Doctrina de la Diversidad Divina:**
 
 -   "Todos son iguales ante Dios" (2 Nefi 26:33)
--   El Señor llama a quien Él quiere (D&C 4:3)
+-   El Señor llama a quien Él quiere (<SideWebPageDrawerText pageUrl="https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/4?lang=spa&id=3" triggerText="D&C 4:3" :external="true" />)
 -   Las diferencias individuales no eliminan el potencial espiritual
 
 ### 4\. Comparación con Personas en Silla de Ruedas
@@ -128,7 +128,7 @@ Esta analogía es perfectamente válida y reveladora:
 -   La fuente (física vs. psicológica) es irrelevante moralmente
 
 **Referencias Liahona:**
-- "Nuestra naturaleza emocional, física y espiritual están conectadas" - no se hace distinción entre necesidades físicas vs emocionales en términos de legitimidad (Élder Adrián Ochoa, Liahona, octubre 2013)
+- "Nuestra naturaleza emocional, física y espiritual están conectadas" - no se hace distinción entre necesidades físicas vs emocionales en términos de legitimidad (<SideWebPageDrawerText pageUrl="https://www.churchofjesuschrist.org/study/liahona/2013/10/physical-and-emotional-health?lang=spa" triggerText="Élder Adrián Ochoa, Liahona, octubre 2013" :external="true" />)
 
 **B) Principio de No Discriminación:**
 
@@ -153,7 +153,7 @@ Respuesta: Se aplica EXACTAMENTE igual
 -   Ambos son involuntarios y requieren compasión
 
 **Referencias Liahona:**
-- "Para algunos jóvenes, el no seguir los principios para mantenerse en buen estado físico puede llegar a ser un gran obstáculo... la salud física y emocional son aspectos fundamentales" (Liahona, octubre 2013, "La salud física y emocional")
+- "Para algunos jóvenes, el no seguir los principios para mantenerse en buen estado físico puede llegar a ser un gran obstáculo... la salud física y emocional son aspectos fundamentales" (Liahona, octubre 2013, <SideWebPageDrawerText pageUrl="https://www.churchofjesuschrist.org/study/liahona/2013/10/physical-and-emotional-health?lang=spa" triggerText="La salud física y emocional" :external="true" />)
 
 **B) Precedente de Medicación Psiquiátrica:**
 
@@ -163,11 +163,11 @@ Respuesta: Se aplica EXACTAMENTE igual
 
 **C) Doctrina de la Misericordia:**
 
--   "El Señor requiere el corazón y una mente dispuesta" (D&C 64:34)
+-   "El Señor requiere el corazón y una mente dispuesta" (<SideWebPageDrawerText pageUrl="https://www.churchofjesuschrist.org/study/scriptures/dc-testament/dc/64?lang=spa&id=34" triggerText="D&C 64:34" :external="true" />)
 -   No requiere ausencia de necesidades de salud mental
 
 **Referencias Liahona:**
-- "Ningún poder o influencia se puede ni se debe mantener en virtud del sacerdocio, sino por persuasión, por longanimidad, benignidad, mansedumbre y por amor sincero; por bondad y por conocimiento puro" (D&C 121:41-42, citado en Liahona, julio 2002) - enfatiza carácter moral, no perfección física/mental
+- "Ningún poder o influencia se puede ni se debe mantener en virtud del sacerdocio, sino por persuasión, por longanimidad, benignidad, mansedumbre y por amor sincero; por bondad y por conocimiento puro" (D&C 121:41-42, <SideWebPageDrawerText pageUrl="https://www.churchofjesuschrist.org/study/liahona/2002/07/personal-worthiness-to-exercise-the-priesthood?lang=spa" triggerText="citado en Liahona, julio 2002" :external="true" />) - enfatiza carácter moral, no perfección física/mental
 
 Síntesis Teológica Profunda
 ---------------------------
@@ -213,7 +213,7 @@ Recomendaciones
 
 
 **Referencias Liahona:**
-- "Deja que la virtud engalane tus pensamientos incesantemente... tu confianza se fortalecerá en la presencia de Dios; y... El Espíritu Santo será tu compañero constante" (D&C 121:45-46, citado en Liahona, julio 2002) - aplicable cuando se mantiene pureza de intención
+- "Deja que la virtud engalane tus pensamientos incesantemente... tu confianza se fortalecerá en la presencia de Dios; y... El Espíritu Santo será tu compañero constante" (D&C 121:45-46, <SideWebPageDrawerText pageUrl="https://www.churchofjesuschrist.org/study/liahona/2002/07/personal-worthiness-to-exercise-the-priesthood?lang=spa" triggerText="citado en Liahona, julio 2002" :external="true" />) - aplicable cuando se mantiene pureza de intención
 
 ### Para tu esposa:
 
@@ -223,7 +223,7 @@ Recomendaciones
 4.  Perspectiva de servicio mutuo - Cómo pueden ayudarse mutuamente a sanar
 
 **Referencias Liahona:**
-- "En el compañerismo del matrimonio no hay inferioridad ni superioridad; la mujer no camina delante del marido, ni el marido camina delante de la esposa; ambos caminan lado a lado, como un hijo y una hija de Dios en una jornada eterna" (Presidente Hinckley, Liahona, julio 2002)
+- "En el compañerismo del matrimonio no hay inferioridad ni superioridad; la mujer no camina delante del marido, ni el marido camina delante de la esposa; ambos caminan lado a lado, como un hijo y una hija de Dios en una jornada eterna" (<SideWebPageDrawerText pageUrl="https://www.churchofjesuschrist.org/study/liahona/2002/07/personal-worthiness-to-exercise-the-priesthood?lang=spa" triggerText="Presidente Hinckley, Liahona, julio 2002" :external="true" />)
 
 ### Para Líderes Eclesiásticos:
 
@@ -235,7 +235,7 @@ Si surge el tema:
 4.  Consultar con profesionales de salud mental SUD si necesario
 
 **Referencias Liahona:**
-- "La primera responsabilidad de la Iglesia es ayudar a los que lo hayan sufrido [trauma] y proteger a los que puedan ser vulnerables" (citado en Liahona, julio 2002) - principio aplicable a todas las formas de trauma
+- "La primera responsabilidad de la Iglesia es ayudar a los que lo hayan sufrido [trauma] y proteger a los que puedan ser vulnerables" (<SideWebPageDrawerText pageUrl="https://www.churchofjesuschrist.org/study/liahona/2002/07/personal-worthiness-to-exercise-the-priesthood?lang=spa"  triggerText="citado en Liahona, julio 2002" :external="true" />) - principio aplicable a todas las formas de trauma
 
 Conclusión Doctrinal
 --------------------
@@ -255,9 +255,10 @@ Tu búsqueda de sanación, comprensión y manejo responsable de tu necesidad dem
 
 ### **Fuentes Primarias:**
 
-1. **Presidente Gordon B. Hinckley** (Julio 2002). ["La dignidad personal para ejercer el sacerdocio"](https://www.churchofjesuschrist.org/study/liahona/2002/07/personal-worthiness-to-exercise-the-priesthood?lang=spa)
+1. **Presidente Gordon B. Hinckley** (Julio 2002).
+<SideWebPageDrawerText pageUrl="https://www.churchofjesuschrist.org/study/liahona/2002/07/personal-worthiness-to-exercise-the-priesthood?lang=spa" triggerText="La dignidad personal para ejercer el sacerdocio" :external="true" />
 
-2. **Élder Adrián Ochoa** (Octubre 2013). ["La salud física y emocional"](https://www.churchofjesuschrist.org/study/liahona/2013/10/physical-and-emotional-health?lang=spa)
+2. **Élder Adrián Ochoa** (Octubre 2013). <SideWebPageDrawerText pageUrl="https://www.churchofjesuschrist.org/study/liahona/2013/10/physical-and-emotional-health?lang=spa" triggerText="La salud física y emocional" :external="true" />
 
 ### **Puntos Doctrinales Clave Respaldados:**
 

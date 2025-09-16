@@ -18,8 +18,35 @@
       :class="{ 'slide-in': isOpen }"
     >
       <button class="close-btn" @click="closeDrawer">×</button>
-      <div class="image-container">
-        <img :src="fullImage" :alt="alt" class="full-image" />
+
+      <div v-if="external" class="iframe-container">
+        <iframe
+          v-if="pageUrl"
+          :src="pageUrl"
+          frameborder="0"
+          allowfullscreen
+          sandbox="allow-scripts allow-same-origin"
+          class="full-iframe"
+          :title="triggerText"
+        ></iframe>
+        <div v-else class="no-url">
+          URL no especificada.
+        </div>
+      </div>
+
+      <div v-else class="iframe-container">
+        <iframe
+          v-if="pageUrl"
+          :src="pageUrl"
+          frameborder="0"
+          allowfullscreen
+          sandbox="allow-scripts allow-same-origin"
+          class="full-iframe"
+          :title="triggerText"
+        ></iframe>
+        <div v-else class="no-url">
+          URL no especificada.
+        </div>
       </div>
     </div>
   </div>
@@ -27,19 +54,19 @@
 
 <script>
 export default {
-  name: 'SideImageDrawerText',
+  name: 'SideWebPageDrawerText',
   props: {
-    fullImage: {
+    pageUrl: {
       type: String,
-      required: true
-    },
-    alt: {
-      type: String,
-      default: 'Imagen ampliada'
+      default: null
     },
     triggerText: {
       type: String,
-      default: 'Ver imagen'
+      default: 'Ver contenido'
+    },
+    external: {
+      type: Boolean,
+      default: false
     }
   },
   data() {
@@ -68,19 +95,18 @@ export default {
 </script>
 
 <style scoped>
-/* Contenedor principal - clave para evitar saltos de línea y alinear bien */
 .inline-component {
   display: inline-block;
   vertical-align: top;
   line-height: inherit;
+  text-decoration: none;
 }
 
-/* Estilo del enlace de texto */
 .text-link {
   color: #3eaf7c;
   text-decoration: underline;
   cursor: pointer;
-  font-size: 16.3px;
+  font-size: 16px;
   vertical-align: baseline;
   text-decoration: none;
 }
@@ -89,7 +115,6 @@ export default {
   color: #0056b3;
 }
 
-/* Overlay oscuro */
 .side-drawer-overlay {
   position: fixed;
   top: 0;
@@ -100,14 +125,13 @@ export default {
   z-index: 9998;
 }
 
-/* Panel lateral */
 .side-drawer {
   position: fixed;
   top: 0;
   right: 0;
   width: 90%;
   height: 100%;
-  max-width: 600px;
+  max-width: 800px;
   background: white;
   z-index: 9999;
   box-shadow: -2px 0 10px rgba(0, 0, 0, 0.2);
@@ -122,7 +146,6 @@ export default {
   transform: translateX(0);
 }
 
-/* Botón de cerrar */
 .close-btn {
   align-self: flex-end;
   background: none;
@@ -138,25 +161,32 @@ export default {
   color: #000;
 }
 
-/* Contenedor de la imagen dentro del panel */
-.image-container {
+.iframe-container {
   flex: 1;
   display: flex;
   align-items: center;
   justify-content: center;
   overflow: hidden;
+  border-radius: 4px;
+  background: #f8f9fa;
 }
 
-.full-image {
-  max-width: 100%;
-  max-height: 90vh;
-  object-fit: contain;
+.full-iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
 }
 
-/* Responsive: en pantallas grandes, el panel es más angosto */
+.no-url {
+  color: #666;
+  text-align: center;
+  font-size: 14px;
+  padding: 20px;
+}
+
 @media (min-width: 768px) {
   .side-drawer {
-    width: 50%;
+    width: 60%;
   }
 }
 </style>

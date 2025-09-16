@@ -20,11 +20,12 @@ module.exports = {
       '/Lo_que_esta_pasando',
       '/analisis_psicologico_profundo',
       '/Sacerdocio_y_Salud_Mental',
-      '/carta',
-      '/chat',
-      '/Lo_Que_No_Es'
+      '/carta'      
     ],
-    
+
+    //'/chat',
+    //'/Lo_Que_No_Es'
+
     lastUpdated: 'Última actualización',
     
     // Configuración del repositorio
@@ -47,5 +48,11 @@ module.exports = {
   plugins: [
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom'
-  ]
+  ],
+
+   extends: {
+    layouts: {
+      BareLayout: () => import('./layouts/BareLayout.vue')
+    }
+  }
 }

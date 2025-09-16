@@ -2,10 +2,10 @@
 
 ## Mi Historia Año a Año: Los Eventos Que Me Formaron
 
-<SideImageDrawerText 
+<!--<SideImageDrawerText 
   fullImage="/images/mapa.jpg" 
   triggerText="Ver mapa detallado" 
-/>
+/>-->
 
 ### **Los Primeros Traumas**
 - **1**: Mudanza traumática por conflictos familiares - mi primer desarraigo
@@ -18,10 +18,8 @@
 - Mis padres se sintieron culpables y me cuidaron de manera **mucho más intensa** durante mi recuperación
 
 ### **La Formación del Patrón (3-8 años)**
-- **3.5**: Vi cómo cuidaban a mis hermanos pequeños con pañales, antes se usaban pañales de tela con <SideImageDrawerText 
-  fullImage="/InnerSight/bdg.gif" triggerText="bombacha de goma" 
-/>,  
-
+- **3.5**: Vi cómo cuidaban a mis hermanos pequeños con pañales, <SideImageDrawerText 
+  fullImage="/InnerSight/bdg.gif" triggerText="antes"/> se usaban pañales de tela con bombacha de goma
 - Mi mente infantil pensó: *"¿Por qué ellos reciben tanto cuidado especial y yo no?"*
 - **4**: Trauma en la playa, desarrollé pánico al agua
 - **5**: Un intento de abuso por parte de un adolescente (nunca se lo dije a nadie)
@@ -35,9 +33,13 @@
 - **12-23**: Mi cerebro consolidó la idea: **pañales = seguridad = cuidado = tranquilidad**
 
 ### **La Búsqueda de Comprensión (23-51 años)**
-- **23**: Conseguí mi primera <SideVideoDrawerText videoSrc="/InnerSight/bdg2.mp4" triggerText="bombacha de goma" />, pero no sabía por qué la necesitaba
+- **23**: Conseguí mi primer bombacha de goma, no sabía por qué la necesitaba, la use como ropa <SideVideoDrawerText videoSrc="/InnerSight/bdg2.mp4" triggerText="interior" />
 - **27-35**: Durante mi matrimonio anterior, no sabía cómo explicar esto (no fue el motivo de separación, fue su engaño)
 - **37-38**: Descubrí que hay otros como yo (ABDL) - **¡no estaba loco!**
 - **46-51**: Comencé a entender la neuroplasticidad y los traumas
 
-
+<!--
+Consulta la <SideWebPageDrawerText pageUrl="cartaabare" triggerText="carta" /> para más detalles.
+Consulta la <SideWebPageDrawerText pageUrl="https://es.wikipedia.org/wiki/Wikipedia:Portada" triggerText="Wipipedia" :external="true"  /> para más detalles.
+<SideWebPageDrawerText pageUrl="/guide/" triggerText="Ver guía" />
+-->

@@ -75,18 +75,18 @@ export default {
 /* Contenedor principal - clave para evitar saltos de línea y alinear bien */
 .inline-component {
   display: inline-block;
-  vertical-align: middle;
+  vertical-align: top;
   line-height: inherit;
 }
 
 /* Estilo del enlace de texto */
 .text-link {
-  color: #007bff;
+  color: #3eaf7c;
   text-decoration: underline;
   cursor: pointer;
-  font-size: 15px;
+  font-size: 16.3px;
   vertical-align: baseline;
-  text-decoration-skip-ink: auto;
+  text-decoration: none;
 }
 
 .text-link:hover {
@@ -152,8 +152,8 @@ export default {
 }
 
 .full-video {
-  max-width: 100%;
-  max-height: 90vh;
+  max-width: 120%;
+  max-height: 100vh;
   object-fit: contain;
   border-radius: 4px;
 }

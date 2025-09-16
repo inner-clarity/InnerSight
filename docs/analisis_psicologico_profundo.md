@@ -17,8 +17,8 @@
 - **Paradoja neurológica:** Mismo material (goma) genera respuestas opuestas según contexto emocional
 
 **Referencias académicas:**
-- Money, J. (1986). *Lovemaps: Clinical Concepts of Sexual/Erotic Health and Pathology, Paraphilia, and Gender Transposition in Childhood, Adolescence, and Maturity*. New York: Irvington Publishers.
-- Researchgate: Money's "Lovemap" Account of the Paraphilias: A Critique and Reformulation (1988)
+- Money, J. (1986). *Lovemaps: Clinical Concepts of Sexual/Erotic Health and Pathology, Paraphilia, and Gender Transposition in Childhood, Adolescence, and Maturity*. New York: Irvington <SideWebPageDrawerText pageUrl="https://archive.org/details/lovemapsclinical0000mone" triggerText="Publishers." :external="true" />
+- Researchgate: Money's "Lovemap" Account of the Paraphilias: <SideWebPageDrawerText pageUrl="https://archive.org/details/vandalizedlovema0000mone/page/n5/mode/2up" triggerText="A Critique and Reformulation (1988)" :external="true" />
 
 **Desde Blanchard/Freund:**
 - **No es fetiche puramente sexual** - tiene componente fuerte de **autorregulación emocional**
@@ -26,7 +26,7 @@
 - **Diferenciación crucial:** Búsqueda de "vulnerabilidad protegida" vs gratificación sexual
 
 **Referencias académicas:**
-- Blanchard, R. & Freund, K. (1980s-1990s). Trabajos sobre tipología y función adaptativa de comportamientos sexuales atípicos
+- Blanchard, R. & Freund, K. (1980s-1990s). Trabajos sobre tipología y función adaptativa de comportamientos sexuales atipicos
 - Sarver, N.W. & Gros, D.F. (2014). "A Modern Behavioral Treatment to Address Fetishism and Associated Functional Impairment". Journal of Clinical Psychology
 
 ---
@@ -57,7 +57,7 @@
 
 **Referencias académicas:**
 - American Psychiatric Association (2013). *Diagnostic and Statistical Manual of Mental Disorders* (5th ed.). DSM-5 criterios de trastornos adictivos vs parafilias
-- Volkow, N.D. & Morales, M. (2015). "The Brain on Drugs: From Reward to Addiction". *Cell*, 162(4), 712-725
+- Volkow, N.D. & Morales, M. (2015). "The Brain on Drugs: From Reward to Addiction". *Cell*, 162(4), 712-725 
 
 ---
 
