@@ -26,10 +26,10 @@ Este trabajo surge de la necesidad identificada de mayor comprensión y apoyo in
 
 ## Contenido Principal
 
-### [Fundamentos Psicológicos](analisis_psicologico_profundo)
+### [Fundamentos Psicológicos](analisis_psicologico_apropiado)
 Análisis profesional sobre los mecanismos psicológicos de regulación emocional, diferenciando entre patología y estrategias adaptativas de afrontamiento. Incluye perspectivas desde la neurociencia, trauma informado, y terapia cognitivo-conductual.
 
-### [Sacerdocio y Salud Mental](Sacerdocio_y_Salud_Mental)  
+### [Sacerdocio y Salud Mental](Sacerdocio_Salud_Mental_apropiado)  
 Exploración de la armonía entre las necesidades de salud mental individuales y los principios doctrinales del sacerdocio. Análisis de precedentes bíblicos y revelación moderna sobre inclusión y adaptación.
 
 ### [Propuesta de Declaración Institucional](Comunicado_salud_mental_v2_esp)

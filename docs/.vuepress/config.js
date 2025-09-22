@@ -29,8 +29,8 @@ module.exports = {
           '/',
           '/about/',
           '/contact/',
-          '/analisis_psicologico_profundo.html',
-          '/Sacerdocio_y_Salud_Mental.html',
+          '/analisis_psicologico_apropiado.html',
+          '/sacerdocio_salud_mental_apropiado.html',
           '/comunicado_salud_mental_v2_esp.html'
         ],
 
@@ -61,8 +61,8 @@ module.exports = {
           '/en/',
           '/en/about/',
           '/en/contact/',
-          '/en/analisis_psicologico_profundo.html',
-          '/en/Sacerdocio_y_Salud_Mental.html',
+          '/en/analisis_psicologico_apropiado.html',
+          '/en/sacerdocio_salud_mental_apropiado.html',
           '/en/mental_health_statement_english.html'
         ],
 

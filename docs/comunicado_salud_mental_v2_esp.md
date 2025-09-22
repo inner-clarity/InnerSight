@@ -26,7 +26,7 @@ Reafirmamos que las condiciones de salud mental, incluyendo aquellas que requier
 - Pañales u otros accesorios de cuidado personal
 - Cualquier otro elemento necesario para la regulación emocional
 
-Estos elementos, cuando son parte de un tratamiento o proceso de sanación de la salud mental, deben ser respetados y permitidos en todos los edificios de la Iglesia y en las actividades del hogar.
+Estos elementos, cuando son parte de un tratamiento o proceso de sanación supervisado por profesionales de la salud mental, deben ser respetados y permitidos en todos los edificios de la Iglesia y en las actividades del hogar.
 
 ### Llamado a la Empatía y el Entendimiento
 
