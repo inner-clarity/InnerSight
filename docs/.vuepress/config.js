@@ -1,40 +1,86 @@
 module.exports = {
-  title: 'InnerSight',
-  description: 'Un espacio para la exploración interior y el autoconocimiento',
+  locales: {
+    '/': {
+      lang: 'es-ES',
+      title: 'InnerSight',
+      description: 'Un espacio para la exploración interior y el autoconocimiento'
+    },
+    '/en/': {
+      lang: 'en-US',
+      title: 'InnerSight',
+      description: 'A space for inner exploration and self-knowledge'
+    }
+  },
+  
   base: '/InnerSight/',
   dest: 'docs/.vuepress/dist',
   
   themeConfig: {
-    nav: [
-      { text: 'Inicio', link: '/' },
-      { text: 'Acerca de', link: '/about/' },
-      { text: 'Contacto', link: '/contact/' }
+    locales: {
+      '/': {
+        nav: [
+          { text: 'Inicio', link: '/' },
+          { text: 'Acerca de', link: '/about/' },
+          { text: 'Contacto', link: '/contact/' },
+          { text: 'English', link: '/en/' }
+        ],
+        
+        sidebar: [
+          '/',
+          '/about/',
+          '/contact/',
+          '/analisis_psicologico_profundo.html',
+          '/Sacerdocio_y_Salud_Mental.html',
+          '/comunicado_salud_mental_v2_esp.html'
+        ],
+
+        lastUpdated: 'Última actualización',
+        
+        // Configuración del repositorio
+        repo: 'inner-clarity/InnerSight',
+        repoLabel: 'GitHub',
+        docsDir: 'docs',
+        docsBranch: 'main',
+        editLinks: true,
+        editLinkText: 'Editar esta página en GitHub',
+        
+        // Configuración de idioma
+        selectText: 'Idiomas',
+        label: 'Español'
+      },
       
-    ],
-    
-    sidebar: [
-      '/',
-      '/about/',
-      '/contact/',
-      '/Mi_vida',
-      '/Lo_que_esta_pasando',
-      '/analisis_psicologico_profundo',
-      '/Sacerdocio_y_Salud_Mental',
-      '/carta'      
-    ],
+      '/en/': {
+        nav: [
+          { text: 'Home', link: '/en/' },
+          { text: 'About', link: '/en/about/' },
+          { text: 'Contact', link: '/en/contact/' },
+          { text: 'Español', link: '/' }
+        ],
+        
+        sidebar: [
+          '/en/',
+          '/en/about/',
+          '/en/contact/',
+          '/en/analisis_psicologico_profundo.html',
+          '/en/Sacerdocio_y_Salud_Mental.html',
+          '/en/mental_health_statement_english.html'
+        ],
 
-    //'/chat',
-    //'/Lo_Que_No_Es'
-
-    lastUpdated: 'Última actualización',
-    
-    // Configuración del repositorio
-    repo: 'AlejandroParada/InnerSight',
-    repoLabel: 'GitHub',
-    docsDir: 'docs',
-    docsBranch: 'main',
-    editLinks: true,
-    editLinkText: 'Editar esta página en GitHub'
+        lastUpdated: 'Last Updated',
+        
+        // Configuración del repositorio
+        repo: 'inner-clarity/InnerSight',
+        repoLabel: 'GitHub',
+        docsDir: 'docs',
+        docsBranch: 'main',
+        editLinks: true,
+        editLinkText: 'Edit this page on GitHub',
+        
+        // Configuración de idioma
+        selectText: 'Languages',
+        label: 'English'
+      }
+    }
   },
   
   head: [

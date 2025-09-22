@@ -1,26 +1,33 @@
 # Acerca de InnerSight
 
-InnerSight nace de la necesidad de crear un espacio digital dedicado al autoconocimiento y la exploración interior. En un mundo cada vez más acelerado, es fundamental contar con recursos que nos ayuden a conectar con nosotros mismos.
+InnerSight es una iniciativa de investigación dedicada a examinar la intersección entre la salud mental, los procedimientos psicológicos de regulación emocional poco comunes, y la práctica religiosa dentro de La Iglesia de Jesucristo de los Santos de los Últimos Días.
 
 ## Nuestra Misión
 
-Proporcionar herramientas, reflexiones y contenido de calidad que facilite el camino hacia el autoconocimiento y el crecimiento personal.
+Facilitar un diálogo informado entre perspectivas clínicas profesionales y liderazgo eclesiástico para:
 
-## Qué Encontrarás Aquí
+- **Reducir estigma** asociado con métodos no convencionales de regulación emocional
+- **Promover inclusión** de todos los miembros, independientemente de sus necesidades de salud mental
+- **Establecer directrices claras** que armonicen bienestar individual con práctica comunitaria
+- **Fortalecer la comunidad** a través de mayor comprensión y apoyo mutuo
 
-- **Artículos de reflexión** sobre temas de desarrollo personal
-- **Ejercicios prácticos** para el autoconocimiento
-- **Recursos y herramientas** para la meditación y la introspección
-- **Guías** para el desarrollo de hábitos positivos
+## Fundamento Profesional
 
-## En Construcción
+Este trabajo surge de la necesidad identificada de mayor comprensión y apoyo institucional para miembros que utilizan métodos no convencionales de regulación emocional como parte de su proceso de sanación y bienestar mental. La investigación se basa en principios establecidos de psicología clínica, terapia cognitivo-conductual, y doctrina revelada.
 
-Este sitio está en constante evolución. Iremos añadiendo más contenido y secciones basándonos en las necesidades de nuestra comunidad.
+## Sobre el Autor
 
-::: warning Nota
-InnerSight está en sus primeras etapas. ¡Vuelve pronto para ver las nuevas incorporaciones!
-:::
+**Alejandro Parada** - Analista Programador, especialista en calidad y seguridad de la información, con fuerte vocación en investigación con IA aplicada a la mejora individual y colectiva de la salud mental, y en la implementación de sistemas informáticos.
 
-## Contacto
+**Áreas de investigación:**
+- Meyer-Briggs Type Indicator (MBTI)
+- Inteligencia emocional (modelo Goleman)
+- Psicología de la influencia y persuasión (Cialdini)
+- Aplicación de IA en análisis de patrones de salud mental
+- Sistemas informáticos para bienestar psicológico
 
-Si tienes sugerencias, comentarios o te gustaría contribuir con contenido, no dudes en [contactarnos](/contact/).
+*Miembro activo de La Iglesia de Jesucristo de los Santos de los Últimos Días, comprometido con la armonización de principios tecnológicos, investigación científica y doctrina revelada.*
+
+---
+
+*"La caridad es el amor puro de Cristo, y permanece para siempre; y a quien la posea en el último día, le irá bien." - Moroni 7:47*

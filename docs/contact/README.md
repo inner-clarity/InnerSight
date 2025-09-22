@@ -1,49 +1,60 @@
 # Contacto
 
-¡Nos encanta saber de ti! InnerSight es un proyecto en crecimiento y valoramos mucho tu feedback.
+Para consultas profesionales o colaboraciones institucionales relacionadas con salud mental y práctica religiosa.
+
+## Información de Contacto
+
+**Alejandro Parada**  
+Analista Programador | Especialista en Calidad y Seguridad de la Información  
+Investigador en IA aplicada a la salud mental
+
+### Áreas de Especialización
+
+- **Investigación en Salud Mental**: Métodos no convencionales de regulación emocional
+- **Análisis Psicológico**: Aplicación de IA en patrones de salud mental
+- **Sistemas Informáticos**: Implementación de herramientas para bienestar psicológico
+- **Psicología Organizacional**: Meyer-Briggs Type Indicator (MBTI), Inteligencia emocional
+- **Psicología de la Influencia**: Modelos de persuasión y comunicación
 
 ## Formas de Contacto
 
 ### GitHub
-Puedes crear un issue en nuestro repositorio de GitHub para:
-- Reportar errores
-- Sugerir mejoras
-- Proponer nuevo contenido
-- Hacer preguntas
+Para colaboraciones técnicas, reportes de errores o sugerencias de mejora:
 
-**Repositorio:** [tu-usuario/InnerSight](https://github.com/tu-usuario/InnerSight)
+**Repositorio:** [inner-clarity/InnerSight](https://github.com/inner-clarity/InnerSight)
 
-### Contribuciones
+### Consultas Profesionales
 
-Si te interesa contribuir con contenido o mejoras técnicas:
+Si representas una institución, organización o tienes consultas de investigación relacionadas con:
 
-1. Haz un fork del repositorio
-2. Crea una nueva rama para tu contribución
-3. Realiza tus cambios
-4. Envía un pull request
-
-## Sugerencias de Contenido
-
-Estamos especialmente interesados en:
-
-- **Técnicas de meditación** y mindfulness
-- **Ejercicios de autoconocimiento**
-- **Recursos de psicología positiva**
-- **Herramientas de desarrollo personal**
-- **Experiencias personales** de crecimiento
+- **Salud mental y práctica religiosa**
+- **Desarrollo de sistemas informáticos para bienestar psicológico**
+- **Investigación en regulación emocional**
+- **Colaboraciones académicas o institucionales**
 
 ## Código de Conducta
 
-Mantenemos un ambiente respetuoso y constructivo. Todas las interacciones deben ser:
-- Respetuosas
-- Constructivas
-- Enfocadas en el crecimiento personal
-- Libres de discriminación
+Mantenemos un ambiente profesional y respetuoso. Todas las interacciones deben ser:
+- **Profesionales** y basadas en evidencia
+- **Respetuosas** hacia diferentes perspectivas
+- **Constructivas** y orientadas a soluciones
+- **Confidenciales** cuando sea apropiado
+- **Libres de discriminación** y sesgos
 
-::: tip ¡Únete a la Comunidad!
-Tu voz es importante para construir una comunidad sólida enfocada en el crecimiento personal.
+## Contribuciones
+
+Si te interesa contribuir con investigación, contenido académico o mejoras técnicas:
+
+1. Revisa la documentación del proyecto
+2. Contacta para discutir tu propuesta
+3. Colabora siguiendo los estándares profesionales establecidos
+
+::: tip Consultas Profesionales
+Este espacio está diseñado para fomentar el diálogo informado entre perspectivas clínicas profesionales y liderazgo eclesiástico.
 :::
 
 ---
+
+*"La caridad es el amor puro de Cristo, y permanece para siempre; y a quien la posea en el último día, le irá bien." - Moroni 7:47*
 
 *Última actualización: Septiembre 2025*
