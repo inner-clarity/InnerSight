@@ -1,4 +1,4 @@
-# POPUESTA DE COMUNICADO DE LA PRIMERA PRESIDENCIA
+# Propuesta de comunicado de La Primera Presidencia
 
 ## Sobre la Inclusión, Comprensión y Aceptación de Personas con Condiciones de Salud Mental
 
@@ -18,7 +18,7 @@ Estos principios van en perfecta armonía con La Proclamación sobre la Familia,
 
 **Acceso Pleno al Sacerdocio y Ordenanzas**
 
-Reafirmamos que las condiciones de salud mental, incluyendo aquellas que requieren procedimientos psicológicos de regulación emocional poco comunes, no privan a ningún miembro digno del acceso al sacerdocio ni a las ordenanzas sagradas. Esto incluye situaciones donde el bienestar emocional de una persona requiere el uso de:
+Reafirmamos que las condiciones de salud mental, incluyendo aquellas que requieren procedimientos psicológicos de regulación emocional poco comunes, no privan a ningún miembro digno del acceso al sacerdocio ni a las ordenanzas sagradas y del servicio en la Iglesia. Esto incluye situaciones donde el bienestar emocional de una persona requiere el uso de:
 
 - Elementos de vestimenta específicos
 - Dispositivos médicos o terapéuticos
@@ -26,7 +26,7 @@ Reafirmamos que las condiciones de salud mental, incluyendo aquellas que requier
 - Pañales u otros accesorios de cuidado personal
 - Cualquier otro elemento necesario para la regulación emocional
 
-Estos elementos, cuando son parte de un tratamiento o proceso de sanación supervisado por profesionales de la salud mental, deben ser respetados y permitidos en todos los edificios de la Iglesia y en las actividades del hogar.
+Estos elementos, cuando son parte de un tratamiento o proceso de sanación de la salud mental, deben ser respetados y permitidos en todos los edificios de la Iglesia y en las actividades del hogar.
 
 ### Llamado a la Empatía y el Entendimiento
 
@@ -80,7 +80,7 @@ Invitamos a todas las familias, barrios y estacas a convertirse en refugios de a
 
 **Sinceramente,**
 
-**DEPARTAMENTO DE BIENESTAR Y SALUD MENTAL**  
+**La Primera Presidencia**  
 *La Iglesia de Jesucristo de los Santos de los Últimos Días*
 
 ---

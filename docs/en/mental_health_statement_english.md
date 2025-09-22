@@ -80,7 +80,7 @@ We invite all families, wards, and stakes to become refuges of love, understandi
 
 **Sincerely,**
 
-**DEPARTMENT OF WELFARE AND MENTAL HEALTH**  
+**The Frist Presidency**  
 *The Church of Jesus Christ of Latter-day Saints*
 
 ---
