@@ -29,10 +29,10 @@ Este trabajo surge de la necesidad identificada de mayor comprensión y apoyo in
 ### [Fundamentos Psicológicos](/InnerSight/es/analisis_psicologico_apropiado_v2)
 Análisis profesional sobre los mecanismos psicológicos de regulación emocional, diferenciando entre patología y estrategias adaptativas de afrontamiento. Incluye perspectivas desde la neurociencia, trauma informado, y terapia cognitivo-conductual.
 
-### [Sacerdocio y Salud Mental](/InnerSight/es/Sacerdocio_Salud_Mental_apropiado)  
+### [Sacerdocio y Salud Mental](/InnerSight/es/sacerdocio_salud_mental_apropiado)  
 Exploración de la armonía entre las necesidades de salud mental individuales y los principios doctrinales del sacerdocio. Análisis de precedentes bíblicos y revelación moderna sobre inclusión y adaptación.
 
-### [Propuesta de Declaración Institucional](/InnerSight/es/Comunicado_salud_mental_v2_esp)
+### [Propuesta de Declaración Institucional](/InnerSight/es/comunicado_salud_mental_v2_esp)
 Modelo de comunicado formal para consideración institucional, diseñado para promover mayor inclusión y comprensión hacia miembros con necesidades de regulación emocional poco comunes.
 
 ---
