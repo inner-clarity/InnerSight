@@ -2,54 +2,54 @@
 home: true
 heroImage: /logo.svg
 heroText: InnerSight
-tagline: Un espacio para la exploración interior y el autoconocimiento
-footer: Hecho con ❤️ para el crecimiento personal
+tagline: A space for inner exploration and self-knowledge
+footer: Made with ❤️ for personal growth
 ---
-<!--contenido -->
+<!--content -->
 
-<!--<ContenidoActual />-->
+<!--<ContenidoActualEn />-->
 
 # InnerSight
-## Perspectivas Profesionales sobre Regulación Emocional y Práctica Religiosa
+## Professional Perspectives on Emotional Regulation and Religious Practice
 
 ---
 
-### Propósito
+### Purpose
 
-InnerSight es una iniciativa de investigación dedicada a examinar la intersección entre la salud mental, los procedimientos psicológicos de regulación emocional poco comunes, y la práctica religiosa dentro de La Iglesia de Jesucristo de los Santos de los Últimos Días.
+InnerSight is a research initiative dedicated to examining the intersection between mental health, uncommon psychological emotional regulation procedures, and religious practice within The Church of Jesus Christ of Latter-day Saints.
 
-### Fundamento Profesional
+### Professional Foundation
 
-Este trabajo surge de la necesidad identificada de mayor comprensión y apoyo institucional para miembros que utilizan métodos no convencionales de regulación emocional como parte de su proceso de sanación y bienestar mental. La investigación se basa en principios establecidos de psicología clínica, terapia cognitivo-conductual, y doctrina revelada.
-
----
-
-## Contenido Principal
-
-### [Fundamentos Psicológicos](analisis_psicologico_apropiado)
-Análisis profesional sobre los mecanismos psicológicos de regulación emocional, diferenciando entre patología y estrategias adaptativas de afrontamiento. Incluye perspectivas desde la neurociencia, trauma informado, y terapia cognitivo-conductual.
-
-### [Sacerdocio y Salud Mental](Sacerdocio_Salud_Mental_apropiado)  
-Exploración de la armonía entre las necesidades de salud mental individuales y los principios doctrinales del sacerdocio. Análisis de precedentes bíblicos y revelación moderna sobre inclusión y adaptación.
-
-### [Propuesta de Declaración Institucional](Comunicado_salud_mental_v2_esp)
-Modelo de comunicado formal para consideración institucional, diseñado para promover mayor inclusión y comprensión hacia miembros con necesidades de regulación emocional poco comunes.
+This work arises from the identified need for greater understanding and institutional support for members who use unconventional methods of emotional regulation as part of their healing process and mental well-being. The research is based on established principles of clinical psychology, cognitive-behavioral therapy, and revealed doctrine.
 
 ---
 
-## Objetivo
+## Main Content
 
-Facilitar un diálogo informado entre perspectivas clínicas profesionales y liderazgo eclesiástico para:
+### [Psychological Foundations](/en/analisis_psicologico_apropiado_v2)
+Professional analysis of psychological mechanisms of emotional regulation, differentiating between pathology and adaptive coping strategies. Includes perspectives from neuroscience, trauma-informed care, and cognitive-behavioral therapy.
 
-- **Reducir estigma** asociado con métodos no convencionales de regulación emocional
-- **Promover inclusión** de todos los miembros, independientemente de sus necesidades de salud mental
-- **Establecer directrices claras** que armonicen bienestar individual con práctica comunitaria
-- **Fortalecer la comunidad** a través de mayor comprensión y apoyo mutuo
+### [Priesthood and Mental Health](/en/sacerdocio_salud_mental_apropiado)  
+Exploration of harmony between individual mental health needs and doctrinal principles of the priesthood. Analysis of biblical precedents and modern revelation on inclusion and adaptation.
+
+### [Proposed Institutional Statement](/en/mental_health_statement_english)
+Model of formal statement for institutional consideration, designed to promote greater inclusion and understanding toward members with uncommon emotional regulation needs.
 
 ---
 
-*"La caridad es el amor puro de Cristo, y permanece para siempre; y a quien la posea en el último día, le irá bien." - Moroni 7:47*
+## Objective
 
-::: tip ¡Bienvenido!
-Cada viaje interior comienza con un primer paso. El tuyo empieza aquí.
+Facilitate informed dialogue between professional clinical perspectives and ecclesiastical leadership to:
+
+- **Reduce stigma** associated with unconventional emotional regulation methods
+- **Promote inclusion** of all members, regardless of their mental health needs
+- **Establish clear guidelines** that harmonize individual well-being with community practice
+- **Strengthen community** through greater understanding and mutual support
+
+---
+
+*"Charity is the pure love of Christ, and it endureth forever; and whoso is found possessed of it at the last day, it shall be well with him." - Moroni 7:47*
+
+::: tip Welcome!
+Every inner journey begins with a first step. Yours starts here.
 :::

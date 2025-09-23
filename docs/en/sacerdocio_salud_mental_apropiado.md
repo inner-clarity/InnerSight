@@ -11,9 +11,10 @@ The doctrine of The Church of Jesus Christ of Latter-day Saints clearly establis
 The Church has consistently established that medical conditions, physical disabilities, or health circumstances do not affect priesthood dignity. This includes:
 
 - Members who require medical devices
-- People with neurological or psychiatric conditions
+- People with neurological or psychiatric conditions (including Tourette Syndrome, autism, ADHD)
 - Individuals with specific personal care needs
 - Those who require medication for mental health
+- People with neurological differences that require specific self-regulation mechanisms
 
 ## Harmony with "The Family: A Proclamation to the World"
 
@@ -49,7 +50,9 @@ The doctrine of the atonement explicitly includes healing of "sicknesses" and "i
 
 - Psychological trauma and its lasting effects
 - Emotional regulation needs developed as adaptive response
+- Neurological conditions like Tourette Syndrome that require specific self-regulation mechanisms
 - Healing processes that may require unconventional methods
+- Inherent neurological differences that need adaptation and understanding
 
 ### Savior's Precedent
 
@@ -80,6 +83,8 @@ When considering priesthood dignity, leaders should evaluate:
 - ❌ Specific mental health needs
 - ❌ Methods of emotional self-regulation
 - ❌ Adaptations required by trauma or circumstances
+- ❌ Neurological differences like Tourette Syndrome
+- ❌ Involuntary movements or necessary regulatory behaviors
 
 ## Benefits of Doctrinal Understanding
 
@@ -96,6 +101,8 @@ When considering priesthood dignity, leaders should evaluate:
 - Testimony of principles of charity and inclusion
 - Strengthening of the concept that "all are alike unto God" (2 Nephi 26:33)
 - Model of understanding for other special needs
+- Creation of truly inclusive spaces for neurodivergent individuals
+- Testimony of acceptance toward neurological differences like Tourette Syndrome
 
 ## Guidance for Families
 
@@ -103,10 +110,11 @@ When considering priesthood dignity, leaders should evaluate:
 
 Families can support members with mental health needs through:
 
-1. **Education about trauma and neuroplasticity**
-2. **Separation between moral and medical considerations**
+1. **Education about trauma, neuroplasticity and neurological conditions**
+2. **Separation between moral and medical/neurological considerations**
 3. **Focus on mutual spiritual growth**
 4. **Seeking professional understanding when necessary**
+5. **Understanding that conditions like Tourette Syndrome require acceptance, not correction**
 
 ### Strengthening Relationships
 
@@ -119,15 +127,16 @@ These experiences can strengthen family bonds by:
 
 ## Doctrinal Conclusion
 
-The doctrinal principles of The Church of Jesus Christ of Latter-day Saints completely support the inclusion of individuals with mental health needs, including those who require uncommon emotional regulation procedures.
+The doctrinal principles of The Church of Jesus Christ of Latter-day Saints completely support the inclusion of individuals with mental health and neurological needs, including those who require uncommon emotional regulation procedures or have conditions like Tourette Syndrome.
 
 These needs:
 - **DO NOT** constitute moral transgressions
 - **DO NOT** affect priesthood dignity
 - **DO** deserve understanding and support
 - **CAN** coexist with full spiritual life
+- **DO** represent legitimate neurological diversity that requires acceptance
 
-The implementation of these principles strengthens both individuals and the community, demonstrating the highest ideals of Christian love and divine inclusion.
+The implementation of these principles strengthens both individuals and the community, demonstrating the highest ideals of Christian love and divine inclusion toward all human diversity, including neurological differences.
 
 ---
 

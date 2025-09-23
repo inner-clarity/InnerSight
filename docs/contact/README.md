@@ -1,60 +1,42 @@
-# Contacto
+# Contact
 
-Para consultas profesionales o colaboraciones institucionales relacionadas con salud mental y práctica religiosa.
+## Professional Contact
 
-## Información de Contacto
+For inquiries about mental health resources, community inclusion, or spiritual development topics, please reach out through the following channels.
 
-**Alejandro Parada**  
-Analista Programador | Especialista en Calidad y Seguridad de la Información  
-Investigador en IA aplicada a la salud mental
+## Areas of Specialization
 
-### Áreas de Especialización
+- Mental health and spiritual growth
+- Community inclusion frameworks
+- Trauma-informed care
+- Neurodiversity acceptance
+- Emotional regulation strategies
 
-- **Investigación en Salud Mental**: Métodos no convencionales de regulación emocional
-- **Análisis Psicológico**: Aplicación de IA en patrones de salud mental
-- **Sistemas Informáticos**: Implementación de herramientas para bienestar psicológico
-- **Psicología Organizacional**: Meyer-Briggs Type Indicator (MBTI), Inteligencia emocional
-- **Psicología de la Influencia**: Modelos de persuasión y comunicación
+## Resources
 
-## Formas de Contacto
+This platform provides comprehensive resources for:
+- Individuals seeking understanding of their mental health needs
+- Families supporting loved ones with mental health challenges
+- Leaders creating inclusive communities
+- Professionals working at the intersection of faith and mental health
 
-### GitHub
-Para colaboraciones técnicas, reportes de errores o sugerencias de mejora:
+## Repository
 
-**Repositorio:** [inner-clarity/InnerSight](https://github.com/inner-clarity/InnerSight)
+All resources and materials are available in the [GitHub repository](https://github.com/inner-clarity/InnerSight), where you can:
+- Access the latest versions of all documents
+- Contribute to ongoing research and development
+- Share feedback and suggestions
+- Collaborate on community inclusion initiatives
 
-### Consultas Profesionales
+## Professional Code of Conduct
 
-Si representas una institución, organización o tienes consultas de investigación relacionadas con:
-
-- **Salud mental y práctica religiosa**
-- **Desarrollo de sistemas informáticos para bienestar psicológico**
-- **Investigación en regulación emocional**
-- **Colaboraciones académicas o institucionales**
-
-## Código de Conducta
-
-Mantenemos un ambiente profesional y respetuoso. Todas las interacciones deben ser:
-- **Profesionales** y basadas en evidencia
-- **Respetuosas** hacia diferentes perspectivas
-- **Constructivas** y orientadas a soluciones
-- **Confidenciales** cuando sea apropiado
-- **Libres de discriminación** y sesgos
-
-## Contribuciones
-
-Si te interesa contribuir con investigación, contenido académico o mejoras técnicas:
-
-1. Revisa la documentación del proyecto
-2. Contacta para discutir tu propuesta
-3. Colabora siguiendo los estándares profesionales establecidos
-
-::: tip Consultas Profesionales
-Este espacio está diseñado para fomentar el diálogo informado entre perspectivas clínicas profesionales y liderazgo eclesiástico.
-:::
+All interactions are guided by principles of:
+- Respect for individual dignity
+- Confidentiality and privacy
+- Evidence-based approaches
+- Compassionate communication
+- Commitment to inclusion and acceptance
 
 ---
 
-*"La caridad es el amor puro de Cristo, y permanece para siempre; y a quien la posea en el último día, le irá bien." - Moroni 7:47*
-
-*Última actualización: Septiembre 2025*
+*"Wherefore, receive ye one another, as Christ also received us to the glory of God." - Romans 15:7*

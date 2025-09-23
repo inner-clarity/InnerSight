@@ -17,7 +17,7 @@ This work arises from the identified need for greater understanding and institut
 
 ## About the Author
 
-**Alejandro Parada** - Programming Analyst, specialist in quality and information security, with a strong vocation for research with AI applied to individual and collective mental health improvement, and in the implementation of computer systems.
+**Alejandro Parada** - Programming Analyst, specialist in quality and information security, with a strong vocation for research with AI applied to individual and collective mental health improvement, and in the implementation of computer systems. Coach and enterprenour.
 
 **Research Areas:**
 - Meyer-Briggs Type Indicator (MBTI)

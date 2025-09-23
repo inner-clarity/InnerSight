@@ -26,7 +26,7 @@ This work arises from the identified need for greater understanding and institut
 
 ## Main Content
 
-### [Psychological Foundations](/en/analisis_psicologico_apropiado.html)
+### [Psychological Foundations](/en/analisis_psicologico_apropiado_v2.html)
 Professional analysis on the psychological mechanisms of emotional regulation, differentiating between pathology and adaptive coping strategies. Includes perspectives from neuroscience, trauma-informed care, and cognitive-behavioral therapy.
 
 ### [Priesthood and Mental Health](/en/sacerdocio_salud_mental_apropiado.html)  

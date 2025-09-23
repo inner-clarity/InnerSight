@@ -1,14 +1,14 @@
 module.exports = {
   locales: {
     '/': {
-      lang: 'es-ES',
-      title: 'InnerSight',
-      description: 'Un espacio para la exploración interior y el autoconocimiento'
-    },
-    '/en/': {
       lang: 'en-US',
       title: 'InnerSight',
       description: 'A space for inner exploration and self-knowledge'
+    },
+    '/es/': {
+      lang: 'es-ES',
+      title: 'InnerSight',
+      description: 'Un espacio para la exploración interior y el autoconocimiento'
     }
   },
   
@@ -19,49 +19,17 @@ module.exports = {
     locales: {
       '/': {
         nav: [
-          { text: 'Inicio', link: '/' },
-          { text: 'Acerca de', link: '/about/' },
-          { text: 'Contacto', link: '/contact/' },
-          { text: 'English', link: '/en/' }
+          { text: 'Home', link: '/' },
+          { text: 'About', link: '/about/' },
+          { text: 'Contact', link: '/contact/' },
+          { text: 'Español', link: '/es/' }
         ],
         
         sidebar: [
           '/',
           '/about/',
           '/contact/',
-          '/analisis_psicologico_apropiado.html',
-          '/sacerdocio_salud_mental_apropiado.html',
-          '/comunicado_salud_mental_v2_esp.html'
-        ],
-
-        lastUpdated: 'Última actualización',
-        
-        // Configuración del repositorio
-        repo: 'inner-clarity/InnerSight',
-        repoLabel: 'GitHub',
-        docsDir: 'docs',
-        docsBranch: 'main',
-        editLinks: true,
-        editLinkText: 'Editar esta página en GitHub',
-        
-        // Configuración de idioma
-        selectText: 'Idiomas',
-        label: 'Español'
-      },
-      
-      '/en/': {
-        nav: [
-          { text: 'Home', link: '/en/' },
-          { text: 'About', link: '/en/about/' },
-          { text: 'Contact', link: '/en/contact/' },
-          { text: 'Español', link: '/' }
-        ],
-        
-        sidebar: [
-          '/en/',
-          '/en/about/',
-          '/en/contact/',
-          '/en/analisis_psicologico_apropiado.html',
+          '/en/analisis_psicologico_apropiado_v2.html',
           '/en/sacerdocio_salud_mental_apropiado.html',
           '/en/mental_health_statement_english.html'
         ],
@@ -79,6 +47,38 @@ module.exports = {
         // Configuración de idioma
         selectText: 'Languages',
         label: 'English'
+      },
+      
+      '/es/': {
+        nav: [
+          { text: 'Inicio', link: '/es/' },
+          { text: 'Acerca de', link: '/es/about/' },
+          { text: 'Contacto', link: '/es/contact/' },
+          { text: 'English', link: '/' }
+        ],
+        
+        sidebar: [
+          '/es/',
+          '/es/about/',
+          '/es/contact/',
+          '/es/analisis_psicologico_apropiado_v2.html',
+          '/es/sacerdocio_salud_mental_apropiado.html',
+          '/es/comunicado_salud_mental_v2_esp.html'
+        ],
+
+        lastUpdated: 'Última actualización',
+        
+        // Configuración del repositorio
+        repo: 'inner-clarity/InnerSight',
+        repoLabel: 'GitHub',
+        docsDir: 'docs',
+        docsBranch: 'main',
+        editLinks: true,
+        editLinkText: 'Editar esta página en GitHub',
+        
+        // Configuración de idioma
+        selectText: 'Idiomas',
+        label: 'Español'
       }
     }
   },

@@ -1,33 +1,33 @@
-# Acerca de InnerSight
+# About InnerSight
 
-InnerSight es una iniciativa de investigación dedicada a examinar la intersección entre la salud mental, los procedimientos psicológicos de regulación emocional poco comunes, y la práctica religiosa dentro de La Iglesia de Jesucristo de los Santos de los Últimos Días.
+InnerSight is a research initiative dedicated to examining the intersection between mental health, uncommon psychological emotional regulation procedures, and religious practice within The Church of Jesus Christ of Latter-day Saints.
 
-## Nuestra Misión
+## Our Mission
 
-Facilitar un diálogo informado entre perspectivas clínicas profesionales y liderazgo eclesiástico para:
+Facilitate informed dialogue between professional clinical perspectives and ecclesiastical leadership to:
 
-- **Reducir estigma** asociado con métodos no convencionales de regulación emocional
-- **Promover inclusión** de todos los miembros, independientemente de sus necesidades de salud mental
-- **Establecer directrices claras** que armonicen bienestar individual con práctica comunitaria
-- **Fortalecer la comunidad** a través de mayor comprensión y apoyo mutuo
+- **Reduce stigma** associated with unconventional emotional regulation methods
+- **Promote inclusion** of all members, regardless of their mental health needs
+- **Establish clear guidelines** that harmonize individual well-being with community practice
+- **Strengthen community** through greater understanding and mutual support
 
-## Fundamento Profesional
+## Professional Foundation
 
-Este trabajo surge de la necesidad identificada de mayor comprensión y apoyo institucional para miembros que utilizan métodos no convencionales de regulación emocional como parte de su proceso de sanación y bienestar mental. La investigación se basa en principios establecidos de psicología clínica, terapia cognitivo-conductual, y doctrina revelada.
+This work arises from the identified need for greater understanding and institutional support for members who use unconventional methods of emotional regulation as part of their healing process and mental well-being. The research is based on established principles of clinical psychology, cognitive-behavioral therapy, and revealed doctrine.
 
-## Sobre el Autor
+## About the Author
 
-**Alejandro Parada** - Analista Programador, especialista en calidad y seguridad de la información, con fuerte vocación en investigación con IA aplicada a la mejora individual y colectiva de la salud mental, y en la implementación de sistemas informáticos.
+**Alejandro Parada** - Systems Analyst Programmer, specialist in information quality and security, with strong vocation in research with AI applied to individual and collective mental health improvement, and in the implementation of computer systems. Coach and enterprenour.
 
-**Áreas de investigación:**
+**Research areas:**
 - Meyer-Briggs Type Indicator (MBTI)
-- Inteligencia emocional (modelo Goleman)
-- Psicología de la influencia y persuasión (Cialdini)
-- Aplicación de IA en análisis de patrones de salud mental
-- Sistemas informáticos para bienestar psicológico
+- Emotional intelligence (Goleman model)
+- Psychology of influence and persuasion (Cialdini)
+- Application of AI in mental health pattern analysis
+- Computer systems for psychological well-being
 
-*Miembro activo de La Iglesia de Jesucristo de los Santos de los Últimos Días, comprometido con la armonización de principios tecnológicos, investigación científica y doctrina revelada.*
+*Active member of The Church of Jesus Christ of Latter-day Saints, committed to harmonizing technological principles, scientific research, and revealed doctrine.*
 
 ---
 
-*"La caridad es el amor puro de Cristo, y permanece para siempre; y a quien la posea en el último día, le irá bien." - Moroni 7:47*
+*"Charity is the pure love of Christ, and it endureth forever; and whoso is found possessed of it at the last day, it shall be well with him." - Moroni 7:47*
