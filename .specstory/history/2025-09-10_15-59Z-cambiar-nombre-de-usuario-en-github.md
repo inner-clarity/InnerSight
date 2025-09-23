@@ -5260,3 +5260,323 @@ La versión en inglés ahora incluye todos los puntos de orientación para líde
 
 ---
 
+_**User (2025-09-22 15:36Z)**_
+
+ahora verifica la linea 44
+
+---
+
+_**Assistant**_
+
+Voy a verificar la línea 44 de ambos archivos y actualizar la versión en inglés para que coincida exactamente con la española.
+
+
+---
+
+Read file: undefined
+
+---
+
+Read file: undefined
+
+---
+
+Veo que falta una parte importante en la línea 44 de la versión en inglés. En español dice:
+"Reconocemos que muchas veces desconocemos los antecedentes, traumas, condiciones neurológicas o circunstancias que han llevado a una persona a necesitar formas específicas poco comunes de regulación emocional o neurológica. **No se debe ver como un trauma a los pequeños a las generacion creciente.** En lugar de hacer suposiciones, debemos acercarnos con humildad y deseo genuino de comprender."
+
+Falta la parte: "No se debe ver como un trauma a los pequeños a las generacion creciente." Voy a agregarla:
+
+
+---
+
+<details><summary>Edit file: docs/en/mental_health_statement_english.md</summary>
+
+undefined
+
+**Chunk 1**
+Lines added: 1, lines removed: 1
+
+```diff
+@@ -42,5 +42,5 @@
+  **Do Not Misinterpret**
+  
+- We recognize that we often do not know the background, trauma, neurological conditions, or circumstances that have led a person to need uncommon specific forms of emotional or neurological regulation. Instead of making assumptions, we should approach with humility and genuine desire to understand.
++ We recognize that we often do not know the background, trauma, neurological conditions, or circumstances that have led a person to need uncommon specific forms of emotional or neurological regulation. It should not be seen as trauma to children and the rising generation. Instead of making assumptions, we should approach with humility and genuine desire to understand.
+  
+  ### Our Christian Commitment
+```
+
+</details>
+
+---
+
+## ✅ **Línea 44 Actualizada Correctamente**
+
+He corregido la línea 44 de la versión en inglés para que coincida exactamente con la versión en español:
+
+### **📋 Comparación y Corrección:**
+
+#### **Español (línea 44):**
+```
+Reconocemos que muchas veces desconocemos los antecedentes, traumas, condiciones neurológicas o circunstancias que han llevado a una persona a necesitar formas específicas poco comunes de regulación emocional o neurológica. No se debe ver como un trauma a los pequeños a las generacion creciente. En lugar de hacer suposiciones, debemos acercarnos con humildad y deseo genuino de comprender.
+```
+
+#### **Inglés (línea 44 corregida):**
+```
+We recognize that we often do not know the background, trauma, neurological conditions, or circumstances that have led a person to need uncommon specific forms of emotional or neurological regulation. It should not be seen as trauma to children and the rising generation. Instead of making assumptions, we should approach with humility and genuine desire to understand.
+```
+
+### **✅ Corrección Realizada:**
+- ✅ **Agregado**: "It should not be seen as trauma to children and the rising generation." (equivalente a "No se debe ver como un trauma a los pequeños a las generacion creciente.")
+
+### **🎯 Importancia de esta Corrección:**
+Esta línea es crucial porque:
+- **Protege a los niños**: Establece que las condiciones neurológicas no deben ser vistas como traumáticas para los menores
+- **Generación creciente**: Se enfoca en no causar daño a las futuras generaciones
+- **Prevención**: Evita que se estigmatice a los niños por condiciones neurológicas como Síndrome de Tourette
+
+¡La línea 44 está ahora perfectamente sincronizada entre ambos idiomas!
+
+---
+
+_**User (2025-09-22 15:36Z)**_
+
+volvi correguirla, asi que nuevamente revisa la linea 44
+
+---
+
+_**Assistant**_
+
+Tienes razón, voy a revisar nuevamente la línea 44 de ambos archivos para asegurarme de que esté completamente sincronizada.
+
+
+---
+
+Read file: undefined
+
+---
+
+Read file: undefined
+
+---
+
+Veo que la línea 44 en español ha cambiado. Ahora dice:
+"No se debe verse como esta mal y es un trauma para los pequeños a las generacion creciente."
+
+Esto es diferente a lo que tengo en inglés. Voy a corregir la versión en inglés:
+
+
+---
+
+<details><summary>Edit file: docs/en/mental_health_statement_english.md</summary>
+
+undefined
+
+**Chunk 1**
+Lines added: 1, lines removed: 1
+
+```diff
+@@ -42,5 +42,5 @@
+  **Do Not Misinterpret**
+  
+- We recognize that we often do not know the background, trauma, neurological conditions, or circumstances that have led a person to need uncommon specific forms of emotional or neurological regulation. It should not be seen as trauma to children and the rising generation. Instead of making assumptions, we should approach with humility and genuine desire to understand.
++ We recognize that we often do not know the background, trauma, neurological conditions, or circumstances that have led a person to need uncommon specific forms of emotional or neurological regulation. It should not be seen as wrong and as trauma for children and the rising generation. Instead of making assumptions, we should approach with humility and genuine desire to understand.
+  
+  ### Our Christian Commitment
+```
+
+</details>
+
+---
+
+## ✅ **Línea 44 Corregida Nuevamente**
+
+He actualizado la línea 44 de la versión en inglés para que coincida exactamente con la versión actualizada en español:
+
+### **�� Comparación y Corrección:**
+
+#### **Español (línea 44 actualizada):**
+```
+Reconocemos que muchas veces desconocemos los antecedentes, traumas, condiciones neurológicas o circunstancias que han llevado a una persona a necesitar formas específicas poco comunes de regulación emocional o neurológica. No se debe verse como esta mal y es un trauma para los pequeños a las generacion creciente. En lugar de hacer suposiciones, debemos acercarnos con humildad y deseo genuino de comprender.
+```
+
+#### **Inglés (línea 44 corregida):**
+```
+We recognize that we often do not know the background, trauma, neurological conditions, or circumstances that have led a person to need uncommon specific forms of emotional or neurological regulation. It should not be seen as wrong and as trauma for children and the rising generation. Instead of making assumptions, we should approach with humility and genuine desire to understand.
+```
+
+### **✅ Corrección Realizada:**
+- ✅ **Cambiado**: "It should not be seen as trauma to children and the rising generation"
+- ✅ **Por**: "It should not be seen as wrong and as trauma for children and the rising generation"
+- ✅ **Equivalente a**: "No se debe verse como esta mal y es un trauma para los pequeños a las generacion creciente"
+
+### **🎯 Importancia de esta Corrección:**
+Esta actualización es importante porque:
+- **Enfatiza que NO está mal**: Las condiciones neurológicas no son algo incorrecto
+- **Protege contra el trauma**: Evita que se vea como traumático para niños
+- **Generación creciente**: Protege a las futuras generaciones del estigma
+
+¡La línea 44 está ahora perfectamente sincronizada con la versión actualizada en español!
+
+---
+
+_**User (2025-09-22 15:36Z)**_
+
+por favor vuelve a actualizar la linea 44
+
+---
+
+_**Assistant**_
+
+Voy a revisar nuevamente la línea 44 en español y actualizar la versión en inglés para que coincida exactamente.
+
+
+---
+
+Read file: undefined
+
+---
+
+Read file: undefined
+
+---
+
+Veo que la línea 44 en español ahora tiene comillas alrededor de "esta mal y es un trauma para los pequeños a las generacion creciente". Voy a actualizar la versión en inglés para incluir las comillas:
+
+
+---
+
+<details><summary>Edit file: docs/en/mental_health_statement_english.md</summary>
+
+undefined
+
+**Chunk 1**
+Lines added: 1, lines removed: 1
+
+```diff
+@@ -42,5 +42,5 @@
+  **Do Not Misinterpret**
+  
+- We recognize that we often do not know the background, trauma, neurological conditions, or circumstances that have led a person to need uncommon specific forms of emotional or neurological regulation. It should not be seen as wrong and as trauma for children and the rising generation. Instead of making assumptions, we should approach with humility and genuine desire to understand.
++ We recognize that we often do not know the background, trauma, neurological conditions, or circumstances that have led a person to need uncommon specific forms of emotional or neurological regulation. It should not be seen as "wrong and as trauma for children and the rising generation." Instead of making assumptions, we should approach with humility and genuine desire to understand.
+  
+  ### Our Christian Commitment
+```
+
+</details>
+
+---
+
+## ✅ **Línea 44 Actualizada con Comillas**
+
+He actualizado la línea 44 de la versión en inglés para que coincida exactamente con la versión en español, incluyendo las comillas:
+
+### **📋 Comparación y Corrección:**
+
+#### **Español (línea 44 con comillas):**
+```
+Reconocemos que muchas veces desconocemos los antecedentes, traumas, condiciones neurológicas o circunstancias que han llevado a una persona a necesitar formas específicas poco comunes de regulación emocional o neurológica. No debe verse como "esta mal y es un trauma para los pequeños a las generacion creciente". En lugar de hacer suposiciones, debemos acercarnos con humildad y deseo genuino de comprender.
+```
+
+#### **Inglés (línea 44 con comillas):**
+```
+We recognize that we often do not know the background, trauma, neurological conditions, or circumstances that have led a person to need uncommon specific forms of emotional or neurological regulation. It should not be seen as "wrong and as trauma for children and the rising generation." Instead of making assumptions, we should approach with humility and genuine desire to understand.
+```
+
+### **✅ Corrección Realizada:**
+- ✅ **Agregado**: Comillas alrededor de "wrong and as trauma for children and the rising generation"
+- ✅ **Equivalente a**: Las comillas en español alrededor de "esta mal y es un trauma para los pequeños a las generacion creciente"
+
+### **🎯 Importancia de las Comillas:**
+Las comillas enfatizan que esta es una **perspectiva errónea** que debe ser evitada:
+- **No es incorrecto**: Las condiciones neurológicas no están "mal"
+- **No es traumático**: No debe verse como trauma para los niños
+- **Protección generacional**: Especialmente para la generación creciente
+
+¡La línea 44 está ahora perfectamente sincronizada con las comillas incluidas!
+
+---
+
+_**User (2025-09-22 15:36Z)**_
+
+actualiza la lines 44
+
+---
+
+_**Assistant**_
+
+Voy a revisar nuevamente la línea 44 en español y actualizar la versión en inglés para que coincida exactamente.
+
+
+---
+
+Read file: undefined
+
+---
+
+Read file: undefined
+
+---
+
+Veo que la línea 44 en español ha cambiado nuevamente. Ahora dice:
+"No debe verse como "Enseñar esto esta mal y es un trauma para los pequeños y a la generacion creciente". En lugar de hacer suposiciones, **debemos acercarnos con humildad y deseo genuino de comprender.**"
+
+Voy a actualizar la versión en inglés:
+
+
+---
+
+<details><summary>Edit file: docs/en/mental_health_statement_english.md</summary>
+
+undefined
+
+**Chunk 1**
+Lines added: 1, lines removed: 1
+
+```diff
+@@ -42,5 +42,5 @@
+  **Do Not Misinterpret**
+  
+- We recognize that we often do not know the background, trauma, neurological conditions, or circumstances that have led a person to need uncommon specific forms of emotional or neurological regulation. It should not be seen as "wrong and as trauma for children and the rising generation." Instead of making assumptions, we should approach with humility and genuine desire to understand.
++ We recognize that we often do not know the background, trauma, neurological conditions, or circumstances that have led a person to need uncommon specific forms of emotional or neurological regulation. It should not be seen as "Teaching this is wrong and is trauma for children and the rising generation." Instead of making assumptions, **we should approach with humility and genuine desire to understand.**
+  
+  ### Our Christian Commitment
+```
+
+</details>
+
+---
+
+## ✅ **Línea 44 Actualizada con el Nuevo Contenido**
+
+He actualizado la línea 44 de la versión en inglés para que coincida exactamente con la versión actualizada en español:
+
+### **�� Comparación y Corrección:**
+
+#### **Español (línea 44 actualizada):**
+```
+Reconocemos que muchas veces desconocemos los antecedentes, traumas, condiciones neurológicas o circunstancias que han llevado a una persona a necesitar formas específicas poco comunes de regulación emocional o neurológica. No debe verse como "Enseñar esto esta mal y es un trauma para los pequeños y a la generacion creciente". En lugar de hacer suposiciones, **debemos acercarnos con humildad y deseo genuino de comprender.**
+```
+
+#### **Inglés (línea 44 actualizada):**
+```
+We recognize that we often do not know the background, trauma, neurological conditions, or circumstances that have led a person to need uncommon specific forms of emotional or neurological regulation. It should not be seen as "Teaching this is wrong and is trauma for children and the rising generation." Instead of making assumptions, **we should approach with humility and genuine desire to understand.**
+```
+
+### **✅ Correcciones Realizadas:**
+- ✅ **Cambiado**: "wrong and as trauma" → "Teaching this is wrong and is trauma"
+- ✅ **Equivalente a**: "Enseñar esto esta mal y es un trauma"
+- ✅ **Agregado**: Negrita en "we should approach with humility and genuine desire to understand"
+- ✅ **Equivalente a**: La negrita en "debemos acercarnos con humildad y deseo genuino de comprender"
+
+### **🎯 Importancia de esta Actualización:**
+Esta corrección es crucial porque:
+- **Enfoque en la enseñanza**: Específicamente sobre enseñar estos conceptos
+- **Protección educativa**: No debe verse como malo enseñar sobre condiciones neurológicas
+- **Protección generacional**: Especialmente para niños y la generación creciente
+- **Énfasis en humildad**: La parte final está destacada en negrita
+
+¡La línea 44 está ahora perfectamente sincronizada con todos los cambios!
+
+---
+

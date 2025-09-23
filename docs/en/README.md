@@ -26,13 +26,13 @@ This work arises from the identified need for greater understanding and institut
 
 ## Main Content
 
-### [Psychological Foundations](/en/analisis_psicologico_apropiado_v2.html)
+### [Psychological Foundations](analisis_psicologico_apropiado_v2.html)
 Professional analysis on the psychological mechanisms of emotional regulation, differentiating between pathology and adaptive coping strategies. Includes perspectives from neuroscience, trauma-informed care, and cognitive-behavioral therapy.
 
-### [Priesthood and Mental Health](/en/sacerdocio_salud_mental_apropiado.html)  
+### [Priesthood and Mental Health](sacerdocio_salud_mental_apropiado.html)  
 Exploration of the harmony between individual mental health needs and the doctrinal principles of the priesthood. Analysis of biblical precedents and modern revelation on inclusion and adaptation.
 
-### [Proposed Institutional Statement](/en/mental_health_statement_english.html)
+### [Proposed Institutional Statement](mental_health_statement_english.html)
 Model of a formal communication for institutional consideration, designed to promote greater inclusion and understanding toward members with uncommon emotional regulation needs.
 
 ---

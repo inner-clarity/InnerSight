@@ -41,7 +41,7 @@ No behavior related to mental health conditions or neurological differences shou
 
 **Do Not Misinterpret**
 
-We recognize that we often do not know the background, trauma, neurological conditions, or circumstances that have led a person to need uncommon specific forms of emotional or neurological regulation. Instead of making assumptions, we should approach with humility and genuine desire to understand.
+We recognize that we often do not know the background, trauma, neurological conditions, or circumstances that have led a person to need uncommon specific forms of emotional or neurological regulation. It should not be seen as "Teaching this is wrong and is trauma for children and the rising generation." Instead of making assumptions, **we should approach with humility and genuine desire to understand.**
 
 ### Our Christian Commitment
 

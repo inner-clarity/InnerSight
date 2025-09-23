@@ -41,7 +41,7 @@ Ningún comportamiento relacionado con condiciones de salud mental o diferencias
 
 **No Malinterpretar**
 
-Reconocemos que muchas veces desconocemos los antecedentes, traumas, condiciones neurológicas o circunstancias que han llevado a una persona a necesitar formas específicas poco comunes de regulación emocional o neurológica. No se debe ver como un trauma a los pequeños a las generacion creciente. En lugar de hacer suposiciones, debemos acercarnos con humildad y deseo genuino de comprender.
+Reconocemos que muchas veces desconocemos los antecedentes, traumas, condiciones neurológicas o circunstancias que han llevado a una persona a necesitar formas específicas poco comunes de regulación emocional o neurológica. No debe verse como "Enseñar esto esta mal y es un trauma para los pequeños y a la generacion creciente". En lugar de hacer suposiciones, **debemos acercarnos con humildad y deseo genuino de comprender.**
 
 ### Nuestro Compromiso Cristiano
 
