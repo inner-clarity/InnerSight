@@ -32,7 +32,7 @@ Professional analysis of psychological mechanisms of emotional regulation, diffe
 ### [Priesthood and Mental Health](/InnerSigh/en/sacerdocio_salud_mental_apropiado)  
 Exploration of harmony between individual mental health needs and doctrinal principles of the priesthood. Analysis of biblical precedents and modern revelation on inclusion and adaptation.
 
-### [Proposed Institutional Statement](InnerSight/en/mental_health_statement_english)
+### [Proposed Institutional Statement](/InnerSight/en/mental_health_statement_english)
 Model of formal statement for institutional consideration, designed to promote greater inclusion and understanding toward members with uncommon emotional regulation needs.
 
 ---
