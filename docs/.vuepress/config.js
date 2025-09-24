@@ -30,6 +30,7 @@ module.exports = {
           '/about/',
           '/contact/',
           '/en/analisis_psicologico_apropiado_v2.html',
+          '/en/scientific_foundation_validation.html',
           '/en/sacerdocio_salud_mental_apropiado.html',
           '/en/mental_health_statement_english.html'
         ],
@@ -62,6 +63,7 @@ module.exports = {
           '/es/about/',
           '/es/contact/',
           '/es/analisis_psicologico_apropiado_v2.html',
+          '/es/fundamento_cientifico_validacion.html',
           '/es/sacerdocio_salud_mental_apropiado.html',
           '/es/comunicado_salud_mental_v2_esp.html'
         ],

@@ -18,7 +18,7 @@ These principles are in perfect harmony with The Family: A Proclamation to the W
 
 **Full Access to Priesthood and Ordinances**
 
-We reaffirm that mental health and neurological conditions, including those requiring uncommon psychological emotional regulation procedures or conditions such as Tourette Syndrome, do not deprive any worthy member of access to the priesthood or sacred ordinances. This includes situations where a person's emotional or neurological wellbeing requires:
+We reaffirm that mental health and neurological conditions, including those requiring uncommon psychological emotional regulation procedures or conditions such as Tourette Syndrome, do not deprive any worthy member of access to the priesthood or sacred ordinances and the service in the Church. This includes situations where a person's emotional or neurological wellbeing requires:
 
 - Specific clothing items
 - Medical or therapeutic devices
@@ -31,6 +31,10 @@ These items and behaviors, when part of an inherent neurological condition or a 
 
 ### Call to Empathy and Understanding
 
+**Neurological need and not a whim**
+
+It is essential to understand that many of the behaviors or needs associated with uncommon emotional regulation are not voluntary choices, whimsical preferences, or acts of rebellion, but deeply rooted neurological responses that arise from the structure and functioning of the nervous system. Contemporary science has demonstrated that these regulatory strategies—such as tics in Tourette Syndrome, "stimming" in autism, or certain self-regulation rituals following traumatic experiences—are legitimate adaptive mechanisms, consolidated through neurological development or as a response to adverse circumstances. Attempting to suppress them without understanding can generate real physiological distress, intense anxiety, or even functional collapse. Therefore, they should not be seen as behaviors that "should be overcome" with willpower, but as valid needs that deserve respect, accommodation, and support. By recognizing their neurological foundation, we honor both science and doctrine, and fulfill the mandate to minister with knowledge and true love.
+
 **Do Not Judge**
 
 We urge all members, leaders, and families to refrain from making judgments about mental health and neurological situations that may seem uncommon or difficult to understand, including conditions such as Tourette Syndrome, involuntary movements, or specific regulatory needs. Let us remember that "man looketh on the outward appearance, but the Lord looketh on the heart" (1 Samuel 16:7).
@@ -41,7 +45,11 @@ No behavior related to mental health conditions or neurological differences shou
 
 **Do Not Misinterpret**
 
-We recognize that we often do not know the background, trauma, neurological conditions, or circumstances that have led a person to need uncommon specific forms of emotional or neurological regulation. It should not be seen as "Teaching this is wrong and is trauma for children and the rising generation." Instead of making assumptions, **we should approach with humility and genuine desire to understand.**
+We recognize that we often do not know the background, trauma, neurological conditions, or circumstances that have led a person to need uncommon specific forms of emotional or neurological regulation. It should not be seen as "Teaching this is wrong and is trauma for children and the rising generation." Instead of making assumptions, **we should approach with humility and genuine desire to understand.** Let us remember that our calling is to love and serve, not to diagnose or 'correct' what we might not fully understand.
+
+**Do Not Ridicule and Denigrate**
+
+It is fundamental that we avoid any form of mockery, contempt, or language that degrades those who experience uncommon emotional or neurological regulation needs. Ridiculing behaviors such as tics, regulatory movements, use of support devices, clothing items, personal care elements, or authentic emotional expressions not only causes deep harm, but directly contradicts the commandment to love one another as Christ loved us. Denigrating someone for their mental health or neurological condition—whether through words, gestures, subtle exclusions, or attitudes of superiority—is to deny the inherent dignity that each soul possesses as a son or daughter of God. Instead, **we are called to cultivate an environment of reverent respect, where vulnerability is welcomed with tenderness** and where difference is not tolerated, but celebrated as part of divine diversity in the human family.
 
 ### Our Christian Commitment
 
@@ -66,13 +74,15 @@ Local priesthood and auxiliary organization leaders should:
 
 1. Receive with love and patience all members, regardless of their specific mental health and neurological needs
 2. Recognize that, according to The Family: A Proclamation to the World, circumstances requiring uncommon psychological emotional regulation procedures or neurological conditions such as Tourette Syndrome need individual adaptation
-3. Consult with mental health and neurology professionals when appropriate and with the member's consent
-4. Make necessary physical and procedural adaptations in buildings and programs
-5. Educate congregations about the importance of inclusion and understanding of neurological differences
-6. Accompany families that require help in the individual adaptation process, in mutual understanding
-7. Facilitate extend family members and community members to provide support when needed
-8. Provide ongoing support resources and training on neurodiversity
-9. Understand that conditions like Tourette Syndrome require acceptance, not correction
+3. Consider that neurological needs must be taken into account when identifying unusual or uncommon situations
+4. Consult with mental health and neurology professionals when appropriate and with the member's consent
+5. Make necessary physical and procedural adaptations in buildings and programs
+6. Educate congregations about the importance of inclusion and understanding of neurological differences
+7. Accompany families that require help in the individual adaptation process, in mutual understanding
+8. Facilitate extended family members and community members to provide support when needed
+9. Provide ongoing support resources and training on neurodiversity
+10. Understand that conditions like Tourette Syndrome require acceptance, not correction
+11. Identify situations of intolerance, due to not understanding the context, requires guidance and compassion for those affected
 
 ### Message of Hope
 

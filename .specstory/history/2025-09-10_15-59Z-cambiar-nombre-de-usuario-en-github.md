@@ -5580,3 +5580,84 @@ Esta corrección es crucial porque:
 
 ---
 
+_**User (2025-09-22 15:36Z)**_
+
+por favor vuelve a actulizar la linea 44
+
+---
+
+_**Assistant**_
+
+Voy a revisar nuevamente la línea 44 en español y actualizar la versión en inglés para que coincida exactamente.
+
+
+---
+
+Read file: undefined
+
+---
+
+Read file: undefined
+
+---
+
+Veo que la línea 44 en español ahora incluye una parte adicional al final:
+"Recordemos que nuestro llamado es amar y servir, no diagnosticar o 'corregir' lo que podríamos no comprender completamente."
+
+Voy a actualizar la versión en inglés para incluir esta parte:
+
+
+---
+
+<details><summary>Edit file: docs/en/mental_health_statement_english.md</summary>
+
+undefined
+
+**Chunk 1**
+Lines added: 1, lines removed: 1
+
+```diff
+@@ -42,5 +42,5 @@
+  **Do Not Misinterpret**
+  
+- We recognize that we often do not know the background, trauma, neurological conditions, or circumstances that have led a person to need uncommon specific forms of emotional or neurological regulation. It should not be seen as "Teaching this is wrong and is trauma for children and the rising generation." Instead of making assumptions, **we should approach with humility and genuine desire to understand.**
++ We recognize that we often do not know the background, trauma, neurological conditions, or circumstances that have led a person to need uncommon specific forms of emotional or neurological regulation. It should not be seen as "Teaching this is wrong and is trauma for children and the rising generation." Instead of making assumptions, **we should approach with humility and genuine desire to understand.** Let us remember that our calling is to love and serve, not to diagnose or 'correct' what we might not fully understand.
+  
+  ### Our Christian Commitment
+```
+
+</details>
+
+---
+
+## ✅ **Línea 44 Actualizada con el Contenido Adicional**
+
+He actualizado la línea 44 de la versión en inglés para que coincida exactamente con la versión expandida en español:
+
+### **�� Comparación y Corrección:**
+
+#### **Español (línea 44 expandida):**
+```
+Reconocemos que muchas veces desconocemos los antecedentes, traumas, condiciones neurológicas o circunstancias que han llevado a una persona a necesitar formas específicas poco comunes de regulación emocional o neurológica. No debe verse como "Enseñar esto esta mal y es un trauma para los pequeños y a la generacion creciente". En lugar de hacer suposiciones, **debemos acercarnos con humildad y deseo genuino de comprender.** Recordemos que nuestro llamado es amar y servir, no diagnosticar o 'corregir' lo que podríamos no comprender completamente.
+```
+
+#### **Inglés (línea 44 expandida):**
+```
+We recognize that we often do not know the background, trauma, neurological conditions, or circumstances that have led a person to need uncommon specific forms of emotional or neurological regulation. It should not be seen as "Teaching this is wrong and is trauma for children and the rising generation." Instead of making assumptions, **we should approach with humility and genuine desire to understand.** Let us remember that our calling is to love and serve, not to diagnose or 'correct' what we might not fully understand.
+```
+
+### **✅ Corrección Realizada:**
+- ✅ **Agregado**: "Let us remember that our calling is to love and serve, not to diagnose or 'correct' what we might not fully understand."
+- ✅ **Equivalente a**: "Recordemos que nuestro llamado es amar y servir, no diagnosticar o 'corregir' lo que podríamos no comprender completamente."
+
+### **🎯 Importancia de esta Adición:**
+Esta adición es fundamental porque:
+- **Enfoque en el llamado cristiano**: Amor y servicio, no juicio
+- **Evita el diagnóstico**: No debemos diagnosticar lo que no comprendemos
+- **Evita la corrección**: No debemos "corregir" diferencias neurológicas
+- **Humildad**: Reconocimiento de nuestras limitaciones de comprensión
+
+¡La línea 44 está ahora completamente sincronizada con todo el contenido adicional!
+
+---
+

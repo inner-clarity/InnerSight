@@ -29,6 +29,9 @@ Este trabajo surge de la necesidad identificada de mayor comprensión y apoyo in
 ### [Fundamentos Psicológicos](/InnerSight/es/analisis_psicologico_apropiado_v2)
 Análisis profesional sobre los mecanismos psicológicos de regulación emocional, diferenciando entre patología y estrategias adaptativas de afrontamiento. Incluye perspectivas desde la neurociencia, trauma informado, y terapia cognitivo-conductual.
 
+### [Adaptaciones neurológicas legítimas vs caprichos o elecciones arbitrarias](/InnerSight/es/fundamento_cientifico_validacion)
+Análisis detallado sobre cómo distinguir entre adaptaciones neurológicas necesarias y comportamientos arbitrarios, basado en evidencia científica y criterios clínicos establecidos. Incluye estudios de casos y pautas para líderes y familias.
+
 ### [Sacerdocio y Salud Mental](/InnerSight/es/sacerdocio_salud_mental_apropiado)  
 Exploración de la armonía entre las necesidades de salud mental individuales y los principios doctrinales del sacerdocio. Análisis de precedentes bíblicos y revelación moderna sobre inclusión y adaptación.
 

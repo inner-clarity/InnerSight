@@ -29,7 +29,10 @@ This work arises from the identified need for greater understanding and institut
 ### [Psychological Foundations](/InnerSight/en/analisis_psicologico_apropiado_v2)
 Professional analysis of psychological mechanisms of emotional regulation, differentiating between pathology and adaptive coping strategies. Includes perspectives from neuroscience, trauma-informed care, and cognitive-behavioral therapy.
 
-### [Priesthood and Mental Health](/InnerSigh/en/sacerdocio_salud_mental_apropiado)  
+### [Legitimate neurological adaptations vs. whims or arbitrary choices](/InnerSight/en/scientific_foundation_validation)
+Detailed analysis on how to distinguish between necessary neurological adaptations and arbitrary behaviors, based on scientific evidence and established clinical criteria. Includes case studies and guidelines for leaders and families.
+
+### [Priesthood and Mental Health](/InnerSight/en/sacerdocio_salud_mental_apropiado)  
 Exploration of harmony between individual mental health needs and doctrinal principles of the priesthood. Analysis of biblical precedents and modern revelation on inclusion and adaptation.
 
 ### [Proposed Institutional Statement](/InnerSight/en/mental_health_statement_english)
