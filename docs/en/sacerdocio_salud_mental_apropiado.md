@@ -51,7 +51,13 @@ The doctrine of the atonement explicitly includes healing of "sicknesses" and "i
 - Psychological trauma and its lasting effects
 - Emotional regulation needs developed as adaptive response
 - Neurological conditions like Tourette Syndrome that require specific self-regulation mechanisms
-- Healing processes that may require unconventional methods
+- Healing processes that may require unconventional methods such as the use of:
+  - Specific clothing items
+  - Medical or therapeutic devices
+  - Bandages or support products
+  - Diapers or other personal care accessories
+
+  Any other elements not mentioned here necessary for emotional or neurological regulation
 - Inherent neurological differences that need adaptation and understanding
 
 ### Savior's Precedent
@@ -112,9 +118,10 @@ Families can support members with mental health needs through:
 
 1. **Education about trauma, neuroplasticity and neurological conditions**
 2. **Separation between moral and medical/neurological considerations**
-3. **Focus on mutual spiritual growth**
-4. **Seeking professional understanding when necessary**
-5. **Understanding that conditions like Tourette Syndrome require acceptance, not correction**
+3. **Individual adaptation and adaptation of other family members according to their age**
+4. **Focus on mutual spiritual growth**
+5. **Seeking professional understanding when necessary**
+6. **Understanding that conditions like Tourette Syndrome require acceptance, not correction**
 
 ### Strengthening Relationships
 
@@ -148,3 +155,5 @@ The implementation of these principles strengthens both individuals and the comm
 - **Isaiah 53:4** - Christ bore our sicknesses
 - **Alma 7:11-12** - The atonement includes infirmities and sicknesses
 - **"The Family: A Proclamation to the World"** - Principle of individual adaptation
+- **President Gordon B. Hinckley taught: "Our conduct in public should be above reproach; our conduct in private is even more important; it must measure up to the standard established by the Lord"** cited in Liahona, July 2002
+- **Elder Adrián Ochoa, Liahona, October 2013, "Physical and Emotional Health"** "Taking care of your body also blesses your mind and helps you remember that you are a son or daughter of God, to have confidence in yourself and feel happy. Our emotional, physical and spiritual nature are connected"

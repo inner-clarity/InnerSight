@@ -33,11 +33,11 @@ Estos elementos y comportamientos, cuando son parte de una condición neurológi
 
 **Necesidad neuronal y no un capricho**  
 
-Es esencial comprender que muchas de las conductas o necesidades asociadas con la regulación emocional poco común no son elecciones voluntarias, preferencias caprichosas ni actos de rebeldía, sino respuestas neurológicas profundamente arraigadas que surgen de la estructura y funcionamiento del sistema nervioso. La ciencia contemporánea ha demostrado que estas estrategias regulatorias —como los tics en el Síndrome de Tourette, el “stimming” en el autismo o ciertos rituales de autorregulación tras experiencias traumáticas— son mecanismos adaptativos legítimos, consolidados a través del desarrollo neurológico o como respuesta a circunstancias adversas. Intentar suprimirlas sin comprensión puede generar angustia fisiológica real, ansiedad intensa o incluso colapso funcional. Por tanto, no deben ser vistas como comportamientos que “deberían superarse” con esfuerzo de voluntad, sino como necesidades válidas que merecen respeto, acomodación y apoyo. Al reconocer su fundamento neurológico, honramos tanto la ciencia como la doctrina, y cumplimos con el mandato de ministrar con conocimiento y amor verdadero.
+Es esencial comprender que muchas de las conductas o necesidades asociadas con la $regulación emocional poco común no son elecciones voluntarias, preferencias caprichosas ni actos de rebeldía, sino respuestas neurológicas profundamente arraigadas que surgen de la estructura y funcionamiento del sistema nervioso. La ciencia contemporánea ha demostrado que estas estrategias regulatorias —como los tics en el Síndrome de Tourette, el “stimming” en el autismo o ciertos rituales de autorregulación tras experiencias traumáticas— son mecanismos adaptativos legítimos, consolidados a través del desarrollo neurológico o como respuesta a circunstancias adversas. Intentar suprimirlas sin comprensión puede generar angustia fisiológica real, ansiedad intensa o incluso colapso funcional. Por tanto, no deben ser vistas como comportamientos que “deberían superarse” con esfuerzo de voluntad, sino como **necesidades válidas que merecen respeto, acomodación y apoyo**. Al reconocer su fundamento neurológico, honramos tanto la ciencia como la doctrina, y cumplimos con el mandato de ministrar con conocimiento y amor verdadero.
 
 **No Juzgar**
 
-Instamos a todos los miembros, líderes y familias a abstenerse de emitir juicios sobre situaciones de salud mental y neurológica que puedan parecer poco comunes o difíciles de entender, incluyendo condiciones como Síndrome de Tourette, movimientos involuntarios, o necesidades específicas de regulación. Recordemos que "el hombre mira lo que está delante de sus ojos, pero Jehová mira el corazón" (1 Samuel 16:7).
+Instamos a todos los miembros, líderes y familias a **abstenerse de emitir juicios** sobre situaciones de salud mental y neurológica que puedan parecer poco comunes o difíciles de entender, incluyendo condiciones como Síndrome de Tourette, movimientos involuntarios, o necesidades específicas de regulación. Recordemos que "el hombre mira lo que está delante de sus ojos, pero Jehová mira el corazón" (1 Samuel 16:7).
 
 **No Excluir**
 
@@ -53,10 +53,9 @@ Es fundamental que evitemos cualquier forma de burla, menosprecio o lenguaje que
 
 ### Nuestro Compromiso Cristiano
 
-
 **Proceso de entendimiento y auto descubrimiento**
   
-Hay personas que han buscado entender toda su vida, por que tienen determinado comportamientos o procedimientos psicológicos de regulación emocional poco comununes o dificil de explicar, muchos lo comprenden desde su juventud, otras a mayor edad. Y hay de las que no logran saber porque les pasa esto, pero todos pasan por un doloso camino de incomprensión, intolerancia, marginación, siendo juzgados por algo que ni ellas comprenden completamente. Lograr entenderlo y "sobrellevarlo bien", es lo que buscan, y sentir el amor de Dios y la compasion y empatía de que no hay intencionalidad en su proceder.  
+Hay personas que han buscado entender toda su vida, por que tienen determinado comportamientos o realizan procedimientos psicológicos de regulación emocional poco comununes o dificil de explicar, muchos lo comprenden desde su juventud, otras a mayor edad. Y hay de las que no logran saber porque les pasa esto, pero todos pasan por un doloso camino de incomprensión, intolerancia, marginación, siendo juzgados por algo que ni ellas comprenden completamente. Lograr entenderlo y "sobrellevarlo bien", es lo que buscan, y sentir el amor de Dios y la compasion y empatía de que no hay intencionalidad en su proceder.  
 
 **Extender Amor Incondicional**
 
@@ -69,7 +68,7 @@ Como comunidad de santos, nos comprometemos a:
 - Fortalecer los lazos de hermandad y amor
 - Realizar adaptaciones necesarias según las circunstancias individuales
 - Crear espacios seguros donde todos puedan sanar y crecer
-- Fomentar la comprensión, la inclusion a los pequeños y a la generación creciente
+- Fomentar la comprensión, la inclusion y enseñar estos valores a los pequeños y a la generación creciente
 - Buscar aquellos que pudieron haberse visto afectados por no entenderse estas cosas antes.
 - Aceptar que condiciones como Síndrome de Tourette requieren comprensión, no corrección
 

@@ -51,12 +51,18 @@ La doctrina de la expiación incluye explícitamente la sanación de "enfermedad
 - Trauma psicológico y sus efectos duraderos
 - Necesidades de regulación emocional desarrolladas como respuesta adaptativa
 - Condiciones neurológicas como Síndrome de Tourette que requieren mecanismos específicos de autorregulación
-- Procesos de sanación que pueden requerir métodos no convencionales
+- Procesos de sanación que pueden requerir métodos no convencionales como el uso de 
+  - Elementos de vestimenta específicos
+  - Dispositivos médicos o terapéuticos
+  - Vendajes o productos de apoyo
+  - Pañales u otros accesorios de cuidado personal
+
+  Cualquier otro elemento no mencionado aqui necesario para la regulación emocional o neurológica
 - Diferencias neurológicas inherentes que necesitan adaptación y comprensión
 
 ### Precedente del Salvador
 
-Los relatos escriturales demuestran que Cristo sanó consistentemente sin juzgar las circunstancias que llevaron a la condición de la persona. Su enfoque era la sanación e inclusión, no el juicio de las adaptaciones necesarias para el bienestar.
+Los relatos de las escritura demuestran que Cristo sanó consistentemente sin juzgar las circunstancias que llevaron a la condición de la persona. Su enfoque era la sanación e inclusión, no el juicio de las adaptaciones necesarias para el bienestar.
 
 ## Aplicación Práctica en Liderazgo
 
@@ -149,3 +155,5 @@ La implementación de estos principios fortalece tanto a individuos como a la co
 - **Isaías 53:4** - Cristo llevó nuestras enfermedades
 - **Alma 7:11-12** - La expiación incluye dolencias y enfermedades
 - **"La Familia: Una Proclamación al Mundo"** - Principio de adaptación individual
+- **Presidente Gordon B. Hinckley enseñó: "Nuestra conducta en público debe ser intachable; nuestra conducta en privado es aún más importante; debe aprobar la norma establecida por el Señor"** citado en Liahona, julio 2002"
+- **Élder Adrián Ochoa, Liahona, octubre 2013,"La salud física y emocional"**  "El cuidar de tu cuerpo también bendice tu mente y te ayuda a recordar que eres hijo o hija de Dios, a tener confianza en ti mismo y sentirte feliz. Nuestra naturaleza emocional, física y espiritual están conectadas"

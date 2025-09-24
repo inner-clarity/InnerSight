@@ -53,6 +53,10 @@ It is fundamental that we avoid any form of mockery, contempt, or language that 
 
 ### Our Christian Commitment
 
+**Process of understanding and self-discovery**
+
+There are people who have sought to understand their entire lives why they have certain behaviors or perform of uncommon psychological emotional regulation procedures that are difficult to explain. Many understand this from their youth, others at an older age. And there are those who never manage to know why this happens to them, but all go through a painful path of misunderstanding, intolerance, marginalization, being judged for something they don't even fully understand. Achieving understanding and "endure it well" is what they seek, and feeling God's love and the compassion and empathy that there is no intentionality in their conduct.
+
 **Extending Unconditional Love**
 
 In consonance with The Family: A Proclamation to the World, we recognize that circumstances requiring uncommon psychological emotional regulation procedures or neurological conditions such as Tourette Syndrome need individual adaptation, and that other family members, as well as the community of saints, should provide support when needed.
@@ -64,7 +68,7 @@ As a community of saints, we commit to:
 - Strengthen bonds of brotherhood and love
 - Make necessary adaptations according to individual circumstances
 - Create safe spaces where all can heal and grow
-- Foster understanding, inclusion for children and the rising generation
+- Foster understanding, inclusion and teach these values to children and the rising generation
 - Seek those who may have been affected by not knowing these things
 - Accept that conditions like Tourette Syndrome require understanding, not correction
 

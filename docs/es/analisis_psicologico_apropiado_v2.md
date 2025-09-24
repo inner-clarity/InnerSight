@@ -70,7 +70,14 @@ La comprensión de que existen múltiples caminos hacia la regulación emocional
    - Estrategias adaptativas para manejo de estrés y ansiedad
    - Respuestas sensoriales y motoras atípicas
 
-2. **Evitar Juicio Precipitado:** Comprender que comportamientos poco familiares (como tics, movimientos repetitivos, necesidades sensoriales específicas, el uso de elementos externos que como si fuera vestimenta) pueden representar estrategias legítimas de regulación neurológica
+2. **Evitar Juicio Precipitado:** Comprender que comportamientos poco familiares (como tics, movimientos repetitivos, necesidades sensoriales específicas), el uso de elementos externos que como si fuera vestimenta:
+   - Elementos de vestimenta específicos
+   - Dispositivos médicos o terapéuticos
+   - Vendajes o productos de apoyo
+   - Pañales (como ropa interior no visible) u otros accesorios de cuidado personal
+   - Cualquier otro elemento necesario para la regulación emocional o neurológica
+ 
+ Todas estas y algunas otras no mencionandas pueden representar estrategias legítimas de regulación neurológica
 
 3. **Apoyo Compasivo:** Ofrecer espacios seguros para que individuos puedan participar sin temor al rechazo o malentendido de sus necesidades neurológicas
 

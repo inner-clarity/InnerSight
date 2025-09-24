@@ -70,7 +70,14 @@ Understanding that there are multiple paths toward emotional and neurological re
    - Adaptive strategies for managing stress and anxiety
    - Atypical sensory and motor responses
 
-2. **Avoiding Precipitous Judgment:** Understanding that unfamiliar behaviors (like tics, repetitive movements, specific sensory needs, the use of external elements as if they were clothing) may represent legitimate neurological regulation strategies
+2. **Avoiding Precipitous Judgment:** Understanding that unfamiliar behaviors (like tics, repetitive movements, specific sensory needs), the use of external elements as if they were clothing:
+   - Specific clothing items
+   - Medical or therapeutic devices
+   - Bandages or support products
+   - Diapers (as non-visible underwear) or other personal care accessories
+   - Any other elements necessary for emotional or neurological regulation
+ 
+ All of these and some others not mentioned may represent legitimate neurological regulation strategies
 
 3. **Compassionate Support:** Offering safe spaces where individuals can participate without fear of rejection or misunderstanding of their neurological needs
 

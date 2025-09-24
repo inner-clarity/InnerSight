@@ -29,6 +29,9 @@ Fundamentos doctrinales que apoyan esta conclusión:
 **Referencias Liahona:**
 - Presidente Gordon B. Hinckley enseñó: "Nuestra conducta en público debe ser intachable; nuestra conducta en privado es aún más importante; debe aprobar la norma establecida por el Señor" (<SideWebPageDrawerText pageUrl="https://www.churchofjesuschrist.org/study/liahona/2002/07/personal-worthiness-to-exercise-the-priesthood?lang=spa" triggerText="citado en Liahona, julio 2002" :external="true" />)
 
+Presidente Gordon B. Hinckley enseñó: "Nuestra conducta en público debe ser intachable; nuestra conducta en privado es aún más importante; debe aprobar la norma establecida por el Señor" citado en Liahona, julio 2002"
+
+
 **B) Principio de Necesidades Médicas/Psicológicas:** La Iglesia reconoce diferencias entre:
 
 -   Elecciones morales deliberadas
@@ -37,6 +40,9 @@ Fundamentos doctrinales que apoyan esta conclusión:
 
 **Referencias Liahona:**
 - "El cuidar de tu cuerpo también bendice tu mente y te ayuda a recordar que eres hijo o hija de Dios, a tener confianza en ti mismo y sentirte feliz. Nuestra naturaleza emocional, física y espiritual están conectadas" (Élder Adrián Ochoa, Liahona, octubre 2013, <SideWebPageDrawerText pageUrl="https://www.churchofjesuschrist.org/study/liahona/2013/10/physical-and-emotional-health?lang=spa" triggerText="La salud física y emocional" :external="true" />)
+
+"El cuidar de tu cuerpo también bendice tu mente y te ayuda a recordar que eres hijo o hija de Dios, a tener confianza en ti mismo y sentirte feliz. Nuestra naturaleza emocional, física y espiritual están conectadas" (Élder Adrián Ochoa, Liahona, octubre 2013,"La salud física y emocional")
+
 
 **C) Doctrina de la Expiación y Sanación:**
 
