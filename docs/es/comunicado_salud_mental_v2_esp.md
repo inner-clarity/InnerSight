@@ -33,7 +33,7 @@ Estos elementos y comportamientos, cuando son parte de una condición neurológi
 
 **Necesidad neuronal y no un capricho**  
 
-Es esencial comprender que muchas de las conductas o necesidades asociadas con la $regulación emocional poco común no son elecciones voluntarias, preferencias caprichosas ni actos de rebeldía, sino respuestas neurológicas profundamente arraigadas que surgen de la estructura y funcionamiento del sistema nervioso. La ciencia contemporánea ha demostrado que estas estrategias regulatorias —como los tics en el Síndrome de Tourette, el “stimming” en el autismo o ciertos rituales de autorregulación tras experiencias traumáticas— son mecanismos adaptativos legítimos, consolidados a través del desarrollo neurológico o como respuesta a circunstancias adversas. Intentar suprimirlas sin comprensión puede generar angustia fisiológica real, ansiedad intensa o incluso colapso funcional. Por tanto, no deben ser vistas como comportamientos que “deberían superarse” con esfuerzo de voluntad, sino como **necesidades válidas que merecen respeto, acomodación y apoyo**. Al reconocer su fundamento neurológico, honramos tanto la ciencia como la doctrina, y cumplimos con el mandato de ministrar con conocimiento y amor verdadero.
+Es importante entender que muchas conductas o necesidades de regulación emocional poco común no son elecciones voluntarias ni caprichos, sino respuestas neurológicas legítimas. Estrategias como los tics en el Síndrome de Tourette, o ciertos rituales de autorregulación tras experiencias traumáticas, o el “stimming” en el autismo son mecanismos adaptativos necesarios. Suprimirlas sin comprensión puede causar angustia real. Por eso, deben ser vistas como **necesidades válidas que merecen respeto y apoyo**.
 
 **No Juzgar**
 
@@ -89,6 +89,8 @@ Los líderes locales del sacerdocio y de las organizaciones auxiliares deben:
 9. Proporcionar recursos de apoyo y capacitación continuos sobre neurodiversidad
 10. Entender que condiciones como Síndrome de Tourette requieren aceptación, no corrección.
 11. Identificar situaciones de intolerancias, por no entender el contexto, requiere orientación y compasión a los afectados 
+12. Reconocer que si han afectado de alguna manera a los que tienen estas necesidades neurológicas deberían pedir disculpas por lo sucedido y por la falta de comprensión y demostrar  mayor amor y compasión.
+
 
 ### Mensaje de Esperanza
 

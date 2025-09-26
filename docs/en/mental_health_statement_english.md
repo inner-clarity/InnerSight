@@ -33,7 +33,7 @@ These items and behaviors, when part of an inherent neurological condition or a 
 
 **Neurological need and not a whim**
 
-It is essential to understand that many of the behaviors or needs associated with uncommon emotional regulation are not voluntary choices, whimsical preferences, or acts of rebellion, but deeply rooted neurological responses that arise from the structure and functioning of the nervous system. Contemporary science has demonstrated that these regulatory strategies—such as tics in Tourette Syndrome, "stimming" in autism, or certain self-regulation rituals following traumatic experiences—are legitimate adaptive mechanisms, consolidated through neurological development or as a response to adverse circumstances. Attempting to suppress them without understanding can generate real physiological distress, intense anxiety, or even functional collapse. Therefore, they should not be seen as behaviors that "should be overcome" with willpower, but as valid needs that deserve respect, accommodation, and support. By recognizing their neurological foundation, we honor both science and doctrine, and fulfill the mandate to minister with knowledge and true love.
+It is important to understand that many behaviors or needs for uncommon emotional regulation are not voluntary choices or whims, but legitimate neurological responses. Strategies such as tics in Tourette Syndrome, or certain self-regulation rituals following traumatic experiences, or "stimming" in autism are necessary adaptive mechanisms. Suppressing them without understanding can cause real distress. Therefore, they should be seen as **valid needs that deserve respect and support**.
 
 **Do Not Judge**
 
@@ -87,6 +87,7 @@ Local priesthood and auxiliary organization leaders should:
 9. Provide ongoing support resources and training on neurodiversity
 10. Understand that conditions like Tourette Syndrome require acceptance, not correction
 11. Identify situations of intolerance, due to not understanding the context, requires guidance and compassion for those affected
+12. Recognize that if they have affected in any way those who have these neurological needs, they should apologize for what happened and for the lack of understanding and demonstrate greater love and compassion
 
 ### Message of Hope
 

@@ -32,11 +32,20 @@ Professional analysis of psychological mechanisms of emotional regulation, diffe
 ### [Legitimate neurological adaptations vs. whims or arbitrary choices](/InnerSight/en/scientific_foundation_validation)
 Detailed analysis on how to distinguish between necessary neurological adaptations and arbitrary behaviors, based on scientific evidence and established clinical criteria. Includes case studies and guidelines for leaders and families.
 
-### [Priesthood and Mental Health](/InnerSight/en/sacerdocio_salud_mental_apropiado)  
+### [Effects of Coercive Restrictions](/InnerSight/en/effects_of_coercive_restrictions)
+Scientific analysis of the consequences of coercively restricting unconventional emotional regulation procedures, including physiological, psychological, and spiritual impacts. Based on contemporary neuroscience and trauma research.
+
+### [Emotional Blackmail](/InnerSight/en/emotional_blackmail)
+Analysis of emotional manipulation dynamics that can arise when unconventional emotional regulation procedures are invalidated or restricted, including their effects on mental health and interpersonal relationships.
+
+### [Not a Sexual Preference](/InnerSight/en/not_sexual_preference)
+Scientific analysis demonstrating that unconventional emotional regulation procedures do not constitute sexual preferences, based on contemporary neuroscience and clinical evidence. Addresses common misconceptions and their harmful effects.
+
+### [Priesthood and Mental Health](/InnerSight/en/sacerdocio_salud_mental_apropiado_v3)  
 Exploration of harmony between individual mental health needs and doctrinal principles of the priesthood. Analysis of biblical precedents and modern revelation on inclusion and adaptation.
 
-### [Proposed Institutional Statement](/InnerSight/en/mental_health_statement_english)
-Model of formal statement for institutional consideration, designed to promote greater inclusion and understanding toward members with uncommon emotional regulation needs.
+### [Proposed Institutional Statement v3](/InnerSight/en/mental_health_statement_v3_english)
+Updated model of formal statement for institutional consideration, designed to promote greater inclusion and understanding toward members with uncommon emotional regulation needs. Includes new section on preventing emotional coercion and blackmail.
 
 ---
 

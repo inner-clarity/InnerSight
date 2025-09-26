@@ -32,11 +32,21 @@ Análisis profesional sobre los mecanismos psicológicos de regulación emociona
 ### [Adaptaciones neurológicas legítimas vs caprichos o elecciones arbitrarias](/InnerSight/es/fundamento_cientifico_validacion)
 Análisis detallado sobre cómo distinguir entre adaptaciones neurológicas necesarias y comportamientos arbitrarios, basado en evidencia científica y criterios clínicos establecidos. Incluye estudios de casos y pautas para líderes y familias.
 
-### [Sacerdocio y Salud Mental](/InnerSight/es/sacerdocio_salud_mental_apropiado)  
+
+### [Efectos de las Restricciones Coercitivas](/InnerSight/es/efectos_de_restricciones_coercitiva)
+Análisis científico de las consecuencias de restringir coercitivamente procedimientos de regulación emocional no convencionales, incluyendo impactos fisiológicos, psicológicos y espirituales. Basado en neurociencia contemporánea e investigación en trauma.
+
+### [Chantaje Emocional](/InnerSight/es/chantaje_emocional)
+Análisis de las dinámicas de manipulación emocional que pueden surgir cuando se invalidan o restringen procedimientos de regulación emocional no convencionales, incluyendo sus efectos en la salud mental y las relaciones interpersonales.
+
+### [No es Preferencia Sexual](/InnerSight/es/no_es_preferencia_sexual)
+Análisis científico que demuestra que los procedimientos de regulación emocional no convencionales no constituyen preferencias sexuales, basado en neurociencia contemporánea y evidencia clínica. Aborda malentendidos comunes y sus efectos dañinos.
+
+### [Sacerdocio y Salud Mental](/InnerSight/es/sacerdocio_salud_mental_apropiado_v3)  
 Exploración de la armonía entre las necesidades de salud mental individuales y los principios doctrinales del sacerdocio. Análisis de precedentes bíblicos y revelación moderna sobre inclusión y adaptación.
 
-### [Propuesta de Declaración Institucional](/InnerSight/es/comunicado_salud_mental_v2_esp)
-Modelo de comunicado formal para consideración institucional, diseñado para promover mayor inclusión y comprensión hacia miembros con necesidades de regulación emocional poco comunes.
+### [Propuesta de Declaración Institucional](/InnerSight/es/comunicado_salud_mental_v3_esp)
+Modelo actualizado de comunicado formal para consideración institucional, diseñado para promover mayor inclusión y comprensión hacia miembros con necesidades de regulación emocional poco comunes. Incluye nueva sección sobre prevención de coerción emocional y chantaje.
 
 ---
 
