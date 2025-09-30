@@ -9,59 +9,66 @@ footer: Made with ❤️ for personal growth
 
 <!--<ContenidoActualEn />-->
 
-# InnerSight
-## Professional Perspectives on Emotional Regulation and Religious Practice
+# InnerSight  
+## Informed Support for the Inclusion of All God's Children  
+
+An educational resource to better understand mental health and neurological needs in the context of the Gospel
 
 ---
 
 ### Purpose
 
-InnerSight is a research initiative dedicated to examining the intersection between mental health, uncommon psychological procedures for emotional regulation, and religious practice within The Church of Jesus Christ of Latter-day Saints.
+InnerSight is an educational resource that seeks to support leaders, families, and members of The Church of Jesus Christ of Latter-day Saints in better understanding how neurological differences and trauma responses may require legitimate forms of emotional regulation. This work is based on clinical evidence, Gospel principles, and the shared desire to minister with Christ-like love.
 
-### Professional Foundation
+### Foundation
 
-This work arises from the identified need for greater understanding and institutional support for members who use unconventional methods of emotional regulation as part of their healing and mental well-being process. The research is based on established principles of clinical psychology, cognitive-behavioral therapy, and revealed doctrine.
+This resource responds to common questions from leaders and families about how to support faithful members whose mental health or neurological needs require specific adaptations. It is based on recognized clinical standards (such as the DSM-5), neuroscience research, and principles of the restored Gospel.
 
 ---
 
 ## Main Content
 
 ### [Psychological Foundations](/InnerSight/en/analisis_psicologico_apropiado_v2.html)
-Professional analysis on the psychological mechanisms of emotional regulation, differentiating between pathology and adaptive coping strategies. Includes perspectives from neuroscience, trauma-informed care, and cognitive-behavioral therapy.
+This section presents a clinical perspective on how people regulate their emotions, especially when they have experienced trauma or have neurological differences. It explains when certain responses are necessary adaptive strategies—not disorders—according to current medical criteria, including neuroscience and international diagnostic guidelines.
 
-### [Legitimate neurological adaptations vs. whims or arbitrary choices](/InnerSight/en/scientific_foundation_validation.html)
-Detailed analysis on how to distinguish between necessary neurological adaptations and arbitrary behaviors, based on scientific evidence and established clinical criteria. Includes case studies and guidelines for leaders and families.
+### [Clinical Understanding of Emotional Regulation Needs](/InnerSight/en/scientific_foundation_validation.html)
+Evidence-based guide to recognize when certain behaviors reflect neurological needs or trauma responses, rather than personal preferences. Includes clinical criteria, illustrative examples, and guidance for leaders and families who wish to minister with understanding.
 
-### [Effects of Coercive Restrictions](/InnerSight/en/effects_of_coercive_restrictions.html)
-Scientific analysis of the consequences of coercively restricting unconventional emotional regulation procedures, including physiological, psychological, and spiritual impacts. Based on contemporary neuroscience and trauma research.
+### [Impact of Demanding Abandonment of Necessary Regulatory Strategies](/InnerSight/en/effects_of_coercive_restrictions.html)
+This section explains, based on neuroscience and clinical studies, how asking someone to stop using an essential emotional regulation strategy—even with good intentions—can cause additional distress, functional deterioration, and spiritual distancing.
 
-### [Emotional Blackmail](/InnerSight/en/emotional_blackmail.html)
-Analysis of emotional manipulation dynamics that can arise when unconventional emotional regulation procedures are invalidated or restricted, including their effects on mental health and interpersonal relationships.
+### [When Love is Conditioned on Conformity](/InnerSight/en/emotional_blackmail.html)
+Some members report feeling that their belonging or spiritual worth depends on abandoning certain emotional regulation needs. This section analyzes how these dynamics—though unintended—can affect faith, self-esteem, and relationships, and offers principles for ministering without imposing conditions.
 
-### [Not a Sexual Preference](/InnerSight/en/not_sexual_preference.html)
-Scientific analysis demonstrating that unconventional emotional regulation procedures do not constitute sexual preferences, based on contemporary neuroscience and clinical evidence. Addresses common misconceptions and their harmful effects.
+### [Clarification on the Nature of Emotional Regulation Needs](/InnerSight/en/not_sexual_preference.html)
+Some people confuse certain emotional regulation strategies with matters of identity or sexual preference. This section offers a clear clinical explanation, based on neuroscience, about why these needs are related to mental and neurological health, not sexual orientation.
 
-### [Priesthood and Mental Health](/InnerSight/en/sacerdocio_salud_mental_apropiado_v3.html)  
-Exploration of the harmony between individual mental health needs and the doctrinal principles of the priesthood. Analysis of biblical precedents and modern revelation on inclusion and adaptation.
+### [Spiritual Dignity and Mental Health](/InnerSight/en/sacerdocio_salud_mental_apropiado_v3.html)  
+This section examines how Gospel teachings—including the Scriptures, The Family Proclamation, and modern revelation—affirm that a member's dignity before God does not depend on their mental health or neurological condition, but on their faith, repentance, and desire to follow Christ.
 
-### [Proposed Institutional Statement](/InnerSight/en/mental_health_statement_v3_english.html)
-Updated model of formal statement for institutional consideration, designed to promote greater inclusion and understanding toward members with uncommon emotional regulation needs. Includes new section on preventing emotional coercion and blackmail.
+### [Model Statement for Institutional Support](/InnerSight/en/mental_health_statement_v3_english.html)
+This document proposes a statement that could be issued from general leadership to guide local leaders in supporting members with mental health or neurological needs. It is written in harmony with the styles and principles of First Presidency messages.
+
+### [Institutional Proposal](/InnerSight/en/proposal_v1.html)
+Comprehensive proposal submitted to The First Presidency for institutional inclusion in mental health and neurological conditions. Includes scientific foundation, doctrinal harmony, and proposed institutional statement with clear guidance for leaders and communities.
 
 ---
 
 ## Objective
 
-Facilitate informed dialogue between professional clinical perspectives and ecclesiastical leadership to:
+Support leaders, families, and members by:
 
-- **Reduce stigma** associated with unconventional methods of emotional regulation
-- **Promote inclusion** of all members, regardless of their mental health needs
-- **Establish clear guidelines** that harmonize individual well-being with community practice
-- **Strengthen the community** through greater understanding and mutual support
+- Better understanding mental health and neurological needs
+- Ministering with greater compassion and knowledge
+- Applying Gospel principles with sensitivity to individual circumstances
+- Strengthening the community through greater understanding and mutual support
 
 ---
 
 *"Charity is the pure love of Christ, and it endureth forever; and whoso is found possessed of it at the last day, it shall be well with him." - Moroni 7:47*
 
 ::: tip Welcome!
+Note: InnerSight is an independent educational resource, created by faithful members to support leaders, families, and professionals. It is not affiliated with or officially endorsed by The Church of Jesus Christ of Latter-day Saints.
+
 Every inner journey begins with a first step. Yours starts here.
 :::

@@ -4,12 +4,11 @@ InnerSight es una iniciativa de investigación dedicada a examinar la intersecci
 
 ## Nuestra Misión
 
-Facilitar un diálogo informado entre perspectivas clínicas profesionales y liderazgo eclesiástico para:
-
-- **Reducir estigma** asociado con métodos no convencionales de regulación emocional
-- **Promover inclusión** de todos los miembros, independientemente de sus necesidades de salud mental
-- **Establecer directrices claras** que armonicen bienestar individual con práctica comunitaria
-- **Fortalecer la comunidad** a través de mayor comprensión y apoyo mutuo
+Facilitar un diálogo informado entre perspectivas clínicas y liderazgo eclesiástico para:  
+- Reducir el estigma hacia miembros con necesidades de regulación emocional inusuales  
+- Promover la inclusión plena de todos los hijos de Dios  
+- Ofrecer orientación clara que equilibre bienestar individual y armonía comunitaria  
+- Fortalecer la Iglesia como refugio de amor semejante a Cristo 
 
 ## Fundamento Profesional
 

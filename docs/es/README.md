@@ -9,60 +9,69 @@ footer: Hecho con ❤️ para el crecimiento personal
 
 <!--<ContenidoActual />-->
 
-# InnerSight
-## Perspectivas Profesionales sobre Regulación Emocional y Práctica Religiosa
+# InnerSight  
+## Apoyo informado para la inclusión de todos los hijos de Dios  
+
+Un recurso para comprender con mayor claridad las necesidades de salud mental y neurológicas en el contexto del Evangelio
 
 ---
 
 ### Propósito
 
-InnerSight es una iniciativa de investigación dedicada a examinar la intersección entre la salud mental, los procedimientos psicológicos de regulación emocional poco comunes, y la práctica religiosa dentro de La Iglesia de Jesucristo de los Santos de los Últimos Días.
+InnerSight es un recurso educativo que busca apoyar a líderes, familias y miembros de La Iglesia de Jesucristo de los Santos de los Últimos Días al comprender mejor cómo las diferencias neurológicas y las respuestas al trauma pueden requerir formas legítimas de regulación emocional. Este trabajo se basa en evidencia clínica, principios del Evangelio y el deseo común de ministrar con amor semejante al de Cristo. 
 
-### Fundamento Profesional
+### Fundamento
 
-Este trabajo surge de la necesidad identificada de mayor comprensión y apoyo institucional para miembros que utilizan métodos no convencionales de regulación emocional como parte de su proceso de sanación y bienestar mental. La investigación se basa en principios establecidos de psicología clínica, terapia cognitivo-conductual, y doctrina revelada.
+Este recurso responde a preguntas frecuentes de líderes y familias sobre cómo apoyar a miembros fieles cuyas necesidades de salud mental o neurológicas requieren adaptaciones específicas. Se basa en estándares clínicos reconocidos (como el DSM-5), investigaciones en neurociencia y principios del Evangelio restaurado.
 
 ---
 
 ## Contenido Principal
 
 ### [Fundamentos Psicológicos](/InnerSight/es/analisis_psicologico_apropiado_v2)
-Análisis profesional sobre los mecanismos psicológicos de regulación emocional, diferenciando entre patología y estrategias adaptativas de afrontamiento. Incluye perspectivas desde la neurociencia, trauma informado, y terapia cognitivo-conductual.
+Este apartado presenta una visión clínica sobre cómo las personas regulan sus emociones, especialmente cuando han experimentado trauma o tienen diferencias neurológicas. Se explica cuándo ciertas respuestas son estrategias adaptativas necesarias —no trastornos— según criterios médicos actuales, incluyendo neurociencia y guías diagnósticas internacionales. 
 
-### [Adaptaciones neurológicas legítimas vs caprichos o elecciones arbitrarias](/InnerSight/es/fundamento_cientifico_validacion)
-Análisis detallado sobre cómo distinguir entre adaptaciones neurológicas necesarias y comportamientos arbitrarios, basado en evidencia científica y criterios clínicos establecidos. Incluye estudios de casos y pautas para líderes y familias.
+### [Comprensión clínica de las necesidades de regulación emocional](/InnerSight/es/fundamento_cientifico_validacion)
+Guía basada en evidencia para reconocer cuándo ciertas conductas reflejan necesidades neurológicas o respuestas al trauma, en lugar de preferencias personales. Incluye criterios clínicos, ejemplos ilustrativos y orientación para líderes y familias que desean ministrar con comprensión.
 
 
-### [Efectos de las Restricciones Coercitivas](/InnerSight/es/efectos_de_restricciones_coercitiva)
-Análisis científico de las consecuencias de restringir coercitivamente procedimientos de regulación emocional no convencionales, incluyendo impactos fisiológicos, psicológicos y espirituales. Basado en neurociencia contemporánea e investigación en trauma.
+### [Impacto de exigir el abandono de estrategias regulatorias necesarias](/InnerSight/es/efectos_de_restricciones_coercitiva)
+Este apartado explica, con base en neurociencia y estudios clínicos, cómo pedir a alguien que deje de usar una estrategia de regulación emocional esencial —aunque sea con buenas intenciones— puede causar angustia adicional, deterioro funcional y distanciamiento espiritual. 
 
-### [Chantaje Emocional](/InnerSight/es/chantaje_emocional)
-Análisis de las dinámicas de manipulación emocional que pueden surgir cuando se invalidan o restringen procedimientos de regulación emocional no convencionales, incluyendo sus efectos en la salud mental y las relaciones interpersonales.
 
-### [No es Preferencia Sexual](/InnerSight/es/no_es_preferencia_sexual)
-Análisis científico que demuestra que los procedimientos de regulación emocional no convencionales no constituyen preferencias sexuales, basado en neurociencia contemporánea y evidencia clínica. Aborda malentendidos comunes y sus efectos dañinos.
+### [Cuando el amor se condiciona a la conformidad](/InnerSight/es/chantaje_emocional)
+Algunos miembros reportan sentir que su pertenencia o valor espiritual depende de dejar ciertas necesidades de regulación emocional. Este apartado analiza cómo esas dinámicas —aunque no intencionadas— pueden afectar la fe, la autoestima y las relaciones, y ofrece principios para ministrar sin imponer condiciones.
 
-### [Sacerdocio y Salud Mental](/InnerSight/es/sacerdocio_salud_mental_apropiado_v3)  
-Exploración de la armonía entre las necesidades de salud mental individuales y los principios doctrinales del sacerdocio. Análisis de precedentes bíblicos y revelación moderna sobre inclusión y adaptación.
+### [Clarificación sobre la naturaleza de las necesidades de regulación emocional](/InnerSight/es/no_es_preferencia_sexual)
+Algunas personas confunden ciertas estrategias de regulación emocional con asuntos de identidad o preferencia sexual. Este apartado ofrece una explicación clínica clara, basada en neurociencia, sobre por qué estas necesidades están relacionadas con la salud mental y neurológica, no con la orientación sexual. 
 
-### [Propuesta de Declaración Institucional](/InnerSight/es/comunicado_salud_mental_v3_esp)
-Modelo actualizado de comunicado formal para consideración institucional, diseñado para promover mayor inclusión y comprensión hacia miembros con necesidades de regulación emocional poco comunes. Incluye nueva sección sobre prevención de coerción emocional y chantaje.
+### [Dignidad espiritual y salud mental](/InnerSight/es/sacerdocio_salud_mental_apropiado_v3)  
+Este apartado examina cómo las enseñanzas del Evangelio —incluyendo las Escrituras, la Proclamación sobre la Familia y revelaciones modernas— afirman que la dignidad de un miembro ante Dios no depende de su condición de salud mental o neurológica, sino de su fe, arrepentimiento y deseo de seguir a Cristo. 
+
+### [Modelo de declaración para apoyo institucional](/InnerSight/es/comunicado_salud_mental_v3_esp)
+Este documento propone un comunicado que podría emitirse desde el liderazgo general para orientar a líderes locales en el apoyo a miembros con necesidades de salud mental o neurológicas. Está redactado en armonía con los estilos y principios de los mensajes de la Primera Presidencia. 
+
+### [Propuesta Institucional](/InnerSight/es/propuesta_v1_esp)
+Propuesta integral presentada a La Primera Presidencia para inclusión institucional en salud mental y condiciones neurológicas. Incluye fundamento científico, armonía doctrinal y declaración institucional propuesta con orientación clara para líderes y comunidades.
 
 ---
 
 ## Objetivo
 
-Facilitar un diálogo informado entre perspectivas clínicas profesionales y liderazgo eclesiástico para:
+Apoyar a líderes, familias y miembros al: 
 
-- **Reducir estigma** asociado con métodos no convencionales de regulación emocional
-- **Promover inclusión** de todos los miembros, independientemente de sus necesidades de salud mental
-- **Establecer directrices claras** que armonicen bienestar individual con práctica comunitaria
-- **Fortalecer la comunidad** a través de mayor comprensión y apoyo mutuo
+- Comprender mejor las necesidades de salud mental y neurológicas
+- Ministrar con mayor compasión y conocimiento
+- Aplicar principios del Evangelio con sensibilidad a las circunstancias individuales
+- Fortalecer la comunidad a través de mayor comprensión y apoyo mutuo
 
 ---
 
 *"La caridad es el amor puro de Cristo, y permanece para siempre; y a quien la posea en el último día, le irá bien." - Moroni 7:47*
 
 ::: tip ¡Bienvenido!
+Nota: InnerSight es un recurso educativo independiente, creado por miembros fieles para apoyar a líderes, familias y profesionales. No está afiliado ni respaldado oficialmente por La Iglesia de Jesucristo de los Santos de los Últimos Días.
+
+
 Cada viaje interior comienza con un primer paso. El tuyo empieza aquí.
 :::

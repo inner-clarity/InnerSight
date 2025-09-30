@@ -32,10 +32,12 @@ module.exports = {
           { title: 'Psychological Foundations', path: '/en/analisis_psicologico_apropiado_v2.html' },
           { title: 'Scientific Foundation', path: '/en/scientific_foundation_validation.html' },
           { title: 'Coercive Restrictions', path: '/en/effects_of_coercive_restrictions.html' },
-          { title: 'Emotional Blackmail', path: '/en/emotional_blackmail.html' },
+          { title: 'Conditioned to the Conformity', path: '/en/emotional_blackmail.html' },
           { title: 'Not Sexual Preference', path: '/en/not_sexual_preference.html' },
-          { title: 'Priesthood & Mental Health', path: '/en/sacerdocio_salud_mental_apropiado_v3.html' },
-          { title: 'Institutional Statement', path: '/en/mental_health_statement_v3_english.html' }
+          { title: 'Marital Intimacy Effects', path: '/en/effects_of_restrictions_on_marital_intimacy.html' },
+          { title: 'Priesthood & Mental Health', path: '/en/sacerdocio_salud_mental_apropiado_v4.html' },
+          { title: 'Institutional Statement', path: '/en/mental_health_statement_v3_english.html' },
+          { title: 'Institutional Proposal', path: '/en/proposal_v1_en.html' }
         ],
 
         lastUpdated: 'Last Updated',
@@ -68,10 +70,12 @@ module.exports = {
           { title: 'Fundamentos Psicológicos', path: '/es/analisis_psicologico_apropiado_v2.html' },
           { title: 'Fundamento Científico', path: '/es/fundamento_cientifico_validacion.html' },
           { title: 'Restricciones Coercitivas', path: '/es/efectos_de_restricciones_coercitiva.html' },
-          { title: 'Chantaje Emocional', path: '/es/chantaje_emocional.html' },
+          { title: 'Condiciona a la conformidad', path: '/es/chantaje_emocional.html' },
           { title: 'No es Preferencia Sexual', path: '/es/no_es_preferencia_sexual.html' },
-          { title: 'Sacerdocio y Salud Mental', path: '/es/sacerdocio_salud_mental_apropiado_v3.html' },
-          { title: 'Declaración Institucional', path: '/es/comunicado_salud_mental_v3_esp.html' }
+          { title: 'Efectos en lo Conyugal', path: '/es/efectos_de_restricciones_en_lo_conyugal.html' },
+          { title: 'Sacerdocio y Salud Mental', path: '/es/sacerdocio_salud_mental_apropiado_v4.html' },
+          { title: 'Declaración Institucional', path: '/es/comunicado_salud_mental_v3_esp.html' },
+          { title: 'Propuesta Institucional', path: '/es/propuesta_v1_esp.html' }
         ],
 
         lastUpdated: 'Última actualización',

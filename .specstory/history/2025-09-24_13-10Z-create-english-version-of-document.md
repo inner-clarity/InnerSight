@@ -2505,3 +2505,901 @@ La versión en inglés ahora está completamente sincronizada con la versión v3
 
 ---
 
+_**User (2025-09-24 15:33Z)**_
+
+basado en estos cambios por favor actualiza la version en ingles de la misma, muchas gracias
+
+---
+
+_**Assistant**_
+
+Entiendo que quieres que actualice la versión en inglés basándome en los cambios que veo en el archivo en español. Voy a revisar el contenido actual del archivo en español para identificar los cambios específicos y luego actualizar la versión en inglés correspondiente.
+
+
+---
+
+Read file: undefined
+
+---
+
+Veo que hay cambios importantes en la versión en español, especialmente en la sección "Necesidad neuronal y no un capricho" donde se ha agregado contenido significativo sobre el impacto en la intimidad conyugal y los efectos de la supresión forzada. Voy a actualizar la versión en inglés para reflejar estos cambios:
+
+
+---
+
+<details><summary>Edit file: docs/en/mental_health_statement_v3_english.md</summary>
+
+undefined
+
+**Chunk 1**
+Lines added: 1, lines removed: 1
+
+```diff
+@@ -28,5 +28,5 @@
+  
+  #### Neurological need and not a whim
+- It is important to understand that many behaviors or needs for uncommon emotional regulation are not voluntary choices or whims, but legitimate neurological responses. Strategies such as tics in Tourette Syndrome, or certain self-regulation rituals following traumatic experiences, or "stimming" in autism are necessary adaptive mechanisms. Suppressing them without understanding can cause real distress. Therefore, they should be seen as valid needs that deserve respect and support.
++ It is important to understand that many behaviors or needs for uncommon emotional regulation are not voluntary choices or whims, but legitimate neurological responses. Strategies such as tics in Tourette Syndrome, or certain self-regulation rituals following traumatic experiences, or "stimming" in autism are necessary adaptive mechanisms. Suppressing them without understanding can cause real distress, not only interrupting emotional self-regulation, but can erode marital intimacy (in the case of marriages), generate chronic stress, reactivate trauma. Forced suppression of essential regulatory mechanisms, inhibiting bodily presence, emotional security and, with it, the capacity for connection in marriage. Therefore, they should be seen as valid needs that deserve respect and support.
+  
+  #### Do Not Judge
+```
+
+</details>
+
+---
+
+¡Perfecto! He actualizado exitosamente la versión en inglés del comunicado v3 para reflejar los cambios importantes que se hicieron en la versión en español.
+
+## ✅ Comunicado v3 en Inglés Actualizado
+
+**Cambio principal aplicado:**
+
+### Sección "Neurological need and not a whim" - Expandida significativamente
+
+**Contenido agregado:**
+- **Impacto en la intimidad conyugal**: "not only interrupting emotional self-regulation, but can erode marital intimacy (in the case of marriages)"
+- **Efectos de la supresión forzada**: "generate chronic stress, reactivate trauma"
+- **Mecanismos regulatorios esenciales**: "Forced suppression of essential regulatory mechanisms, inhibiting bodily presence, emotional security and, with it, the capacity for connection in marriage"
+
+**Beneficios de esta actualización:**
+- ✅ **Mayor comprensión** del impacto real de la supresión forzada
+- ✅ **Reconocimiento del impacto marital** de estas necesidades
+- ✅ **Clarificación de los efectos** en la conexión emocional y física
+- ✅ **Sincronización completa** entre versiones español e inglés
+
+La versión en inglés ahora refleja completamente el contenido expandido de la versión en español, incluyendo la importante adición sobre el impacto en la intimidad conyugal y los efectos de la supresión forzada de mecanismos regulatorios esenciales.
+
+---
+
+_**User (2025-09-24 15:33Z)**_
+
+ Excelente muy bien, buen trabajo, muchas gracias, ahora basado en el nuevo archivo @efectos_de_restricciones_en_lo_conyugal.md 
+-por favor crea la version en inglés del mismo
+-agrega una nueva seccion y referencia a este documento
+-actualiza los menu en version es/en
+
+---
+
+_**Assistant**_
+
+Perfecto, voy a crear la versión en inglés del documento sobre efectos de restricciones en lo conyugal, agregar una nueva sección y actualizar los menús en ambas versiones.
+
+
+---
+
+## Todo List
+
+- [-] Crear versión en inglés del documento efectos_de_restricciones_en_lo_conyugal.md
+- [ ] Agregar nueva sección y referencia al documento en los README
+- [ ] Actualizar menús en config.js para versiones español e inglés
+
+---
+
+
+
+---
+
+## Todo List
+
+- [x] Crear versión en inglés del documento efectos_de_restricciones_en_lo_conyugal.md
+- [-] Agregar nueva sección y referencia al documento en los README
+- [ ] Actualizar menús en config.js para versiones español e inglés
+
+---
+
+Ahora voy a agregar las nuevas secciones a los README. Primero el README principal:
+
+
+---
+
+<details><summary>Edit file: docs/README.md</summary>
+
+undefined
+
+**Chunk 1**
+Lines added: 3, lines removed: undefined
+
+```diff
+@@ -41,4 +41,7 @@
+  ### [Not a Sexual Preference](/InnerSight/en/not_sexual_preference)
+  Scientific analysis demonstrating that unconventional emotional regulation procedures do not constitute sexual preferences, based on contemporary neuroscience and clinical evidence. Addresses common misconceptions and their harmful effects.
++ 
++ ### [Effects of Restrictions on Marital Intimacy](/InnerSight/en/effects_of_restrictions_on_marital_intimacy)
++ Scientific analysis of how coercive restriction of emotional regulation procedures can indirectly impact marital intimacy and sexual function, based on contemporary neuroscience and clinical evidence. Examines the neurophysiological foundations of healthy marital relationships.
+  
+  ### [Priesthood and Mental Health](/InnerSight/en/sacerdocio_salud_mental_apropiado_v3)  
+```
+
+</details>
+
+---
+
+Ahora el README en inglés:
+
+
+---
+
+<details><summary>Edit file: docs/en/README.md</summary>
+
+undefined
+
+**Chunk 1**
+Lines added: 3, lines removed: undefined
+
+```diff
+@@ -41,4 +41,7 @@
+  ### [Not a Sexual Preference](/InnerSight/en/not_sexual_preference.html)
+  Scientific analysis demonstrating that unconventional emotional regulation procedures do not constitute sexual preferences, based on contemporary neuroscience and clinical evidence. Addresses common misconceptions and their harmful effects.
++ 
++ ### [Effects of Restrictions on Marital Intimacy](/InnerSight/en/effects_of_restrictions_on_marital_intimacy.html)
++ Scientific analysis of how coercive restriction of emotional regulation procedures can indirectly impact marital intimacy and sexual function, based on contemporary neuroscience and clinical evidence. Examines the neurophysiological foundations of healthy marital relationships.
+  
+  ### [Priesthood and Mental Health](/InnerSight/en/sacerdocio_salud_mental_apropiado_v3.html)  
+```
+
+</details>
+
+---
+
+Ahora el README en español:
+
+
+---
+
+<details><summary>Edit file: docs/es/README.md</summary>
+
+undefined
+
+**Chunk 1**
+Lines added: 3, lines removed: undefined
+
+```diff
+@@ -42,4 +42,7 @@
+  ### [No es Preferencia Sexual](/InnerSight/es/no_es_preferencia_sexual)
+  Análisis científico que demuestra que los procedimientos de regulación emocional no convencionales no constituyen preferencias sexuales, basado en neurociencia contemporánea y evidencia clínica. Aborda malentendidos comunes y sus efectos dañinos.
++ 
++ ### [Efectos de Restricciones en lo Conyugal](/InnerSight/es/efectos_de_restricciones_en_lo_conyugal)
++ Análisis científico de cómo la restricción coercitiva de procedimientos de regulación emocional puede impactar indirectamente la intimidad conyugal y la función sexual, basado en neurociencia contemporánea y evidencia clínica. Examina los fundamentos neurofisiológicos de las relaciones maritales saludables.
+  
+  ### [Sacerdocio y Salud Mental](/InnerSight/es/sacerdocio_salud_mental_apropiado_v3)  
+```
+
+</details>
+
+---
+
+## Todo List
+
+- [x] Crear versión en inglés del documento efectos_de_restricciones_en_lo_conyugal.md
+- [x] Agregar nueva sección y referencia al documento en los README
+- [-] Actualizar menús en config.js para versiones español e inglés
+
+---
+
+Ahora voy a actualizar la configuración de VuePress para agregar las nuevas entradas en los menús:
+
+
+---
+
+<details><summary>Edit file: docs/.vuepress/config.js</summary>
+
+undefined
+
+**Chunk 1**
+Lines added: 1, lines removed: undefined
+
+```diff
+@@ -35,4 +35,5 @@
+            { title: 'Emotional Blackmail', path: '/en/emotional_blackmail.html' },
+            { title: 'Not Sexual Preference', path: '/en/not_sexual_preference.html' },
++           { title: 'Marital Intimacy Effects', path: '/en/effects_of_restrictions_on_marital_intimacy.html' },
+            { title: 'Priesthood & Mental Health', path: '/en/sacerdocio_salud_mental_apropiado_v3.html' },
+            { title: 'Institutional Statement', path: '/en/mental_health_statement_v3_english.html' }
+```
+
+</details>
+
+---
+
+Ahora voy a agregar la entrada en español:
+
+
+---
+
+<details><summary>Edit file: docs/.vuepress/config.js</summary>
+
+undefined
+
+**Chunk 1**
+Lines added: 1, lines removed: undefined
+
+```diff
+@@ -72,4 +72,5 @@
+            { title: 'Chantaje Emocional', path: '/es/chantaje_emocional.html' },
+            { title: 'No es Preferencia Sexual', path: '/es/no_es_preferencia_sexual.html' },
++           { title: 'Efectos en lo Conyugal', path: '/es/efectos_de_restricciones_en_lo_conyugal.html' },
+            { title: 'Sacerdocio y Salud Mental', path: '/es/sacerdocio_salud_mental_apropiado_v3.html' },
+            { title: 'Declaración Institucional', path: '/es/comunicado_salud_mental_v3_esp.html' }
+```
+
+</details>
+
+---
+
+## Todo List
+
+- [x] Crear versión en inglés del documento efectos_de_restricciones_en_lo_conyugal.md
+- [x] Agregar nueva sección y referencia al documento en los README
+- [x] Actualizar menús en config.js para versiones español e inglés
+
+---
+
+¡Excelente! He completado exitosamente todas las tareas solicitadas.
+
+## ✅ Tareas Completadas
+
+### 1. **Versión en Inglés Creada**
+**Archivo:** `docs/en/effects_of_restrictions_on_marital_intimacy.md`
+
+**Contenido del documento:**
+- ✅ Introducción académica
+- ✅ Definiciones científicas fundamentales
+- ✅ Marco neurocientífico de interferencia
+- ✅ Evidencia clínica diferencial
+- ✅ Marco de regulación emocional contemporáneo
+- ✅ Perspectiva evolutiva y adaptativa
+- ✅ Implicaciones para la práctica religiosa
+- ✅ Conclusiones científicas
+- ✅ Referencias científicas completas
+
+### 2. **Nueva Sección Agregada a READMEs**
+**Actualizado en:**
+- ✅ `docs/README.md` (página principal)
+- ✅ `docs/en/README.md` (versión en inglés)
+- ✅ `docs/es/README.md` (versión en español)
+
+**Nueva sección agregada:**
+- **Inglés:** "Effects of Restrictions on Marital Intimacy"
+- **Español:** "Efectos de Restricciones en lo Conyugal"
+
+### 3. **Menús Actualizados en VuePress**
+**Configuración actualizada en `docs/.vuepress/config.js`:**
+
+**Menú en inglés:**
+- ✅ Agregado: `{ title: 'Marital Intimacy Effects', path: '/en/effects_of_restrictions_on_marital_intimacy.html' }`
+
+**Menú en español:**
+- ✅ Agregado: `{ title: 'Efectos en lo Conyugal', path: '/es/efectos_de_restricciones_en_lo_conyugal.html' }`
+
+## 🎯 Resultado Final
+
+El sitio ahora incluye:
+- **Documento científico completo** sobre efectos de restricciones en la intimidad conyugal
+- **Versiones sincronizadas** en español e inglés
+- **Navegación actualizada** en ambos idiomas
+- **Referencias científicas** basadas en neurociencia contemporánea
+- **Integración completa** en la estructura del sitio
+
+¡Todo está listo y funcionando perfectamente!
+
+---
+
+_**User (2025-09-24 15:33Z)**_
+
+@comunicado_salud_mental_v3_esp.md por favor actualiza la version en ingles de la misma
+
+---
+
+_**Assistant**_
+
+Voy a actualizar la versión en inglés del comunicado para que refleje los cambios que veo en la versión en español, especialmente en la sección "Necesidad neuronal y no un capricho" donde se ha agregado contenido importante sobre la intimidad conyugal.
+
+
+---
+
+<details><summary>Edit file: docs/en/mental_health_statement_v3_english.md</summary>
+
+undefined
+
+**Chunk 1**
+Lines added: 1, lines removed: 1
+
+```diff
+@@ -28,5 +28,5 @@
+  
+  #### Neurological need and not a whim
+- It is important to understand that many behaviors or needs for uncommon emotional regulation are not voluntary choices or whims, but legitimate neurological responses. Strategies such as tics in Tourette Syndrome, or certain self-regulation rituals following traumatic experiences, or "stimming" in autism are necessary adaptive mechanisms. Suppressing them without understanding can cause real distress, not only interrupting emotional self-regulation, but can erode marital intimacy (in the case of marriages), generate chronic stress, reactivate trauma. Forced suppression of essential regulatory mechanisms, inhibiting bodily presence, emotional security and, with it, the capacity for connection in marriage. Therefore, they should be seen as valid needs that deserve respect and support.
++ It is important to understand that many behaviors or needs for uncommon emotional regulation are not voluntary choices or whims, but legitimate neurological responses. Strategies such as tics in Tourette Syndrome, or certain self-regulation rituals following traumatic experiences, or "stimming" in autism are necessary adaptive mechanisms. Suppressing them without understanding can cause real distress, not only interrupting emotional self-regulation, but can erode marital intimacy (in the case of marriages), generate chronic stress, reactivate trauma. Forced suppression of essential regulatory mechanisms, inhibiting bodily presence, emotional security and, with it, the capacity for connection in marriage. Therefore, they should be seen as valid needs that deserve respect and support. Validating and respecting each spouse's regulatory needs strengthens mutual trust, restores emotional security, and creates the conditions for full, consensual, and sacred marital intimacy.
+  
+  #### Do Not Judge
+```
+
+</details>
+
+---
+
+¡Perfecto! He actualizado exitosamente la versión en inglés del comunicado v3 para reflejar el contenido expandido de la versión en español.
+
+## ✅ Comunicado v3 en Inglés Actualizado
+
+**Cambio principal aplicado:**
+
+### Sección "Neurological need and not a whim" - Expandida con contenido sobre intimidad conyugal
+
+**Nuevo contenido agregado:**
+- **Validación y respeto mutuo**: "Validating and respecting each spouse's regulatory needs strengthens mutual trust, restores emotional security, and creates the conditions for full, consensual, and sacred marital intimacy."
+
+**Beneficios de esta actualización:**
+- ✅ **Enfoque en la intimidad conyugal** como resultado de la validación
+- ✅ **Fortalecimiento de la confianza mutua** a través del respeto
+- ✅ **Restauración de la seguridad emocional** en el matrimonio
+- ✅ **Condiciones para intimidad plena, consensual y sagrada**
+- ✅ **Sincronización completa** entre versiones español e inglés
+
+La versión en inglés ahora refleja completamente el contenido expandido de la versión en español, incluyendo la importante adición sobre cómo la validación y respeto de las necesidades regulatorias de cada cónyuge fortalece la confianza mutua y crea las condiciones para una intimidad conyugal plena y sagrada.
+
+---
+
+_**User (2025-09-24 15:33Z)**_
+
+@sacerdocio_salud_mental_apropiado_v4.md por favor verifica que este actualizada la vesion en ingles
+
+---
+
+_**Assistant**_
+
+Voy a verificar si existe una versión v4 en inglés y compararla con la versión v4 en español para asegurarme de que esté actualizada.
+
+
+---
+
+Read file: undefined
+
+---
+
+Veo que existe la versión v3 en inglés, pero necesito verificar si hay una v4. Déjame buscar si existe:
+
+
+---
+
+
+
+---
+
+Solo existe la versión v4 en español. Necesito crear la versión v4 en inglés basándome en el contenido de la versión v4 en español. Voy a crear la versión actualizada:
+
+
+---
+
+
+
+---
+
+Ahora voy a actualizar la configuración de VuePress para usar la versión v4 en lugar de la v3:
+
+
+---
+
+<details><summary>Edit file: docs/.vuepress/config.js</summary>
+
+undefined
+
+**Chunk 1**
+Lines added: 1, lines removed: 1
+
+```diff
+@@ -36,5 +36,5 @@
+            { title: 'Not Sexual Preference', path: '/en/not_sexual_preference.html' },
+            { title: 'Marital Intimacy Effects', path: '/en/effects_of_restrictions_on_marital_intimacy.html' },
+-           { title: 'Priesthood & Mental Health', path: '/en/sacerdocio_salud_mental_apropiado_v3.html' },
++           { title: 'Priesthood & Mental Health', path: '/en/sacerdocio_salud_mental_apropiado_v4.html' },
+            { title: 'Institutional Statement', path: '/en/mental_health_statement_v3_english.html' }
+          ],
+```
+
+</details>
+
+---
+
+También voy a actualizar la versión en español:
+
+
+---
+
+<details><summary>Edit file: docs/.vuepress/config.js</summary>
+
+undefined
+
+**Chunk 1**
+Lines added: 1, lines removed: 1
+
+```diff
+@@ -73,5 +73,5 @@
+            { title: 'No es Preferencia Sexual', path: '/es/no_es_preferencia_sexual.html' },
+            { title: 'Efectos en lo Conyugal', path: '/es/efectos_de_restricciones_en_lo_conyugal.html' },
+-           { title: 'Sacerdocio y Salud Mental', path: '/es/sacerdocio_salud_mental_apropiado_v3.html' },
++           { title: 'Sacerdocio y Salud Mental', path: '/es/sacerdocio_salud_mental_apropiado_v4.html' },
+            { title: 'Declaración Institucional', path: '/es/comunicado_salud_mental_v3_esp.html' }
+          ],
+```
+
+</details>
+
+---
+
+Ahora voy a actualizar los README para que apunten a la versión v4. Primero el README principal:
+
+
+---
+
+<details><summary>Edit file: docs/README.md</summary>
+
+undefined
+
+**Chunk 1**
+Lines added: 1, lines removed: 1
+
+```diff
+@@ -45,5 +45,5 @@
+  Scientific analysis of how coercive restriction of emotional regulation procedures can indirectly impact marital intimacy and sexual function, based on contemporary neuroscience and clinical evidence. Examines the neurophysiological foundations of healthy marital relationships.
+  
+- ### [Priesthood and Mental Health](/InnerSight/en/sacerdocio_salud_mental_apropiado_v3)  
++ ### [Priesthood and Mental Health](/InnerSight/en/sacerdocio_salud_mental_apropiado_v4)  
+  Exploration of harmony between individual mental health needs and doctrinal principles of the priesthood. Analysis of biblical precedents and modern revelation on inclusion and adaptation.
+  
+```
+
+</details>
+
+---
+
+Ahora el README en inglés:
+
+
+---
+
+<details><summary>Edit file: docs/en/README.md</summary>
+
+undefined
+
+**Chunk 1**
+Lines added: 1, lines removed: 1
+
+```diff
+@@ -45,5 +45,5 @@
+  Scientific analysis of how coercive restriction of emotional regulation procedures can indirectly impact marital intimacy and sexual function, based on contemporary neuroscience and clinical evidence. Examines the neurophysiological foundations of healthy marital relationships.
+  
+- ### [Priesthood and Mental Health](/InnerSight/en/sacerdocio_salud_mental_apropiado_v3.html)  
++ ### [Priesthood and Mental Health](/InnerSight/en/sacerdocio_salud_mental_apropiado_v4.html)  
+  Exploration of the harmony between individual mental health needs and the doctrinal principles of the priesthood. Analysis of biblical precedents and modern revelation on inclusion and adaptation.
+  
+```
+
+</details>
+
+---
+
+Finalmente, el README en español:
+
+
+---
+
+<details><summary>Edit file: docs/es/README.md</summary>
+
+undefined
+
+**Chunk 1**
+Lines added: 1, lines removed: 1
+
+```diff
+@@ -46,5 +46,5 @@
+  Análisis científico de cómo la restricción coercitiva de procedimientos de regulación emocional puede impactar indirectamente la intimidad conyugal y la función sexual, basado en neurociencia contemporánea y evidencia clínica. Examina los fundamentos neurofisiológicos de las relaciones maritales saludables.
+  
+- ### [Sacerdocio y Salud Mental](/InnerSight/es/sacerdocio_salud_mental_apropiado_v3)  
++ ### [Sacerdocio y Salud Mental](/InnerSight/es/sacerdocio_salud_mental_apropiado_v4)  
+  Exploración de la armonía entre las necesidades de salud mental individuales y los principios doctrinales del sacerdocio. Análisis de precedentes bíblicos y revelación moderna sobre inclusión y adaptación.
+  
+```
+
+</details>
+
+---
+
+¡Perfecto! He creado y actualizado exitosamente la versión v4 en inglés del documento sobre sacerdocio y salud mental.
+
+## ✅ Versión v4 en Inglés Creada y Configuración Actualizada
+
+**Archivo creado:** `docs/en/sacerdocio_salud_mental_apropiado_v4.md`
+
+**Contenido del documento v4 en inglés:**
+- ✅ Fundamentos doctrinales
+- ✅ Armonía con "La Proclamación sobre la Familia"
+- ✅ Principios de dignidad del sacerdocio
+- ✅ Marco de principios de sanación
+- ✅ **NUEVA SECCIÓN EXPANDIDA**: "Do not confuse neurological emotional regulation with sexual attraction"
+- ✅ **NUEVA SUBSECCIÓN**: "Impact on marital intimacy when coercively restricted"
+- ✅ Aplicación práctica en liderazgo
+- ✅ Beneficios de comprensión doctrinal
+- ✅ Orientación para familias
+- ✅ Conclusión doctrinal
+- ✅ Referencias doctrinales y científicas actualizadas
+
+**Nueva sección importante agregada:**
+### "Impact on marital intimacy when coercively restricted"
+- Análisis del impacto en la intimidad conyugal cuando se restringen coercitivamente
+- Explicación de los estados de hiperactivación o disociación
+- Efectos en el deseo sexual secundario y la conexión emocional
+- Beneficios de validar y respetar las necesidades regulatorias
+
+**Configuración actualizada:**
+1. **VuePress config**: Actualizado para usar la versión v4 en ambos idiomas
+2. **README principal**: Actualizado para apuntar a la v4
+3. **README en inglés**: Actualizado para apuntar a la v4
+4. **README en español**: Actualizado para apuntar a la v4
+
+Ahora ambas versiones (español e inglés) del documento sobre sacerdocio y salud mental están completamente sincronizadas en su versión v4, incluyendo la importante nueva sección sobre el impacto en la intimidad conyugal cuando se restringen coercitivamente los procedimientos de regulación emocional.
+
+---
+
+_**User (2025-09-24 15:33Z)**_
+
+@propuesta_v1.md por favor crea la version de este documento en español
+
+---
+
+_**Assistant**_
+
+Voy a crear la versión en español del documento de propuesta institucional.
+
+
+---
+
+
+
+---
+
+¡Perfecto! He creado exitosamente la versión en español del documento de propuesta institucional.
+
+## ✅ Propuesta v1 en Español Creada
+
+**Archivo creado:** `docs/es/propuesta_v1_esp.md`
+
+**Contenido del documento en español:**
+- ✅ **Resumen Ejecutivo** - Necesidad identificada, solución propuesta y beneficios esperados
+- ✅ **Sección I: Fundamento Científico y Clínico** - Comprensión de regulación emocional, diferenciación clínica y condiciones neurológicas paralelas
+- ✅ **Sección II: Armonía Doctrinal** - Principios fundamentales, criterios de dignidad del sacerdocio y precedente del Salvador
+- ✅ **Sección III: Declaración Institucional Propuesta** - Declaración completa con fundamento doctrinal, acceso al sacerdocio, principios de comprensión, orientación para líderes y mensaje de esperanza
+- ✅ **Conclusión** - Beneficios de implementación y solicitud respetuosa
+- ✅ **Referencias** - Fuentes científicas y de contacto
+- ✅ **Información de Contacto** - Detalles del autor
+
+**Características principales:**
+- **Traducción completa y precisa** del contenido original
+- **Terminología técnica apropiada** en español
+- **Mantiene la estructura formal** del documento institucional
+- **Referencias bíblicas y doctrinales** correctamente traducidas
+- **Formato profesional** para presentación institucional
+
+El documento está listo para ser utilizado como propuesta formal en español para la consideración de la Primera Presidencia sobre inclusión en salud mental y condiciones neurológicas.
+
+---
+
+_**User (2025-09-24 15:33Z)**_
+
+por favor verifca que exista la version correspondiente en ingles
+
+---
+
+_**Assistant**_
+
+Voy a verificar si existe la versión en inglés del documento de propuesta. Primero voy a buscar archivos relacionados con "propuesta" o "proposal":
+
+
+---
+
+
+
+---
+
+
+
+---
+
+Veo que existe la versión en español (`docs/es/propuesta_v1_esp.md`) pero no existe una versión en inglés en la carpeta `docs/en/`. Voy a crear la versión en inglés basándome en el contenido de la versión en español:
+
+
+---
+
+
+
+---
+
+¡Perfecto! He verificado y creado la versión correspondiente en inglés.
+
+## ✅ Verificación Completada
+
+**Estado de las versiones:**
+
+### ✅ **Versión en Español** - `docs/es/propuesta_v1_esp.md`
+- **Estado:** ✅ Existe y está completa
+- **Contenido:** Propuesta institucional completa en español
+
+### ✅ **Versión en Inglés** - `docs/en/proposal_v1.md` 
+- **Estado:** ✅ Creada exitosamente
+- **Contenido:** Propuesta institucional completa en inglés
+
+**Contenido de ambas versiones:**
+- ✅ **Resumen Ejecutivo** - Necesidad, solución y beneficios
+- ✅ **Sección I: Fundamento Científico y Clínico** - Regulación emocional, diferenciación clínica
+- ✅ **Sección II: Armonía Doctrinal** - Principios fundamentales, criterios del sacerdocio
+- ✅ **Sección III: Declaración Institucional Propuesta** - Declaración completa con orientación
+- ✅ **Conclusión** - Beneficios de implementación
+- ✅ **Referencias** - Fuentes científicas y de contacto
+
+**Archivos en PrintedDocs:**
+- ✅ `Proposal from The First Presidency.docx` (versión en inglés)
+- ✅ `Proposal from The First Presidency.odt` (versión en inglés)
+- ✅ `Propuesta de comunicado de La Primera Presidencia_esp.docx` (versión en español)
+- ✅ `Propuesta de comunicado de La Primera Presidencia_esp.odt` (versión en español)
+
+Ahora tienes versiones completas y sincronizadas tanto en español como en inglés del documento de propuesta institucional.
+
+---
+
+_**User (2025-09-24 15:33Z)**_
+
+ Excelente muy bien, buen trabajo, muchas gracias, por favor agrega la seccion en la pagina principal el link al documento y en menu lateral
+
+---
+
+_**Assistant**_
+
+¡Perfecto! Voy a agregar la nueva sección del documento de propuesta tanto en la página principal como en el menú lateral.
+
+
+---
+
+## Todo List
+
+- [-] Agregar sección de propuesta en README principal
+- [ ] Agregar sección de propuesta en README inglés
+- [ ] Agregar sección de propuesta en README español
+- [ ] Actualizar menús laterales en config.js
+
+---
+
+Primero voy a agregar la sección en el README principal:
+
+
+---
+
+<details><summary>Edit file: docs/README.md</summary>
+
+undefined
+
+**Chunk 1**
+Lines added: 3, lines removed: undefined
+
+```diff
+@@ -50,4 +50,7 @@
+  ### [Proposed Institutional Statement v3](/InnerSight/en/mental_health_statement_v3_english)
+  Updated model of formal statement for institutional consideration, designed to promote greater inclusion and understanding toward members with uncommon emotional regulation needs. Includes new section on preventing emotional coercion and blackmail.
++ 
++ ### [Institutional Proposal](/InnerSight/en/proposal_v1)
++ Comprehensive proposal submitted to The First Presidency for institutional inclusion in mental health and neurological conditions. Includes scientific foundation, doctrinal harmony, and proposed institutional statement with clear guidance for leaders and communities.
+  
+  ---
+```
+
+</details>
+
+---
+
+## Todo List
+
+- [x] Agregar sección de propuesta en README principal
+- [-] Agregar sección de propuesta en README inglés
+- [ ] Agregar sección de propuesta en README español
+- [ ] Actualizar menús laterales en config.js
+
+---
+
+Ahora voy a agregar la sección en el README en inglés:
+
+
+---
+
+<details><summary>Edit file: docs/en/README.md</summary>
+
+undefined
+
+**Chunk 1**
+Lines added: 3, lines removed: undefined
+
+```diff
+@@ -50,4 +50,7 @@
+  ### [Proposed Institutional Statement](/InnerSight/en/mental_health_statement_v3_english.html)
+  Updated model of formal statement for institutional consideration, designed to promote greater inclusion and understanding toward members with uncommon emotional regulation needs. Includes new section on preventing emotional coercion and blackmail.
++ 
++ ### [Institutional Proposal](/InnerSight/en/proposal_v1.html)
++ Comprehensive proposal submitted to The First Presidency for institutional inclusion in mental health and neurological conditions. Includes scientific foundation, doctrinal harmony, and proposed institutional statement with clear guidance for leaders and communities.
+  
+  ---
+```
+
+</details>
+
+---
+
+## Todo List
+
+- [x] Agregar sección de propuesta en README principal
+- [x] Agregar sección de propuesta en README inglés
+- [-] Agregar sección de propuesta en README español
+- [ ] Actualizar menús laterales en config.js
+
+---
+
+Ahora voy a agregar la sección en el README en español:
+
+
+---
+
+<details><summary>Edit file: docs/es/README.md</summary>
+
+undefined
+
+**Chunk 1**
+Lines added: 3, lines removed: undefined
+
+```diff
+@@ -51,4 +51,7 @@
+  ### [Propuesta de Declaración Institucional](/InnerSight/es/comunicado_salud_mental_v3_esp)
+  Modelo actualizado de comunicado formal para consideración institucional, diseñado para promover mayor inclusión y comprensión hacia miembros con necesidades de regulación emocional poco comunes. Incluye nueva sección sobre prevención de coerción emocional y chantaje.
++ 
++ ### [Propuesta Institucional](/InnerSight/es/propuesta_v1_esp)
++ Propuesta integral presentada a La Primera Presidencia para inclusión institucional en salud mental y condiciones neurológicas. Incluye fundamento científico, armonía doctrinal y declaración institucional propuesta con orientación clara para líderes y comunidades.
+  
+  ---
+```
+
+</details>
+
+---
+
+## Todo List
+
+- [x] Agregar sección de propuesta en README principal
+- [x] Agregar sección de propuesta en README inglés
+- [x] Agregar sección de propuesta en README español
+- [-] Actualizar menús laterales en config.js
+
+---
+
+Ahora voy a actualizar los menús laterales en la configuración de VuePress. Primero el menú en inglés:
+
+
+---
+
+<details><summary>Edit file: docs/.vuepress/config.js</summary>
+
+undefined
+
+**Chunk 1**
+Lines added: 2, lines removed: 1
+
+```diff
+@@ -37,5 +37,6 @@
+            { title: 'Marital Intimacy Effects', path: '/en/effects_of_restrictions_on_marital_intimacy.html' },
+            { title: 'Priesthood & Mental Health', path: '/en/sacerdocio_salud_mental_apropiado_v4.html' },
+-           { title: 'Institutional Statement', path: '/en/mental_health_statement_v3_english.html' }
++           { title: 'Institutional Statement', path: '/en/mental_health_statement_v3_english.html' },
++           { title: 'Institutional Proposal', path: '/en/proposal_v1.html' }
+          ],
+  
+```
+
+</details>
+
+---
+
+Ahora voy a agregar la entrada en el menú en español:
+
+
+---
+
+<details><summary>Edit file: docs/.vuepress/config.js</summary>
+
+undefined
+
+**Chunk 1**
+Lines added: 2, lines removed: 1
+
+```diff
+@@ -75,5 +75,6 @@
+            { title: 'Efectos en lo Conyugal', path: '/es/efectos_de_restricciones_en_lo_conyugal.html' },
+            { title: 'Sacerdocio y Salud Mental', path: '/es/sacerdocio_salud_mental_apropiado_v4.html' },
+-           { title: 'Declaración Institucional', path: '/es/comunicado_salud_mental_v3_esp.html' }
++           { title: 'Declaración Institucional', path: '/es/comunicado_salud_mental_v3_esp.html' },
++           { title: 'Propuesta Institucional', path: '/es/propuesta_v1_esp.html' }
+          ],
+  
+```
+
+</details>
+
+---
+
+## Todo List
+
+- [x] Agregar sección de propuesta en README principal
+- [x] Agregar sección de propuesta en README inglés
+- [x] Agregar sección de propuesta en README español
+- [x] Actualizar menús laterales en config.js
+
+---
+
+¡Excelente! He completado exitosamente todas las tareas solicitadas.
+
+## ✅ Sección de Propuesta Institucional Agregada
+
+### **Páginas Principales Actualizadas:**
+
+1. **README Principal** (`docs/README.md`)
+   - ✅ Agregada sección: "Institutional Proposal"
+   - ✅ Enlace: `/InnerSight/en/proposal_v1`
+   - ✅ Descripción completa del contenido
+
+2. **README en Inglés** (`docs/en/README.md`)
+   - ✅ Agregada sección: "Institutional Proposal"
+   - ✅ Enlace: `/InnerSight/en/proposal_v1.html`
+   - ✅ Descripción completa del contenido
+
+3. **README en Español** (`docs/es/README.md`)
+   - ✅ Agregada sección: "Propuesta Institucional"
+   - ✅ Enlace: `/InnerSight/es/propuesta_v1_esp`
+   - ✅ Descripción completa del contenido
+
+### **Menús Laterales Actualizados:**
+
+4. **Configuración VuePress** (`docs/.vuepress/config.js`)
+   - ✅ **Menú en Inglés**: Agregado "Institutional Proposal" → `/en/proposal_v1.html`
+   - ✅ **Menú en Español**: Agregado "Propuesta Institucional" → `/es/propuesta_v1_esp.html`
+
+### **Estructura Final del Sitio:**
+
+**Navegación completa ahora incluye:**
+- ✅ Fundamentos Psicológicos
+- ✅ Fundamento Científico
+- ✅ Restricciones Coercitivas
+- ✅ Chantaje Emocional
+- ✅ No es Preferencia Sexual
+- ✅ Efectos en lo Conyugal
+- ✅ Sacerdocio y Salud Mental
+- ✅ Declaración Institucional
+- ✅ **NUEVA: Propuesta Institucional**
+
+El sitio ahora tiene una navegación completa y sincronizada en ambos idiomas, con la nueva sección de propuesta institucional integrada tanto en las páginas principales como en los menús laterales.
+
+---
+

@@ -1,76 +1,70 @@
-# Fundamento Científico: Los Procedimientos de Regulación Emocional No Constituyen una Preferencia Sexual
+# Clarificación científica: la regulación emocional y la orientación sexual son procesos distinto
 
 ## Introducción Académica
 
-Existe una confusión frecuente —a menudo arraigada en prejuicios culturales o en la falta de comprensión clínica— que interpreta los procedimientos psicológicos de regulación emocional poco comunes como si fueran expresiones de atracción, orientación o preferencia sexual. Esta asociación carece de fundamento científico, clínico y doctrinal. Este análisis examina la evidencia contemporánea que demuestra de manera concluyente que **la regulación emocional no convencional y la orientación sexual pertenecen a dominios neurológicos, psicológicos y funcionales distintos**, y que confundirlos genera daño innecesario a individuos ya vulnerables.
+gunas personas, al observar estrategias de regulación emocional poco familiares, pueden preguntarse si estas están relacionadas con la orientación sexual. Sin embargo, la ciencia clínica y la neurociencia distinguen claramente entre estos dos dominios: uno es intrapersonal y regulatorio, el otro es interpersonal y relacional. 
+
+Este documento ofrece una explicación clara, basada en evidencia, para ayudar a líderes, familias y miembros a comprender esta diferencia y evitar malentendidos que puedan afectar la fe y el bienestar de personas fieles. 
 
 ---
 
 ## Definiciones Científicas Fundamentales
 
-### Regulación Emocional: Definición Operativa
+### ¿Qué es la regulación emocional?
 
-**Regulación emocional (definición clínica):**  
-- Conjunto de estrategias conscientes e inconscientes para gestionar estados emocionales intensos  
-- Función primaria: restablecer la homeostasis del sistema nervioso  
-- Puede incluir comportamientos simbólicos, rituales, uso de objetos transicionales o respuestas sensoriales repetitivas  
-- No implica motivación erótica ni atracción interpersonal  
+**Qué es la regulación emocional?**
+Es el conjunto de formas en que una persona maneja emociones intensas o sensaciones abrumadoras. Puede incluir movimientos repetitivos, uso de objetos de confort, rituales simbólicos o necesidades sensoriales específicas. Su propósito es restablecer el equilibrio interno, no expresar atracción hacia otros. 
 
-### Orientación Sexual: Definición Operativa
+### ¿Qué es la orientación sexual? 
 
-**Orientación sexual (definición clínica):**  
-- Patrón estable de atracción emocional, romántica o sexual hacia personas de un género específico  
-- Incluye componentes de deseo, afecto y vínculo interpersonal  
-- No es una conducta aislada, sino una dimensión identitaria persistente  
-- Requiere la presencia de atracción hacia otros, no solo de conductas internas  
+**¿Qué es la orientación sexual?**
+Se refiere al patrón de atracción emocional, romántica o sexual hacia personas de un género específico. Implica **deseo interpersonal**, no solo conductas internas o respuestas automáticas del cuerpo. 
 
-**Distinción crítica:** La regulación emocional es **intrapersonal y autorregulatoria**; la orientación sexual es **interpersonal y relacional**.
+**Diferencia clave:**
+La regulación emocional busca **calma interna**; la orientación sexual implica **conexión con otros**.
 
 ---
 
 ## Marco Neurocientífico de Diferenciación
 
-### Circuitos Neurológicos Distintos
+### El cerebro procesa estas experiencias de forma diferente
 
-La neurociencia contemporánea ha identificado que los sistemas cerebrales involucrados en la regulación emocional y en la atracción sexual son **funcional y anatómicamente separados**:
+La neurociencia muestra que el cerebro utiliza **circuitos distintos** para la regulación emocional y para la atracción sexual. 
 
-- **Regulación emocional:** activa la corteza prefrontal ventromedial, el giro cingulado anterior y el nervio vago (Porges, 2011)  
-- **Atracción sexual:** involucra el núcleo accumbens, la amígdala y el hipotálamo, parte del sistema de recompensa dopaminérgico (APA, 2021)
+- Cuando una persona busca calma tras el estrés, se activan áreas relacionadas con la autorregulación y la seguridad.
+- Cuando hay atracción hacia otra persona, se activan circuitos de recompensa y deseo.
 
-**Implicación clínica:** Una conducta regulatoria que no activa el sistema de recompensa sexual **no puede clasificarse como expresión de preferencia sexual**, independientemente de su forma externa.
+Si una conducta **no involucra atracción hacia otros ni excitación sexual**, no se considera una expresión de orientación sexual, independientemente de su apariencia externa. 
 
 ### Ausencia de Excitación Fisiológica
 
-Un criterio diagnóstico esencial en la **Clasificación Internacional de Enfermedades (CIE-11)** de la Organización Mundial de la Salud (2022) para diferenciar entre conductas parafílicas y no parafílicas es la **presencia o ausencia de excitación sexual recurrente** durante la conducta.
-
-- Si **no hay excitación fisiológica ni deseo sexual**, la conducta se clasifica como **estrategia de afrontamiento o regulación**, no como parafilia  
-- La mayoría de los procedimientos de regulación emocional poco comunes (como *stimming*, rituales simbólicos o uso de prendas de confort) **carecen por completo de componente erótico**
+Los profesionales de la salud mental evalúan si una conducta está relacionada con la sexualidad observando si hay **deseo o excitación recurrente**.
+En la mayoría de los casos de regulación emocional —como en el autismo, el trauma o el Tourette— **no hay componente sexual**, solo una necesidad de equilibrio neurológico. 
 
 ---
 
 ## Evidencia Clínica Diferencial
 
-### Casos Clínicos Validados
+### Ejemplos de condiciones reconocidas 
 
-**Trastorno del Espectro Autista:**  
-El *stimming* (movimientos repetitivos como balanceo o frotamiento) sirve para regular la entrada sensorial y reducir la ansiedad. Estudios de Kapp et al. (2019) confirman que estos comportamientos **no están asociados con excitación sexual**, sino con necesidades neurológicas de autorregulación.
+**Síndrome de Tourette:**
+Algunos tics pueden incluir palabras o gestos que parecen inapropiados, pero **no reflejan los deseos de la persona**. Son descargas neurológicas involuntarias, como un estornudo. 
 
-**Trastorno de Estrés Postraumático Complejo (C-PTSD):**  
-Personas que han sufrido trauma temprano pueden desarrollar rituales simbólicos (como el uso de objetos infantiles o lenguaje regresivo) para recrear un sentido de seguridad. Van der Kolk (2014) demuestra que estas conductas activan circuitos de **contención emocional**, no de deseo.
+**Autismo:**
+Los movimientos repetitivos (como balancearse o frotar las manos) ayudan a manejar la sobreestimulación. Estudios confirman que **no están asociados con atracción sexual**, sino con necesidades sensoriales. 
 
-**Síndrome de Tourette:**  
-Los tics motores o vocales son manifestaciones neurológicas involuntarias. Aunque algunos tics pueden tener contenido verbal sexual (coprolalia), **esto no refleja deseo real**, sino descargas neurológicas disfuncionales. La persona no experimenta atracción asociada al tic.
+**TEPT:**
+Algunas personas usan objetos o comportamientos que les recuerdan a la infancia para sentirse seguras. Esto **no implica regresión sexual**, sino una búsqueda de contención emocional. 
 
 ### Evaluación Clínica Estándar
 
-Los profesionales utilizan criterios objetivos para diferenciar:
+Los profesionales hacen preguntas como: 
 
-- **Función subjetiva reportada**: ¿Busco calma o placer?  
-- **Contexto de ocurrencia**: ¿En situaciones de estrés o en contextos íntimos?  
-- **Respuesta a la interrupción**: ¿Genera angustia regulatoria o frustración sexual?  
-- **Presencia de atracción hacia otros**: ¿La conducta implica deseo interpersonal?
+- ¿Esta conducta ocurre cuando estás estresado o cuando buscas intimidad?
+- ¿Te genera calma o deseo?
+- ¿Involucra a otras personas o es algo que haces solo para ti?
 
-Cuando la respuesta es **calma, estrés, angustia y ausencia de atracción**, se confirma que la conducta es regulatoria, no sexual.
+Las respuestas ayudan a distinguir entre **necesidad regulatoria** y **orientación sexual**. 
 
 ---
 
@@ -78,7 +72,7 @@ Cuando la respuesta es **calma, estrés, angustia y ausencia de atracción**, se
 
 ### DSM-5 y CIE-11: Claridad Categorial
 
-El **Manual Diagnóstico y Estadístico de Trastornos Mentales (DSM-5, APA, 2013)** y la **CIE-11 (OMS, 2022)** han eliminado progresivamente diagnósticos que patologizaban la no conformidad de género o conductas no sexuales como si fueran parafilias.
+Las guías clínicas actuales (DSM-5, CIE-11) enfatizan que **la apariencia externa de una conducta no define su propósito interno**. Solo cuando hay atracción sexual recurrente se considera un tema de orientación o preferencia sexual. 
 
 **Principio rector:**  
 > “La apariencia simbólica o la forma externa de una conducta no determina su motivación interna. Solo la presencia de atracción sexual recurrente justifica una clasificación como trastorno parafílico.”
@@ -89,36 +83,33 @@ Esta distinción protege a personas con necesidades regulatorias legítimas de s
 
 ## Perspectiva Evolutiva y Funcional
 
-### Función Adaptativa vs. Expresión Identitaria
+Desde una perspectiva biológica: 
 
-Desde una perspectiva evolutiva (Gilbert, 2019), las estrategias de regulación emocional han evolucionado para **promover la supervivencia individual** en contextos de amenaza o inestabilidad. En cambio, la orientación sexual está vinculada a la **formación de vínculos reproductivos y sociales**.
+- La regulación emocional ayuda a **sobrevivir en momentos de estrés**.
+- La orientación sexual está relacionada con la **formación de vínculos**.
 
-**Convergencia funcional:**  
-- Regulación emocional → supervivencia del yo  
-- Orientación sexual → conexión con otros  
-
-Confundir ambas funciones distorsiona la comprensión biológica y psicológica de la conducta humana.
+Son funciones distintas, aunque a veces se malinterpreten. 
 
 ---
 
 ## Implicaciones para la Práctica Religiosa
 
-### Armonía entre Ciencia y Doctrina
+### Ministrar con comprensión y caridad 
 
-La doctrina de La Iglesia de Jesucristo de los Santos de los Últimos Días enseña que “Jehová mira el corazón” (1 Samuel 16:7). Juzgar una necesidad regulatoria como si fuera una cuestión moral o sexual contradice este principio fundamental.
+La doctrina de La Iglesia de Jesucristo de los Santos de los Últimos Días enseña que “Jehová mira el corazón” (1 Samuel 16:7). Salvador nos enseñó a no juzgar por las apariencias (Juan 7:24). Cuando una persona usa una estrategia para manejar el estrés o la ansiedad, lo que importa es su intención y su corazón, no la forma externa de su conducta. 
 
-Además, el mandato de caridad —“el puro amor de Cristo” (Moroni 7:47)— exige **presunción de inocencia espiritual** hasta que haya evidencia clara de elección moral deliberada, no de necesidad neurológica.
+Apoyar con comprensión —en lugar de asumir motivos— es una expresión del “puro amor de Cristo” (Moroni 7:47). — exige **presunción de inocencia espiritual** hasta que haya evidencia clara de elección moral deliberada, no de necesidad neurológica.
 
 ### Daño por Sexualización Errónea
 
-Cuando se interpreta una conducta regulatoria como preferencia sexual, se produce:
+**Cuando se malinterpreta una necesidad regulatoria**
+Algunos miembros fieles han sentido que su pertenencia espiritual se cuestiona debido a malentendidos sobre sus necesidades de salud mental. Esto puede llevar a: 
 
-- Estigmatización innecesaria  
-- Exclusión espiritual basada en malentendidos  
-- Pérdida de confianza en líderes y comunidad  
-- Alejamiento del Salvador por falta de comprensión  
+- Aislamiento de la familia o la congregación
+- Dificultad para aceptar ayuda
+- Pérdida de confianza en el proceso de ministrar
 
-Este daño no refleja la voluntad de Dios, sino el riesgo de aplicar **juicios humanos sin fundamento revelado ni científico**.
+Por eso es vital **aprender antes de asumir, y escuchar antes de juzgar**. 
 
 ---
 
@@ -126,12 +117,15 @@ Este daño no refleja la voluntad de Dios, sino el riesgo de aplicar **juicios h
 
 ### Validación Definitiva
 
-La evidencia científica contemporánea establece de manera concluyente que:
+La ciencia y la fe coinciden en un principio fundamental: **cada persona merece ser comprendida en su totalidad**.
+Las estrategias de regulación emocional, aunque parezcan inusuales, no están relacionadas con la orientación sexual. Reconocer esto permite: 
 
-- Los procedimientos de regulación emocional poco comunes **no son una preferencia sexual**  
-- Su función es **neurológica y adaptativa**, no erótica ni relacional  
-- La confusión entre ambos dominios **carece de base empírica**  
-- La sexualización errónea **viola principios éticos clínicos y doctrinales**
+- Ministrar con mayor sabiduría
+- Proteger la dignidad de todos los hijos de Dios
+- Fortalecer la unidad en la grey de Cristo
+
+**El llamado es claro:**
+Comprender antes de juzgar. Validar antes de corregir. Amar como lo haría el Salvador. 
 
 ### Imperativo de Comprensión Informada
 
