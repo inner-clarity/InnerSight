@@ -42,7 +42,7 @@ Este apartado explica, con base en neurociencia y estudios clínicos, cómo pedi
 ### [Cuando el amor se condiciona a la conformidad](/InnerSight/es/chantaje_emocional)
 Algunos miembros reportan sentir que su pertenencia o valor espiritual depende de dejar ciertas necesidades de regulación emocional. Este apartado analiza cómo esas dinámicas —aunque no intencionadas— pueden afectar la fe, la autoestima y las relaciones, y ofrece principios para ministrar sin imponer condiciones.
 
-### [Clarificación sobre la naturaleza de las necesidades de regulación emocional](/InnerSight/es/no_es_preferencia_sexual)
+### [Naturaleza de las necesidades de regulación emocional](/InnerSight/es/no_es_preferencia_sexual)
 Algunas personas confunden ciertas estrategias de regulación emocional con asuntos de identidad o preferencia sexual. Este apartado ofrece una explicación clínica clara, basada en neurociencia, sobre por qué estas necesidades están relacionadas con la salud mental y neurológica, no con la orientación sexual. 
 
 ### [Dignidad espiritual y salud mental](/InnerSight/es/sacerdocio_salud_mental_apropiado_v3)  

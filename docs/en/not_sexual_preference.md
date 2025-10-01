@@ -1,76 +1,69 @@
-# Scientific Foundation: Emotional Regulation Procedures Do Not Constitute a Sexual Preference
+# Scientific Clarification: Emotional Regulation and Sexual Orientation Are Distinct Processes
 
 ## Academic Introduction
 
-There exists a frequent confusion—often rooted in cultural prejudices or lack of clinical understanding—that interprets uncommon psychological emotional regulation procedures as if they were expressions of attraction, orientation, or sexual preference. This association lacks scientific, clinical, and doctrinal foundation. This analysis examines contemporary evidence that conclusively demonstrates that **unconventional emotional regulation and sexual orientation belong to distinct neurological, psychological, and functional domains**, and that confusing them generates unnecessary harm to already vulnerable individuals.
+Some people, when observing unfamiliar emotional regulation strategies, may wonder if these are related to sexual orientation. However, clinical science and neuroscience clearly distinguish between these two domains: one is intrapersonal and regulatory, the other is interpersonal and relational.
+
+This document offers a clear, evidence-based explanation to help leaders, families, and members understand this difference and avoid misunderstandings that could affect the faith and well-being of faithful people.
 
 ---
 
 ## Fundamental Scientific Definitions
 
-### Emotional Regulation: Operational Definition
+### What is emotional regulation?
 
-**Emotional regulation (clinical definition):**
-- Set of conscious and unconscious strategies to manage intense emotional states
-- Primary function: restore nervous system homeostasis
-- May include symbolic behaviors, rituals, use of transitional objects, or repetitive sensory responses
-- Does not imply erotic motivation or interpersonal attraction
+It is the set of ways a person manages intense emotions or overwhelming sensations. It can include repetitive movements, use of comfort objects, symbolic rituals, or specific sensory needs. Its purpose is to restore internal balance, not to express attraction toward others.
 
-### Sexual Orientation: Operational Definition
+### What is sexual orientation?
 
-**Sexual orientation (clinical definition):**
-- Stable pattern of emotional, romantic, or sexual attraction toward people of a specific gender
-- Includes components of desire, affection, and interpersonal bonding
-- Is not an isolated behavior, but a persistent identity dimension
-- Requires the presence of attraction toward others, not just internal behaviors
+**What is sexual orientation?**
+It refers to the pattern of emotional, romantic, or sexual attraction toward people of a specific gender. It involves **interpersonal desire**, not just internal behaviors or automatic body responses.
 
-**Critical distinction:** Emotional regulation is **intrapersonal and self-regulatory**; sexual orientation is **interpersonal and relational**.
+**Key difference:**
+Emotional regulation seeks **internal calm**; sexual orientation involves **connection with others**.
 
 ---
 
 ## Neuroscientific Framework of Differentiation
 
-### Distinct Neurological Circuits
+### The Brain Processes These Experiences Differently
 
-Contemporary neuroscience has identified that the brain systems involved in emotional regulation and sexual attraction are **functionally and anatomically separate**:
+Neuroscience shows that the brain uses **distinct circuits** for emotional regulation and sexual attraction.
 
-- **Emotional regulation:** activates the ventromedial prefrontal cortex, anterior cingulate gyrus, and vagus nerve (Porges, 2011)
-- **Sexual attraction:** involves the nucleus accumbens, amygdala, and hypothalamus, part of the dopaminergic reward system (APA, 2021)
+- When a person seeks calm after stress, areas related to self-regulation and safety are activated.
+- When there is attraction toward another person, reward and desire circuits are activated.
 
-**Clinical implication:** A regulatory behavior that does not activate the sexual reward system **cannot be classified as an expression of sexual preference**, regardless of its external form.
+If a behavior **does not involve attraction toward others or sexual arousal**, it is not considered an expression of sexual orientation, regardless of its external appearance.
 
 ### Absence of Physiological Arousal
 
-An essential diagnostic criterion in the **International Classification of Diseases (ICD-11)** of the World Health Organization (2022) to differentiate between paraphilic and non-paraphilic behaviors is the **presence or absence of recurrent sexual arousal** during the behavior.
-
-- If **there is no physiological arousal or sexual desire**, the behavior is classified as **coping strategy or regulation**, not as paraphilia
-- Most uncommon emotional regulation procedures (such as stimming, symbolic rituals, or use of comfort clothing) **completely lack erotic component**
+Mental health professionals assess whether a behavior is related to sexuality by observing if there is **recurrent desire or arousal**.
+In most cases of emotional regulation—such as in autism, trauma, or Tourette—**there is no sexual component**, only a need for neurological balance.
 
 ---
 
 ## Differential Clinical Evidence
 
-### Validated Clinical Cases
-
-**Autism Spectrum Disorder:**
-Stimming (repetitive movements like rocking or rubbing) serves to regulate sensory input and reduce anxiety. Studies by Kapp et al. (2019) confirm that these behaviors **are not associated with sexual arousal**, but with neurological self-regulation needs.
-
-**Complex Post-Traumatic Stress Disorder (C-PTSD):**
-People who have suffered early trauma may develop symbolic rituals (such as use of infant objects or regressive language) to recreate a sense of safety. Van der Kolk (2014) demonstrates that these behaviors activate **emotional containment circuits**, not desire.
+### Examples of Recognized Conditions
 
 **Tourette Syndrome:**
-Motor or vocal tics are involuntary neurological manifestations. Although some tics may have sexual verbal content (coprolalia), **this does not reflect real desire**, but dysfunctional neurological discharges. The person does not experience attraction associated with the tic.
+Some tics may include words or gestures that seem inappropriate, but **they do not reflect the person's desires**. They are involuntary neurological discharges, like a sneeze.
+
+**Autism:**
+Repetitive movements (like rocking or rubbing hands) help manage overstimulation. Studies confirm that **they are not associated with sexual attraction**, but with sensory needs.
+
+**PTSD:**
+Some people use objects or behaviors that remind them of childhood to feel safe. This **does not imply sexual regression**, but a search for emotional containment.
 
 ### Standard Clinical Assessment
 
-Professionals use objective criteria to differentiate:
+Professionals ask questions like:
 
-- **Reported subjective function**: Do I seek calm or pleasure?
-- **Context of occurrence**: In stressful situations or intimate contexts?
-- **Response to interruption**: Does it generate regulatory distress or sexual frustration?
-- **Presence of attraction toward others**: Does the behavior involve interpersonal desire?
+- Does this behavior occur when you're stressed or when you seek intimacy?
+- Does it generate calm or desire?
+- Does it involve other people or is it something you do just for yourself?
 
-When the answer is **calm, stress, distress, and absence of attraction**, it confirms that the behavior is regulatory, not sexual.
+The answers help distinguish between **regulatory need** and **sexual orientation**.
 
 ---
 
@@ -78,7 +71,7 @@ When the answer is **calm, stress, distress, and absence of attraction**, it con
 
 ### DSM-5 and ICD-11: Categorical Clarity
 
-The **Diagnostic and Statistical Manual of Mental Disorders (DSM-5, APA, 2013)** and **ICD-11 (WHO, 2022)** have progressively eliminated diagnoses that pathologized gender non-conformity or non-sexual behaviors as if they were paraphilias.
+Current clinical guidelines (DSM-5, ICD-11) emphasize that **the external appearance of a behavior does not define its internal purpose**. Only when there is recurrent sexual attraction is it considered a matter of sexual orientation or preference.
 
 **Guiding principle:**
 > "The symbolic appearance or external form of a behavior does not determine its internal motivation. Only the presence of recurrent sexual attraction justifies classification as a paraphilic disorder."
@@ -89,36 +82,33 @@ This distinction protects people with legitimate regulatory needs from being err
 
 ## Evolutionary and Functional Perspective
 
-### Adaptive Function vs. Identity Expression
+From a biological perspective:
 
-From an evolutionary perspective (Gilbert, 2019), emotional regulation strategies have evolved to **promote individual survival** in contexts of threat or instability. In contrast, sexual orientation is linked to **formation of reproductive and social bonds**.
+- Emotional regulation helps to **survive in moments of stress**.
+- Sexual orientation is related to **bond formation**.
 
-**Functional convergence:**
-- Emotional regulation → survival of the self
-- Sexual orientation → connection with others
-
-Confusing both functions distorts the biological and psychological understanding of human behavior.
+They are distinct functions, although sometimes misinterpreted.
 
 ---
 
 ## Implications for Religious Practice
 
-### Harmony between Science and Doctrine
+### Ministering with Understanding and Charity
 
-The doctrine of The Church of Jesus Christ of Latter-day Saints teaches that "the Lord looketh on the heart" (1 Samuel 16:7). Judging a regulatory need as if it were a moral or sexual issue contradicts this fundamental principle.
+The doctrine of The Church of Jesus Christ of Latter-day Saints teaches that "the Lord looketh on the heart" (1 Samuel 16:7). The Savior taught us not to judge by appearances (John 7:24). When a person uses a strategy to manage stress or anxiety, what matters is their intention and heart, not the external form of their behavior.
 
-Additionally, the mandate of charity—"the pure love of Christ" (Moroni 7:47)—demands **presumption of spiritual innocence** until there is clear evidence of deliberate moral choice, not neurological need.
+Supporting with understanding—instead of assuming motives—is an expression of "the pure love of Christ" (Moroni 7:47). This demands **presumption of spiritual innocence** until there is clear evidence of deliberate moral choice, not neurological need.
 
 ### Harm from Erroneous Sexualization
 
-When a regulatory behavior is interpreted as sexual preference, it produces:
+**When a regulatory need is misinterpreted**
+Some faithful members have felt that their spiritual belonging is questioned due to misunderstandings about their mental health needs. This can lead to:
 
-- Unnecessary stigmatization
-- Spiritual exclusion based on misunderstandings
-- Loss of trust in leaders and community
-- Distance from the Savior due to lack of understanding
+- Isolation from family or congregation
+- Difficulty accepting help
+- Loss of trust in the ministering process
 
-This harm does not reflect God's will, but the risk of applying **human judgments without revealed or scientific foundation**.
+That is why it is vital to **learn before assuming, and listen before judging**.
 
 ---
 
@@ -126,12 +116,15 @@ This harm does not reflect God's will, but the risk of applying **human judgment
 
 ### Definitive Validation
 
-Contemporary scientific evidence conclusively establishes that:
+Science and faith coincide on a fundamental principle: **each person deserves to be understood in their totality**.
+Emotional regulation strategies, though they may seem unusual, are not related to sexual orientation. Recognizing this allows:
 
-- Uncommon emotional regulation procedures **are not a sexual preference**
-- Their function is **neurological and adaptive**, not erotic or relational
-- Confusion between both domains **lacks empirical basis**
-- Erroneous sexualization **violates clinical and doctrinal ethical principles**
+- Ministering with greater wisdom
+- Protecting the dignity of all God's children
+- Strengthening unity in Christ's flock
+
+**The call is clear:**
+Understand before judging. Validate before correcting. Love as the Savior would.
 
 ### Imperative for Informed Understanding
 

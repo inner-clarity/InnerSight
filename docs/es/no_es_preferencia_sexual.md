@@ -1,8 +1,8 @@
-# Clarificación científica: la regulación emocional y la orientación sexual son procesos distinto
+# Clarificación científica: la regulación emocional y la orientación sexual son procesos distintos
 
 ## Introducción Académica
 
-gunas personas, al observar estrategias de regulación emocional poco familiares, pueden preguntarse si estas están relacionadas con la orientación sexual. Sin embargo, la ciencia clínica y la neurociencia distinguen claramente entre estos dos dominios: uno es intrapersonal y regulatorio, el otro es interpersonal y relacional. 
+Algunas personas, al observar estrategias de regulación emocional poco familiares, pueden preguntarse si estas están relacionadas con la orientación sexual. Sin embargo, la ciencia clínica y la neurociencia distinguen claramente entre estos dos dominios: uno es intrapersonal y regulatorio, el otro es interpersonal y relacional. 
 
 Este documento ofrece una explicación clara, basada en evidencia, para ayudar a líderes, familias y miembros a comprender esta diferencia y evitar malentendidos que puedan afectar la fe y el bienestar de personas fieles. 
 
@@ -12,7 +12,6 @@ Este documento ofrece una explicación clara, basada en evidencia, para ayudar a
 
 ### ¿Qué es la regulación emocional?
 
-**Qué es la regulación emocional?**
 Es el conjunto de formas en que una persona maneja emociones intensas o sensaciones abrumadoras. Puede incluir movimientos repetitivos, uso de objetos de confort, rituales simbólicos o necesidades sensoriales específicas. Su propósito es restablecer el equilibrio interno, no expresar atracción hacia otros. 
 
 ### ¿Qué es la orientación sexual? 
@@ -96,7 +95,7 @@ Son funciones distintas, aunque a veces se malinterpreten.
 
 ### Ministrar con comprensión y caridad 
 
-La doctrina de La Iglesia de Jesucristo de los Santos de los Últimos Días enseña que “Jehová mira el corazón” (1 Samuel 16:7). Salvador nos enseñó a no juzgar por las apariencias (Juan 7:24). Cuando una persona usa una estrategia para manejar el estrés o la ansiedad, lo que importa es su intención y su corazón, no la forma externa de su conducta. 
+La doctrina de La Iglesia de Jesucristo de los Santos de los Últimos Días enseña que "Jehová mira el corazón" (1 Samuel 16:7). El Salvador nos enseñó a no juzgar por las apariencias (Juan 7:24). Cuando una persona usa una estrategia para manejar el estrés o la ansiedad, lo que importa es su intención y su corazón, no la forma externa de su conducta. 
 
 Apoyar con comprensión —en lugar de asumir motivos— es una expresión del “puro amor de Cristo” (Moroni 7:47). — exige **presunción de inocencia espiritual** hasta que haya evidencia clara de elección moral deliberada, no de necesidad neurológica.
 

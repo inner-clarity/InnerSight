@@ -40,7 +40,7 @@ This section explains, based on neuroscience and clinical studies, how asking so
 ### [When Love is Conditioned on Conformity](/InnerSight/en/emotional_blackmail.html)
 Some members report feeling that their belonging or spiritual worth depends on abandoning certain emotional regulation needs. This section analyzes how these dynamics—though unintended—can affect faith, self-esteem, and relationships, and offers principles for ministering without imposing conditions.
 
-### [Clarification on the Nature of Emotional Regulation Needs](/InnerSight/en/not_sexual_preference.html)
+### [Nature of Emotional Regulation Needs](/InnerSight/en/not_sexual_preference.html)
 Some people confuse certain emotional regulation strategies with matters of identity or sexual preference. This section offers a clear clinical explanation, based on neuroscience, about why these needs are related to mental and neurological health, not sexual orientation.
 
 ### [Spiritual Dignity and Mental Health](/InnerSight/en/sacerdocio_salud_mental_apropiado_v3.html)  
