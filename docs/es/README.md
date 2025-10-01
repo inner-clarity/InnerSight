@@ -73,5 +73,5 @@ Apoyar a líderes, familias y miembros al:
 Nota: InnerSight es un recurso educativo independiente, creado por miembros fieles para apoyar a líderes, familias y profesionales. No está afiliado ni respaldado oficialmente por La Iglesia de Jesucristo de los Santos de los Últimos Días.
 
 
-Cada viaje interior comienza con un primer paso. El tuyo empieza aquí.
+Cada esfuerzo por comprender y ministrar comienza con un primer paso. El tuyo empieza aquí.
 :::
