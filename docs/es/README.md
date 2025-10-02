@@ -26,19 +26,19 @@ Este recurso responde a preguntas frecuentes de líderes y familias sobre cómo 
 
 ---
 
-### Tesimonios
+### Testimonios
 
 > **Hno. reflexivo**: \
 > "Soy poseedor del Sacerdocio de Melquisedec, he servido en múltiples llamamientos. Mi condición neurológica requiere adaptaciones específicas para la regulación sensorial. Durante años sentí vergüenza, hasta que un obispo comprensivo me dijo: 'Tu dignidad ante Dios no depende de tu neurodiversidad'. Esas palabras cambiaron mi vida."
 
 > **Miembro fiel**: \
-> "En una entrevista con un lider, ante el planteo de la necesidad emplear articulos de cuidado personal (TEPT), este lider cuestiono la legitimidad y puso de manifiesto que era 'contrario a que un digno poseedor del sacerdocio empleara eso o que quedaría mal, o que daría verguenza' sin entender que no era capricho sino una necesidad neurológica. Aunque me senti incomprendido, senti que Dios SI sabe lo que me pasa y que El SI entiende mi corazón."
+> "En una entrevista con un líder, ante el planteo de la necesidad de emplear artículos de cuidado personal (PEPT), este líder cuestionó la legitimidad y puso de manifiesto que era 'contrario a que un digno poseedor del sacerdocio empleara eso o que quedaría mal, o que daría vergüenza' sin entender que no era capricho sino una necesidad neurológica. Aunque me sentí incomprendido, sentí que Dios SÍ sabe lo que me pasa y que Él SÍ entiende mi corazón."
 
 > **Misionero retornado**: \
-> "Durante mi misión, me vi expuesto a situaciones que a los demás les incomodaba, a veces tengo tics, incluso emito sonidos verbales inconcientemente (Sindrome de Tourette). Hubieron lideres que me llamaron la atencion de 'que estaba faltando el respeto o que era irreverente' pero yo lo hacia forma involuntaria, me hubiera gustado que esten informados de esta condiciones neurológicas. Estoy agradecido por haber tenido un presidente de misión amoroso y comprensivo, he tenido compañeros muy pacientes, me hicieron sentir que el Salvador me cuidaba. Temine mi mision con honor"
+> "Durante mi misión, me vi expuesto a situaciones que a los demás les incomodaba, a veces tengo tics, incluso emito sonidos verbales inconscientemente (Síndrome de Tourette). Hubo líderes que me llamaron la atención de 'que estaba faltando el respeto o que era irreverente' pero yo lo hacía de forma involuntaria, me hubiera gustado que estén informados de estas condiciones neurológicas. Estoy agradecido por haber tenido un presidente de misión amoroso y comprensivo, he tenido compañeros muy pacientes, me hicieron sentir que el Salvador me cuidaba. Terminé mi misión con honor"
 
 > **Abnegada madre**: \
-> "Muchos me han dicho 'porque no mantenía a mi hijo quieto' o que 'yo era una mala madre' porque no controlo a mi hijo (mi hijo tiene autismo), incluso me plentie la posibilidad de no ir más a la Iglesia. No entienden por todo lo que vivo diariamente, aun así recibo fuerza de un Padre Celestial que me ama, la fortaleza de un esposo amoroso, fiel y buen padre, y la promesa de que si me mantego fiel "El Señor me llevará en sus hombros". Si pudieran los demás tener mayor compresión, sentiria mi carga un poco mas liviana"
+> "Muchos me han dicho 'por qué no mantenía a mi hijo quieto' o que 'yo era una mala madre' porque no controlo a mi hijo (mi hijo tiene autismo), incluso me plantearon la posibilidad de no ir más a la Iglesia. No entienden todo lo que vivo diariamente, aún así recibo fuerza de un Padre Celestial que me ama, la fortaleza de un esposo amoroso, fiel y buen padre, y la promesa de que si me mantengo fiel 'El Señor me llevará en sus hombros'. Si pudieran los demás tener mayor comprensión, sentiría mi carga un poco más liviana"
 
 ---
 
