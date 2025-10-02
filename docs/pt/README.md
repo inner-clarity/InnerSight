@@ -38,7 +38,7 @@ Este recurso responde a perguntas frequentes de líderes e famílias sobre como 
 > "Durante minha missão, fui exposto a situações que incomodavam os outros, às vezes tenho tiques, até emito sons verbais inconscientemente (Síndrome de Tourette). Houve líderes que me chamaram a atenção por 'faltar respeito ou ser irreverente' mas eu fazia de forma involuntária, gostaria que estivessem informados sobre essas condições neurológicas. Sou grato por ter tido um presidente de missão amoroso e compreensivo, tive companheiros muito pacientes, me fizeram sentir que o Salvador cuidava de mim. Terminei minha missão com honra"
 
 > **Mãe abnegada**: \
-> "Muitos me disseram 'por que não mantinha meu filho quieto' ou que 'eu era uma má mãe' porque não controlo meu filho (meu filho tem autismo), até me sugeriram a possibilidade de não ir mais à Igreja. Não entendem tudo pelo que passo diariamente, ainda assim recebo força de um Pai Celestial que me ama, a fortaleza de um marido amoroso, fiel e bom pai, e a promessa de que se me mantiver fiel 'O Senhor me levará em seus ombros'. Se os outros pudessem ter maior compreensão, sentiria minha carga um pouco mais leve"
+> "Muitos me disseram 'por que não mantinha meu filho quieto' ou que 'eu era uma má mãe' porque não controlo meu filho (meu filho tem autismo), até me sugeriram a possibilidade de não ir mais à Igreja. Não entendem tudo pelo que passo diariamente, ainda assim recebo força de um Pai Celestial que me ama, a fortaleza de um marido amoroso, fiel e bom pai, e a promessa de que se me mantiver fiel 'O Senhor me levará em seus ombros'. Se os outros pudessem ter maior compreensão, sentiria minha carga um pouco mais leve. Mas acima de tudo, sei que o Salvador me entende perfeitamente, e isso me dá paz."
 
 ---
 
