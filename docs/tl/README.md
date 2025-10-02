@@ -26,6 +26,22 @@ Ang resource na ito ay tumutugon sa mga karaniwang tanong ng mga pinuno at pamil
 
 ---
 
+### Mga Patotoo
+
+> **Kapatid na mapagninilay**: \
+> "Ako ay may hawak ng Melchizedek Priesthood, naglingkod ako sa maraming mga tawag. Ang aking neurological condition ay nangangailangan ng mga tiyak na pagbabago para sa sensory regulation. Sa loob ng maraming taon ay nakaramdam ako ng kahihiyan, hanggang sa sinabi sa akin ng isang naiintindihang obispo: 'Ang inyong dignidad sa harap ng Diyos ay hindi nakasalalay sa inyong neurodiversity'. Ang mga salitang iyon ay nagbago ng aking buhay."
+
+> **Tapat na miyembro**: \
+> "Sa isang pakikipanayam sa isang pinuno, sa harap ng pagtatanghal ng pangangailangan na gumamit ng mga personal care items (PEPT), ang pinunong ito ay nagtanong sa lehitimidad at ginawang malinaw na 'salungat sa isang karapat-dapat na priesthood holder na gumamit nito o na magiging masama, o na nakakahiya' nang hindi naiintindihan na hindi ito kapricho kundi isang neurological need. Bagaman nakaramdam ako ng hindi pagkakaunawaan, naramdaman ko na alam ng Diyos ang nangyayari sa akin at na nauunawaan Niya ang aking puso."
+
+> **Returned missionary**: \
+> "Sa panahon ng aking misyon, ako ay nailantad sa mga sitwasyon na nakakabahala sa iba, minsan may mga tics ako, nakakagawa pa ako ng mga walang malay na verbal sounds (Tourette's Syndrome). May mga pinuno na nagbigay sa akin ng pansin dahil sa 'pagkukulang ng respeto o pagiging walang galang' ngunit ginawa ko ito nang hindi sinasadya, sana ay naipaalam sa kanila ang mga neurological conditions na ito. Nagpapasalamat ako na nagkaroon ng isang mapagmahal at naiintindihang mission president, nagkaroon ako ng mga napakapasyenteng kasama, ginawa nila akong makaramdam na inaalagaan ako ng Tagapagligtas. Natapos ko ang aking misyon nang may dangal"
+
+> **Mapagkakatiwalaang ina**: \
+> "Marami ang nagsabi sa akin na 'bakit hindi ko pinatahimik ang aking anak' o na 'ako ay isang masamang ina' dahil hindi ko kinokontrol ang aking anak (ang aking anak ay may autism), maging nagmungkahi sila ng posibilidad na hindi na pumunta sa Simbahan. Hindi nila naiintindihan ang lahat ng aking dinaranas araw-araw, gayunpaman ay tumatanggap ako ng lakas mula sa isang Makalangit na Ama na nagmamahal sa akin, ang lakas ng isang mapagmahal, tapat at mabuting asawang ama, at ang pangako na kung mananatili akong tapat 'dadalahin ako ng Panginoon sa Kanyang mga balikat'. Kung ang iba ay magkakaroon ng mas malaking pag-unawa, makakaramdam ako na ang aking pasanin ay medyo mas magaan"
+
+---
+
 ## Pangunahing Nilalaman
 
 ### [Mga Pundasyon sa Sikolohiya](/InnerSight/tl/analisis_psicologico_apropiado_v2)
@@ -51,6 +67,9 @@ Sinusuri ng seksyong ito kung paano ang mga turo ng Ebanghelyo — kasama ang mg
 
 ### [Institutional Proposal](/InnerSight/tl/propuesta_v1_esp)
 Komprehensibong proposal na isinumite sa First Presidency para sa institutional inclusion sa kalusugan ng isip at neurological conditions. Kasama ang scientific foundation, doctrinal harmony at proposed institutional statement na may malinaw na gabay para sa mga pinuno at komunidad.
+
+### [Gabay sa Praktikal para sa mga Leaders](/InnerSight/tl/Gabay_Praktikal_mga_Leaders)
+Gabay sa praktikal na may mga karaniwang scenario na hinaharap ng mga leaders sa ministering sa mga miyembrong may emotional regulation needs. Kasama ang tiyak na gabay sa kung paano tumugon nang may karunungan at habag sa mga tunay na sitwasyon.
 
 ### [Mga Madalas Itanong para sa mga Leaders](/InnerSight/tl/PreguntasFrecuentes)
 Mga karaniwang tanong at sagot para sa mga leaders na humahanap na mas maunawaan kung paano suportahan ang mga miyembrong may mental at neurological health needs. Kasama ang praktikal na gabay tungkol sa pagkilanlan ng lehitimong needs, temple worthiness, family dynamics at reasonable accommodations.

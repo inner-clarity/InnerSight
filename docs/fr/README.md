@@ -26,6 +26,22 @@ Cette ressource répond aux questions fréquentes des dirigeants et des familles
 
 ---
 
+### Témoignages
+
+> **Frère réfléchi**: \
+> "Je suis détenteur de la Prêtrise de Melchisédek, j'ai servi dans plusieurs appels. Ma condition neurologique nécessite des adaptations spécifiques pour la régulation sensorielle. Pendant des années, j'ai ressenti de la honte, jusqu'à ce qu'un évêque compréhensif me dise : 'Votre dignité devant Dieu ne dépend pas de votre neurodiversité'. Ces mots ont changé ma vie."
+
+> **Membre fidèle**: \
+> "Dans un entretien avec un dirigeant, face à la présentation du besoin d'utiliser des articles de soins personnels (PEPT), ce dirigeant a mis en question la légitimité et a fait valoir que c'était 'contraire à ce qu'un digne détenteur de la prêtrise utilise cela ou que cela ferait mal, ou que ce serait gênant' sans comprendre que ce n'était pas un caprice mais un besoin neurologique. Bien que je me sois senti incompris, j'ai senti que Dieu SAIT ce qui m'arrive et qu'Il COMPREND mon cœur."
+
+> **Missionnaire de retour**: \
+> "Pendant ma mission, j'ai été exposé à des situations qui dérangeaient les autres, parfois j'ai des tics, j'émet même des sons verbaux inconscients (Syndrome de Tourette). Il y avait des dirigeants qui m'ont reproché de 'manquer de respect ou d'être irrévérencieux' mais je le faisais involontairement, j'aurais aimé qu'ils soient informés de ces conditions neurologiques. Je suis reconnaissant d'avoir eu un président de mission aimant et compréhensif, j'ai eu des compagnons très patients, ils m'ont fait sentir que le Sauveur prenait soin de moi. J'ai terminé ma mission avec honneur"
+
+> **Mère abnégée**: \
+> "Beaucoup m'ont dit 'pourquoi je ne tenais pas mon fils tranquille' ou que 'j'étais une mauvaise mère' parce que je ne contrôle pas mon fils (mon fils a l'autisme), ils ont même suggéré la possibilité de ne plus aller à l'église. Ils ne comprennent pas tout ce que je vis quotidiennement, même ainsi je reçois la force d'un Père Céleste qui m'aime, la force d'un mari aimant, fidèle et bon père, et la promesse que si je reste fidèle 'Le Seigneur me portera sur ses épaules'. Si les autres pouvaient avoir une plus grande compréhension, je sentirais mon fardeau un peu plus léger"
+
+---
+
 ## Contenu Principal
 
 ### [Fondements Psychologiques](/InnerSight/fr/analisis_psicologico_apropiado_v2)
@@ -51,6 +67,9 @@ Cette section examine comment les enseignements de l'Évangile — y compris les
 
 ### [Proposition Institutionnelle](/InnerSight/fr/propuesta_v1_esp)
 Proposition complète présentée à la Première Présidence pour l'inclusion institutionnelle en matière de santé mentale et de conditions neurologiques. Comprend un fondement scientifique, une harmonie doctrinale et une déclaration institutionnelle proposée avec des orientations claires pour les dirigeants et les communautés.
+
+### [Guide Pratique pour les Dirigeants](/InnerSight/fr/Guide_Pratique_Leaders)
+Guide pratique avec des scénarios courants que rencontrent les dirigeants en servant les membres ayant des besoins de régulation émotionnelle. Comprend des orientations spécifiques sur la façon de répondre avec sagesse et compassion dans des situations réelles.
 
 ### [Questions Fréquentes pour les Dirigeants](/InnerSight/fr/PreguntasFrecuentes)
 Questions et réponses courantes pour les dirigeants qui cherchent à mieux comprendre comment soutenir les membres ayant des besoins de santé mentale et neurologiques. Comprend des orientations pratiques sur la distinction entre besoins légitimes, dignité pour le temple, dynamiques familiales et accommodations raisonnables.

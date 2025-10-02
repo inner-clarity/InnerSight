@@ -55,6 +55,7 @@ module.exports = {
           { title: 'Emotional Marital Security', path: '/en/Emotional_Marital_Security.html' },
           { title: 'Priesthood & Mental Health', path: '/en/sacerdocio_salud_mental_apropiado_v5.html' },
           { title: 'Institutional Proposal', path: '/en/proposal_v1_en.html' },
+          { title: 'Practical Guide for Leaders', path: '/en/Practical_Guide_Leaders.html' },
           { title: 'FAQ for Leaders', path: '/en/PreguntasFrecuentes.html' },
           { title: 'Family Conversation Guide', path: '/en/Guia_conversacion.html' }
         ],
@@ -97,6 +98,7 @@ module.exports = {
           { title: 'Seguridad Emocional Conyugal', path: '/es/Seguridad_Emocional_Conyugal.html' },
           { title: 'Sacerdocio y Salud Mental', path: '/es/sacerdocio_salud_mental_apropiado_v5.html' },
           { title: 'Propuesta Institucional', path: '/es/propuesta_v1_esp.html' },
+          { title: 'Guía Práctica para Líderes', path: '/es/guia_practica_lideres.html' },
           { title: 'Preguntas Frecuentes', path: '/es/PreguntasFrecuentes.html' },
           { title: 'Guía de Conversación', path: '/es/Guia_conversacion.html' }
         ],
@@ -139,6 +141,7 @@ module.exports = {
           { title: 'Segurança Emocional Conjugal', path: '/pt/Seguranca_Emocional_Conjugal.html' },
           { title: 'Sacerdócio e Saúde Mental', path: '/pt/sacerdocio_salud_mental_apropiado_v5.html' },
           { title: 'Proposta Institucional', path: '/pt/propuesta_v1_esp.html' },
+          { title: 'Guia Prática para Líderes', path: '/pt/Guia_Pratica_Lideres.html' },
           { title: 'Perguntas Frequentes', path: '/pt/PreguntasFrecuentes.html' },
           { title: 'Guia de Conversação', path: '/pt/Guia_conversacion.html' }
         ],
@@ -181,6 +184,7 @@ module.exports = {
           { title: 'Sécurité Émotionnelle Conjugale', path: '/fr/Securite_Emotionnelle_Conjugale.html' },
           { title: 'Sacerdoce et Santé Mentale', path: '/fr/sacerdocio_salud_mental_apropiado_v5.html' },
           { title: 'Proposition Institutionnelle', path: '/fr/propuesta_v1_esp.html' },
+          { title: 'Guide Pratique pour les Dirigeants', path: '/fr/Guide_Pratique_Leaders.html' },
           { title: 'Questions Fréquentes', path: '/fr/PreguntasFrecuentes.html' },
           { title: 'Guide de Conversation', path: '/fr/Guia_conversacion.html' }
         ],
@@ -223,6 +227,7 @@ module.exports = {
           { title: 'Seguridad Emosyonal sa Pag-aasawa', path: '/tl/Seguridad_Emosyonal_sa_Pag-aasawa.html' },
           { title: 'Priesthood at Mental Health', path: '/tl/sacerdocio_salud_mental_apropiado_v5.html' },
           { title: 'Institutional Proposal', path: '/tl/propuesta_v1_esp.html' },
+          { title: 'Gabay sa Praktikal para sa mga Leaders', path: '/tl/Gabay_Praktikal_mga_Leaders.html' },
           { title: 'Mga Madalas Itanong', path: '/tl/PreguntasFrecuentes.html' },
           { title: 'Gabay sa Conversation', path: '/tl/Guia_conversacion.html' }
         ],

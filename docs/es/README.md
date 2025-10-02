@@ -26,6 +26,22 @@ Este recurso responde a preguntas frecuentes de líderes y familias sobre cómo 
 
 ---
 
+### Tesimonios
+
+> **Hno. reflexivo**: \
+> "Soy poseedor del Sacerdocio de Melquisedec, he servido en múltiples llamamientos. Mi condición neurológica requiere adaptaciones específicas para la regulación sensorial. Durante años sentí vergüenza, hasta que un obispo comprensivo me dijo: 'Tu dignidad ante Dios no depende de tu neurodiversidad'. Esas palabras cambiaron mi vida."
+
+> **Miembro fiel**: \
+> "En una entrevista con un lider, ante el planteo de la necesidad emplear articulos de cuidado personal (PEPT), este lider cuestiono la legitimidad y puso de manifiesto que era 'contrario a que un digno poseedor del sacerdocio empleara eso o que quedaría mal, o que daría verguenza' sin entender que no era capricho sino una necesidad neurológica. Aunque me senti incomprendido, senti que Dios SI sabe lo que me pasa y que El SI entiende mi corazón."
+
+> **Misionero retornado**: \
+> "Durante mi misión, me vi expuesto a situaciones que a los demás les incomodaba, a veces tengo tics, incluso emito sonidos verbales inconcientemente (Sindrome de Tourette). Hubieron lideres que me llamaron la atencion de 'que estaba faltando el respeto o que era irreverente' pero yo lo hacia forma involuntaria, me hubiera gustado que esten informados de esta condiciones neurológicas. Estoy agradecido por haber tenido un presidente de misión amoroso y comprensivo, he tenido compañeros muy pacientes, me hicieron sentir que el Salvador me cuidaba. Temine mi mision con honor"
+
+> **Abnegada madre**: \
+> "Muchos me han dicho 'porque no mantenía a mi hijo quieto' o que 'yo era una mala madre' porque no controlo a mi hijo (mi hijo tiene autismo), incluso me plentie la posibilidad de no ir más a la Iglesia. No entienden por todo lo que vivo diariamente, aun así recibo fuerza de un Padre Celestial que me ama, la fortaleza de un esposo amoroso, fiel y buen padre, y la promesa de que si me mantego fiel "El Señor me llevará en sus hombros". Si pudieran los demás tener mayor compresión, sentiria mi carga un poco mas liviana"
+
+---
+
 ## Contenido Principal
 
 ### [Fundamentos Psicológicos](/InnerSight/es/analisis_psicologico_apropiado_v2)
@@ -53,6 +69,9 @@ Este apartado examina cómo las enseñanzas del Evangelio —incluyendo las Escr
 
 ### [Propuesta Institucional](/InnerSight/es/propuesta_v1_esp)
 Propuesta integral presentada a La Primera Presidencia para inclusión institucional en salud mental y condiciones neurológicas. Incluye fundamento científico, armonía doctrinal y declaración institucional propuesta con orientación clara para líderes y comunidades.
+
+### [Guía Práctica para Líderes](/InnerSight/es/guia_practica_lideres)
+Guía práctica con escenarios comunes que enfrentan los líderes al ministrar a miembros con necesidades de regulación emocional. Incluye orientación específica sobre cómo responder con sabiduría y compasión en situaciones reales.
 
 ### [Preguntas Frecuentes para Líderes](/InnerSight/es/PreguntasFrecuentes)
 Preguntas y respuestas comunes para líderes que buscan entender mejor cómo apoyar a miembros con necesidades de salud mental y neurológicas. Incluye orientación práctica sobre cómo distinguir necesidades legítimas, dignidad para el templo, dinámicas familiares y adaptaciones razonables.

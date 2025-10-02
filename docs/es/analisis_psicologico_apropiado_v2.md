@@ -83,7 +83,7 @@ os principios están en armonía con las enseñanzas del Evangelio:
 - **“Recibíos los unos a los otros, como también Cristo nos recibió”** (Romanos 15:7): El Salvador recibió a todos, sin exigir conformidad previa.
 - **“Por persuasión, por longanimidad, por benignidad”** (Doctrina y Convenios 121:41): El verdadero liderazgo no obliga, sino que invita con amor.
 
-## Fortalecer a las mienbros mediante la comprensión
+## Fortalecer a las miembros mediante la comprensión
 
 ### Para Individuos
 
