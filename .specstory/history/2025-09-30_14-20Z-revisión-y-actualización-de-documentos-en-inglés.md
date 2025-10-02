@@ -685,6 +685,20 @@ Perfecto. Ahora verificaré si hay errores de linter en los archivos actualizado
 
 Tool use: **read_lints**
 
+<details>
+          <summary>Read lints for 2 files</summary>
+      
+Lint paths:
+
+- `docs/en/analisis_psicologico_apropiado_v2.md`
+- `docs/en/mental_health_statement_v3_english.md`
+
+Lint results
+
+
+**No lint errors found**
+</details>
+
 ---
 
 <think><details><summary>Thought Process</summary>Excelente, no hay errores. Ahora voy a crear un resumen completo para el usuario de lo que se modificó y actualizó.</details></think>
@@ -1032,6 +1046,19 @@ Lines added: 2, lines removed: 1
 ---
 
 Tool use: **read_lints**
+
+<details>
+          <summary>Read lints for 1 file</summary>
+      
+Lint paths:
+
+- `docs/en/scientific_foundation_validation.md`
+
+Lint results
+
+
+**No lint errors found**
+</details>
 
 ---
 
@@ -1501,6 +1528,20 @@ Ahora déjame verificar si todos los archivos están sincronizados y si hay alg�
 
 Tool use: **read_lints**
 
+<details>
+          <summary>Read lints for 2 files</summary>
+      
+Lint paths:
+
+- `docs/README.md`
+- `docs/en/README.md`
+
+Lint results
+
+
+**No lint errors found**
+</details>
+
 ---
 
 Tool use: **run_terminal_cmd**
@@ -1575,6 +1616,17 @@ Veo que el documento `chantaje_emocional.md` ha sido modificado con un enfoque m
 ---
 
 Tool use: **glob_file_search**
+
+<details>
+<summary>Searched codebase "*emotional_blackmail.md" • **1** result in **1** directory</summary>
+
+Directory: **c:\Users\aparada\InnerSight** (1 file)
+
+| File |
+|------|
+| `docs\en\emotional_blackmail.md` |
+
+</details>
 
 ---
 
@@ -1935,6 +1987,19 @@ Lines added: 3, lines removed: 15
 ---
 
 Tool use: **read_lints**
+
+<details>
+          <summary>Read lints for 1 file</summary>
+      
+Lint paths:
+
+- `docs/en/emotional_blackmail.md`
+
+Lint results
+
+
+**No lint errors found**
+</details>
 
 ---
 
@@ -2676,6 +2741,20 @@ Lines added: 9, lines removed: 6
 
 Tool use: **read_lints**
 
+<details>
+          <summary>Read lints for 2 files</summary>
+      
+Lint paths:
+
+- `docs/es/no_es_preferencia_sexual.md`
+- `docs/en/not_sexual_preference.md`
+
+Lint results
+
+
+**No lint errors found**
+</details>
+
 ---
 
 <think><details><summary>Thought Process</summary>Perfecto, no hay errores de linter. Ahora debo dar un resumen al usuario de lo que se actualizó.</details></think>
@@ -2801,6 +2880,19 @@ Lines added: 1, lines removed: 1
 ---
 
 Tool use: **read_lints**
+
+<details>
+          <summary>Read lints for 1 file</summary>
+      
+Lint paths:
+
+- `docs/en/README.md`
+
+Lint results
+
+
+**No lint errors found**
+</details>
 
 ---
 

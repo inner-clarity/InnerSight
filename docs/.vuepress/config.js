@@ -55,7 +55,9 @@ module.exports = {
           { title: 'Marital Intimacy Effects', path: '/en/effects_of_restrictions_on_marital_intimacy.html' },
           { title: 'Priesthood & Mental Health', path: '/en/sacerdocio_salud_mental_apropiado_v4.html' },
           { title: 'Institutional Statement', path: '/en/mental_health_statement_v3_english.html' },
-          { title: 'Institutional Proposal', path: '/en/proposal_v1_en.html' }
+          { title: 'Institutional Proposal', path: '/en/proposal_v1_en.html' },
+          { title: 'FAQ for Leaders', path: '/en/PreguntasFrecuentes.html' },
+          { title: 'Family Conversation Guide', path: '/en/Guia_conversacion.html' }
         ],
 
         lastUpdated: 'Last Updated',
@@ -96,7 +98,9 @@ module.exports = {
           { title: 'Efectos en lo Conyugal', path: '/es/efectos_de_restricciones_en_lo_conyugal.html' },
           { title: 'Sacerdocio y Salud Mental', path: '/es/sacerdocio_salud_mental_apropiado_v4.html' },
           { title: 'Declaración Institucional', path: '/es/comunicado_salud_mental_v3_esp.html' },
-          { title: 'Propuesta Institucional', path: '/es/propuesta_v1_esp.html' }
+          { title: 'Propuesta Institucional', path: '/es/propuesta_v1_esp.html' },
+          { title: 'Preguntas Frecuentes', path: '/es/PreguntasFrecuentes.html' },
+          { title: 'Guía de Conversación', path: '/es/Guia_conversacion.html' }
         ],
 
         lastUpdated: 'Última actualización',
@@ -137,7 +141,9 @@ module.exports = {
           { title: 'Efeitos na Intimidade Conjugal', path: '/pt/efectos_de_restricciones_en_lo_conyugal.html' },
           { title: 'Sacerdócio e Saúde Mental', path: '/pt/sacerdocio_salud_mental_apropiado_v4.html' },
           { title: 'Declaração Institucional', path: '/pt/comunicado_salud_mental_v3_esp.html' },
-          { title: 'Proposta Institucional', path: '/pt/propuesta_v1_esp.html' }
+          { title: 'Proposta Institucional', path: '/pt/propuesta_v1_esp.html' },
+          { title: 'Perguntas Frequentes', path: '/pt/PreguntasFrecuentes.html' },
+          { title: 'Guia de Conversação', path: '/pt/Guia_conversacion.html' }
         ],
 
         lastUpdated: 'Última atualização',
@@ -178,7 +184,9 @@ module.exports = {
           { title: 'Effets sur l\'Intimité Conjugale', path: '/fr/efectos_de_restricciones_en_lo_conyugal.html' },
           { title: 'Sacerdoce et Santé Mentale', path: '/fr/sacerdocio_salud_mental_apropiado_v4.html' },
           { title: 'Déclaration Institutionnelle', path: '/fr/comunicado_salud_mental_v3_esp.html' },
-          { title: 'Proposition Institutionnelle', path: '/fr/propuesta_v1_esp.html' }
+          { title: 'Proposition Institutionnelle', path: '/fr/propuesta_v1_esp.html' },
+          { title: 'Questions Fréquentes', path: '/fr/PreguntasFrecuentes.html' },
+          { title: 'Guide de Conversation', path: '/fr/Guia_conversacion.html' }
         ],
 
         lastUpdated: 'Dernière mise à jour',
@@ -219,7 +227,9 @@ module.exports = {
           { title: 'Epekto sa Conjugal Intimacy', path: '/tl/efectos_de_restricciones_en_lo_conyugal.html' },
           { title: 'Priesthood at Mental Health', path: '/tl/sacerdocio_salud_mental_apropiado_v4.html' },
           { title: 'Institutional Statement', path: '/tl/comunicado_salud_mental_v3_esp.html' },
-          { title: 'Institutional Proposal', path: '/tl/propuesta_v1_esp.html' }
+          { title: 'Institutional Proposal', path: '/tl/propuesta_v1_esp.html' },
+          { title: 'Mga Madalas Itanong', path: '/tl/PreguntasFrecuentes.html' },
+          { title: 'Gabay sa Conversation', path: '/tl/Guia_conversacion.html' }
         ],
 
         lastUpdated: 'Huling na-update',

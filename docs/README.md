@@ -52,6 +52,12 @@ This document proposes a statement that could be issued from general leadership 
 ### [Institutional Proposal](/InnerSight/en/proposal_v1_en)
 Comprehensive proposal submitted to The First Presidency for institutional inclusion in mental health and neurological conditions. Includes scientific foundation, doctrinal harmony, and proposed institutional statement with clear guidance for leaders and communities.
 
+### [Frequently Asked Questions for Leaders](/InnerSight/en/PreguntasFrecuentes)
+Common questions and answers for leaders seeking to better understand how to support members with mental health and neurological needs. Includes practical guidance on distinguishing legitimate needs, temple worthiness, family dynamics, and reasonable accommodations.
+
+### [Guide for Difficult Family Conversations](/InnerSight/en/Guia_conversacion)
+Practical guide for members and families facing challenging conversations about mental health or neurological needs. Includes specific guidance for both those with the needs and family members, with communication strategies, emotional management, and professional support seeking.
+
 ---
 
 ## Objective

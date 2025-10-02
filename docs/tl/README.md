@@ -52,6 +52,12 @@ Ang dokumentong ito ay nagmumungkahi ng pahayag na maaaring ilabas mula sa pangk
 ### [Institutional Proposal](/InnerSight/tl/propuesta_v1_esp)
 Komprehensibong proposal na isinumite sa First Presidency para sa institutional inclusion sa kalusugan ng isip at neurological conditions. Kasama ang scientific foundation, doctrinal harmony at proposed institutional statement na may malinaw na gabay para sa mga pinuno at komunidad.
 
+### [Mga Madalas Itanong para sa mga Leaders](/InnerSight/tl/PreguntasFrecuentes)
+Mga karaniwang tanong at sagot para sa mga leaders na humahanap na mas maunawaan kung paano suportahan ang mga miyembrong may mental at neurological health needs. Kasama ang praktikal na gabay tungkol sa pagkilanlan ng lehitimong needs, temple worthiness, family dynamics at reasonable accommodations.
+
+### [Gabay para sa Mahihirap na Pamilya Conversations](/InnerSight/tl/Guia_conversacion)
+Praktikal na gabay para sa mga miyembro at pamilya na humaharap sa challenging conversations tungkol sa mental health o neurological needs. Kasama ang specific guidance para sa parehong yaong may needs at family members, na may communication strategies, emotional management at professional support seeking.
+
 ---
 
 ## Layunin
@@ -72,4 +78,3 @@ Paalala: Ang InnerSight ay isang independiyenteng educational resource, nilikha 
 
 Ang bawat pagsisikap na maunawaan at maglingkod ay nagsisimula sa isang unang hakbang. Ang iyong sayo ay nagsisimula dito.
 :::
-

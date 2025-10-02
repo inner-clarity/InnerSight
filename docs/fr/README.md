@@ -52,6 +52,12 @@ Ce document propose une déclaration qui pourrait être émise par la direction 
 ### [Proposition Institutionnelle](/InnerSight/fr/propuesta_v1_esp)
 Proposition complète présentée à la Première Présidence pour l'inclusion institutionnelle en matière de santé mentale et de conditions neurologiques. Comprend un fondement scientifique, une harmonie doctrinale et une déclaration institutionnelle proposée avec des orientations claires pour les dirigeants et les communautés.
 
+### [Questions Fréquentes pour les Dirigeants](/InnerSight/fr/PreguntasFrecuentes)
+Questions et réponses courantes pour les dirigeants qui cherchent à mieux comprendre comment soutenir les membres ayant des besoins de santé mentale et neurologiques. Comprend des orientations pratiques sur la distinction entre besoins légitimes, dignité pour le temple, dynamiques familiales et accommodations raisonnables.
+
+### [Guide pour les Conversations Familiales Difficiles](/InnerSight/fr/Guia_conversacion)
+Guide pratique pour les membres et les familles confrontés à des conversations difficiles sur les besoins de santé mentale ou neurologiques. Comprend des orientations spécifiques tant pour ceux qui ont les besoins que pour les membres de la famille, avec des stratégies de communication, gestion émotionnelle et recherche de soutien professionnel.
+
 ---
 
 ## Objectif
@@ -72,4 +78,3 @@ Note: InnerSight est une ressource éducative indépendante, créée par des mem
 
 Chaque effort pour comprendre et servir commence par un premier pas. Le vôtre commence ici.
 :::
-

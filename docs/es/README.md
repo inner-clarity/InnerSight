@@ -54,6 +54,12 @@ Este documento propone un comunicado que podría emitirse desde el liderazgo gen
 ### [Propuesta Institucional](/InnerSight/es/propuesta_v1_esp)
 Propuesta integral presentada a La Primera Presidencia para inclusión institucional en salud mental y condiciones neurológicas. Incluye fundamento científico, armonía doctrinal y declaración institucional propuesta con orientación clara para líderes y comunidades.
 
+### [Preguntas Frecuentes para Líderes](/InnerSight/es/PreguntasFrecuentes)
+Preguntas y respuestas comunes para líderes que buscan entender mejor cómo apoyar a miembros con necesidades de salud mental y neurológicas. Incluye orientación práctica sobre cómo distinguir necesidades legítimas, dignidad para el templo, dinámicas familiares y adaptaciones razonables.
+
+### [Guía para Conversaciones Familiares Difíciles](/InnerSight/es/Guia_conversacion)
+Guía práctica para miembros y familias que enfrentan conversaciones desafiantes sobre necesidades de salud mental o neurológicas. Incluye orientación específica tanto para quien tiene las necesidades como para los familiares, con estrategias de comunicación, manejo emocional y búsqueda de apoyo profesional.
+
 ---
 
 ## Objetivo

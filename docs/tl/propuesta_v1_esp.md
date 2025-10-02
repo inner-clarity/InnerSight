@@ -10,24 +10,37 @@
 
 Tinutugunan ng proposal na ito ang lumalaking pangangailangan sa loob ng Simbahan ni Jesucristo ng mga Banal sa mga Huling Araw: malinaw na gabay upang isama at suportahan ang mga miyembro na may mental health conditions at neurological differences na nangangailangan ng non-conventional emotional regulation procedures. Ang kasalukuyang kakulangan ng institutional direction ay lumilikha ng unnecessary suffering, family conflicts at potential loss ng valuable members.
 
-### Identified Need
+### Magnitude ng Pangangailangan
 
+Ipinapakita ng mga pananaliksik na:  
+- 1 sa 5 adults ay nakakaranas ng mental health conditions sa isang taon (NIMH, 2023)  
+- Ang autism spectrum disorder ay nakakaapekto sa humigit-kumulang 1 sa 36 bata (CDC, 2023)  
+- Ang Tourette Syndrome ay nakakaapekto sa humigit-kumulang 1 sa 160 bata (Tourette Association)  
+- Ang ACEs (Adverse Childhood Experiences) studies ay nagpapakita na 2 sa 3 adults ay nag-uulat ng kahit isang significant traumatic experience  
+
+**Sa Simbahan, ito ay nangangahulugan:**  
+Kung ang isang stake ay may 3,000 miyembro, potentially:  
+- 600 ay maaaring may active mental health conditions  
+- 80+ ay maaaring may neurological conditions na nangangailangan ng adaptation  
+- Napakadaming nakaranas ng trauma na nakakaapekto sa kanilang emotional regulation  
+
+Ito ay hindi "rare exception" — ito ay common reality na nangangailangan ng institutional preparation.
+
+**Identified Need**  
 Ang mga miyembrong may conditions na nangangailangan ng uncommon self-regulation strategies — kasama ang trauma responses, Tourette Syndrome, autism spectrum differences, at iba pang neurological variations — ay humaharap sa confusion, stigma at kung minsan ay exclusion sa kabila ng kanilang spiritual dignity at desire na maglingkod.
 
-### Proposed Solution
+**Proposed Solution**  
+Isang malinaw na institutional statement na nagpapatibay na:  
+- Ang mental at neurological health needs ay hindi nakakaapekto sa priesthood dignity  
+- Ang non-conventional regulation procedures ay medical/neurological needs, hindi moral issues  
+- Ang communities ay dapat magbigay ng adaptation at support, hindi correction o exclusion  
+- Ang mga prinsipyong ito ay harmonious sa *Ang Pamilya: Isang Proklamasyon sa Mundo*
 
-Isang malinaw na institutional statement na nagpapatibay na:
-- Ang mental at neurological health needs ay hindi nakakaapekto sa priesthood dignity
-- Ang non-conventional regulation procedures ay medical/neurological needs, hindi moral issues
-- Ang communities ay dapat magbigay ng adaptation at support, hindi correction o exclusion
-- Ang mga prinsipyong ito ay harmonious sa "Ang Pamilya: Isang Proklamasyon sa Mundo"
-
-### Expected Benefits
-
-- Reduction ng stigma at increase ng inclusion para sa vulnerable members
-- Malinaw na guidance para sa local leaders na humaharap sa mga situasyong ito
-- Retention ng faithful members na kung hindi ay maaaring maramdamang marginalized
-- Powerful testimony ng Christ-like love at understanding
+**Expected Benefits**  
+- Reduction ng stigma at increase ng inclusion para sa vulnerable members  
+- Malinaw na guidance para sa local leaders na humaharap sa mga situasyong ito  
+- Retention ng faithful members na kung hindi ay maaaring maramdamang marginalized  
+- Powerful testimony ng Christ-like love at understanding  
 - Model para sa iba pang organisasyon tungkol sa mental health inclusion
 
 ---
@@ -95,6 +108,28 @@ Itinatag ng Church manuals ang priesthood dignity batay sa:
 ### Ang Precedent ng Tagapagligtas
 
 Ipinapakita ng scripture accounts na si Cristo ay consistently nagpagaling nang hindi humahatol sa circumstances o nangangailangan ng explanations. Ang kanyang approach ay nag-prioritize ng inclusion at healing kaysa conformity sa social expectations.
+
+### Kamakailang Mga Turo ng General Leaders
+
+Ang kasalukuyang leaders ng Simbahan ay paulit-ulit na nagpalakas ng panawagan na maglingkod nang may pag-unawa, humility at unconditional love para sa yaong humaharap sa mental health challenges o neurological differences:
+
+> **Elder Jeffrey R. Holland**:  
+> *"Kung ang iyong landas ay may kinalaman sa mental o emotional conditions, alamin ito: walang dahilan para mahiya na tumanggap ng tulong."*  
+> — General Conference, Oktubre 2013, "Like a Broken Vessel"
+
+> **Sister Reyna I. Aburto**:  
+> *"Hindi natin kailanman alam kung ano ang hinaharap ng isang tao. Kaya dapat tayong maging compassionate at iwasan ang paggawa ng judgments."*  
+> — General Conference, Abril 2019, "Higit pa sa appearances"
+
+> **Elder Dieter F. Uchtdorf**:  
+> *"Tumigil sa paghatol. Tumigil sa pagpuna. Tumigil sa paghatol. Magsimulang maglingkod!"*  
+> — General Conference, Oktubre 2019, "Halika at tingnan"
+
+> **Elder Dale G. Renlund**:  
+> *"Ang Tagapagligtas ay hindi nag-eexclude ng sinuman. Iniunat Niya ang Kanyang kamay sa lahat, lalo na sa yaong nararamdamang marginalized."*  
+> — General Conference, Abril 2021, "Ang healing power ng Tagapagligtas"
+
+Ang mga mensaheng ito ay nagpapalakas na ang Simbahan ay kinikilala nang lumalaki ang kahalagahan ng pagsuporta sa mental health nang may pag-unawa, walang stigma, at may active willingness na i-adapt ang paraan kung paano tayo naglilingkod upang isama ang lahat ng mga anak ng Diyos.
 
 ---
 
@@ -189,4 +224,3 @@ Montevideo, Uruguay
 [Contact details]
 
 **Estimated length:** 12-15 printed pages
-

@@ -10,24 +10,37 @@
 
 Cette proposition aborde un besoin croissant au sein de L'Église de Jésus-Christ des Saints des Derniers Jours: une orientation claire pour inclure et soutenir les membres avec des conditions de santé mentale et des différences neurologiques qui requièrent des procédures de régulation émotionnelle non conventionnelles. Le manque actuel de direction institutionnelle crée une souffrance inutile, des conflits familiaux et une perte potentielle de membres précieux.
 
-### Besoin Identifié
+### Magnitude du Besoin
 
-Les membres avec des conditions qui requièrent des stratégies d'autorégulation peu communes — incluant des réponses au traumatisme, le Syndrome de Tourette, des différences du spectre autiste, et d'autres variations neurologiques — font face à la confusion, à la stigmatisation et parfois à l'exclusion malgré leur dignité spirituelle et leur désir de servir.
+Les recherches indiquent que:  
+- 1 adulte sur 5 connaît des conditions de santé mentale au cours d'une année donnée (NIMH, 2023)  
+- Le trouble du spectre de l'autisme affecte environ 1 enfant sur 36 (CDC, 2023)  
+- Le Syndrome de Tourette affecte environ 1 enfant sur 160 (Tourette Association)  
+- Les études ACEs (Expériences Adverses de l'Enfance) montrent que 2 adultes sur 3 rapportent au moins une expérience traumatique significative  
 
-### Solution Proposée
+**Dans l'Église, cela signifie:**  
+Si un pieu compte 3 000 membres, potentiellement:  
+- 600 peuvent avoir des conditions de santé mentale actives  
+- 80+ peuvent avoir des conditions neurologiques nécessitant une adaptation  
+- D'innombrables ont vécu un traumatisme affectant leur régulation émotionnelle  
 
-Une déclaration institutionnelle claire qui affirme que:
-- Les besoins de santé mentale et neurologiques n'affectent pas la dignité de la prêtrise
-- Les procédures de régulation non conventionnelles sont des besoins médicaux/neurologiques, non des questions morales
-- Les communautés doivent fournir adaptation et soutien, non correction ou exclusion
-- Ces principes harmonisent avec "La Famille: Une Proclamation au Monde"
+Ce n'est pas une "exception rare" — c'est une réalité commune nécessitant une préparation institutionnelle.
 
-### Bénéfices Attendus
+**Besoin Identifié**  
+Les membres avec des conditions qui requièrent des stratégies d'autorégulation peu communes — incluant des réponses au traumatisme, le Syndrome de Tourette, des différences du spectre autiste et d'autres variations neurologiques — font face à la confusion, à la stigmatisation et parfois à l'exclusion malgré leur dignité spirituelle et leur désir de servir.
 
-- Réduction de la stigmatisation et augmentation de l'inclusion pour les membres vulnérables
-- Orientation claire pour les dirigeants locaux qui font face à ces situations
-- Rétention de membres fidèles qui autrement pourraient se sentir marginalisés
-- Témoignage puissant de l'amour et de la compréhension semblable au Christ
+**Solution Proposée**  
+Une déclaration institutionnelle claire qui affirme que:  
+- Les besoins de santé mentale et neurologiques n'affectent pas la dignité de la prêtrise  
+- Les procédures de régulation non conventionnelles sont des besoins médicaux/neurologiques, non des questions morales  
+- Les communautés doivent fournir adaptation et soutien, non correction ou exclusion  
+- Ces principes harmonisent avec *La Famille: Une Proclamation au Monde*
+
+**Bénéfices Attendus**  
+- Réduction de la stigmatisation et augmentation de l'inclusion pour les membres vulnérables  
+- Orientation claire pour les dirigeants locaux qui font face à ces situations  
+- Rétention de membres fidèles qui autrement pourraient se sentir marginalisés  
+- Témoignage puissant de l'amour et de la compréhension semblable au Christ  
 - Modèle pour d'autres organisations sur l'inclusion en santé mentale
 
 ---
@@ -95,6 +108,28 @@ Les manuels de l'Église établissent la dignité de la prêtrise basée sur:
 ### Le Précédent du Sauveur
 
 Les récits des écritures montrent que le Christ a guéri de façon cohérente sans juger les circonstances ou requérir des explications. Son approche a priorisé l'inclusion et la guérison sur la conformité aux attentes sociales.
+
+### Enseignements Récents des Dirigeants Généraux
+
+Les dirigeants actuels de l'Église ont renforcé à plusieurs reprises l'appel à servir avec compréhension, humilité et amour inconditionnel envers ceux qui font face à des défis de santé mentale ou des différences neurologiques:
+
+> **Frère Jeffrey R. Holland**:  
+> *"Si votre chemin concerne des conditions mentales ou émotionnelles, sachez ceci: il n'y a aucune raison d'avoir honte de recevoir de l'aide."*  
+> — Conférence Générale, Octobre 2013, "Like a Broken Vessel"
+
+> **Sœur Reyna I. Aburto**:  
+> *"Nous ne savons jamais ce que quelqu'un affronte. C'est pourquoi nous devons être compatissants et éviter de faire des jugements."*  
+> — Conférence Générale, Avril 2019, "Au-delà des apparences"
+
+> **Frère Dieter F. Uchtdorf**:  
+> *"Arrêtez de juger. Arrêtez de critiquer. Arrêtez de condamner. Commencez à servir!"*  
+> — Conférence Générale, Octobre 2019, "Venez et voyez"
+
+> **Frère Dale G. Renlund**:  
+> *"Le Sauveur n'exclut personne. Il tend la main à tous, en particulier à ceux qui se sentent marginalisés."*  
+> — Conférence Générale, Avril 2021, "Le pouvoir guérisseur du Sauveur"
+
+Ces messages renforcent que l'Église reconnaît de plus en plus l'importance de soutenir la santé mentale avec compréhension, sans stigmatisation, et avec une disposition active à adapter la façon dont nous servons pour inclure tous les enfants de Dieu.
 
 ---
 
@@ -189,4 +224,3 @@ Montevideo, Uruguay
 [Détails de contact]
 
 **Longueur estimée:** 12-15 pages imprimées
-

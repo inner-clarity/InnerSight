@@ -1,7 +1,7 @@
 # PROPUESTA PARA INCLUSIÓN INSTITUCIONAL EN SALUD MENTAL Y CONDICIONES NEUROLÓGICAS
 
 **Presentado a:** La Primera Presidencia  
-**De:** Alejandro Parada, Analista de Sistemas y Especialista en Investigación de IA  
+**De:** Alejandro Parada, Analista Programador y Especialista en Investigación de IA  
 **Fecha:** [Fecha Actual]
 
 ---
@@ -10,24 +10,37 @@
 
 Esta propuesta aborda una necesidad creciente dentro de La Iglesia de Jesucristo de los Santos de los Últimos Días: orientación clara para incluir y apoyar a miembros con condiciones de salud mental y diferencias neurológicas que requieren procedimientos de regulación emocional no convencionales. La falta actual de dirección institucional crea sufrimiento innecesario, conflictos familiares y potencial pérdida de miembros valiosos.
 
-### Necesidad Identificada
+### Magnitud de la Necesidad
 
-Los miembros con condiciones que requieren estrategias de autorregulación poco comunes—incluyendo respuestas al trauma, Síndrome de Tourette, diferencias del espectro autista, y otras variaciones neurológicas—enfrentan confusión, estigma y a veces exclusión a pesar de su dignidad espiritual y deseo de servir.
+Investigaciones indican que:  
+- 1 de cada 5 adultos experimenta condiciones de salud mental en un año dado (NIMH, 2023)  
+- El trastorno del espectro autista afecta aproximadamente a 1 de cada 36 niños (CDC, 2023)  
+- El Síndrome de Tourette afecta aproximadamente a 1 de cada 160 niños (Tourette Association)  
+- Estudios de ACEs (Experiencias Adversas en la Infancia) muestran que 2 de cada 3 adultos reportan al menos una experiencia traumática significativa  
 
-### Solución Propuesta
+**En la Iglesia, esto significa:**  
+Si una estaca tiene 3,000 miembros, potencialmente:  
+- 600 pueden tener condiciones de salud mental activas  
+- 80+ pueden tener condiciones neurológicas que requieren adaptación  
+- Innumerables han experimentado trauma que afecta su regulación emocional  
 
-Una declaración institucional clara que afirme que:
-- Las necesidades de salud mental y neurológica no afectan la dignidad del sacerdocio
-- Los procedimientos de regulación no convencionales son necesidades médicas/neurológicas, no cuestiones morales
-- Las comunidades deben proporcionar adaptación y apoyo, no corrección o exclusión
-- Estos principios armonizan con "La Familia: Una Proclamación al Mundo"
+Esta no es una "excepción rara" — es una realidad común que requiere preparación institucional.
 
-### Beneficios Esperados
+**Necesidad Identificada**  
+Los miembros con condiciones que requieren estrategias de autorregulación poco comunes —incluyendo respuestas al trauma, Síndrome de Tourette, diferencias del espectro autista y otras variaciones neurológicas— enfrentan confusión, estigma y a veces exclusión a pesar de su dignidad espiritual y deseo de servir.
 
-- Reducción del estigma e incremento de la inclusión para miembros vulnerables
-- Orientación clara para líderes locales que enfrentan estas situaciones
-- Retención de miembros fieles que de otra manera podrían sentirse marginados
-- Testimonio poderoso del amor y comprensión semejante a Cristo
+**Solución Propuesta**  
+Una declaración institucional clara que afirme que:  
+- Las necesidades de salud mental y neurológica no afectan la dignidad del sacerdocio  
+- Los procedimientos de regulación no convencionales son necesidades médicas/neurológicas, no cuestiones morales  
+- Las comunidades deben proporcionar adaptación y apoyo, no corrección o exclusión  
+- Estos principios armonizan con *La Familia: Una Proclamación al Mundo*
+
+**Beneficios Esperados**  
+- Reducción del estigma e incremento de la inclusión para miembros vulnerables  
+- Orientación clara para líderes locales que enfrentan estas situaciones  
+- Retención de miembros fieles que de otra manera podrían sentirse marginados  
+- Testimonio poderoso del amor y comprensión semejante a Cristo  
 - Modelo para otras organizaciones sobre inclusión en salud mental
 
 ---
@@ -71,30 +84,54 @@ Estas características distinguen necesidades neurológicas legítimas de prefer
 
 ### Principios Fundamentales
 
-La doctrina de la Iglesia proporciona fundamento claro para la inclusión:
+La doctrina de la Iglesia proporciona fundamento claro para la inclusión:  
+> **“Jehová mira el corazón”** (1 Samuel 16:7)  
 
-**"Jehová mira el corazón" (1 Samuel 16:7)**  
 La dignidad espiritual deriva del carácter moral y las intenciones rectas, no de circunstancias externas o condiciones de salud.
 
-**La Proclamación sobre la Familia**  
-Reconoce explícitamente que "la discapacidad, la muerte u otras circunstancias pueden requerir una adaptación individual." Las necesidades de salud mental que requieren regulación no convencional caen dentro de "otras circunstancias."
+### La Proclamación sobre la Familia
 
-**El Alcance de la Expiación**  
-La expiación de Cristo abarca "enfermedades" y "dolencias" (Isaías 53:4; Alma 7:11-12), incluyendo trauma psicológico y diferencias neurológicas.
+Reconoce explícitamente que *“la discapacidad, la muerte u otras circunstancias pueden requerir una adaptación individual.”* Las necesidades de salud mental que requieren regulación no convencional caen dentro de *“otras circunstancias.”*
+
+### El Alcance de la Expiación
+
+La expiación de Cristo abarca *“enfermedades”* y *“dolencias”* (Isaías 53:4; Alma 7:11–12), incluyendo trauma psicológico y diferencias neurológicas.
 
 ### Criterios de Dignidad del Sacerdocio
 
-Los manuales de la Iglesia establecen la dignidad del sacerdocio basada en:
-- Rectitud moral y espiritual
-- Obediencia a los mandamientos
-- Testimonio de Jesucristo
-- Deseo de servir
+Los manuales de la Iglesia establecen la dignidad del sacerdocio basada en:  
+- Rectitud moral y espiritual  
+- Obediencia a los mandamientos  
+- Testimonio de Jesucristo  
+- Deseo de servir  
 
-**Notablemente ausente:** Cualquier referencia a configuraciones específicas de salud mental o métodos de autorregulación.
+Notablemente ausente: cualquier referencia a configuraciones específicas de salud mental o métodos de autorregulación.
 
 ### El Precedente del Salvador
 
 Los relatos de las escrituras muestran que Cristo sanó consistentemente sin juzgar circunstancias o requerir explicaciones. Su enfoque priorizó la inclusión y sanación sobre la conformidad a expectativas sociales.
+
+### Enseñanzas Recientes de Líderes Generales
+
+Los líderes actuales de la Iglesia han reforzado repetidamente el llamado a ministrar con comprensión, humildad y amor incondicional hacia quienes enfrentan desafíos de salud mental o diferencias neurológicas:
+
+> **Elder Jeffrey R. Holland**:  
+> *“Si su camino tiene que ver con condiciones mentales o emocionales, sepan esto: no hay motivo para avergonzarse de recibir ayuda.”*  
+> — Conferencia General, Octubre 2013, “Like a Broken Vessel”
+
+> **Hermana Reyna I. Aburto**:  
+> *“Nunca sabemos lo que alguien está enfrentando. Por eso, debemos ser compasivos y evitar hacer juicios.”*  
+> — Conferencia General, Abril 2019, “Más allá de las apariencias”
+
+> **Elder Dieter F. Uchtdorf**:  
+> *“Dejen de juzgar. Dejen de criticar. Dejen de condenar. ¡Comiencen a ministrar!”*  
+> — Conferencia General, Octubre 2019, “Vengan y vean”
+
+> **Elder Dale G. Renlund**:  
+> *“El Salvador no excluye a nadie. Él extiende la mano a todos, especialmente a los que se sienten marginados.”*  
+> — Conferencia General, Abril 2021, “El poder sanador del Salvador”
+
+Estos mensajes refuerzan que la Iglesia reconoce cada vez más la importancia de apoyar la salud mental con comprensión, sin estigma, y con una disposición activa a adaptar la forma en que ministramos para incluir a todos los hijos de Dios.
 
 ---
 

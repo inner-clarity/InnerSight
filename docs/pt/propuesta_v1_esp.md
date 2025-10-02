@@ -10,24 +10,37 @@
 
 Esta proposta aborda uma necessidade crescente dentro de A Igreja de Jesus Cristo dos Santos dos Últimos Dias: orientação clara para incluir e apoiar membros com condições de saúde mental e diferenças neurológicas que requerem procedimentos de regulação emocional não convencionais. A falta atual de direção institucional cria sofrimento desnecessário, conflitos familiares e potencial perda de membros valiosos.
 
-### Necessidade Identificada
+### Magnitude da Necessidade
 
-Os membros com condições que requerem estratégias de autorregulação pouco comuns — incluindo respostas ao trauma, Síndrome de Tourette, diferenças do espectro autista, e outras variações neurológicas — enfrentam confusão, estigma e às vezes exclusão apesar de sua dignidade espiritual e desejo de servir.
+Pesquisas indicam que:  
+- 1 em cada 5 adultos experimenta condições de saúde mental em um ano dado (NIMH, 2023)  
+- O transtorno do espectro autista afeta aproximadamente 1 em cada 36 crianças (CDC, 2023)  
+- A Síndrome de Tourette afeta aproximadamente 1 em cada 160 crianças (Tourette Association)  
+- Estudos de ACEs (Experiências Adversas na Infância) mostram que 2 de cada 3 adultos relatam pelo menos uma experiência traumática significativa  
 
-### Solução Proposta
+**Na Igreja, isto significa:**  
+Se uma estaca tem 3.000 membros, potencialmente:  
+- 600 podem ter condições de saúde mental ativas  
+- 80+ podem ter condições neurológicas que requerem adaptação  
+- Inúmeros experimentaram trauma que afeta sua regulação emocional  
 
-Uma declaração institucional clara que afirme que:
-- As necessidades de saúde mental e neurológica não afetam a dignidade do sacerdócio
-- Os procedimentos de regulação não convencionais são necessidades médicas/neurológicas, não questões morais
-- As comunidades devem proporcionar adaptação e apoio, não correção ou exclusão
-- Estes princípios harmonizam com "A Família: Uma Proclamação ao Mundo"
+Esta não é uma "exceção rara" — é uma realidade comum que requer preparação institucional.
 
-### Benefícios Esperados
+**Necessidade Identificada**  
+Os membros com condições que requerem estratégias de autorregulação pouco comuns — incluindo respostas ao trauma, Síndrome de Tourette, diferenças do espectro autista e outras variações neurológicas — enfrentam confusão, estigma e às vezes exclusão apesar de sua dignidade espiritual e desejo de servir.
 
-- Redução do estigma e incremento da inclusão para membros vulneráveis
-- Orientação clara para líderes locais que enfrentam estas situações
-- Retenção de membros fiéis que de outra maneira poderiam sentir-se marginalizados
-- Testemunho poderoso do amor e compreensão semelhante a Cristo
+**Solução Proposta**  
+Uma declaração institucional clara que afirme que:  
+- As necessidades de saúde mental e neurológica não afetam a dignidade do sacerdócio  
+- Os procedimentos de regulação não convencionais são necessidades médicas/neurológicas, não questões morais  
+- As comunidades devem proporcionar adaptação e apoio, não correção ou exclusão  
+- Estes princípios harmonizam com *A Família: Uma Proclamação ao Mundo*
+
+**Benefícios Esperados**  
+- Redução do estigma e incremento da inclusão para membros vulneráveis  
+- Orientação clara para líderes locais que enfrentam estas situações  
+- Retenção de membros fiéis que de outra maneira poderiam sentir-se marginalizados  
+- Testemunho poderoso do amor e compreensão semelhante a Cristo  
 - Modelo para outras organizações sobre inclusão em saúde mental
 
 ---
@@ -95,6 +108,28 @@ Os manuais da Igreja estabelecem a dignidade do sacerdócio baseada em:
 ### O Precedente do Salvador
 
 Os relatos das escrituras mostram que Cristo curou consistentemente sem julgar circunstâncias ou requerer explicações. Seu enfoque priorizou a inclusão e cura sobre a conformidade a expectativas sociais.
+
+### Ensinamentos Recentes de Líderes Gerais
+
+Os líderes atuais da Igreja reforçaram repetidamente o chamado a ministrar com compreensão, humildade e amor incondicional para aqueles que enfrentam desafios de saúde mental ou diferenças neurológicas:
+
+> **Élder Jeffrey R. Holland**:  
+> *"Se seu caminho tem a ver com condições mentais ou emocionais, saibam isto: não há motivo para se envergonhar de receber ajuda."*  
+> — Conferência Geral, Outubro 2013, "Like a Broken Vessel"
+
+> **Irmã Reyna I. Aburto**:  
+> *"Nunca sabemos o que alguém está enfrentando. Por isso, devemos ser compassivos e evitar fazer julgamentos."*  
+> — Conferência Geral, Abril 2019, "Além das aparências"
+
+> **Élder Dieter F. Uchtdorf**:  
+> *"Parem de julgar. Parem de criticar. Parem de condenar. Comecem a ministrar!"*  
+> — Conferência Geral, Outubro 2019, "Venham e vejam"
+
+> **Élder Dale G. Renlund**:  
+> *"O Salvador não exclui ninguém. Ele estende a mão a todos, especialmente aos que se sentem marginalizados."*  
+> — Conferência Geral, Abril 2021, "O poder curador do Salvador"
+
+Estas mensagens reforçam que a Igreja reconhece cada vez mais a importância de apoiar a saúde mental com compreensão, sem estigma, e com uma disposição ativa a adaptar a forma em que ministramos para incluir todos os filhos de Deus.
 
 ---
 
@@ -189,4 +224,3 @@ Montevidéu, Uruguai
 [Detalhes de contato]
 
 **Comprimento estimado:** 12-15 páginas impressas
-
