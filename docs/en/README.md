@@ -40,17 +40,23 @@ This section explains, based on neuroscience and clinical studies, how asking so
 ### [When Love is Conditioned on Conformity](/InnerSight/en/emotional_blackmail.html)
 Some members report feeling that their belonging or spiritual worth depends on abandoning certain emotional regulation needs. This section analyzes how these dynamics—though unintended—can affect faith, self-esteem, and relationships, and offers principles for ministering without imposing conditions.
 
-### [Nature of Emotional Regulation Needs](/InnerSight/en/not_sexual_preference.html)
+### [Nature of Emotional Regulation](/InnerSight/en/Nature_of_Emotional_Regulation.html)
 Some people confuse certain emotional regulation strategies with matters of identity or sexual preference. This section offers a clear clinical explanation, based on neuroscience, about why these needs are related to mental and neurological health, not sexual orientation.
 
-### [Spiritual Dignity and Mental Health](/InnerSight/en/sacerdocio_salud_mental_apropiado_v3.html)  
+### [Emotional Marital Security](/InnerSight/en/Emotional_Marital_Security.html)
+This section examines how coercive restrictions in marital intimacy can affect emotional security and mental health of spouses. It analyzes the impact on marital relationships when restrictions are imposed that interfere with legitimate emotional regulation, offering perspectives based on Gospel principles and clinical understanding of marital intimacy.
+
+### [Spiritual Dignity and Mental Health](/InnerSight/en/sacerdocio_salud_mental_apropiado_v5.html)  
 This section examines how Gospel teachings—including the Scriptures, The Family Proclamation, and modern revelation—affirm that a member's dignity before God does not depend on their mental health or neurological condition, but on their faith, repentance, and desire to follow Christ.
 
-### [Model Statement for Institutional Support](/InnerSight/en/mental_health_statement_v3_english.html)
-This document proposes a statement that could be issued from general leadership to guide local leaders in supporting members with mental health or neurological needs. It is written in harmony with the styles and principles of First Presidency messages.
-
-### [Institutional Proposal](/InnerSight/en/proposal_v1.html)
+### [Institutional Proposal](/InnerSight/en/proposal_v1_en.html)
 Comprehensive proposal submitted to The First Presidency for institutional inclusion in mental health and neurological conditions. Includes scientific foundation, doctrinal harmony, and proposed institutional statement with clear guidance for leaders and communities.
+
+### [Frequent Questions for Leaders](/InnerSight/en/PreguntasFrecuentes.html)
+Common questions and answers for leaders seeking to better understand how to support members with mental health and neurological needs. Includes practical guidance on distinguishing legitimate needs, temple worthiness, family dynamics, and reasonable accommodations.
+
+### [Guide for Difficult Family Conversations](/InnerSight/en/Guia_conversacion.html)
+Practical guide for members and families facing challenging conversations about mental health or neurological needs. Includes specific guidance for both those with needs and family members, with communication strategies, emotional management, and professional support seeking.
 
 ---
 

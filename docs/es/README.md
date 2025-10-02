@@ -42,14 +42,14 @@ Este apartado explica, con base en neurociencia y estudios clínicos, cómo pedi
 ### [Cuando el amor se condiciona a la conformidad](/InnerSight/es/chantaje_emocional)
 Algunos miembros reportan sentir que su pertenencia o valor espiritual depende de dejar ciertas necesidades de regulación emocional. Este apartado analiza cómo esas dinámicas —aunque no intencionadas— pueden afectar la fe, la autoestima y las relaciones, y ofrece principios para ministrar sin imponer condiciones.
 
-### [Naturaleza de las necesidades de regulación emocional](/InnerSight/es/no_es_preferencia_sexual)
+### [Naturaleza de la regulación emocional](/InnerSight/es/Naturaleza_regulacion_emocional)
 Algunas personas confunden ciertas estrategias de regulación emocional con asuntos de identidad o preferencia sexual. Este apartado ofrece una explicación clínica clara, basada en neurociencia, sobre por qué estas necesidades están relacionadas con la salud mental y neurológica, no con la orientación sexual. 
 
-### [Dignidad espiritual y salud mental](/InnerSight/es/sacerdocio_salud_mental_apropiado_v3)  
-Este apartado examina cómo las enseñanzas del Evangelio —incluyendo las Escrituras, la Proclamación sobre la Familia y revelaciones modernas— afirman que la dignidad de un miembro ante Dios no depende de su condición de salud mental o neurológica, sino de su fe, arrepentimiento y deseo de seguir a Cristo. 
+### [Seguridad Emocional Conyugal](/InnerSight/es/Seguridad_Emocional_Conyugal)
+Este apartado examina cómo las restricciones coercitivas en la intimidad conyugal pueden afectar la seguridad emocional y la salud mental de los cónyuges. Analiza el impacto en las relaciones matrimoniales cuando se imponen restricciones que interfieren con la regulación emocional legítima, ofreciendo perspectivas basadas en principios del Evangelio y comprensión clínica de la intimidad conyugal.
 
-### [Modelo de declaración para apoyo institucional](/InnerSight/es/comunicado_salud_mental_v3_esp)
-Este documento propone un comunicado que podría emitirse desde el liderazgo general para orientar a líderes locales en el apoyo a miembros con necesidades de salud mental o neurológicas. Está redactado en armonía con los estilos y principios de los mensajes de la Primera Presidencia. 
+### [Dignidad espiritual y salud mental](/InnerSight/es/sacerdocio_salud_mental_apropiado_v5)  
+Este apartado examina cómo las enseñanzas del Evangelio —incluyendo las Escrituras, la Proclamación sobre la Familia y revelaciones modernas— afirman que la dignidad de un miembro ante Dios no depende de su condición de salud mental o neurológica, sino de su fe, arrepentimiento y deseo de seguir a Cristo. 
 
 ### [Propuesta Institucional](/InnerSight/es/propuesta_v1_esp)
 Propuesta integral presentada a La Primera Presidencia para inclusión institucional en salud mental y condiciones neurológicas. Incluye fundamento científico, armonía doctrinal y declaración institucional propuesta con orientación clara para líderes y comunidades.

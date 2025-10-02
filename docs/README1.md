@@ -38,14 +38,11 @@ Scientific analysis of the consequences of coercively restricting unconventional
 ### [Emotional Blackmail](/InnerSight/en/emotional_blackmail)
 Analysis of emotional manipulation dynamics that can arise when unconventional emotional regulation procedures are invalidated or restricted, including their effects on mental health and interpersonal relationships.
 
-### [Nature of Emotional Regulacions Needs](/InnerSight/en/not_sexual_preference)
+### [Nature of Emotional Regulation](/InnerSight/en/Nature_of_Emotional_Regulation)
 Scientific analysis demonstrating that unconventional emotional regulation procedures do not constitute sexual preferences, based on contemporary neuroscience and clinical evidence. Addresses common misconceptions and their harmful effects.
 
-### [Priesthood and Mental Health](/InnerSight/en/sacerdocio_salud_mental_apropiado_v3)  
+### [Priesthood and Mental Health](/InnerSight/en/sacerdocio_salud_mental_apropiado_v5)  
 Exploration of harmony between individual mental health needs and doctrinal principles of the priesthood. Analysis of biblical precedents and modern revelation on inclusion and adaptation.
-
-### [Proposed Institutional Statement v3](/InnerSight/en/mental_health_statement_v3_english)
-Updated model of formal statement for institutional consideration, designed to promote greater inclusion and understanding toward members with uncommon emotional regulation needs. Includes new section on preventing emotional coercion and blackmail.
 
 ### [Institutional Proposal](/InnerSight/en/proposal_v1_en)
 Comprehensive proposal submitted to The First Presidency for institutional inclusion in mental health and neurological conditions. Includes scientific foundation, doctrinal harmony, and proposed institutional statement with clear guidance for leaders and communities.

@@ -194,6 +194,34 @@ Invitamos a todas las familias, barrios y estacas a convertirse en refugios de c
 
 ---
 
+## IMPLEMENTACIÓN GRADUAL SUGERIDA
+
+Para facilitar una adopción efectiva, respetuosa y sostenible, se propone el siguiente protocolo de implementación por fases:
+
+### Fase 1 (Primeros 6 meses):
+- **Comunicado inicial de la Primera Presidencia** reafirmando principios de amor, adaptación y dignidad  
+- **Capacitación a Autoridades Generales y de Área** sobre fundamentos clínicos y doctrinales  
+- **Desarrollo de materiales educativos básicos** para líderes y familias
+
+### Fase 2 (6–12 meses):
+- **Capacitación en línea obligatoria** para obispos, presidentes de rama y líderes de estaca  
+- **Actualización de manuales de la Iglesia** (incluyendo *Liderazgo del Sacerdocio* y recursos para organizaciones auxiliares)  
+- **Creación de recursos prácticos para familias**, disponibles en ChurchofJesusChrist.org
+
+### Fase 3 (1–2 años):
+- **Integración en el currículo de nuevos líderes** (llamamientos, capacitación de obispos, etc.)  
+- **Evaluación de impacto** mediante encuestas anónimas y retroalimentación de estacas piloto  
+- **Desarrollo de estudios de caso anónimos** para ilustrar buenas prácticas
+
+### Fase 4 (Continuo):
+- **Actualización periódica** basada en avances científicos y revelación  
+- **Compartir testimonios de éxito** (con consentimiento) en revistas oficiales y conferencias  
+- **Refinamiento continuo** de guías prácticas con aportes de líderes, profesionales y miembros
+
+Este enfoque gradual asegura fidelidad doctrinal, preparación adecuada y sostenibilidad a largo plazo.
+
+---
+
 ## CONCLUSIÓN
 
 Esta propuesta busca extender orientación institucional clara que proteja tanto la dignidad individual como la cohesión comunitaria. La evidencia científica es robusta, el fundamento doctrinal es sólido, y la necesidad es genuina.

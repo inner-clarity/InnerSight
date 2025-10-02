@@ -192,6 +192,34 @@ Nous invitons toutes les familles, paroisses et pieux à devenir des refuges de 
 
 ---
 
+## MISE EN ŒUVRE PROGRESSIVE SUGGÉRÉE
+
+Pour faciliter une adoption efficace, respectueuse et durable, le protocole de mise en œuvre par phases suivant est proposé:
+
+### Phase 1 (Premiers 6 mois):
+- **Communiqué initial de la Première Présidence** réaffirmant les principes d'amour, d'adaptation et de dignité  
+- **Formation pour les Autorités Générales et de Zone** sur les fondements cliniques et doctrinaux  
+- **Développement de matériels éducatifs de base** pour les dirigeants et les familles
+
+### Phase 2 (6–12 mois):
+- **Formation en ligne obligatoire** pour les évêques, présidents de branche et dirigeants de pieu  
+- **Mise à jour des manuels de l'Église** (incluant *Direction de la Prêtrise* et ressources pour les organisations auxiliaires)  
+- **Création de ressources pratiques pour les familles**, disponibles sur ChurchofJesusChrist.org
+
+### Phase 3 (1–2 ans):
+- **Intégration dans le programme pour nouveaux dirigeants** (appels, formation d'évêques, etc.)  
+- **Évaluation de l'impact** à travers des enquêtes anonymes et retours d'expérience de pieux pilotes  
+- **Développement d'études de cas anonymes** pour illustrer les meilleures pratiques
+
+### Phase 4 (Continue):
+- **Mise à jour périodique** basée sur les avancées scientifiques et la révélation  
+- **Partage de témoignages de succès** (avec consentement) dans les magazines officiels et conférences  
+- **Raffinement continu** des guides pratiques avec apports des dirigeants, professionnels et membres
+
+Cette approche progressive assure la fidélité doctrinale, une préparation adéquate et une durabilité à long terme.
+
+---
+
 ## CONCLUSION
 
 Cette proposition cherche à étendre une orientation institutionnelle claire qui protège tant la dignité individuelle que la cohésion communautaire. Les preuves scientifiques sont robustes, le fondement doctrinal est solide, et le besoin est genuine.

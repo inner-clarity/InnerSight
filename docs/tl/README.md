@@ -40,14 +40,14 @@ Ang seksyong ito ay nagpapaliwanag, batay sa neuroscience at clinical studies, k
 ### [Kapag ang Pagmamahal ay Nakakondisyon sa Pagsunod](/InnerSight/tl/chantaje_emocional)
 Ang ilang mga miyembro ay nag-uulat na nararamdaman nila na ang kanilang pagiging bahagi o spiritual na halaga ay nakasalalay sa pag-iwas sa ilang mga pangangailangan ng emotional regulation. Sinusuri ng seksyong ito kung paano ang mga dynamics na ito — bagaman hindi intensyonal — ay maaaring makaapekto sa pananampalataya, pagpapahalaga sa sarili at mga relasyon, at nag-aalok ng mga prinsipyo para sa paglilingkod nang walang pag-iimpose ng mga kondisyon.
 
-### [Kalikasan ng mga Pangangailangan ng Emotional Regulation](/InnerSight/tl/no_es_preferencia_sexual)
+### [Kalikasan ng Emotional Regulation](/InnerSight/tl/Kalikasan_ng_Emotional_Regulation)
 Ang ilang mga tao ay nakakalito ang ilang mga estratehiya ng emotional regulation sa mga isyu ng pagkakakilanlan o sexual preference. Ang seksyong ito ay nag-aalok ng malinaw na clinical explanation, batay sa neuroscience, tungkol sa kung bakit ang mga pangangailangang ito ay nauugnay sa mental at neurological health, hindi sa sexual orientation.
 
-### [Spiritual na Dignidad at Kalusugan ng Isip](/InnerSight/tl/sacerdocio_salud_mental_apropiado_v3)  
-Sinusuri ng seksyong ito kung paano ang mga turo ng Ebanghelyo — kasama ang mga Kasulatan, ang Proklamasyon tungkol sa Pamilya at modernong pahayag — ay nagsasaad na ang dignidad ng isang miyembro sa harap ng Diyos ay hindi nakasalalay sa kanilang kondisyon ng kalusugan ng isip o neurological, kundi sa kanilang pananampalataya, pagsisisi at pagnanais na sundin si Cristo.
+### [Seguridad Emosyonal sa Pag-aasawa](/InnerSight/tl/Seguridad_Emosyonal_sa_Pag-aasawa)
+Sinusuri ng seksyong ito kung paano ang coercive restrictions sa marital intimacy ay maaaring makaapekto sa emotional security at mental health ng mga mag-asawa. Sinusuri nito ang impact sa marital relationships kapag ipinapataw ang mga restrictions na nakakagambala sa lehitimong emotional regulation, nag-aalok ng perspectives batay sa Gospel principles at clinical understanding ng marital intimacy.
 
-### [Modelo ng Pahayag para sa Institutional Support](/InnerSight/tl/comunicado_salud_mental_v3_esp)
-Ang dokumentong ito ay nagmumungkahi ng pahayag na maaaring ilabas mula sa pangkalahatang pamumuno upang gabayan ang mga lokal na pinuno sa pagsuporta sa mga miyembro na may mga pangangailangan sa kalusugan ng isip o neurological. Ito ay isinulat nang naaayon sa mga estilo at prinsipyo ng mga mensahe ng First Presidency.
+### [Spiritual na Dignidad at Kalusugan ng Isip](/InnerSight/tl/sacerdocio_salud_mental_apropiado_v5)  
+Sinusuri ng seksyong ito kung paano ang mga turo ng Ebanghelyo — kasama ang mga Kasulatan, ang Proklamasyon tungkol sa Pamilya at modernong pahayag — ay nagsasaad na ang dignidad ng isang miyembro sa harap ng Diyos ay hindi nakasalalay sa kanilang kondisyon ng kalusugan ng isip o neurological, kundi sa kanilang pananampalataya, pagsisisi at pagnanais na sundin si Cristo.
 
 ### [Institutional Proposal](/InnerSight/tl/propuesta_v1_esp)
 Komprehensibong proposal na isinumite sa First Presidency para sa institutional inclusion sa kalusugan ng isip at neurological conditions. Kasama ang scientific foundation, doctrinal harmony at proposed institutional statement na may malinaw na gabay para sa mga pinuno at komunidad.

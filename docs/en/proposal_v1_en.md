@@ -192,6 +192,34 @@ We invite all families, wards, and stakes to become refuges of understanding and
 
 ---
 
+## SUGGESTED PHASED IMPLEMENTATION
+
+To facilitate effective, respectful, and sustainable adoption, the following phased implementation protocol is proposed:
+
+### Phase 1 (First 6 months):
+- **Initial First Presidency statement** reaffirming principles of love, adaptation, and dignity  
+- **Training for General Authorities and Area Leaders** on clinical and doctrinal foundations  
+- **Development of basic educational materials** for leaders and families
+
+### Phase 2 (6–12 months):
+- **Mandatory online training** for bishops, branch presidents, and stake leaders  
+- **Church manuals update** (including *Priesthood Leadership* and resources for auxiliary organizations)  
+- **Creation of practical resources for families**, available on ChurchofJesusChrist.org
+
+### Phase 3 (1–2 years):
+- **Integration into new leader curriculum** (callings, bishop training, etc.)  
+- **Impact assessment** through anonymous surveys and feedback from pilot stakes  
+- **Development of anonymous case studies** to illustrate best practices
+
+### Phase 4 (Ongoing):
+- **Periodic updates** based on scientific advances and revelation  
+- **Sharing success testimonies** (with consent) in official magazines and conferences  
+- **Continuous refinement** of practical guides with input from leaders, professionals, and members
+
+This phased approach ensures doctrinal fidelity, adequate preparation, and long-term sustainability.
+
+---
+
 ## CONCLUSION
 
 This proposal seeks to extend clear institutional guidance that protects both individual dignity and community cohesion. The scientific evidence is robust, the doctrinal foundation is solid, and the need is genuine.

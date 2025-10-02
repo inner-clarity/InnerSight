@@ -40,14 +40,14 @@ Cette section explique, sur la base des neurosciences et des études cliniques, 
 ### [Quand l'amour est conditionné à la conformité](/InnerSight/fr/chantaje_emocional)
 Certains membres rapportent sentir que leur appartenance ou leur valeur spirituelle dépend de l'abandon de certains besoins de régulation émotionnelle. Cette section analyse comment ces dynamiques — bien que non intentionnelles — peuvent affecter la foi, l'estime de soi et les relations, et offre des principes pour servir sans imposer de conditions.
 
-### [Nature des besoins de régulation émotionnelle](/InnerSight/fr/no_es_preferencia_sexual)
+### [Nature de la régulation émotionnelle](/InnerSight/fr/Nature_de_la_Regulation_Emotionnelle)
 Certaines personnes confondent certaines stratégies de régulation émotionnelle avec des questions d'identité ou de préférence sexuelle. Cette section offre une explication clinique claire, basée sur les neurosciences, sur la raison pour laquelle ces besoins sont liés à la santé mentale et neurologique, et non à l'orientation sexuelle.
 
-### [Dignité spirituelle et santé mentale](/InnerSight/fr/sacerdocio_salud_mental_apropiado_v3)  
-Cette section examine comment les enseignements de l'Évangile — y compris les Écritures, la Proclamation sur la Famille et la révélation moderne — affirment que la dignité d'un membre devant Dieu ne dépend pas de sa condition de santé mentale ou neurologique, mais de sa foi, son repentir et son désir de suivre le Christ.
+### [Sécurité Émotionnelle Conjugale](/InnerSight/fr/Securite_Emotionnelle_Conjugale)
+Cette section examine comment les restrictions coercitives dans l'intimité conjugale peuvent affecter la sécurité émotionnelle et la santé mentale des conjoints. Elle analyse l'impact sur les relations conjugales lorsque des restrictions sont imposées qui interfèrent avec la régulation émotionnelle légitime, offrant des perspectives basées sur les principes de l'Évangile et la compréhension clinique de l'intimité conjugale.
 
-### [Modèle de déclaration pour le soutien institutionnel](/InnerSight/fr/comunicado_salud_mental_v3_esp)
-Ce document propose une déclaration qui pourrait être émise par la direction générale pour guider les dirigeants locaux dans le soutien aux membres ayant des besoins de santé mentale ou neurologiques. Il est rédigé en harmonie avec les styles et les principes des messages de la Première Présidence.
+### [Dignité spirituelle et santé mentale](/InnerSight/fr/sacerdocio_salud_mental_apropiado_v5)  
+Cette section examine comment les enseignements de l'Évangile — y compris les Écritures, la Proclamation sur la Famille et la révélation moderne — affirment que la dignité d'un membre devant Dieu ne dépend pas de sa condition de santé mentale ou neurologique, mais de sa foi, son repentir et son désir de suivre le Christ.
 
 ### [Proposition Institutionnelle](/InnerSight/fr/propuesta_v1_esp)
 Proposition complète présentée à la Première Présidence pour l'inclusion institutionnelle en matière de santé mentale et de conditions neurologiques. Comprend un fondement scientifique, une harmonie doctrinale et une déclaration institutionnelle proposée avec des orientations claires pour les dirigeants et les communautés.

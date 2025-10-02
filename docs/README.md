@@ -40,14 +40,14 @@ This section explains, based on neuroscience and clinical studies, how asking so
 ### [When Love is Conditioned on Conformity](/InnerSight/en/emotional_blackmail)
 Some members report feeling that their belonging or spiritual worth depends on abandoning certain emotional regulation needs. This section analyzes how these dynamics—though unintended—can affect faith, self-esteem, and relationships, and offers principles for ministering without imposing conditions.
 
-### [Nature of Emotional Regulation Needs](/InnerSight/en/not_sexual_preference)
+### [Nature of Emotional Regulation](/InnerSight/en/Nature_of_Emotional_Regulation)
 Some people confuse certain emotional regulation strategies with matters of identity or sexual preference. This section offers a clear clinical explanation, based on neuroscience, about why these needs are related to mental and neurological health, not sexual orientation.
 
-### [Spiritual Dignity and Mental Health](/InnerSight/en/sacerdocio_salud_mental_apropiado_v3)  
-This section examines how Gospel teachings—including the Scriptures, The Family Proclamation, and modern revelation—affirm that a member's dignity before God does not depend on their mental health or neurological condition, but on their faith, repentance, and desire to follow Christ.
+### [Emotional Marital Security](/InnerSight/en/Emotional_Marital_Security)
+This section examines how coercive restrictions in marital intimacy can affect emotional security and mental health of spouses. It analyzes the impact on marital relationships when restrictions are imposed that interfere with legitimate emotional regulation, offering perspectives based on Gospel principles and clinical understanding of marital intimacy.
 
-### [Model Statement for Institutional Support](/InnerSight/en/mental_health_statement_v3_english)
-This document proposes a statement that could be issued from general leadership to guide local leaders in supporting members with mental health or neurological needs. It is written in harmony with the styles and principles of First Presidency messages.
+### [Spiritual Dignity and Mental Health](/InnerSight/en/sacerdocio_salud_mental_apropiado_v5)  
+This section examines how Gospel teachings—including the Scriptures, The Family Proclamation, and modern revelation—affirm that a member's dignity before God does not depend on their mental health or neurological condition, but on their faith, repentance, and desire to follow Christ.
 
 ### [Institutional Proposal](/InnerSight/en/proposal_v1_en)
 Comprehensive proposal submitted to The First Presidency for institutional inclusion in mental health and neurological conditions. Includes scientific foundation, doctrinal harmony, and proposed institutional statement with clear guidance for leaders and communities.
