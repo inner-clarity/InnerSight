@@ -76,7 +76,7 @@ La comprensión de que existen múltiples caminos hacia la regulación emocional
 
 ### Armonía con Principios Doctrinales
 
-os principios están en armonía con las enseñanzas del Evangelio: 
+Los principios están en armonía con las enseñanzas del Evangelio: 
 
 
 - **“Jehová mira el corazón”** (1 Samuel 16:7): Lo que importa ante Dios es la intención, no la apariencia externa.

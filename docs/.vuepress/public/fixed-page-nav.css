@@ -1,0 +1,186 @@
+/* CSS para fijar la navegación de página (page-nav) en la parte inferior */
+
+/* Hacer que .page-nav sea fijo en la parte inferior */
+.page-nav {
+  position: fixed !important;
+  bottom: 0 !important;
+  left: 0 !important;
+  right: 0 !important;
+  z-index: 10 !important;
+  background: white !important;
+  border-top: 1px solid #eaecef !important;
+  box-shadow: 0 -2px 8px rgba(0, 0, 0, 0.1) !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  max-width: none !important;
+}
+
+/* Ajustar el nav para que no se superponga con el sidebar en desktop */
+@media (min-width: 960px) {
+  .page-nav {
+    left: 18rem !important; /* Ancho del sidebar en desktop */
+  }
+}
+
+/* Ajustar el contenido principal para evitar que se oculte detrás del nav fijo */
+.theme-default-content {
+  padding-bottom: 160px !important; /* Espacio para el nav fijo + page-edit */
+}
+
+/* Estilos para dispositivos móviles */
+@media (max-width: 419px) {
+  .page-nav .inner {
+    padding: 0.75rem 1rem !important;
+  }
+  
+  .theme-default-content {
+    padding-bottom: 150px !important; /* Espacio para nav + page-edit en móvil */
+  }
+  
+  .page-edit {
+    bottom: 71px !important;
+    border-top: none !important;
+    box-shadow: none !important;
+  }
+}
+
+@media (max-width: 959px) {
+  .page-nav .inner {
+    padding: 1rem 1.5rem !important;
+  }
+  
+  .theme-default-content {
+    padding-bottom: 155px !important; /* Espacio para nav + page-edit en tablet */
+  }
+  
+  .page-edit {
+    bottom: 71px !important;
+    border-top: none !important;
+    box-shadow: none !important;
+  }
+}
+
+/* Asegurar que el nav fijo no interfiera con otros elementos */
+.page-nav .inner {
+  max-width: 777px !important;
+  margin: 0 auto !important;
+  border-top: 1px solid #eaecef !important;
+}
+
+/* Estilos para los enlaces de navegación */
+.page-nav .inner a {
+  color: #2c3e50 !important;
+  text-decoration: none !important;
+  padding: 0.5rem 1rem !important;
+  border-radius: 4px !important;
+  transition: background-color 0.3s ease !important;
+  font-weight: 500 !important;
+}
+
+.page-nav .inner a:hover {
+  background-color: #f8f9fa !important;
+  color: #1a365d !important;
+}
+
+/* Estilos para el texto de navegación */
+.page-nav .inner span {
+  color: #6c757d !important;
+  font-size: 0.9rem !important;
+  font-weight: 400 !important;
+}
+
+/* Asegurar que el contenido principal tenga suficiente espacio */
+.content {
+  min-height: calc(100vh - 80px);
+}
+
+/* Estilos para cuando no hay page-nav (páginas que no lo necesitan) */
+.no-page-nav .theme-default-content {
+  padding-bottom: 2rem !important;
+}
+
+/* Animación suave para el nav fijo */
+.page-nav {
+  transition: transform 0.3s ease;
+}
+
+/* Asegurar que el nav tenga el estilo exacto de VuePress para pantallas grandes */
+@media (min-width: 960px) {
+  .page-nav .inner {
+    min-height: 2rem !important;
+    margin-top: 0 !important;
+    border-top: 1px solid #eaecef !important;
+    padding-top: 1rem !important;
+    overflow: auto !important;
+  }
+}
+
+/* Asegurar que el sidebar tenga mayor z-index que el nav fijo */
+.sidebar {
+  z-index: 20 !important;
+}
+
+.sidebar-mask {
+  z-index: 15 !important;
+}
+
+/* Estilos para el contenedor unificado de page-nav y page-edit */
+.page-nav-container {
+  position: fixed !important;
+  bottom: 0 !important;
+  left: 0 !important;
+  right: 0 !important;
+  z-index: 10 !important;
+  background: white !important;
+  border-top: 1px solid #eaecef !important;
+  box-shadow: 0 -2px 8px rgba(0, 0, 0, 0.1) !important;
+}
+
+/* Ajustar el contenedor para que no se superponga con el sidebar en desktop */
+@media (min-width: 960px) {
+  .page-nav-container {
+    left: 18rem !important; /* Ancho del sidebar en desktop */
+  }
+}
+
+/* Hacer que .page-edit sea fijo en la parte inferior encima del nav */
+.page-edit {
+  position: fixed !important;
+  bottom: 39px !important;
+  left: 0 !important;
+  right: 0 !important;
+  z-index: 15 !important;
+  background: white !important;
+  border-top: 1px solid #eaecef !important;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1) !important;
+  padding: 1rem 2rem !important;
+  margin: 0 !important;
+  max-width: none !important;
+}
+
+/* Ajustar el page-edit para que no se superponga con el sidebar en desktop */
+@media (min-width: 960px) {
+  .page-edit {
+    left: 18rem !important; /* Ancho del sidebar en desktop */
+  }
+}
+
+/* Ajustar el contenido principal para que no se superponga con el sidebar en desktop */
+@media (min-width: 960px) {
+  .theme-default-content {
+    margin-left: -17rem !important;
+    margin-right: auto !important;
+    max-width: 130% !important;
+  }
+  
+  .page {
+    margin-left: 18rem !important; /* Ancho del sidebar */
+  }
+}
+
+/* Ocultar nav en scroll hacia abajo (opcional - descomenta si lo deseas) */
+/*
+.page-nav.hidden {
+  transform: translateY(100%);
+}
+*/

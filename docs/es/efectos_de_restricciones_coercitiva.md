@@ -33,12 +33,13 @@ Estos no son “caprichos” ni “falta de fe”, sino señales de que el cuerp
 
 ### Señales de que una persona necesita apoyo, no corrección
 
-ando una persona se siente presionada a abandonar una estrategia regulatoria esencial, puede mostrar señales de angustia, como: 
+Cuando una persona se siente presionada a abandonar una estrategia regulatoria esencial, puede mostrar señales de angustia, como: 
 
 - Aumento de ansiedad o tristeza persistente
 - Aislamiento de la familia o la congregación
 - Dificultad para cumplir con responsabilidades
 - Búsqueda de alivio en conductas riesgosas
+- Busqueda en internet (redes sociales) de personas que estan pasando por la misma situacion, como una forma de contencion
 
 Estas no son señales de rebeldía espiritual, sino de que **necesita comprensión y apoyo profesional.** 
 

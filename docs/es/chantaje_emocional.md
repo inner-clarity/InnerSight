@@ -64,6 +64,7 @@ Cuando alguien se siente presionado a abandonar una estrategia regulatoria esenc
 - Aislamiento de la familia o la congregación
 - Dificultad para cumplir con responsabilidades
 - Búsqueda de alivio en conductas riesgosas
+- Busqueda en internet (redes sociales) de personas que estan pasando por la misma situacion, como una forma de contencion
 
 Estas no son señales de falta de fe, sino de que **necesita apoyo profesional y comprensión espiritual.** 
 
@@ -88,7 +89,7 @@ Estos ejemplos muestran que **el cerebro necesita ciertas vías para sentirse se
 La investigación de **Gross (2015)** establece que las estrategias de regulación emocional se **automatizan neurológicamente** tras uso repetido. Una vez consolidadas, no son fácilmente modificables por "fuerza de voluntad" o presión social.
 
 **Implicación crítica:**  
-dir a alguien que deje una estrategia regulatoria consolidada —sin apoyo profesional— es como pedirle que ignore un dolor físico persistente. No es una cuestión de voluntad, sino de funcionamiento neurológico. 
+Pedir a alguien que deje una estrategia regulatoria consolidada —sin apoyo profesional— es como pedirle que ignore un dolor físico persistente. No es una cuestión de voluntad, sino de funcionamiento neurológico. 
 
 
 ### Funcionalidad como Criterio Ético y Clínico
