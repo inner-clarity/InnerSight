@@ -1,14 +1,14 @@
-## Preguntas Frecuentes para Líderes
+﻿## Preguntas Frecuentes para Líderes
 
 ### Sobre Criterios y Diferenciación
 
-**P: ¿Esto no abre la puerta a que cualquiera justifique cualquier comportamiento?**</BR>
+**P: ¿Esto no abre la puerta a que cualquiera justifique cualquier comportamiento?**
 **R:** No. El documento establece criterios clínicos claros:
 consistencia temporal, supervisión profesional, mantenimiento
 de roles sociales, y ausencia de daño a otros. Las necesidades
 legítimas son verificables por profesionales calificados.
 
-**P: ¿Cómo diferenciamos entre necesidad legítima y preferencia personal?**</BR>
+**P: ¿Cómo diferenciamos entre necesidad legítima y preferencia personal?**
 
 **R:** La diferencia se establece mediante criterios clínicos objetivos:
 
@@ -23,7 +23,7 @@ Según el DSM-5, la patología se define por disfuncionalidad, no por desviació
 
 **P: ¿Qué pasa si un miembro usa esto como "excusa" para comportamiento inapropiado?**
 
-**R:** Es importante distinguir entre necesidades legítimas y mal uso de conceptos de salud mental:</BR>
+**R:** Es importante distinguir entre necesidades legítimas y mal uso de conceptos de salud mental:
 
 **Necesidad legítima:**
 
@@ -43,12 +43,12 @@ Si hay duda genuina, el líder debe consultar con profesionales de Servicios Fam
 
 ### Sobre Doctrina y Dignidad
 
-**P: ¿Esto contradice las enseñanzas sobre autodominio?**</BR>
+**P: ¿Esto contradice las enseñanzas sobre autodominio?**
 **R:** No. El autodominio se refiere a elecciones morales conscientes.
 Las adaptaciones neurológicas no son "falta de control" sino
 reconocimiento de diferencias en cómo el cerebro funciona.
 
-**P: ¿Esto afecta la dignidad para el templo?**</BR>
+**P: ¿Esto afecta la dignidad para el templo?**
 **R:** Las condiciones de salud mental y neurológicas no afectan
 la dignidad para el templo, que se basa en testimonio, obediencia
 a mandamientos, y rectitud moral.
@@ -57,7 +57,7 @@ a mandamientos, y rectitud moral.
 
 ### Sobre Familia y Comunidad
 
-**P: ¿Qué si la familia del miembro no está de acuerdo?**</BR>
+**P: ¿Qué si la familia del miembro no está de acuerdo?**
 **R:** Este es uno de los escenarios más difíciles. Los líderes deben:
 
 1. **No tomar partido**: El rol del líder no es resolver conflictos familiares, sino ministrar a todos con amor
@@ -72,7 +72,7 @@ a mandamientos, y rectitud moral.
 - "Por persuasión, por longanimidad" (D&C 121:41)
 - Ninguna presión o ultimátum refleja el amor de Cristo
 
-**P: ¿Cómo equilibramos apoyo individual con comodidad de la congregación?**</BR>
+**P: ¿Cómo equilibramos apoyo individual con comodidad de la congregación?**
 
 **R:** La Iglesia de Cristo debe ser refugio para todos. Principios guía:
 
@@ -91,16 +91,16 @@ Si la "incomodidad" persistiera tras educación, el problema es de quien juzga, 
 
 ### Sobre Implementación Práctica
 
-**P: ¿Tenemos que permitir TODO en las actividades de la Iglesia?**</BR>
+**P: ¿Tenemos que permitir TODO en las actividades de la Iglesia?**
 **R:** Se busca adaptación razonable que permita participación digna.
 Consultar caso por caso con sensibilidad y creatividad.
 
-**P: ¿Qué pasa si un miembro dice tener una necesidad pero no busca ayuda profesional?**</BR>
+**P: ¿Qué pasa si un miembro dice tener una necesidad pero no busca ayuda profesional?**
 **R:** Animar gentilmente a la supervisión profesional, pero no
 condicionar el apoyo a esto. La dignidad no requiere diagnóstico
 formal.
 
-**P: ¿Esto aplica también a niños y jóvenes?**</BR>
+**P: ¿Esto aplica también a niños y jóvenes?**
 
 **R: Sí, especialmente a niños y jóvenes**, por varias razones:
 

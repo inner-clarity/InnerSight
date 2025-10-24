@@ -24,6 +24,8 @@ Wenn eine Stake 3.000 Mitglieder hat, potenziell:
 - 80+ können neurologische Zustände haben, die Anpassung erfordern
 - Unzählige haben Trauma erlebt, das ihre emotionale Regulation beeinflusst
 
+Derzeit erleben fast 4 Millionen Mitglieder in der gesamten Kirche Jesu Christi der Heiligen der Letzten Tage psychische Gesundheits- und neurologische Zustände.
+
 Dies ist keine "seltene Ausnahme" — es ist eine gemeinsame Realität, die institutionelle Vorbereitung erfordert.
 
 **Identifizierter Bedarf**

@@ -4,12 +4,13 @@
   "description": "InnerSight - Un sitio estático para exploración interior",
   "main": "index.js",
   "scripts": {
-    "dev": "vuepress dev docs",
-    "build": "vuepress build docs",
-    "deploy": "gh-pages -d docs/.vuepress/dist"
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs",
+    "deploy": "gh-pages -d docs/.vitepress/dist"
   },
   "keywords": [
-    "vuepress",
+    "vitepress",
     "static-site",
     "github-pages",
     "innersight"
@@ -17,8 +18,9 @@
   "author": "Tu Nombre",
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^1.9.7",
-    "gh-pages": "^4.0.0"
+    "vitepress": "^1.5.0",
+    "gh-pages": "^4.0.0",
+    "vue": "^3.4.0"
   },
   "repository": {
     "type": "git",

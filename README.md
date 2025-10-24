@@ -1,20 +1,21 @@
 # InnerSight
 
-Un sitio estático creado con VuePress para la exploración interior y el autoconocimiento.
+Un sitio estático creado con VitePress para la exploración interior y el autoconocimiento.
 
 ## 🌟 Características
 
-- **Sitio estático** generado con VuePress
+- **Sitio estático** generado con VitePress
 - **Deploy automático** a GitHub Pages
 - **Diseño responsivo** y moderno
 - **Fácil de extender** con nuevas páginas y contenido
 - **Optimizado** para SEO y rendimiento
+- **Soporte i18n** para 12 idiomas
 
 ## 🚀 Inicio Rápido
 
 ### Prerrequisitos
 
-- Node.js (versión 14 o superior)
+- Node.js (versión 18 o superior)
 - npm o yarn
 
 ### Instalación
@@ -35,7 +36,7 @@ npm install
 npm run dev
 ```
 
-El sitio estará disponible en `http://localhost:8080`
+El sitio estará disponible en `http://localhost:5173`
 
 ### Construcción para producción
 
@@ -43,16 +44,33 @@ El sitio estará disponible en `http://localhost:8080`
 npm run build
 ```
 
-Los archivos generados estarán en `docs/.vuepress/dist/`
+Los archivos generados estarán en `docs/.vitepress/dist/`
 
 ## 📁 Estructura del Proyecto
 
 ```
 InnerSight/
 ├── docs/
-│   ├── .vuepress/
-│   │   ├── config.js          # Configuración de VuePress
+│   ├── .vitepress/
+│   │   ├── config.mts         # Configuración de VitePress
+│   │   ├── theme/             # Tema personalizado
+│   │   │   ├── components/    # Componentes Vue personalizados
+│   │   │   ├── index.ts       # Registro de componentes
+│   │   │   └── style.css      # Estilos personalizados
+│   │   ├── public/            # Assets estáticos
 │   │   └── dist/              # Archivos generados (después del build)
+│   ├── en/                    # Contenido en inglés
+│   ├── es/                    # Contenido en español
+│   ├── pt/                    # Contenido en portugués
+│   ├── fr/                    # Contenido en francés
+│   ├── de/                    # Contenido en alemán
+│   ├── it/                    # Contenido en italiano
+│   ├── ru/                    # Contenido en ruso
+│   ├── ko/                    # Contenido en coreano
+│   ├── ja/                    # Contenido en japonés
+│   ├── zh/                    # Contenido en chino
+│   ├── hi/                    # Contenido en hindi
+│   ├── tl/                    # Contenido en tagalo
 │   ├── about/
 │   │   └── README.md          # Página "Acerca de"
 │   ├── contact/
@@ -81,8 +99,8 @@ touch docs/nueva-seccion/README.md
 
 3. Añade el contenido en formato Markdown
 
-4. Actualiza la navegación en `docs/.vuepress/config.js`:
-```javascript
+4. Actualiza la navegación en `docs/.vitepress/config.mts`:
+```typescript
 nav: [
   { text: 'Inicio', link: '/' },
   { text: 'Nueva Sección', link: '/nueva-seccion/' },
@@ -110,18 +128,16 @@ npm run deploy
 
 ### Cambiar el tema y colores
 
-Edita `docs/.vuepress/config.js` para personalizar:
+Edita `docs/.vitepress/config.mts` para personalizar:
 - Título y descripción
 - Navegación
-- Configuración del tema
+- Configuración del tema por idioma
 - Metadatos
+- Soporte i18n
 
-### Añadir plugins
+### Añadir componentes personalizados
 
-Instala plugins de VuePress y añádelos a la configuración:
-```bash
-npm install @vuepress/plugin-nombre-del-plugin
-```
+Crea componentes Vue en `docs/.vitepress/theme/components/` y regístralos en `docs/.vitepress/theme/index.ts`
 
 ## 📝 Contribuir
 

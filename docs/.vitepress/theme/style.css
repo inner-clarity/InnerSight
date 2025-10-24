@@ -1,0 +1,11 @@
+/* Estilos personalizados para InnerSight */
+
+/* Importar todos los módulos de estilos */
+@import './styles/variables.css';
+@import './styles/base.css';
+@import './styles/components.css';
+@import './styles/animations.css';
+@import './styles/responsive.css';
+
+/* Importar estilos existentes */
+@import '../public/fixed-page-nav.css';

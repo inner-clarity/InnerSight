@@ -1,0 +1,224 @@
+/* Responsive Design para InnerSight */
+
+/* Tablet (iPad, tablets en landscape) */
+@media (max-width: 960px) {
+  :root {
+    --spacing-xl: 2rem;
+    --spacing-lg: 1.5rem;
+  }
+  
+  .VPHero {
+    padding: var(--spacing-lg);
+    border-radius: 0 0 1rem 1rem;
+  }
+  
+  .VPHero .name {
+    font-size: 2.5rem;
+  }
+  
+  .VPFeature {
+    padding: var(--spacing-md);
+  }
+  
+  .vp-doc {
+    padding: var(--spacing-md);
+  }
+  
+  .VPNav {
+    padding: var(--spacing-sm) var(--spacing-md);
+  }
+}
+
+/* Mobile (smartphones en portrait y landscape) */
+@media (max-width: 640px) {
+  :root {
+    --spacing-xl: 1.5rem;
+    --spacing-lg: 1rem;
+  }
+  
+  .VPHero {
+    padding: var(--spacing-lg) var(--spacing-md);
+    border-radius: 0;
+  }
+  
+  .VPHero .name {
+    font-size: 2rem;
+    line-height: 1.2;
+  }
+  
+  .VPHero .text {
+    font-size: 1rem;
+  }
+  
+  .VPHero .tagline {
+    font-size: 0.9rem;
+  }
+  
+  .VPHero .actions {
+    flex-direction: column;
+    gap: var(--spacing-sm);
+    width: 100%;
+  }
+  
+  .VPButton {
+    width: 100%;
+    text-align: center;
+    padding: 0.75rem 1.5rem;
+  }
+  
+  .VPFeature {
+    padding: var(--spacing-md);
+    margin-bottom: var(--spacing-md);
+  }
+  
+  .VPNav {
+    padding: var(--spacing-sm);
+  }
+  
+  .vp-doc {
+    padding: var(--spacing-sm);
+  }
+  
+  .vp-doc h1 {
+    font-size: 1.75rem;
+  }
+  
+  .vp-doc h2 {
+    font-size: 1.5rem;
+  }
+  
+  .vp-doc h3 {
+    font-size: 1.25rem;
+  }
+  
+  .vp-doc blockquote {
+    padding: var(--spacing-sm);
+    margin: var(--spacing-md) 0;
+  }
+  
+  .vp-doc table {
+    font-size: 0.9rem;
+  }
+  
+  .vp-doc th,
+  .vp-doc td {
+    padding: var(--spacing-xs) var(--spacing-sm);
+  }
+}
+
+/* Small mobile (iPhones pequeños, Android compactos) */
+@media (max-width: 480px) {
+  .VPHero .name {
+    font-size: 1.75rem;
+  }
+  
+  .VPHero .text {
+    font-size: 0.95rem;
+  }
+  
+  .VPFeature .title {
+    font-size: 1.1rem;
+  }
+  
+  .VPFeature .details {
+    font-size: 0.9rem;
+  }
+  
+  .VPButton {
+    padding: 0.625rem 1.5rem;
+    font-size: 0.9rem;
+  }
+  
+  .vp-doc h1 {
+    font-size: 1.5rem;
+  }
+  
+  .vp-doc h2 {
+    font-size: 1.3rem;
+  }
+  
+  .vp-doc h3 {
+    font-size: 1.1rem;
+  }
+  
+  .vp-doc p {
+    font-size: 0.95rem;
+  }
+}
+
+/* Touch device optimizations */
+@media (hover: none) and (pointer: coarse) {
+  /* Desactivar hover transforms en dispositivos táctiles */
+  .VPFeature:hover {
+    transform: none;
+    box-shadow: var(--shadow-md);
+  }
+  
+  .VPButton:hover {
+    transform: none;
+    box-shadow: var(--shadow-sm);
+  }
+  
+  .vp-doc a:hover::after {
+    width: 0;
+  }
+  
+  /* Aumentar áreas de toque para mejor UX móvil */
+  .VPButton,
+  .VPNav a,
+  .VPSidebarItem {
+    min-height: 44px;
+    min-width: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  /* Mejorar espaciado en dispositivos táctiles */
+  .VPNav a {
+    padding: var(--spacing-sm) var(--spacing-md);
+  }
+  
+  .VPSidebarItem {
+    padding: var(--spacing-sm) var(--spacing-md);
+    margin-bottom: var(--spacing-xs);
+  }
+}
+
+/* Landscape mobile */
+@media (max-width: 896px) and (orientation: landscape) {
+  .VPHero {
+    padding: var(--spacing-md) var(--spacing-lg);
+  }
+  
+  .VPHero .name {
+    font-size: 2rem;
+  }
+  
+  .VPHero .text {
+    font-size: 1rem;
+  }
+}
+
+/* Large screens optimization */
+@media (min-width: 1440px) {
+  :root {
+    --spacing-xl: 5rem;
+  }
+  
+  .vp-doc {
+    max-width: 52rem;
+  }
+  
+  .VPHero {
+    padding: var(--spacing-xl) var(--spacing-lg);
+  }
+}
+
+/* Ultra-wide screens */
+@media (min-width: 1920px) {
+  .vp-doc {
+    max-width: 56rem;
+  }
+}
+

@@ -24,6 +24,8 @@ Se un palo ha 3.000 membri, potenzialmente:
 - 80+ possono avere condizioni neurologiche che richiedono adattamento
 - Innumerevoli hanno sperimentato trauma che influenza la loro regolazione emotiva
 
+Attualmente quasi 4 milioni di membri in tutta La Chiesa di Gesù Cristo dei Santi degli Ultimi Giorni sperimentano condizioni di salute mentale e neurologiche.
+
 Questa non è una "rara eccezione" — è una realtà comune che richiede preparazione istituzionale.
 
 **Bisogno Identificato**

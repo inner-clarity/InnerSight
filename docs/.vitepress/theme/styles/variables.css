@@ -1,0 +1,87 @@
+/* Variables CSS Globales para InnerSight */
+
+:root {
+  /* Colores primarios - Azul profundo espiritual */
+  --vp-c-brand: #2c5aa0;
+  --vp-c-brand-light: #4a7bc8;
+  --vp-c-brand-lighter: #6b9de8;
+  --vp-c-brand-dark: #1e3a6f;
+  --vp-c-brand-darker: #0f1d38;
+  
+  /* Colores secundarios - Dorado cálido */
+  --color-accent: #f39c12;
+  --color-accent-light: #f5b041;
+  --color-accent-dark: #d68910;
+  
+  /* Colores de apoyo */
+  --color-success: #27ae60;
+  --color-info: #3498db;
+  --color-warning: #f39c12;
+  --color-danger: #e74c3c;
+  
+  /* Grises - Modo Claro */
+  --color-text-primary: #2c3e50;
+  --color-text-secondary: #7f8c8d;
+  --color-text-light: #95a5a6;
+  --color-bg-light: #f8f9fa;
+  --color-bg-lighter: #ffffff;
+  --color-border: #e1e8ed;
+  
+  /* Tipografías */
+  --font-family-base: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  --font-family-heading: 'Merriweather', Georgia, serif;
+  
+  /* Espaciado */
+  --spacing-xs: 0.25rem;
+  --spacing-sm: 0.5rem;
+  --spacing-md: 1rem;
+  --spacing-lg: 2rem;
+  --spacing-xl: 4rem;
+  
+  /* Sombras - Modo Claro */
+  --shadow-sm: 0 2px 4px rgba(0, 0, 0, 0.08);
+  --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.1);
+  --shadow-lg: 0 8px 25px rgba(0, 0, 0, 0.15);
+  --shadow-hover: 0 10px 30px rgba(44, 90, 160, 0.2);
+  
+  /* Transiciones */
+  --transition-fast: 0.15s ease;
+  --transition-base: 0.3s ease;
+  --transition-slow: 0.5s ease;
+}
+
+/* Variables para Modo Oscuro */
+.dark {
+  /* Colores primarios - Azul más brillante para contraste */
+  --vp-c-brand: #4a7bc8;
+  --vp-c-brand-light: #6b9de8;
+  --vp-c-brand-lighter: #8bb3f0;
+  --vp-c-brand-dark: #2c5aa0;
+  --vp-c-brand-darker: #1e3a6f;
+  
+  /* Colores secundarios - Dorado más vibrante */
+  --color-accent: #f5b041;
+  --color-accent-light: #f7c469;
+  --color-accent-dark: #f39c12;
+  
+  /* Colores de apoyo - Ajustados para modo oscuro */
+  --color-success: #2ecc71;
+  --color-info: #5dade2;
+  --color-warning: #f5b041;
+  --color-danger: #e67e22;
+  
+  /* Grises - Modo Oscuro */
+  --color-text-primary: #e8eaed;
+  --color-text-secondary: #bdc1c6;
+  --color-text-light: #9aa0a6;
+  --color-bg-light: #1a1a1a;
+  --color-bg-lighter: #2d2d2d;
+  --color-border: #3c4043;
+  
+  /* Sombras - Modo Oscuro */
+  --shadow-sm: 0 2px 4px rgba(0, 0, 0, 0.3);
+  --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.4);
+  --shadow-lg: 0 8px 25px rgba(0, 0, 0, 0.5);
+  --shadow-hover: 0 10px 30px rgba(74, 123, 200, 0.3);
+}
+
