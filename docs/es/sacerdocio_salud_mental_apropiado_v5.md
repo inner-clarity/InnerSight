@@ -49,6 +49,14 @@ Los líderes actuales han reforzado este enfoque con claridad:
 > *“Dejen de añadir a los requisitos del Evangelio cosas que el Señor no ha impuesto.”*  
 > — *Permitan que Dios prevalezca*, Conferencia General, octubre 2020
 
+> **Elder Dale G. Renlund**:  
+> *“El Salvador no excluye a nadie. Él extiende la mano a todos, especialmente a los que se sienten marginados.”*  
+> — Conferencia General, Abril 2021, “El poder sanador del Salvador”
+
+> **Elder Jeffrey R. Holland**:  
+> *“Otra verdad que es evidente aquí son los instrumentos que usó el Creador del cielo y de la tierra, y de todo lo que en ellos hay, para proveer este milagro (dar la vista al ciego): ¡saliva y algo de tierra! Esos ingredientes tan poco probables declaran que **Dios puede bendecirnos mediante cualquier método que Él escoja.** ... qué fácil nos es desdeñar la fuente de nuestra redención debido a que **los ingredientes y los medios parecen ser vergonzosamente sencillos**.”*  
+> — Conferencia General, Octubre 2025, “Mis ojos ven por fin”
+
 Estas enseñanzas nos invitan a **ministrar con humildad**, no con suposiciones.
 
 ## Comprensión Clínica y Doctrinal

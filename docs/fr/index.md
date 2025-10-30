@@ -67,10 +67,10 @@ Cette section explique, basée sur les neurosciences et les études cliniques, c
 ### [Quand l'Amour est Conditionné à la Conformité](/fr/chantaje_emocional)
 Certains membres rapportent sentir que leur appartenance ou leur valeur spirituelle dépend de l'abandon de certains besoins de régulation émotionnelle. Cette section analyse comment ces dynamiques—bien qu'involontaires—peuvent affecter la foi, l'estime de soi et les relations, et offre des principes pour servir sans imposer de conditions.
 
-### [Nature de la Régulation Émotionnelle](/fr/Naturaleza_regulacion_emocional)
+### [Nature de la Régulation Émotionnelle](/fr/naturaleza_regulacion_emocional)
 Certaines personnes confondent certaines stratégies de régulation émotionnelle avec des questions d'identité ou de préférence sexuelle. Cette section offre une explication clinique claire, basée sur les neurosciences, sur pourquoi ces besoins sont liés à la santé mentale et neurologique, pas à l'orientation sexuelle.
 
-### [Sécurité Émotionnelle Conjugale](/fr/Seguridad_Emocional_Conyugal)
+### [Sécurité Émotionnelle Conjugale](/fr/seguridad_emocional_conyugal)
 Cette section examine comment les restrictions coercitives dans l'intimité conjugale peuvent affecter la sécurité émotionnelle et la santé mentale des conjoints. Elle analyse l'impact sur les relations matrimoniales quand des restrictions sont imposées qui interfèrent avec la régulation émotionnelle légitime, offrant des perspectives basées sur les principes de l'Évangile et la compréhension clinique de l'intimité conjugale.
 
 ### [Dignité Spirituelle et Santé Mentale](/fr/sacerdocio_salud_mental_apropiado_v5)  
@@ -82,10 +82,10 @@ Proposition complète soumise à la Première Présidence pour l'inclusion insti
 ### [Guide Pratique pour les Dirigeants](/fr/guia_practica_lideres)
 Guide pratique avec des scénarios courants que les dirigeants affrontent en servant les membres avec des besoins de régulation émotionnelle. Inclut des conseils spécifiques sur comment répondre avec sagesse et compassion dans des situations réelles.
 
-### [Questions Fréquentes pour les Dirigeants](/fr/PreguntasFrecuentes)
+### [Questions Fréquentes pour les Dirigeants](/fr/preguntasfrecuentes)
 Questions et réponses courantes pour les dirigeants qui cherchent à mieux comprendre comment soutenir les membres avec des besoins de santé mentale et neurologique. Inclut des conseils pratiques sur distinguer les besoins légitimes, la dignité pour le temple, les dynamiques familiales et les accommodements raisonnables.
 
-### [Guide pour les Conversations Familiales Difficiles](/fr/Guia_conversacion)
+### [Guide pour les Conversations Familiales Difficiles](/fr/guia_conversacion)
 Guide pratique pour les membres et familles qui affrontent des conversations difficiles sur les besoins de santé mentale ou neurologique. Inclut des conseils spécifiques tant pour ceux qui ont les besoins que pour les membres de la famille, avec des stratégies de communication, gestion émotionnelle et recherche de soutien professionnel.
 
 ---

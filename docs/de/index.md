@@ -67,10 +67,10 @@ Dieser Abschnitt erklärt, basierend auf Neurowissenschaften und klinischen Stud
 ### [Wenn Liebe an Konformität geknüpft ist](/de/chantaje_emocional)
 Einige Mitglieder berichten, dass sie das Gefühl haben, ihre Zugehörigkeit oder spiritueller Wert hängt davon ab, bestimmte emotionale Regulationsbedürfnisse aufzugeben. Dieser Abschnitt analysiert, wie diese Dynamiken—obwohl unbeabsichtigt—Glauben, Selbstwertgefühl und Beziehungen beeinflussen können, und bietet Prinzipien für den Dienst ohne Bedingungen zu stellen.
 
-### [Natur der Emotionalen Regulation](/de/Naturaleza_regulacion_emocional)
+### [Natur der Emotionalen Regulation](/de/naturaleza_regulacion_emocional)
 Einige Menschen verwechseln bestimmte emotionale Regulationsstrategien mit Fragen der Identität oder sexuellen Präferenz. Dieser Abschnitt bietet eine klare klinische Erklärung, basierend auf Neurowissenschaften, warum diese Bedürfnisse mit mentaler und neurologischer Gesundheit zusammenhängen, nicht mit sexueller Orientierung.
 
-### [Emotionale Eheliche Sicherheit](/de/Seguridad_Emocional_Conyugal)
+### [Emotionale Eheliche Sicherheit](/de/seguridad_emocional_conyugal)
 Dieser Abschnitt untersucht, wie zwanghafte Einschränkungen in der ehelichen Intimität die emotionale Sicherheit und mentale Gesundheit der Ehepartner beeinflussen können. Er analysiert die Auswirkungen auf eheliche Beziehungen, wenn Einschränkungen auferlegt werden, die die legitime emotionale Regulation stören, und bietet Perspektiven basierend auf Evangeliumsprinzipien und klinischem Verständnis der ehelichen Intimität.
 
 ### [Spirituelle Würde und Mentale Gesundheit](/de/sacerdocio_salud_mental_apropiado_v5)  
@@ -82,10 +82,10 @@ Umfassender Vorschlag an die Erste Präsidentschaft für institutionelle Einbezi
 ### [Praktischer Leitfaden für Führungskräfte](/de/guia_practica_lideres)
 Praktischer Leitfaden mit häufigen Szenarien, denen Führungskräfte beim Dienen an Mitglieder mit emotionalen Regulationsbedürfnissen begegnen. Enthält spezifische Anleitung, wie man mit Weisheit und Mitgefühl in realen Situationen antwortet.
 
-### [Häufig Gestellte Fragen für Führungskräfte](/de/PreguntasFrecuentes)
+### [Häufig Gestellte Fragen für Führungskräfte](/de/preguntasfrecuentes)
 Häufige Fragen und Antworten für Führungskräfte, die besser verstehen möchten, wie sie Mitglieder mit mentalen Gesundheits- und neurologischen Bedürfnissen unterstützen können. Enthält praktische Anleitung zur Unterscheidung legitimer Bedürfnisse, Tempelwürdigkeit, Familiendynamiken und angemessenen Anpassungen.
 
-### [Leitfaden für Schwierige Familiengespräche](/de/Guia_conversacion)
+### [Leitfaden für Schwierige Familiengespräche](/de/guia_conversacion)
 Praktischer Leitfaden für Mitglieder und Familien, die schwierige Gespräche über mentale Gesundheits- oder neurologische Bedürfnisse führen. Enthält spezifische Anleitung sowohl für diejenigen mit den Bedürfnissen als auch für Familienmitglieder, mit Kommunikationsstrategien, emotionalem Management und Suche nach professioneller Unterstützung.
 
 ---

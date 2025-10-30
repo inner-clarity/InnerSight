@@ -27,13 +27,13 @@ export default defineConfig({
           { text: 'Scientific Foundation', link: '/fundamento_cientifico_validacion' },
           { text: 'Coercive Restrictions', link: '/efectos_de_restricciones_coercitiva' },
           { text: 'Conditioned to the Conformity', link: '/chantaje_emocional' },
-          { text: 'Nature of Emotional Regulation', link: '/Nature_of_Emotional_Regulation' },
-          { text: 'Emotional Marital Security', link: '/Emotional_Marital_Security' },
+          { text: 'Nature of Emotional Regulation', link: '/naturaleza_regulacion_emocional' },
+          { text: 'Emotional Marital Security', link: '/seguridad_emocional_conyugal' },
           { text: 'Priesthood & Mental Health', link: '/sacerdocio_salud_mental_apropiado_v5' },
           { text: 'Institutional Proposal', link: '/propuesta_v1_esp' },
-          { text: 'Practical Guide for Leaders', link: '/Practical_Guide_Leaders' },
-          { text: 'FAQ for Leaders', link: '/PreguntasFrecuentes' },
-          { text: 'Family Conversation Guide', link: '/guia_practica_lideres' }
+          { text: 'Practical Guide for Leaders', link: '/guia_practica_lideres' },
+          { text: 'FAQ for Leaders', link: '/preguntasfrecuentes' },
+          { text: 'Family Conversation Guide', link: '/guia_conversacion' }
         ],
         
         editLink: {
@@ -67,13 +67,13 @@ export default defineConfig({
           { text: 'Fundamento Científico', link: '/es/fundamento_cientifico_validacion' },
           { text: 'Restricciones Coercitivas', link: '/es/efectos_de_restricciones_coercitiva' },
           { text: 'Condiciona a la conformidad', link: '/es/chantaje_emocional' },
-          { text: 'Naturaleza de la regulación emocional', link: '/es/Naturaleza_regulacion_emocional' },
-          { text: 'Seguridad Emocional Conyugal', link: '/es/Seguridad_Emocional_Conyugal' },
+          { text: 'Naturaleza de la regulación emocional', link: '/es/naturaleza_regulacion_emocional' },
+          { text: 'Seguridad Emocional Conyugal', link: '/es/seguridad_emocional_conyugal' },
           { text: 'Sacerdocio y Salud Mental', link: '/es/sacerdocio_salud_mental_apropiado_v5' },
           { text: 'Propuesta Institucional', link: '/es/propuesta_v1_esp' },
           { text: 'Guía Práctica para Líderes', link: '/es/guia_practica_lideres' },
-          { text: 'Preguntas Frecuentes', link: '/es/PreguntasFrecuentes' },
-          { text: 'Guía de Conversación', link: '/es/Guia_conversacion' }
+          { text: 'Preguntas Frecuentes', link: '/es/preguntasfrecuentes' },
+          { text: 'Guía de Conversación', link: '/es/guia_conversacion' }
         ],
         
         editLink: {
@@ -120,13 +120,13 @@ export default defineConfig({
           { text: 'Fundamento Científico', link: '/pt/fundamento_cientifico_validacion' },
           { text: 'Restrições Coercitivas', link: '/pt/efectos_de_restricciones_coercitiva' },
           { text: 'Condicionado à Conformidade', link: '/pt/chantaje_emocional' },
-          { text: 'Natureza da regulação emocional', link: '/pt/Naturaleza_regulacion_emocional' },
-          { text: 'Segurança Emocional Conjugal', link: '/pt/Seguridad_Emocional_Conyugal' },
+          { text: 'Natureza da regulação emocional', link: '/pt/naturaleza_regulacion_emocional' },
+          { text: 'Segurança Emocional Conjugal', link: '/pt/seguridad_emocional_conyugal' },
           { text: 'Sacerdócio e Saúde Mental', link: '/pt/sacerdocio_salud_mental_apropiado_v5' },
           { text: 'Proposta Institucional', link: '/pt/propuesta_v1_esp' },
           { text: 'Guia Prática para Líderes', link: '/pt/guia_practica_lideres' },
-          { text: 'Perguntas Frequentes', link: '/pt/PreguntasFrecuentes' },
-          { text: 'Guia de Conversação', link: '/pt/Guia_conversacion' }
+          { text: 'Perguntas Frequentes', link: '/pt/preguntasfrecuentes' },
+          { text: 'Guia de Conversação', link: '/pt/guia_conversacion' }
         ],
         
         editLink: {
@@ -173,13 +173,13 @@ export default defineConfig({
           { text: 'Fondement Scientifique', link: '/fr/fundamento_cientifico_validacion' },
           { text: 'Restrictions Coercitives', link: '/fr/efectos_de_restricciones_coercitiva' },
           { text: 'Conditionné à la Conformité', link: '/fr/chantaje_emocional' },
-          { text: 'Nature de la régulation émotionnelle', link: '/fr/Naturaleza_regulacion_emocional' },
-          { text: 'Sécurité Émotionnelle Conjugale', link: '/fr/Seguridad_Emocional_Conyugal' },
+          { text: 'Nature de la régulation émotionnelle', link: '/fr/naturaleza_regulacion_emocional' },
+          { text: 'Sécurité Émotionnelle Conjugale', link: '/fr/seguridad_emocional_conyugal' },
           { text: 'Sacerdoce et Santé Mentale', link: '/fr/sacerdocio_salud_mental_apropiado_v5' },
           { text: 'Proposition Institutionnelle', link: '/fr/propuesta_v1_esp' },
           { text: 'Guide Pratique pour les Dirigeants', link: '/fr/guia_practica_lideres' },
-          { text: 'Questions Fréquentes', link: '/fr/PreguntasFrecuentes' },
-          { text: 'Guide de Conversation', link: '/fr/Guia_conversacion' }
+          { text: 'Questions Fréquentes', link: '/fr/preguntasfrecuentes' },
+          { text: 'Guide de Conversation', link: '/fr/guia_conversacion' }
         ],
         
         editLink: {
@@ -226,13 +226,13 @@ export default defineConfig({
           { text: 'Wissenschaftliche Grundlage', link: '/de/fundamento_cientifico_validacion' },
           { text: 'Zwangseinschränkungen', link: '/de/efectos_de_restricciones_coercitiva' },
           { text: 'Konditioniert zur Konformität', link: '/de/chantaje_emocional' },
-          { text: 'Natur der emotionalen Regulation', link: '/de/Naturaleza_regulacion_emocional' },
-          { text: 'Emotionale Eheliche Sicherheit', link: '/de/Seguridad_Emocional_Conyugal' },
+          { text: 'Natur der emotionalen Regulation', link: '/de/naturaleza_regulacion_emocional' },
+          { text: 'Emotionale Eheliche Sicherheit', link: '/de/seguridad_emocional_conyugal' },
           { text: 'Priestertum und Geistige Gesundheit', link: '/de/sacerdocio_salud_mental_apropiado_v5' },
           { text: 'Institutioneller Vorschlag', link: '/de/propuesta_v1_esp' },
           { text: 'Praktischer Leitfaden für Führer', link: '/de/guia_practica_lideres' },
-          { text: 'Häufig Gestellte Fragen', link: '/de/PreguntasFrecuentes' },
-          { text: 'Gesprächsleitfaden', link: '/de/Guia_conversacion' }
+          { text: 'Häufig Gestellte Fragen', link: '/de/preguntasfrecuentes' },
+          { text: 'Gesprächsleitfaden', link: '/de/guia_conversacion' }
         ],
         
         editLink: {
@@ -279,13 +279,13 @@ export default defineConfig({
           { text: 'Fondamento Scientifico', link: '/it/fundamento_cientifico_validacion' },
           { text: 'Restrizioni Coercitive', link: '/it/efectos_de_restricciones_coercitiva' },
           { text: 'Condizionato alla Conformità', link: '/it/chantaje_emocional' },
-          { text: 'Natura della regolazione emotiva', link: '/it/Naturaleza_regulacion_emocional' },
-          { text: 'Sicurezza Emotiva Coniugale', link: '/it/Seguridad_Emocional_Conyugal' },
+          { text: 'Natura della regolazione emotiva', link: '/it/naturaleza_regulacion_emocional' },
+          { text: 'Sicurezza Emotiva Coniugale', link: '/it/seguridad_emocional_conyugal' },
           { text: 'Sacerdozio e Salute Mentale', link: '/it/sacerdocio_salud_mental_apropiado_v5' },
           { text: 'Proposta Istituzionale', link: '/it/propuesta_v1_esp' },
           { text: 'Guida Pratica per i Leader', link: '/it/guia_practica_lideres' },
-          { text: 'Domande Frequenti', link: '/it/PreguntasFrecuentes' },
-          { text: 'Guida alla Conversazione', link: '/it/Guia_conversacion' }
+          { text: 'Domande Frequenti', link: '/it/preguntasfrecuentes' },
+          { text: 'Guida alla Conversazione', link: '/it/guia_conversacion' }
         ],
         
         editLink: {
@@ -332,13 +332,13 @@ export default defineConfig({
           { text: 'Научное обоснование', link: '/ru/fundamento_cientifico_validacion' },
           { text: 'Принудительные ограничения', link: '/ru/efectos_de_restricciones_coercitiva' },
           { text: 'Условная любовь', link: '/ru/chantaje_emocional' },
-          { text: 'Природа эмоциональной регуляции', link: '/ru/Naturaleza_regulacion_emocional' },
-          { text: 'Эмоциональная супружеская безопасность', link: '/ru/Seguridad_Emocional_Conyugal' },
+          { text: 'Природа эмоциональной регуляции', link: '/ru/naturaleza_regulacion_emocional' },
+          { text: 'Эмоциональная супружеская безопасность', link: '/ru/seguridad_emocional_conyugal' },
           { text: 'Священство и психическое здоровье', link: '/ru/sacerdocio_salud_mental_apropiado_v5' },
           { text: 'Институциональное предложение', link: '/ru/propuesta_v1_esp' },
           { text: 'Практическое руководство для лидеров', link: '/ru/guia_practica_lideres' },
-          { text: 'Часто задаваемые вопросы', link: '/ru/PreguntasFrecuentes' },
-          { text: 'Руководство по разговорам', link: '/ru/Guia_conversacion' }
+          { text: 'Часто задаваемые вопросы', link: '/ru/preguntasfrecuentes' },
+          { text: 'Руководство по разговорам', link: '/ru/guia_conversacion' }
         ],
         
         editLink: {
@@ -385,13 +385,13 @@ export default defineConfig({
           { text: '과학적 근거', link: '/ko/fundamento_cientifico_validacion' },
           { text: '강제적 제한의 효과', link: '/ko/efectos_de_restricciones_coercitiva' },
           { text: '조건부 사랑', link: '/ko/chantaje_emocional' },
-          { text: '감정 조절의 본질', link: '/ko/Naturaleza_regulacion_emocional' },
-          { text: '감정적 부부 안전', link: '/ko/Seguridad_Emocional_Conyugal' },
+          { text: '감정 조절의 본질', link: '/ko/naturaleza_regulacion_emocional' },
+          { text: '감정적 부부 안전', link: '/ko/seguridad_emocional_conyugal' },
           { text: '성역과 정신 건강', link: '/ko/sacerdocio_salud_mental_apropiado_v5' },
           { text: '기관적 제안', link: '/ko/propuesta_v1_esp' },
           { text: '지도자를 위한 실용 가이드', link: '/ko/guia_practica_lideres' },
-          { text: '자주 묻는 질문', link: '/ko/PreguntasFrecuentes' },
-          { text: '대화 가이드', link: '/ko/Guia_conversacion' }
+          { text: '자주 묻는 질문', link: '/ko/preguntasfrecuentes' },
+          { text: '대화 가이드', link: '/ko/guia_conversacion' }
         ],
         
         editLink: {
@@ -438,13 +438,13 @@ export default defineConfig({
           { text: '科学的根拠', link: '/ja/fundamento_cientifico_validacion' },
           { text: '強制的制限の影響', link: '/ja/efectos_de_restricciones_coercitiva' },
           { text: '条件付き愛', link: '/ja/chantaje_emocional' },
-          { text: '感情的調節の本質', link: '/ja/Naturaleza_regulacion_emocional' },
-          { text: '感情的夫婦安全', link: '/ja/Seguridad_Emocional_Conyugal' },
+          { text: '感情的調節の本質', link: '/ja/naturaleza_regulacion_emocional' },
+          { text: '感情的夫婦安全', link: '/ja/seguridad_emocional_conyugal' },
           { text: '聖職と精神的健康', link: '/ja/sacerdocio_salud_mental_apropiado_v5' },
           { text: '制度的提案', link: '/ja/propuesta_v1_esp' },
           { text: '指導者のための実用ガイド', link: '/ja/guia_practica_lideres' },
-          { text: 'よくある質問', link: '/ja/PreguntasFrecuentes' },
-          { text: '対話ガイド', link: '/ja/Guia_conversacion' }
+          { text: 'よくある質問', link: '/ja/preguntasfrecuentes' },
+          { text: '対話ガイド', link: '/ja/guia_conversacion' }
         ],
         
         editLink: {
@@ -491,13 +491,13 @@ export default defineConfig({
           { text: '科学依据', link: '/zh/fundamento_cientifico_validacion' },
           { text: '强制限制的影响', link: '/zh/efectos_de_restricciones_coercitiva' },
           { text: '条件性爱', link: '/zh/chantaje_emocional' },
-          { text: '情绪调节的本质', link: '/zh/Naturaleza_regulacion_emocional' },
-          { text: '情感婚姻安全', link: '/zh/Seguridad_Emocional_Conyugal' },
+          { text: '情绪调节的本质', link: '/zh/naturaleza_regulacion_emocional' },
+          { text: '情感婚姻安全', link: '/zh/seguridad_emocional_conyugal' },
           { text: '圣职与心理健康', link: '/zh/sacerdocio_salud_mental_apropiado_v5' },
           { text: '机构提案', link: '/zh/propuesta_v1_esp' },
           { text: '领导者实用指南', link: '/zh/guia_practica_lideres' },
-          { text: '常见问题', link: '/zh/PreguntasFrecuentes' },
-          { text: '对话指南', link: '/zh/Guia_conversacion' }
+          { text: '常见问题', link: '/zh/preguntasfrecuentes' },
+          { text: '对话指南', link: '/zh/guia_conversacion' }
         ],
         
         editLink: {
@@ -544,13 +544,13 @@ export default defineConfig({
           { text: 'वैज्ञानिक आधार', link: '/hi/fundamento_cientifico_validacion' },
           { text: 'बाध्यकारी प्रतिबंधों के प्रभाव', link: '/hi/efectos_de_restricciones_coercitiva' },
           { text: 'अनुपालन के लिए सशर्त', link: '/hi/chantaje_emocional' },
-          { text: 'भावनात्मक नियमन की प्रकृति', link: '/hi/Naturaleza_regulacion_emocional' },
-          { text: 'भावनात्मक वैवाहिक सुरक्षा', link: '/hi/Seguridad_Emocional_Conyugal' },
+          { text: 'भावनात्मक नियमन की प्रकृति', link: '/hi/naturaleza_regulacion_emocional' },
+          { text: 'भावनात्मक वैवाहिक सुरक्षा', link: '/hi/seguridad_emocional_conyugal' },
           { text: 'पुजारीपन और मानसिक स्वास्थ्य', link: '/hi/sacerdocio_salud_mental_apropiado_v5' },
           { text: 'संस्थागत प्रस्ताव', link: '/hi/propuesta_v1_esp' },
           { text: 'नेताओं के लिए व्यावहारिक मार्गदर्शिका', link: '/hi/guia_practica_lideres' },
-          { text: 'अक्सर पूछे जाने वाले प्रश्न', link: '/hi/PreguntasFrecuentes' },
-          { text: 'बातचीत मार्गदर्शिका', link: '/hi/Guia_conversacion' }
+          { text: 'अक्सर पूछे जाने वाले प्रश्न', link: '/hi/preguntasfrecuentes' },
+          { text: 'बातचीत मार्गदर्शिका', link: '/hi/guia_conversacion' }
         ],
         
         editLink: {
@@ -587,13 +587,13 @@ export default defineConfig({
           { text: 'Scientific Foundation', link: '/tl/fundamento_cientifico_validacion' },
           { text: 'Mga Coercive Restrictions', link: '/tl/efectos_de_restricciones_coercitiva' },
           { text: 'Kondisyon sa Pagsunod', link: '/tl/chantaje_emocional' },
-          { text: 'Kalikasan ng Emotional Regulation', link: '/tl/Naturaleza_regulacion_emocional' },
-          { text: 'Seguridad Emosyonal sa Pag-aasawa', link: '/tl/Seguridad_Emocional_Conyugal' },
+          { text: 'Kalikasan ng Emotional Regulation', link: '/tl/naturaleza_regulacion_emocional' },
+          { text: 'Seguridad Emosyonal sa Pag-aasawa', link: '/tl/seguridad_emocional_conyugal' },
           { text: 'Priesthood at Mental Health', link: '/tl/sacerdocio_salud_mental_apropiado_v5' },
           { text: 'Institutional Proposal', link: '/tl/propuesta_v1_esp' },
           { text: 'Gabay sa Praktikal para sa mga Leaders', link: '/tl/guia_practica_lideres' },
-          { text: 'Mga Madalas Itanong', link: '/tl/PreguntasFrecuentes' },
-          { text: 'Gabay sa Conversation', link: '/tl/Guia_conversacion' }
+          { text: 'Mga Madalas Itanong', link: '/tl/preguntasfrecuentes' },
+          { text: 'Gabay sa Conversation', link: '/tl/guia_conversacion' }
         ],
         
         editLink: {

@@ -1,33 +1,26 @@
 # About InnerSight
+<!-- i18n: synced with docs/es/about/index.md (Oct 2025). -->
 
-InnerSight is a research initiative dedicated to examining the intersection between mental health, uncommon psychological procedures for emotional regulation, and the practice of religion within The Church of Jesus Christ of Latter-day Saints.
+InnerSight is an initiative of the InnerSight Foundation dedicated to exploring the intersection between mental health, emotional regulation processes —including those considered unconventional— and spiritual life within The Church of Jesus Christ of Latter-day Saints.
 
 ## Our Mission
 
-Facilitate informed dialogue between professional clinical perspectives and ecclesiastical leadership to:
+Foster respectful, informed, and compassionate dialogue between contemporary clinical approaches and principles of ecclesiastical leadership in order to:
 
-- **Reduce stigma** associated with unconventional methods of emotional regulation
-- **Promote inclusion** of all members, regardless of their mental health needs
-- **Establish clear guidelines** that harmonize individual well-being with community practice
-- **Strengthen the community** through greater understanding and mutual support
+- Reduce stigma toward those who experience unique emotional or mental needs  
+- Promote full inclusion and a sense of belonging for all children of God  
+- Offer guidance that balances individual well-being with community harmony  
+- Strengthen the Church as a refuge of Christlike love  
 
-## Professional Foundation
+## Our Approach
 
-This work arises from the identified need for greater understanding and institutional support for members who use unconventional methods of emotional regulation as part of their healing and mental well-being process. The research is based on established principles of clinical psychology, cognitive-behavioral therapy, and revealed doctrine.
+This initiative arises from observing a real need: the lack of institutional understanding and structured support for members who, in their healing journey, use non-traditional methods of emotional regulation. Our work is grounded in:
 
-## About the Author
+- Scientifically validated principles of clinical psychology  
+- Therapeutic approaches such as cognitive-behavioral therapy  
+- Revealed doctrine and Christian values centered on empathy, charity, and human dignity  
 
-**Alejandro Parada** - Programming Analyst, specialist in quality and information security, with a strong vocation for research with AI applied to individual and collective mental health improvement, and in the implementation of computer systems. Coach and enterprenour.
+We believe that faith and science are not in conflict, but can walk together to illuminate paths of healing, mutual understanding, and spiritual growth.
 
-**Research Areas:**
-- Meyer-Briggs Type Indicator (MBTI)
-- Emotional intelligence (Goleman model)
-- Psychology of influence and persuasion (Cialdini)
-- Application of AI in mental health pattern analysis
-- Computer systems for psychological well-being
-
-*Active member of The Church of Jesus Christ of Latter-day Saints, committed to harmonizing technological principles, scientific research, and revealed doctrine.*
-
----
-
-*"Charity is the pure love of Christ, and it endureth forever; and whoso is found possessed of it at the last day, it shall be well with him." - Moroni 7:47*
+> "Charity is the pure love of Christ, and it endureth forever; and whoso is found possessed of it at the last day, it shall be well with him."  
+> — Moroni 7:47

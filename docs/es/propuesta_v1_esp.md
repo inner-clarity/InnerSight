@@ -182,6 +182,8 @@ Nadie debe usar presión emocional, manipulación espiritual o tácticas relacio
 
 No proviene de arriba forzar a alguien a elegir entre un recurso de regulacion emocional legítimo o su familia. O el poner a niños o niñas como escudo para forzar aun más el abandono de un recurso de regulación emocional legítimo
 
+El hecho de que "otras circunstancias pueden requerir una adaptación individual." (La Familia una proclamación para el mundo) y aunque no lo entendamos todo, no querer aceptarlo con humildad y empatía de corazón es negar que "....las tiernas misericordias del Señor se extienden sobre todos..." sus hijos. (1 Ne. 8:20) Recordemos "Bienaventurados los misericordiosos porque ellos alcanzarán misericordia" (Mateo 5:7)
+
 #### Orientación para Líderes
 
 Los líderes locales deben:

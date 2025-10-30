@@ -19,3 +19,6 @@
 ✓ Create safe spaces (e.g.: quiet rooms)
 ✓ Don't publicly point out differences
 ✓ Normalize diversity in talks/lessons
+
+
+

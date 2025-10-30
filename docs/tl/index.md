@@ -67,10 +67,10 @@ Ang seksyon na ito ay nagpapaliwanag, batay sa neuroscience at mga klinikal na p
 ### [Kapag ang Pag-ibig ay Nakondisyon sa Pagsunod](/tl/chantaje_emocional)
 Ang ilang mga miyembro ay nag-uulat na nakakaramdam na ang kanilang pagiging kabilang o espirituwal na halaga ay nakadepende sa pagtigil sa ilang mga pangangailangan sa regulasyon ng emosyon. Ang seksyon na ito ay nagsusuri kung paano ang mga dinamikang ito—bagaman hindi sinasadya—ay maaaring makaapekto sa pananampalataya, pagpapahalaga sa sarili, at mga relasyon, at nag-aalok ng mga prinsipyo para sa paglilingkod nang hindi naglalagay ng mga kondisyon.
 
-### [Kalikasan ng Regulasyon ng Emosyon](/tl/Naturaleza_regulacion_emocional)
+### [Kalikasan ng Regulasyon ng Emosyon](/tl/naturaleza_regulacion_emocional)
 Ang ilang mga tao ay nagkakamali sa ilang mga estratehiya sa regulasyon ng emosyon sa mga usapin ng pagkakakilanlan o sekswal na kagustuhan. Ang seksyon na ito ay nag-aalok ng isang malinaw na klinikal na paliwanag, batay sa neuroscience, tungkol sa kung bakit ang mga pangangailangang ito ay nauugnay sa kalusugan ng isip at neurolohikal, hindi sa sekswal na oryentasyon.
 
-### [Seguridad Emosyonal sa Pag-aasawa](/tl/Seguridad_Emocional_Conyugal)
+### [Seguridad Emosyonal sa Pag-aasawa](/tl/seguridad_emocional_conyugal)
 Ang seksyon na ito ay sumusuri kung paano ang mga coercive na paghihigpit sa pagiging malapit ng mag-asawa ay maaaring makaapekto sa emosyonal na seguridad at kalusugan ng isip ng mga mag-asawa. Sinusuri nito ang epekto sa mga relasyon sa pag-aasawa kapag ang mga paghihigpit ay ipinataw na nakakasagabal sa lehitimong regulasyon ng emosyon, na nag-aalok ng mga pananaw batay sa mga prinsipyo ng Ebanghelyo at klinikal na pag-unawa sa pagiging malapit ng mag-asawa.
 
 ### [Espirituwal na Dignidad at Kalusugan ng Isip](/tl/sacerdocio_salud_mental_apropiado_v5)  
@@ -82,10 +82,10 @@ Komprehensibong panukala na isinumite sa Ang Unang Panguluhan para sa institusyo
 ### [Gabay sa Praktikal para sa mga Lider](/tl/guia_practica_lideres)
 Praktikal na gabay na may mga karaniwang senaryo na kinakaharap ng mga lider kapag naglilingkod sa mga miyembro na may mga pangangailangan sa regulasyon ng emosyon. Kasama ang tiyak na gabay sa kung paano tumugon nang may karunungan at habag sa mga tunay na sitwasyon.
 
-### [Mga Madalas Itanong para sa mga Lider](/tl/PreguntasFrecuentes)
+### [Mga Madalas Itanong para sa mga Lider](/tl/preguntasfrecuentes)
 Mga karaniwang tanong at sagot para sa mga lider na naghahangad na mas maunawaan kung paano suportahan ang mga miyembro na may mga pangangailangan sa kalusugan ng isip at neurolohikal. Kasama ang praktikal na gabay sa pagkakaiba ng mga lehitimong pangangailangan, dignidad para sa templo, mga dinamika ng pamilya, at makatwirang mga akomodasyon.
 
-### [Gabay para sa Mahirap na Pag-uusap sa Pamilya](/tl/Guia_conversacion)
+### [Gabay para sa Mahirap na Pag-uusap sa Pamilya](/tl/guia_conversacion)
 Praktikal na gabay para sa mga miyembro at pamilya na kinakaharap ang mga mahirap na pag-uusap tungkol sa mga pangangailangan sa kalusugan ng isip o neurolohikal. Kasama ang tiyak na gabay para sa parehong mga may pangangailangan at mga miyembro ng pamilya, na may mga estratehiya sa komunikasyon, pamamahala ng emosyon, at paghahanap ng propesyonal na suporta.
 
 ---

@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../ClearPath"
+		}
+	],
+	"settings": {
+		"powershell.cwd": "InnerSight"
+	}
+}

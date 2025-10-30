@@ -1,33 +1,27 @@
-# Sobre InnerSight
+# Sobre o InnerSight
+<!-- i18n: sincronizado com docs/es/about/index.md (out 2025). -->
 
-InnerSight é uma iniciativa de pesquisa dedicada a examinar a interseção entre saúde mental, procedimentos psicológicos de regulação emocional incomuns, e a prática religiosa dentro de A Igreja de Jesus Cristo dos Santos dos Últimos Dias.
+O InnerSight é uma iniciativa da Fundação InnerSight dedicada a explorar a interseção entre saúde mental, processos de regulação emocional —incluindo aqueles considerados não convencionais— e a vida espiritual dentro de A Igreja de Jesus Cristo dos Santos dos Últimos Dias.
 
 ## Nossa Missão
 
-Facilitar um diálogo informado entre perspectivas clínicas e liderança eclesiástica para:  
-- Reduzir o estigma em relação a membros com necessidades de regulação emocional incomuns  
-- Promover a inclusão plena de todos os filhos de Deus  
-- Oferecer orientação clara que equilibre bem-estar individual e harmonia comunitária  
-- Fortalecer a Igreja como refúgio de amor semelhante ao de Cristo 
+Promover um diálogo respeitoso, informado e compassivo entre abordagens clínicas contemporâneas e princípios de liderança eclesiástica, a fim de:
 
-## Fundamento Profissional
+- Reduzir o estigma para com aqueles que vivenciam necessidades emocionais ou mentais singulares  
+- Promover a inclusão plena e o sentido de pertencimento de todos os filhos e filhas de Deus  
+- Oferecer orientação que equilibre o bem-estar individual com a harmonia comunitária  
+- Fortalecer a Igreja como um refúgio de amor semelhante ao de Cristo  
 
-Este trabalho surge da necessidade identificada de maior compreensão e apoio institucional para membros que utilizam métodos não convencionais de regulação emocional como parte de seu processo de cura e bem-estar mental. A pesquisa se baseia em princípios estabelecidos de psicologia clínica, terapia cognitivo-comportamental, e doutrina revelada.
+## Nossa Abordagem
 
-## Sobre o Autor
+Esta iniciativa surge da observação de uma necessidade real: a falta de compreensão institucional e de apoio estruturado para membros que, em seu caminho de cura, utilizam métodos não tradicionais de regulação emocional. Nosso trabalho se fundamenta em:
 
-**Alejandro Parada** - Analista Programador, especialista em qualidade e segurança da informação, com forte vocação em pesquisa com IA aplicada à melhoria individual e coletiva da saúde mental, e na implementação de sistemas informáticos. Coach e empreendedor
+- Princípios de psicologia clínica validados cientificamente  
+- Abordagens terapêuticas como a terapia cognitivo-comportamental  
+- Doutrina revelada e valores cristãos centrados na empatia, caridade e dignidade humana  
 
-**Áreas de pesquisa:**
-- Meyer-Briggs Type Indicator (MBTI)
-- Inteligência emocional (modelo Goleman)
-- Psicologia da influência e persuasão (Cialdini)
-- Aplicação de IA em análise de padrões de saúde mental
-- Sistemas informáticos para bem-estar psicológico
+Acreditamos que fé e ciência não estão em conflito, mas podem caminhar juntas para iluminar caminhos de cura, compreensão mútua e crescimento espiritual.
 
-*Membro ativo de A Igreja de Jesus Cristo dos Santos dos Últimos Dias, comprometido com a harmonização de princípios tecnológicos, pesquisa científica e doutrina revelada.*
-
----
-
-*"A caridade é o puro amor de Cristo, e permanece para sempre; e a quem a possuir no último dia, tudo lhe irá bem." - Morôni 7:47*
+> “A caridade é o puro amor de Cristo, e permanece para sempre; e a quem a possuir no último dia, tudo lhe irá bem.”  
+> — Morôni 7:47
 

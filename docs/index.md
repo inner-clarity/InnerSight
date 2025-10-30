@@ -67,10 +67,10 @@ This section explains, based on neuroscience and clinical studies, how asking so
 ### [When Love is Conditioned on Conformity](/en/chantaje_emocional)
 Some members report feeling that their belonging or spiritual worth depends on abandoning certain emotional regulation needs. This section analyzes how these dynamics—though unintended—can affect faith, self-esteem, and relationships, and offers principles for ministering without imposing conditions.
 
-### [Nature of Emotional Regulation](/en/Naturaleza_regulacion_emocional)
+### [Nature of Emotional Regulation](/en/naturaleza_regulacion_emocional)
 Some people confuse certain emotional regulation strategies with matters of identity or sexual preference. This section offers a clear clinical explanation, based on neuroscience, about why these needs are related to mental and neurological health, not sexual orientation.
 
-### [Emotional Marital Security](/en/Seguridad_Emocional_Conyugal)
+### [Emotional Marital Security](/en/seguridad_emocional_conyugal)
 This section examines how coercive restrictions in marital intimacy can affect emotional security and mental health of spouses. It analyzes the impact on marital relationships when restrictions are imposed that interfere with legitimate emotional regulation, offering perspectives based on Gospel principles and clinical understanding of marital intimacy.
 
 ### [Spiritual Dignity and Mental Health](/en/sacerdocio_salud_mental_apropiado_v5)  
@@ -82,7 +82,7 @@ Comprehensive proposal submitted to The First Presidency for institutional inclu
 ### [Practical Guide for Leaders](/en/guia_practica_lideres)
 Practical guide with common scenarios that leaders face when ministering to members with emotional regulation needs. Includes specific guidance on how to respond with wisdom and compassion in real situations.
 
-### [Frequently Asked Questions for Leaders](/en/PreguntasFrecuentes)
+### [Frequently Asked Questions for Leaders](/en/preguntasfrecuentes)
 Common questions and answers for leaders seeking to better understand how to support members with mental health and neurological needs. Includes practical guidance on distinguishing legitimate needs, temple worthiness, family dynamics, and reasonable accommodations.
 
 ### [Guide for Difficult Family Conversations](/en/guia_conversacion)

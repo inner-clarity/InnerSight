@@ -67,10 +67,10 @@ Este apartado explica, con base en neurociencia y estudios clínicos, cómo pedi
 ### [Cuando el amor se condiciona a la conformidad](/es/chantaje_emocional)
 Algunos miembros reportan sentir que su pertenencia o valor espiritual depende de dejar ciertas necesidades de regulación emocional. Este apartado analiza cómo esas dinámicas —aunque no intencionadas— pueden afectar la fe, la autoestima y las relaciones, y ofrece principios para ministrar sin imponer condiciones.
 
-### [Naturaleza de la regulación emocional](/es/Naturaleza_regulacion_emocional)
+### [Naturaleza de la regulación emocional](/es/naturaleza_regulacion_emocional)
 Algunas personas confunden ciertas estrategias de regulación emocional con asuntos de identidad o preferencia sexual. Este apartado ofrece una explicación clínica clara, basada en neurociencia, sobre por qué estas necesidades están relacionadas con la salud mental y neurológica, no con la orientación sexual.
 
-### [Seguridad Emocional Conyugal](/es/Seguridad_Emocional_Conyugal)
+### [Seguridad Emocional Conyugal](/es/seguridad_emocional_conyugal)
 Este apartado examina cómo las restricciones coercitivas en la intimidad conyugal pueden afectar la seguridad emocional y la salud mental de los cónyuges. Analiza el impacto en las relaciones matrimoniales cuando se imponen restricciones que interfieren con la regulación emocional legítima, ofreciendo perspectivas basadas en principios del Evangelio y comprensión clínica de la intimidad conyugal.
 
 ### [Dignidad espiritual y salud mental](/es/sacerdocio_salud_mental_apropiado_v5)
@@ -82,10 +82,10 @@ Propuesta integral presentada a La Primera Presidencia para inclusión instituci
 ### [Guía Práctica para Líderes](/es/guia_practica_lideres)
 Guía práctica con escenarios comunes que enfrentan los líderes al ministrar a miembros con necesidades de regulación emocional. Incluye orientación específica sobre cómo responder con sabiduría y compasión en situaciones reales.
 
-### [Preguntas Frecuentes para Líderes](/es/PreguntasFrecuentes)
+### [Preguntas Frecuentes para Líderes](/es/preguntasfrecuentes)
 Preguntas y respuestas comunes para líderes que buscan entender mejor cómo apoyar a miembros con necesidades de salud mental y neurológicas. Incluye orientación práctica sobre cómo distinguir necesidades legítimas, dignidad para el templo, dinámicas familiares y adaptaciones razonables.
 
-### [Guía para Conversaciones Familiares Difíciles](/es/Guia_conversacion)
+### [Guía para Conversaciones Familiares Difíciles](/es/guia_conversacion)
 Guía práctica para miembros y familias que enfrentan conversaciones desafiantes sobre necesidades de salud mental o neurológicas. Incluye orientación específica tanto para quien tiene las necesidades como para los familiares, con estrategias de comunicación, manejo emocional y búsqueda de apoyo profesional.
 
 ---

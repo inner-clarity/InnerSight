@@ -67,10 +67,10 @@ InnerSight是一个教育资源，旨在支持耶稣基督后期圣徒教会的�
 ### [当爱以顺从为条件时](/zh/chantaje_emocional)
 一些成员报告感到他们的归属感或精神价值取决于放弃某些情绪调节需求。本节分析这些动态——虽然是无意的——如何影响信仰、自尊和关系，并提供在不强加条件的情况下服务的原则。
 
-### [情绪调节的本质](/zh/Naturaleza_regulacion_emocional)
+### [情绪调节的本质](/zh/naturaleza_regulacion_emocional)
 一些人将某些情绪调节策略与身份或性偏好问题混淆。本节基于神经科学，对这些需求为什么与精神和神经健康相关，而不是与性取向相关，提供了清晰的临床解释。
 
-### [情感婚姻安全](/zh/Seguridad_Emocional_Conyugal)
+### [情感婚姻安全](/zh/seguridad_emocional_conyugal)
 本节探讨婚姻亲密关系中的强制性限制如何影响配偶的情感安全和心理健康。它分析当施加干扰合法情绪调节的限制时对婚姻关系的影响，提供基于福音原则和婚姻亲密关系临床理解的视角。
 
 ### [精神尊严和心理健康](/zh/sacerdocio_salud_mental_apropiado_v5)  
@@ -82,10 +82,10 @@ InnerSight是一个教育资源，旨在支持耶稣基督后期圣徒教会的�
 ### [领袖实用指南](/zh/guia_practica_lideres)
 处理领袖在服务有情绪调节需求的成员时面临的常见场景的实用指南。包括如何在真实情况下以智慧和同情回应 specific guidance。
 
-### [领袖常见问题](/zh/PreguntasFrecuentes)
+### [领袖常见问题](/zh/preguntasfrecuentes)
 寻求更好地理解如何支持有心理健康和神经需求成员的领袖的常见问题和答案。包括关于区分合法需求、圣殿尊严、家庭动态和合理便利的实用指导。
 
-### [困难家庭对话指南](/zh/Guia_conversacion)
+### [困难家庭对话指南](/zh/guia_conversacion)
 面临关于心理健康或神经需求的挑战性对话的成员和家庭的实用指南。包括对有需求的人和家庭成员的具体指导，涵盖沟通策略、情绪管理和寻求专业支持。
 
 ---

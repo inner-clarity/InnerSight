@@ -1,33 +1,27 @@
 # Tungkol sa InnerSight
+<!-- i18n: naka-sync sa docs/es/about/index.md (Okt 2025). -->
 
-Ang InnerSight ay isang research initiative na nakatuon sa pagsusuri ng intersection sa pagitan ng kalusugan ng isip, mga hindi pangkaraniwang sikolohikal na pamamaraan ng emotional regulation, at relihiyosong praktis sa loob ng Simbahan ni Jesucristo ng mga Banal sa mga Huling Araw.
+Ang InnerSight ay isang inisyatiba ng InnerSight Foundation na nakatuon sa paggalugad sa ugnayan ng kalusugan ng isip, mga proseso ng emotional regulation —kabilang ang mga itinuturing na hindi konbensiyonal— at espirituwal na buhay sa konteksto ng Simbahan ni Jesucristo ng mga Banal sa mga Huling Araw.
 
 ## Aming Misyon
 
-Pagpadali ng informed dialogue sa pagitan ng clinical perspectives at ecclesiastical leadership upang:  
-- Bawasan ang stigma laban sa mga miyembro na may hindi karaniwang pangangailangan ng emotional regulation  
-- Itaguyod ang ganap na pagsasama ng lahat ng mga anak ng Diyos  
-- Mag-alok ng malinaw na gabay na nag-babalanse sa indibidwal na kapakanan at komunal na pagkakaisa  
-- Palakasin ang Simbahan bilang kanlungan ng pagmamahal na tulad kay Cristo 
+Pagtibayin ang magalang, may kaalamang, at mahabaging diyalogo sa pagitan ng makabagong klinikal na mga pamamaraan at mga prinsipyo ng pamumunong eklesiastiko upang:
 
-## Propesyonal na Pundasyon
+- Bawasan ang stigma sa mga nakararanas ng natatanging emosyonal o mental na pangangailangan  
+- Itaguyod ang ganap na pagsasama at damdamin ng pag-aangkin ng lahat ng anak ng Diyos  
+- Magbigay ng gabay na nagbabalansi sa kapakanan ng indibidwal at pagkakaisa ng pamayanan  
+- Palakasin ang Simbahan bilang isang kanlungan ng pag-ibig na tulad ni Cristo  
 
-Ang gawaing ito ay nagmula sa natukoy na pangangailangan para sa mas malaking pag-unawa at institutional support para sa mga miyembro na gumagamit ng hindi pangkaraniwang pamamaraan ng emotional regulation bilang bahagi ng kanilang proseso ng paggaling at mental well-being. Ang pananaliksik ay batay sa mga establisheng prinsipyo ng clinical psychology, cognitive-behavioral therapy, at revealed doctrine.
+## Aming Approach
 
-## Tungkol sa May-akda
+Ang inisyatibang ito ay nagmumula sa pagmamasid sa isang tunay na pangangailangan: kakulangan ng institusyonal na pag-unawa at estrukturadong suporta para sa mga miyembrong, sa kanilang proseso ng paggaling, ay gumagamit ng di-tradisyunal na pamamaraan ng emotional regulation. Ang aming gawain ay nakabatay sa:
 
-**Alejandro Parada** - Analyst Programmer, espesyalista sa kalidad at seguridad ng impormasyon, na may malakas na bokasyon sa pananaliksik gamit ang AI na inilapat sa individual at collective improvement ng kalusugan ng isip, at sa pagpapatupad ng computer systems. Coach at entrepreneur
+- Siyentipikong napatunayang mga prinsipyo ng clinical psychology  
+- Mga therapeutic approach tulad ng cognitive-behavioral therapy  
+- Inihayag na doktrina at mga pagpapahalagang Kristiyano na nakasentro sa empatiya, pag-ibig (charity), at dignidad ng tao  
 
-**Mga larangan ng pananaliksik:**
-- Meyer-Briggs Type Indicator (MBTI)
-- Emotional intelligence (Goleman model)
-- Psychology ng impluwensya at persuasion (Cialdini)
-- Aplikasyon ng AI sa pagsusuri ng mga pattern ng kalusugan ng isip
-- Computer systems para sa psychological well-being
+Naniniwala kami na ang pananampalataya at agham ay hindi magkasalungat, kundi maaaring maglakad nang magkasabay upang maliwanagan ang mga landas ng pagpapagaling, pagkakaunawaan, at espirituwal na paglago.
 
-*Aktibong miyembro ng Simbahan ni Jesucristo ng mga Banal sa mga Huling Araw, committed sa harmonization ng technological principles, scientific research at revealed doctrine.*
-
----
-
-*"Ang paglilingkod ay ang dalisay na pag-ibig ni Cristo, at ito ay nananatili magpakailanman; at sinuman ang makitagpuang taglay nito sa huling araw, magiging mabuti ang kaniyang kapalaran." - Moroni 7:47*
+> “Ang pag-ibig (charity) ay ang dalisay na pag-ibig ni Cristo, at ito’y nananatili magpakailanman; at sinumang matagpuang taglay ito sa huling araw, magiging mabuti ang kanyang kalagayan.”  
+> — Moroni 7:47
 

@@ -1,33 +1,27 @@
 # À propos d'InnerSight
+<!-- i18n: synchronisé avec docs/es/about/index.md (oct. 2025). -->
 
-InnerSight est une initiative de recherche dédiée à l'examen de l'intersection entre la santé mentale, les procédures psychologiques de régulation émotionnelle peu communes, et la pratique religieuse au sein de L'Église de Jésus-Christ des Saints des Derniers Jours.
+InnerSight est une initiative de la Fondation InnerSight dédiée à explorer l'intersection entre la santé mentale, les processus de régulation émotionnelle —y compris ceux considérés comme non conventionnels— et la vie spirituelle au sein de L'Église de Jésus-Christ des Saints des Derniers Jours.
 
 ## Notre Mission
 
-Faciliter un dialogue éclairé entre les perspectives cliniques et la direction ecclésiastique pour:  
-- Réduire la stigmatisation envers les membres ayant des besoins de régulation émotionnelle inhabituels  
-- Promouvoir l'inclusion pleine de tous les enfants de Dieu  
-- Offrir des orientations claires qui équilibrent le bien-être individuel et l'harmonie communautaire  
-- Renforcer l'Église comme refuge d'amour semblable à celui du Christ 
+Favoriser un dialogue respectueux, informé et compatissant entre les approches cliniques contemporaines et les principes de direction ecclésiastique, afin de :
 
-## Fondement Professionnel
+- Réduire la stigmatisation envers ceux qui vivent des besoins émotionnels ou mentaux singuliers  
+- Promouvoir l'inclusion pleine et le sentiment d'appartenance de tous les enfants de Dieu  
+- Offrir des orientations qui équilibrent le bien-être individuel et l'harmonie communautaire  
+- Renforcer l'Église comme refuge d'amour semblable à celui du Christ  
 
-Ce travail naît de la nécessité identifiée d'une plus grande compréhension et d'un soutien institutionnel pour les membres qui utilisent des méthodes non conventionnelles de régulation émotionnelle dans le cadre de leur processus de guérison et de bien-être mental. La recherche est basée sur des principes établis de psychologie clinique, de thérapie cognitivo-comportementale et de doctrine révélée.
+## Notre Approche
 
-## À propos de l'Auteur
+Cette initiative naît de l'observation d'un besoin réel : le manque de compréhension institutionnelle et de soutien structuré pour les membres qui, dans leur chemin de guérison, utilisent des méthodes non traditionnelles de régulation émotionnelle. Notre travail se fonde sur :
 
-**Alejandro Parada** - Analyste Programmeur, spécialiste en qualité et sécurité de l'information, avec une forte vocation dans la recherche avec l'IA appliquée à l'amélioration individuelle et collective de la santé mentale, et dans la mise en œuvre de systèmes informatiques. Coach et entrepreneur
+- Des principes de psychologie clinique validés scientifiquement  
+- Des approches thérapeutiques telles que la thérapie cognitivo-comportementale  
+- La doctrine révélée et les valeurs chrétiennes centrées sur l'empathie, la charité et la dignité humaine  
 
-**Domaines de recherche:**
-- Meyer-Briggs Type Indicator (MBTI)
-- Intelligence émotionnelle (modèle Goleman)
-- Psychologie de l'influence et de la persuasion (Cialdini)
-- Application de l'IA dans l'analyse des modèles de santé mentale
-- Systèmes informatiques pour le bien-être psychologique
+Nous croyons que la foi et la science ne sont pas en conflit, mais peuvent cheminer ensemble pour éclairer des sentiers de guérison, de compréhension mutuelle et de croissance spirituelle.
 
-*Membre actif de L'Église de Jésus-Christ des Saints des Derniers Jours, engagé dans l'harmonisation des principes technologiques, de la recherche scientifique et de la doctrine révélée.*
-
----
-
-*"La charité est l'amour pur du Christ, et elle subsiste à jamais; et celui qui sera trouvé en possession de cet amour au dernier jour, tout ira bien pour lui." - Moroni 7:47*
+> « La charité est l'amour pur du Christ, et elle subsiste à jamais ; et celui qui sera trouvé en possession de cet amour au dernier jour, tout ira bien pour lui. »  
+> — Moroni 7:47
 
