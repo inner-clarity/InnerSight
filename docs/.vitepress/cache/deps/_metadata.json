@@ -1,52 +1,52 @@
 {
-  "hash": "db550ebc",
-  "configHash": "28161203",
-  "lockfileHash": "17c1373c",
-  "browserHash": "6d6d9cb5",
+  "hash": "bf1232c1",
+  "configHash": "b8cc0824",
+  "lockfileHash": "f81e2706",
+  "browserHash": "4c134806",
   "optimized": {
     "vue": {
       "src": "../../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "cbf32703",
+      "fileHash": "6b9d12bb",
       "needsInterop": false
     },
     "vitepress > @vue/devtools-api": {
       "src": "../../../../node_modules/@vue/devtools-api/dist/index.js",
       "file": "vitepress___@vue_devtools-api.js",
-      "fileHash": "cc05c424",
+      "fileHash": "11df6900",
       "needsInterop": false
     },
     "vitepress > @vueuse/core": {
       "src": "../../../../node_modules/@vueuse/core/index.mjs",
       "file": "vitepress___@vueuse_core.js",
-      "fileHash": "e9d27e89",
+      "fileHash": "ac2dc7c4",
       "needsInterop": false
     },
     "vitepress > @vueuse/integrations/useFocusTrap": {
       "src": "../../../../node_modules/@vueuse/integrations/useFocusTrap.mjs",
       "file": "vitepress___@vueuse_integrations_useFocusTrap.js",
-      "fileHash": "a2a93233",
+      "fileHash": "5f189422",
       "needsInterop": false
     },
     "vitepress > mark.js/src/vanilla.js": {
       "src": "../../../../node_modules/mark.js/src/vanilla.js",
       "file": "vitepress___mark__js_src_vanilla__js.js",
-      "fileHash": "e15b1114",
+      "fileHash": "e9d171b5",
       "needsInterop": false
     },
     "vitepress > minisearch": {
       "src": "../../../../node_modules/minisearch/dist/es/index.js",
       "file": "vitepress___minisearch.js",
-      "fileHash": "dcd2efa6",
+      "fileHash": "e2b3671e",
       "needsInterop": false
     }
   },
   "chunks": {
-    "chunk-4GKD7KQ2": {
-      "file": "chunk-4GKD7KQ2.js"
+    "chunk-KN5RUUYG": {
+      "file": "chunk-KN5RUUYG.js"
     },
-    "chunk-J6UNYKH4": {
-      "file": "chunk-J6UNYKH4.js"
+    "chunk-QAXAIFA7": {
+      "file": "chunk-QAXAIFA7.js"
     }
   }
 }

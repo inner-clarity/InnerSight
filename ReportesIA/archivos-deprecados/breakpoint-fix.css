@@ -1,0 +1,234 @@
+/* Fix para transicion entre breakpoints - InnerSight */
+
+/* ================================================
+   PROBLEMA: Al cambiar tamaño de ventana, elementos
+   quedan ocultos o mal posicionados
+   SOLUCION: Forzar recalculo y visibilidad correcta
+   ================================================ */
+
+/* Forzar visibilidad del menu principal en desktop */
+@media (min-width: 961px) {
+  .VPSidebar {
+    display: block !important;
+    position: static !important;
+    left: auto !important;
+    transform: none !important;
+    width: var(--vp-sidebar-width) !important;
+    max-width: none !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+  }
+  
+  /* Asegurar que backdrop no aparezca en desktop */
+  .sidebar-backdrop,
+  .VPNavScreenBackdrop {
+    display: none !important;
+  }
+  
+  /* Menu hamburger oculto en desktop */
+  .VPNavBarMenuButton {
+    display: none !important;
+  }
+  
+  /* LocalNav (barra Menú/En esta página) oculta en desktop */
+  .VPLocalNav {
+    display: none !important;
+  }
+}
+
+/* Forzar comportamiento correcto en mobile/tablet */
+@media (max-width: 960px) {
+  /* Sidebar oculto por defecto, visible solo cuando se abre */
+  .VPSidebar {
+    display: block;
+    position: fixed;
+    top: var(--vp-nav-height);
+    left: -100%;
+    bottom: 0;
+    width: 80vw;
+    max-width: 320px;
+    background: var(--vp-c-bg);
+    transition: left 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    z-index: 100;
+    overflow-y: auto;
+    box-shadow: 4px 0 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Sidebar visible cuando esta abierto */
+  .VPSidebar.open,
+  html.menu-open .VPSidebar {
+    left: 0;
+  }
+  
+  /* Menu hamburger visible en mobile */
+  .VPNavBarMenuButton {
+    display: flex !important;
+  }
+  
+  /* LocalNav visible en mobile */
+  .VPLocalNav {
+    display: flex !important;
+  }
+}
+
+/* Asegurar que elementos de navegacion sean siempre visibles */
+.VPNav,
+.VPNavBar,
+.VPNavBarTitle {
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+
+/* Fix para menu de idiomas siempre visible */
+.VPNavBarTranslations {
+  opacity: 1 !important;
+  visibility: visible !important;
+  display: flex !important;
+}
+
+/* Fix para busqueda siempre visible */
+.VPNavBarSearch {
+  opacity: 1 !important;
+  visibility: visible !important;
+  display: flex !important;
+}
+
+/* Prevenir elementos fantasma en transicion */
+* {
+  transition-property: transform, opacity, background-color, color, border-color, box-shadow;
+  /* NO incluir display, visibility, position en transiciones */
+}
+
+/* Forzar recalculo al cambiar viewport */
+@media (min-width: 960px) and (max-width: 961px),
+       (min-width: 640px) and (max-width: 641px),
+       (min-width: 480px) and (max-width: 481px) {
+  body {
+    /* Punto de transicion - forzar repaint */
+    opacity: 0.9999;
+  }
+}
+
+/* Fix especifico para outline/toc en mobile */
+@media (max-width: 960px) {
+  .VPDocOutlineDropdown {
+    position: fixed;
+    top: calc(var(--vp-nav-height) + 48px);
+    left: var(--spacing-sm, 0.5rem);
+    right: var(--spacing-sm, 0.5rem);
+    max-height: 60vh;
+    overflow-y: auto;
+    background: var(--vp-c-bg);
+    border: 1px solid var(--vp-c-divider);
+    border-radius: 0.5rem;
+    padding: var(--spacing-md, 1rem);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+    z-index: 50;
+  }
+}
+
+/* Asegurar que backdrop funcione correctamente */
+@media (max-width: 960px) {
+  .VPNavScreenBackdrop {
+    position: fixed;
+    top: var(--vp-nav-height);
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5);
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+    z-index: 99;
+  }
+  
+  .VPNavScreenBackdrop.visible,
+  html.menu-open .VPNavScreenBackdrop {
+    opacity: 1;
+    visibility: visible;
+  }
+}
+
+/* Fix para cuando se cambia de mobile a desktop */
+@media (min-width: 961px) {
+  /* Resetear cualquier transformacion o posicion de mobile */
+  .VPSidebar {
+    transform: translateX(0) !important;
+  }
+  
+  /* Asegurar que menu hamburger no interfiera */
+  body.menu-open {
+    overflow: auto !important;
+  }
+  
+  html.menu-open {
+    overflow: auto !important;
+  }
+}
+
+/* Fix para el contenido cuando cambia viewport */
+.VPContent {
+  transition: padding 0.3s ease;
+}
+
+@media (min-width: 961px) {
+  .VPContent {
+    padding-left: var(--vp-sidebar-width);
+  }
+}
+
+@media (max-width: 960px) {
+  .VPContent {
+    padding-left: 0;
+  }
+}
+
+/* Prevenir scroll horizontal en todas las resoluciones */
+body,
+html {
+  overflow-x: hidden;
+  max-width: 100vw;
+}
+
+/* Asegurar que ningun elemento cause overflow */
+.VPNav,
+.VPSidebar,
+.VPContent,
+.VPDoc,
+.VPLocalNav {
+  max-width: 100%;
+}
+
+/* Fix para el selector de idiomas en transicion */
+.VPNavBarTranslations .VPMenu {
+  position: absolute;
+  right: 0;
+  top: 100%;
+  background: var(--vp-c-bg);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 0.5rem;
+  padding: var(--spacing-sm, 0.5rem);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+  margin-top: var(--spacing-xs, 0.25rem);
+  min-width: 120px;
+}
+
+/* Asegurar visibilidad de items de menu */
+.VPNavBarTranslations .VPMenuLink,
+.VPSidebarItem a {
+  opacity: 1 !important;
+  visibility: visible !important;
+  pointer-events: auto !important;
+}
+
+/* Fix para cuando se redimensiona rapidamente */
+.VPNav,
+.VPNavBar,
+.VPSidebar,
+.VPLocalNav,
+.VPContent {
+  will-change: auto;
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+}
+

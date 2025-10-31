@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "InnerSight - Un sitio estático para exploración interior",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "dev": "vitepress dev docs",
     "build": "vitepress build docs",
@@ -18,13 +19,13 @@
   "author": "Tu Nombre",
   "license": "MIT",
   "devDependencies": {
-    "vitepress": "^1.5.0",
+    "vitepress": "1.0.0",
     "gh-pages": "^4.0.0",
     "vue": "^3.4.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tu-usuario/InnerSight.git"
+    "url": "https://github.com/inner-clarity/InnerSight.git"
   },
-  "homepage": "https://tu-usuario.github.io/InnerSight/"
+  "homepage": "https://inner-clarity.github.io/InnerSight/"
 }

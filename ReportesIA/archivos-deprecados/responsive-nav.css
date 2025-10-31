@@ -1,0 +1,96 @@
+/* Navegacion responsiva para InnerSight - Sin !important */
+
+/* Navegacion de pagina mejorada */
+.vp-doc-footer {
+  margin-top: var(--spacing-xl, 3rem);
+  padding-top: var(--spacing-lg, 2rem);
+  border-top: 1px solid var(--vp-c-divider);
+}
+
+/* Desktop: Navegacion sticky */
+@media (min-width: 960px) {
+  .vp-doc .prev-next {
+    position: sticky;
+    bottom: 0;
+    background: var(--vp-c-bg);
+    border-top: 1px solid var(--vp-c-divider);
+    padding: var(--spacing-md, 1rem);
+    margin: 0 calc(-1 * var(--spacing-md, 1rem));
+    box-shadow: 0 -2px 8px rgba(0, 0, 0, 0.08);
+    z-index: 5;
+    backdrop-filter: blur(8px);
+  }
+  
+  .dark .vp-doc .prev-next {
+    box-shadow: 0 -2px 8px rgba(0, 0, 0, 0.3);
+  }
+}
+
+/* Tablet y Mobile: Navegacion relativa (no fija) */
+@media (max-width: 959px) {
+  .vp-doc .prev-next {
+    position: relative;
+    background: var(--vp-c-bg);
+    border-top: 1px solid var(--vp-c-divider);
+    padding: var(--spacing-md, 1rem);
+    margin-top: var(--spacing-lg, 2rem);
+    border-radius: 0.5rem;
+  }
+  
+  /* Eliminar padding-bottom excesivo del contenido */
+  .vp-doc {
+    padding-bottom: var(--spacing-lg, 2rem);
+  }
+}
+
+/* Mobile: Botones de navegacion full-width */
+@media (max-width: 640px) {
+  .vp-doc .prev-next {
+    padding: var(--spacing-md, 1rem) var(--spacing-sm, 0.5rem);
+  }
+  
+  .vp-doc .prev-next .pager-link {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: var(--spacing-sm, 0.5rem);
+    min-height: 48px;
+  }
+  
+  .vp-doc .prev-next .prev,
+  .vp-doc .prev-next .next {
+    width: 100%;
+    margin-bottom: var(--spacing-sm, 0.5rem);
+  }
+}
+
+/* Ajustes para page-edit */
+.vp-doc .edit-link {
+  padding: var(--spacing-md, 1rem) 0;
+  border-top: 1px solid var(--vp-c-divider);
+  margin-top: var(--spacing-lg, 2rem);
+}
+
+@media (max-width: 640px) {
+  .vp-doc .edit-link {
+    padding: var(--spacing-sm, 0.5rem) 0;
+    font-size: 0.9rem;
+  }
+}
+
+/* Transiciones suaves */
+.vp-doc .prev-next,
+.vp-doc .edit-link {
+  transition: background-color 0.3s ease, border-color 0.3s ease;
+}
+
+/* Mejor contraste en modo oscuro */
+.dark .vp-doc .prev-next {
+  background: var(--vp-c-bg-soft);
+  border-top-color: var(--vp-c-divider);
+}
+
+.dark .vp-doc .edit-link {
+  border-top-color: var(--vp-c-divider);
+}
+

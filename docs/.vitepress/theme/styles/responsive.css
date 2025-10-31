@@ -222,3 +222,147 @@
   }
 }
 
+/* ================================================
+   MEJORAS RESPONSIVAS - Tablas e Imagenes
+   ================================================ */
+
+/* Tablas responsive con scroll horizontal */
+.vp-doc table {
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  border-radius: 0.5rem;
+}
+
+@media (max-width: 640px) {
+  .vp-doc table {
+    font-size: 0.85rem;
+    display: block;
+    overflow-x: auto;
+  }
+  
+  .vp-doc th,
+  .vp-doc td {
+    padding: var(--spacing-xs) var(--spacing-sm);
+    min-width: 100px;
+    white-space: nowrap;
+  }
+  
+  /* Indicador visual de scroll */
+  .vp-doc table::after {
+    content: '← Desliza →';
+    display: block;
+    text-align: center;
+    font-size: 0.75rem;
+    color: var(--color-text-light);
+    padding: var(--spacing-xs) 0;
+    font-style: italic;
+  }
+}
+
+/* Imagenes responsive por defecto */
+.vp-doc img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: var(--spacing-lg) auto;
+  border-radius: 0.5rem;
+}
+
+/* Imagenes pequeñas (iconos) inline */
+.vp-doc img[width],
+.vp-doc img[height] {
+  display: inline-block;
+  margin: 0 var(--spacing-xs);
+}
+
+/* Imagenes full-width en movil */
+@media (max-width: 640px) {
+  .vp-doc img:not([width]):not([height]) {
+    border-radius: 0;
+    margin-left: calc(-1 * var(--spacing-sm));
+    margin-right: calc(-1 * var(--spacing-sm));
+    max-width: calc(100% + 2 * var(--spacing-sm));
+  }
+}
+
+/* Feature cards en grid responsive */
+.VPFeatures {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: var(--spacing-lg);
+}
+
+@media (max-width: 960px) {
+  .VPFeatures {
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: var(--spacing-md);
+  }
+}
+
+@media (max-width: 640px) {
+  .VPFeatures {
+    grid-template-columns: 1fr;
+    gap: var(--spacing-md);
+  }
+}
+
+/* Blockquotes mas compactos en movil */
+@media (max-width: 640px) {
+  .vp-doc blockquote {
+    padding: var(--spacing-sm) var(--spacing-md);
+    margin: var(--spacing-md) 0;
+    font-size: 0.95rem;
+  }
+}
+
+/* Mejorar accesibilidad del selector de idiomas en movil */
+@media (max-width: 640px) {
+  .VPNavBarTranslations button {
+    padding: var(--spacing-sm) var(--spacing-md);
+    font-size: 0.95rem;
+    min-width: 100px;
+  }
+  
+  .VPNavBarTranslations .VPMenuGroup {
+    max-height: 60vh;
+    overflow-y: auto;
+  }
+  
+  .VPNavBarTranslations .VPMenuLink {
+    padding: var(--spacing-md);
+    min-height: 48px;
+    font-size: 1rem;
+  }
+}
+
+/* Optimizar rendering en movil */
+@media (max-width: 640px) {
+  body {
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none;
+    text-size-adjust: 100%;
+  }
+}
+
+/* Scroll suave en toda la pagina */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Respetar preferencias de movimiento reducido */
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+

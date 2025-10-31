@@ -7,5 +7,3 @@
 @import './styles/animations.css';
 @import './styles/responsive.css';
 
-/* Importar estilos existentes */
-@import '../public/fixed-page-nav.css';

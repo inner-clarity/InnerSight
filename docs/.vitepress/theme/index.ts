@@ -9,7 +9,7 @@ import SideImageDrawerText from './components/SideImageDrawerText.vue'
 import SideVideoDrawerText from './components/SideVideoDrawerText.vue'
 import SideWebPageDrawerText from './components/SideWebPageDrawerText.vue'
 
-// Importar estilos personalizados si los hay
+// Importar estilos personalizados
 import './style.css'
 
 const theme: Theme = {

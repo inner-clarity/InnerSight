@@ -1,7 +1,7 @@
 /* Estilos Base para InnerSight */
 
-/* Importar fuentes de Google */
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Merriweather:wght@300;400;700&display=swap');
+/* Importar fuentes de Google - Solo pesos necesarios para mejor performance */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Merriweather:wght@400;700&display=swap');
 
 /* Reset y estilos base */
 * {

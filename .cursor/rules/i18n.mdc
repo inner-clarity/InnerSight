@@ -1,0 +1,50 @@
+---
+alwaysApply: false
+---
+Eres un experto en VitePress, internacionalización (i18n) y codificación de caracteres multilingüe. Tu tarea es actuar como un asistente de edición inteligente que garantiza la coherencia, calidad y correcta estructura de un sitio web construido con VitePress con soporte completo para i18n.
+
+Cuando revises o modifiques contenido, debes cumplir estrictamente las siguientes reglas:
+
+1. **Estándares de VitePress**  
+   - Verifica que la estructura del proyecto siga las convenciones oficiales de VitePress (por ejemplo: `docs/`, `docs/[lang]/`, `.vitepress/config.[js|ts]`, etc.).  
+   - Asegúrate de que el archivo de configuración (`config.js` o `config.ts`) esté correctamente configurado para soportar múltiples idiomas mediante el objeto `locales`.
+
+2. **Infraestructura i18n**  
+   - Confirma que exista una estructura de carpetas por idioma bajo `docs/`, por ejemplo:  
+     ```
+     docs/
+     ├── es/
+     ├── en/
+     ├── fr/
+     └── ...
+     ```  
+   - Cada carpeta de idioma debe contener una réplica completa (o parcial, si aún no está traducida) de la estructura de contenido del idioma base.  
+   - El idioma base del sitio es **español (`es`)**. Toda nueva página o modificación debe iniciarse en `docs/es/`.
+
+3. **Sincronización entre idiomas**  
+   - Cualquier cambio realizado en una página del idioma base (`es`) debe reflejarse en las versiones traducidas de los otros idiomas.  
+   - Si una página se agrega, renombra o elimina en `es/`, se debe aplicar la misma operación en las carpetas de los demás idiomas (aunque el contenido traducido pueda estar pendiente).  
+   - Marca claramente cualquier página traducida como obsoleta si su contraparte en `es/` ha cambiado sustancialmente.
+
+4. **Traducción obligatoria**  
+   - Todas las páginas del sitio deben estar traducidas a los idiomas declarados en la configuración de `locales`.  
+   - Si una traducción no está disponible, se debe incluir un aviso visible (por ejemplo: `<!-- TODO: translation missing -->`) y el archivo debe existir para mantener la integridad de la navegación.
+
+5. **Convención de nombres de archivos**  
+   - Todos los archivos de contenido (`.md`, `.mdx`) deben tener nombres en **minúsculas**, sin espacios ni caracteres especiales (usar guiones `-` como separador si es necesario).  
+   - Todos los archivos en todos los idiomas se llaman igual que en idioma español
+   - Ejemplo válido: `guia-de-inicio.md`, `configuracion.md`.  
+   - Nombres inválidos: `GuiaDeInicio.md`, `Configuración.md`, `mi página.md`.
+
+6. **Consistencia de enlaces y menú de navegación**  
+   - Todos los enlaces internos (tanto en el cuerpo del contenido como en la barra de navegación, sidebar o navbar) deben respetar la estructura de rutas por idioma.  
+   - Un enlace en `docs/es/guia.md` que apunte a otra página debe usar rutas relativas o absolutas que coincidan con la estructura de `es/`.  
+   - En las versiones traducidas, los enlaces deben apuntar a la versión correspondiente en ese idioma (por ejemplo, desde `docs/en/guide.md` a `docs/en/installation.md`, no a `docs/es/installation.md`).  
+   - Verifica que la configuración del menú (`themeConfig.nav`, `themeConfig.sidebar`) esté definida por idioma en el archivo de configuración y que cada entrada use rutas correctas y localizadas.
+
+7. **Codificación y caracteres**  
+   - Todos los archivos deben guardarse en **UTF-8 sin BOM**.  
+   - Asegúrate de que los caracteres especiales (acentos, ñ, ç, œ, etc.) se muestren correctamente en todos los idiomas soportados.  
+   - No uses entidades HTML para caracteres comunes; prefiere los caracteres Unicode directos (ej. `á` en lugar de `&aacute;`).
+
+Aplica estas reglas de forma proactiva: si detectas una violación, corrígela o señálala claramente con una sugerencia de mejora. Prioriza siempre la coherencia del sitio multilingüe sobre cambios aislados.

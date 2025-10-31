@@ -19,22 +19,44 @@ export default defineConfig({
           { text: 'Contact', link: '/contact/' }
         ],
         
-        sidebar: [
-          { text: 'Home', link: '/' },
-          { text: 'About', link: '/about/' },
-          { text: 'Contact', link: '/contact/' },
-          { text: 'Psychological Foundations', link: '/analisis_psicologico_apropiado_v2' },
-          { text: 'Scientific Foundation', link: '/fundamento_cientifico_validacion' },
-          { text: 'Coercive Restrictions', link: '/efectos_de_restricciones_coercitiva' },
-          { text: 'Conditioned to the Conformity', link: '/chantaje_emocional' },
-          { text: 'Nature of Emotional Regulation', link: '/naturaleza_regulacion_emocional' },
-          { text: 'Emotional Marital Security', link: '/seguridad_emocional_conyugal' },
-          { text: 'Priesthood & Mental Health', link: '/sacerdocio_salud_mental_apropiado_v5' },
-          { text: 'Institutional Proposal', link: '/propuesta_v1_esp' },
-          { text: 'Practical Guide for Leaders', link: '/guia_practica_lideres' },
-          { text: 'FAQ for Leaders', link: '/preguntasfrecuentes' },
-          { text: 'Family Conversation Guide', link: '/guia_conversacion' }
-        ],
+        sidebar: {
+          '/': [
+            {
+              text: 'Main Pages',
+              items: [
+                { text: 'Home', link: '/' },
+                { text: 'About', link: '/about/' },
+                { text: 'Contact', link: '/contact/' }
+              ]
+            },
+            {
+              text: 'Foundations',
+              items: [
+                { text: 'Psychological Foundations', link: '/analisis_psicologico_apropiado_v2' },
+                { text: 'Scientific Foundation', link: '/fundamento_cientifico_validacion' },
+                { text: 'Coercive Restrictions', link: '/efectos_de_restricciones_coercitiva' },
+                { text: 'Conditioned to the Conformity', link: '/chantaje_emocional' },
+                { text: 'Nature of Emotional Regulation', link: '/naturaleza_regulacion_emocional' },
+                { text: 'Emotional Marital Security', link: '/seguridad_emocional_conyugal' }
+              ]
+            },
+            {
+              text: 'Mental Health & Priesthood',
+              items: [
+                { text: 'Priesthood & Mental Health', link: '/sacerdocio_salud_mental_apropiado_v5' }
+              ]
+            },
+            {
+              text: 'Guides & Resources',
+              items: [
+                { text: 'Institutional Proposal', link: '/propuesta_v1_esp' },
+                { text: 'Practical Guide for Leaders', link: '/guia_practica_lideres' },
+                { text: 'FAQ for Leaders', link: '/preguntasfrecuentes' },
+                { text: 'Family Conversation Guide', link: '/guia_conversacion' }
+              ]
+            }
+          ]
+        },
         
         editLink: {
           pattern: 'https://github.com/inner-clarity/InnerSight/edit/main/docs/:path',
@@ -59,22 +81,44 @@ export default defineConfig({
           { text: 'Contacto', link: '/es/contact/' }
         ],
         
-        sidebar: [
-          { text: 'Inicio', link: '/es/' },
-          { text: 'Acerca de', link: '/es/about/' },
-          { text: 'Contacto', link: '/es/contact/' },
-          { text: 'Fundamentos Psicológicos', link: '/es/analisis_psicologico_apropiado_v2' },
-          { text: 'Fundamento Científico', link: '/es/fundamento_cientifico_validacion' },
-          { text: 'Restricciones Coercitivas', link: '/es/efectos_de_restricciones_coercitiva' },
-          { text: 'Condiciona a la conformidad', link: '/es/chantaje_emocional' },
-          { text: 'Naturaleza de la regulación emocional', link: '/es/naturaleza_regulacion_emocional' },
-          { text: 'Seguridad Emocional Conyugal', link: '/es/seguridad_emocional_conyugal' },
-          { text: 'Sacerdocio y Salud Mental', link: '/es/sacerdocio_salud_mental_apropiado_v5' },
-          { text: 'Propuesta Institucional', link: '/es/propuesta_v1_esp' },
-          { text: 'Guía Práctica para Líderes', link: '/es/guia_practica_lideres' },
-          { text: 'Preguntas Frecuentes', link: '/es/preguntasfrecuentes' },
-          { text: 'Guía de Conversación', link: '/es/guia_conversacion' }
-        ],
+        sidebar: {
+          '/es/': [
+            {
+              text: 'Páginas Principales',
+              items: [
+                { text: 'Inicio', link: '/es/' },
+                { text: 'Acerca de', link: '/es/about/' },
+                { text: 'Contacto', link: '/es/contact/' }
+              ]
+            },
+            {
+              text: 'Fundamentos',
+              items: [
+                { text: 'Fundamentos Psicológicos', link: '/es/analisis_psicologico_apropiado_v2' },
+                { text: 'Fundamento Científico', link: '/es/fundamento_cientifico_validacion' },
+                { text: 'Restricciones Coercitivas', link: '/es/efectos_de_restricciones_coercitiva' },
+                { text: 'Condiciona a la conformidad', link: '/es/chantaje_emocional' },
+                { text: 'Naturaleza de la regulación emocional', link: '/es/naturaleza_regulacion_emocional' },
+                { text: 'Seguridad Emocional Conyugal', link: '/es/seguridad_emocional_conyugal' }
+              ]
+            },
+            {
+              text: 'Salud Mental y Sacerdocio',
+              items: [
+                { text: 'Sacerdocio y Salud Mental', link: '/es/sacerdocio_salud_mental_apropiado_v5' }
+              ]
+            },
+            {
+              text: 'Guías y Recursos',
+              items: [
+                { text: 'Propuesta Institucional', link: '/es/propuesta_v1_esp' },
+                { text: 'Guía Práctica para Líderes', link: '/es/guia_practica_lideres' },
+                { text: 'Preguntas Frecuentes', link: '/es/preguntasfrecuentes' },
+                { text: 'Guía de Conversación', link: '/es/guia_conversacion' }
+              ]
+            }
+          ]
+        },
         
         editLink: {
           pattern: 'https://github.com/inner-clarity/InnerSight/edit/main/docs/:path',
