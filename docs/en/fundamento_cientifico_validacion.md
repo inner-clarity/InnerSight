@@ -1,8 +1,8 @@
-# Scientific Foundation: Understanding Neurological Needs in Emotional Regulation
+﻿# Scientific Foundation: Understanding Neurological Needs in Emotional Regulation
 
 ## Academic Introduction
 
-Current science recognizes that people regulate their emotions in different ways, especially when they have experienced trauma or have neurological differences. Some of these responses may seem unusual, but they are supported by clinical evidence as functional mechanisms of the nervous system.
+Current science recognizes that people regulate their emotions in different ways, especially when they have experienced trauma or have neurological differences. [Emotional regulation](https://inner-clarity.github.io/ClearPath/en/prenc) refers to the processes that allow people to manage intense emotional states. Some of these responses may seem unusual, but they are supported by clinical evidence as functional mechanisms of the nervous system.
 
 ## Fundamental Scientific Definitions
 
@@ -13,7 +13,7 @@ Some emotional regulation strategies have a clear neurological basis. These are 
 - Persisting over time, even when the person wishes to change them
 - Generating physiological or emotional distress if attempts are made to suppress them
 - Not depending on conscious will, but on automatic nervous system responses
-- Being associated with recognized medical conditions (such as trauma, autism, or Tourette)
+- Being associated with recognized medical conditions (such as [trauma](https://inner-clarity.github.io/ClearPath/en/tept), [autism](https://inner-clarity.github.io/ClearPath/en/autismo), or [Tourette](https://inner-clarity.github.io/ClearPath/en/tourette))
 - Allowing the person to fulfill their family, spiritual, and social responsibilities
 
 These characteristics help professionals and leaders recognize when a behavior is part of a person's functioning, not a momentary choice.
@@ -27,7 +27,7 @@ Neuroscience shows that the human brain can develop unique responses when a pers
 For example:
 
 - After trauma, the brain can associate certain stimuli with sensations of calm as a protection mechanism.
-- In conditions like autism or Tourette Syndrome, the nervous system may require specific forms of self-regulation to manage overstimulation or internal tension.
+- In conditions like [autism](https://inner-clarity.github.io/ClearPath/en/autismo) or [Tourette Syndrome](https://inner-clarity.github.io/ClearPath/en/tourette), the nervous system may require specific forms of self-regulation to manage overstimulation or internal tension.
 
 These responses become automatic over time and cannot be modified simply by "willpower."
 
@@ -49,9 +49,9 @@ These criteria allow distinguishing between behaviors that are part of a person'
 
 **Recognized neurological conditions offer useful understanding**
 
-- In Tourette Syndrome, tics are automatic responses that help release neurological tension. Attempting to suppress them causes anxiety accumulation.
-- In autism, repetitive movements (stimming) regulate sensory input and prevent exhaustion.
-- In PTSD, certain rituals provide a sense of safety after traumatic experiences.
+- In [Tourette Syndrome](https://inner-clarity.github.io/ClearPath/en/tourette), tics are automatic responses that help release neurological tension. Attempting to suppress them causes anxiety accumulation.
+- In [autism](https://inner-clarity.github.io/ClearPath/en/autismo), repetitive movements (stimming) regulate sensory input and prevent exhaustion.
+- In [PTSD](https://inner-clarity.github.io/ClearPath/en/tept), certain rituals provide a sense of safety after traumatic experiences.
 
 These examples show that **the human brain uses diverse strategies to maintain balance**, and that what seems unusual from the outside can be essential from within.
 
@@ -167,3 +167,10 @@ The scientific and religious community has the opportunity to demonstrate leader
 
 ### Evolutionary Perspectives
 - Gilbert, P. (2019). "Evolutionary Psychology and Mental Health: Past, present and future." *Clinical Psychology Review*, 73, 101751.
+---
+
+::: tip Welcome
+Note: InnerSight is an independent educational resource, created by faithful members to support leaders, families, and professionals. It is not affiliated with or officially endorsed by The Church of Jesus Christ of Latter-day Saints.
+
+Every inner journey begins with a first step. Yours starts here.
+:::

@@ -1,8 +1,8 @@
-# Impacto de pedir el abandono de estrategias regulatorias necesarias
+﻿# Impacto de pedir el abandono de estrategias regulatorias necesarias
 
 ## Introducción Académica
 
-La regulación emocional es esencial para el bienestar psicológico, neurológico y espiritual. Algunas personas desarrollan formas de autorregulación que, aunque poco familiares para otros, son necesarias para su equilibrio interno —especialmente tras el trauma o por diferencias neurológicas. 
+La [regulación emocional](https://inner-clarity.github.io/ClearPath/es/prenc) es esencial para el bienestar psicológico, neurológico y espiritual. Algunas personas desarrollan formas de autorregulación que, aunque poco familiares para otros, son necesarias para su equilibrio interno —especialmente tras el trauma o por diferencias neurológicas. 
 
 Cuando se les pide que abandonen estas estrategias —aunque sea con buenas intenciones— pueden experimentar angustia adicional, deterioro funcional y distanciamiento de la comunidad. Este documento explica por qué, desde una perspectiva clínica, el apoyo suele ser más efectivo que la corrección.    
 
@@ -18,7 +18,7 @@ Algunos miembros fieles reportan que, al intentar participar plenamente en la gr
 
 El sistema nervioso humano desarrolla formas específicas de mantener la calma, especialmente cuando una persona ha vivido experiencias difíciles o tiene diferencias neurológicas. Estas respuestas se vuelven automáticas con el tiempo. 
 
-Si se le pide a alguien que deje de usar una estrategia que su cerebro ha consolidado como esencial, puede experimentar: 
+Si se le pide a alguien que deje de usar una estrategia ([P.R.E.N.C.](https://inner-clarity.github.io/ClearPath/es/prenc)) que su cerebro ha consolidado como esencial, puede experimentar: 
 
 - Aumento de ansiedad o tensión interna
 - Dificultad para concentrarse o participar en actividades
@@ -47,9 +47,9 @@ Estas no son señales de rebeldía espiritual, sino de que **necesita comprensi�
 
 **Lecciones de condiciones reconocidas**
 
-- En el Síndrome de Tourette, intentar suprimir los tics causa acumulación de tensión.
-- En el autismo, impedir los movimientos autorregulatorios aumenta la ansiedad.
-- En el TEPT, prohibir rituales de seguridad puede reactivar el miedo. 
+- En el [Síndrome de Tourette](https://inner-clarity.github.io/ClearPath/es/tourette), intentar suprimir los tics causa acumulación de tensión.
+- En el [autismo](https://inner-clarity.github.io/ClearPath/es/autismo), impedir los movimientos autorregulatorios aumenta la ansiedad.
+- En el [TEPT](https://inner-clarity.github.io/ClearPath/es/tept), ([P.R.E.N.C.](https://inner-clarity.github.io/ClearPath/es/prenc)) prohibir rituales de seguridad puede reactivar el miedo. 
 
 Estos ejemplos muestran que **el cerebro necesita ciertas vías para sentirse seguro.** Lo que parece inusual desde fuera puede ser esencial desde dentro. 
 
@@ -162,3 +162,10 @@ Proteger la integridad neurológica de cada individuo no es una concesión, sino
 
 ### Perspectivas Evolutivas
 - Gilbert, P. (2019). "Evolutionary Psychology and Mental Health: Past, present and future." *Clinical Psychology Review*, 73, 101751.
+---
+
+::: tip Bienvenido
+Nota: InnerSight es un recurso educativo independiente, creado por miembros fieles para apoyar a lideres, familias y profesionales. No esta afiliado ni oficialmente respaldado por La Iglesia de Jesucristo de los Santos de los Ultimos Dias.
+
+Cada viaje interior comienza con un primer paso. El tuyo comienza aqui.
+:::

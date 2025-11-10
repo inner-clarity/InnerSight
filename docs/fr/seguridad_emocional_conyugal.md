@@ -1,10 +1,10 @@
-# Sécurité Émotionnelle Conjugale
+﻿# Sécurité Émotionnelle Conjugale
 
 ## Introduction
 
 Le mariage est une alliance sacrée fondée sur l'amour, la confiance et l'engagement mutuel. Pour que cette union prospère, chaque conjoint doit se sentir **en sécurité pour être authentique**, sans crainte d'être jugé, corrigé ou rejeté pour ses besoins internes.
 
-Lorsqu'un conjoint fait face à des défis de santé mentale ou des différences neurologiques — comme des réponses au traumatisme, l'autisme ou le syndrome de Tourette — il peut dépendre de certaines stratégies pour maintenir son équilibre émotionnel. Si ces besoins sont **mal compris, minimisés ou conditionnés à l'acceptation**, la base émotionnelle du mariage peut être affectée.
+Lorsqu'un conjoint fait face à des défis de santé mentale ou des différences neurologiques — comme des réponses au traumatisme, l'[autisme](https://inner-clarity.github.io/ClearPath/fr/autisme) ou le [syndrome de Tourette](https://inner-clarity.github.io/ClearPath/fr/tourette) — il peut dépendre de certaines stratégies ([P.R.E.N.C.](https://inner-clarity.github.io/ClearPath/fr/prenc)) pour maintenir son équilibre émotionnel. Si ces besoins sont **mal compris, minimisés ou conditionnés à l'acceptation**, la base émotionnelle du mariage peut être affectée.
 
 Ce document explique, d'une perspective clinique et doctrinale, pourquoi la **sécurité émotionnelle mutuelle** est essentielle pour la stabilité conjugale, et comment le soutien compatissant renforce le lien entre mari et femme.
 
@@ -77,4 +77,10 @@ Soutenir les besoins légitimes de régulation émotionnelle n'affaiblit pas le 
 
 > "Accueillez-vous les uns les autres, comme Christ vous a accueillis, pour la gloire de Dieu."  
 > — Romains 15:7
+---
 
+::: tip Bienvenue
+Note: InnerSight est une ressource educative independante, creee par des membres fideles pour soutenir les dirigeants, les familles et les professionnels. Elle nest pas affiliee ni officiellement approuvee par lEglise de Jesus-Christ des Saints des Derniers Jours.
+
+Chaque voyage interieur commence par un premier pas. Le votre commence ici.
+:::

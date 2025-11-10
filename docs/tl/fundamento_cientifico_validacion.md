@@ -1,8 +1,8 @@
-# Scientific Foundation: Pag-unawa sa Neurological Needs sa Emotional Regulation
+﻿# Scientific Foundation: Pag-unawa sa Neurological Needs sa Emotional Regulation
 
 ## Academic Introduction
 
-Kinikilala ng kasalukuyang agham na ang mga tao ay nire-regulate ang kanilang mga emosyon sa iba't ibang paraan, lalo na kapag nakaranas ng trauma o may neurological differences. Ang ilan sa mga tugong ito ay maaaring mukhang hindi pangkaraniwan, ngunit suportado ng clinical evidence bilang functional mechanisms ng nervous system.
+Kinikilala ng kasalukuyang agham na ang mga tao ay nire-regulate ang kanilang mga emosyon sa iba't ibang paraan, lalo na kapag nakaranas ng trauma o may neurological differences. Ang [emotional regulation](https://inner-clarity.github.io/ClearPath/tl/prenc) ay tumutukoy sa mga proseso na nagpapahintulot sa mga tao na pamahalaan ang matinding emosyonal na estado. Ang ilan sa mga tugong ito ay maaaring mukhang hindi pangkaraniwan, ngunit suportado ng clinical evidence bilang functional mechanisms ng nervous system.
 
 ## Pundamental na Scientific Definitions
 
@@ -13,7 +13,7 @@ Ang ilang emotional regulation strategies ay may malinaw na neurological basis. 
 - Patuloy na umiiral sa paglipas ng panahon, kahit na nais ng tao na baguhin ang mga ito
 - Bumubuo ng physiological o emotional discomfort kung susubukang pigilin
 - Hindi umaasa sa conscious will, kundi sa awtomatikong mga tugon ng nervous system
-- Nauugnay sa kinikilalang medical conditions (tulad ng trauma, autism o Tourette)
+- Nauugnay sa kinikilalang medical conditions (tulad ng [trauma](https://inner-clarity.github.io/ClearPath/tl/tept), [autism](https://inner-clarity.github.io/ClearPath/tl/autismo) o [Tourette](https://inner-clarity.github.io/ClearPath/tl/tourette))
 - Nagpapahintulot sa tao na tuparin ang kanilang pamilya, spiritual at social responsibilities
 
 Ang mga katangiang ito ay tumutulong sa mga propesyonal at leaders na makilala kung kailan ang isang pag-uugali ay bahagi ng pagganap ng isang tao, hindi isang sandaling pagpili.
@@ -27,7 +27,7 @@ Ipinapakita ng neuroscience na ang utak ng tao ay maaaring bumuo ng natatanging 
 Halimbawa:
 
 - Pagkatapos ng trauma, maaaring iugnay ng utak ang ilang stimuli sa sensations ng kalma bilang protective mechanism.
-- Sa mga kondisyon tulad ng autism o Tourette Syndrome, maaaring mangailangan ang nervous system ng mga partikular na paraan ng self-regulation upang pamahalaan ang overstimulation o internal tension.
+- Sa mga kondisyon tulad ng [autism](https://inner-clarity.github.io/ClearPath/tl/autismo) o [Tourette Syndrome](https://inner-clarity.github.io/ClearPath/tl/tourette), maaaring mangailangan ang nervous system ng mga partikular na paraan ng self-regulation upang pamahalaan ang overstimulation o internal tension.
 
 Ang mga tugong ito ay nagiging awtomatiko sa paglipas ng panahon at hindi maaaring baguhin lamang sa pamamagitan ng "willpower".
 
@@ -49,9 +49,9 @@ Ang mga pamantayang ito ay nagpapahintulot na makilanlan ang pagitan ng mga pag-
 
 **Ang kinikilalang neurological conditions ay nag-aalok ng kapaki-pakinabang na pag-unawa**
 
-- Sa Tourette Syndrome, ang mga tic ay awtomatikong mga tugon na tumutulong na maglabas ng neurological tension. Ang pagtatangkang pigilin ang mga ito ay nagiging sanhi ng accumulation ng anxiety.
-- Sa autism, ang mga paulit-ulit na paggalaw (stimming) ay nire-regulate ang sensory input at pinipigilan ang exhaustion.
-- Sa PTSD, ang ilang ritwal ay nagbibigay ng pakiramdam ng seguridad pagkatapos ng traumatic experiences.
+- Sa [Tourette Syndrome](https://inner-clarity.github.io/ClearPath/tl/tourette), ang mga tic ay awtomatikong mga tugon na tumutulong na maglabas ng neurological tension. Ang pagtatangkang pigilin ang mga ito ay nagiging sanhi ng accumulation ng anxiety.
+- Sa [autism](https://inner-clarity.github.io/ClearPath/tl/autismo), ang mga paulit-ulit na paggalaw (stimming) ay nire-regulate ang sensory input at pinipigilan ang exhaustion.
+- Sa [PTSD](https://inner-clarity.github.io/ClearPath/tl/tept), ang ilang ritwal ay nagbibigay ng pakiramdam ng seguridad pagkatapos ng traumatic experiences.
 
 Ang mga halimbawang ito ay nagpapakita na **ang utak ng tao ay gumagamit ng iba't ibang estratehiya upang mapanatili ang balanse**, at na ang mukhang hindi pangkaraniwan mula sa labas ay maaaring mahalaga mula sa loob.
 
@@ -167,3 +167,10 @@ Ang scientific at religious community ay may pagkakataon na magpakita ng leaders
 ### Evolutionary Perspectives
 - Gilbert, P. (2019). "Evolutionary Psychology and Mental Health: Past, present and future." *Clinical Psychology Review*, 73, 101751.
 
+---
+
+::: tip Maligayang pagdating!
+Tala: Ang InnerSight ay isang independiyenteng mapagkukunan ng edukasyon, na nilikha ng mga tapat na miyembro para suportahan ang mga lider, pamilya, at propesyonal. Ito ay hindi nauugnay o opisyal na sinusuportahan ng Ang Simbahan ni Jesucristo ng mga Banal sa mga Huling Araw.
+
+Ang bawat panloob na paglalakbay ay nagsisimula sa isang unang hakbang. Ang sa iyo ay nagsisimula dito.
+:::

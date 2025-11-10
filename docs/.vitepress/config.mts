@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  // Base URL: '/' para desarrollo local, '/InnerSight/' para GitHub Pages
   base: '/InnerSight/',
   
   // Excluir directorios de backup del build
@@ -656,14 +657,8 @@ export default defineConfig({
   },
   
   head: [
-    ['link', { rel: 'icon', href: '/InnerSight/favicon.ico' }],
     ['link', { rel: 'preconnect', href: 'https://fonts.googleapis.com' }],
     ['link', { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: '' }],
-    ['link', { rel: 'stylesheet', href: '/InnerSight/fixed-page-nav.css' }],
-    ['script', { src: '/InnerSight/locale-detector.js' }],
-    ['script', { src: '/InnerSight/geo-detector.js' }],
-    ['script', { src: '/InnerSight/debug-detector.js' }],
-    ['script', { src: '/InnerSight/page-nav-enhancer.js' }],
     ['meta', { name: 'theme-color', content: '#2c5aa0' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],

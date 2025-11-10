@@ -1,7 +1,7 @@
-# À propos d'InnerSight
+﻿# À propos d'InnerSight
 <!-- i18n: synchronisé avec docs/es/about/index.md (oct. 2025). -->
 
-InnerSight est une initiative de la Fondation InnerSight dédiée à explorer l'intersection entre la santé mentale, les processus de régulation émotionnelle —y compris ceux considérés comme non conventionnels— et la vie spirituelle au sein de L'Église de Jésus-Christ des Saints des Derniers Jours.
+**InnerSight** est une initiative de la Fondation InnerSight dédiée à explorer l'intersection entre la santé mentale, les processus de [régulation émotionnelle](https://inner-clarity.github.io/ClearPath/fr/prenc) —y compris ceux considérés comme non conventionnels— et la vie spirituelle au sein de L'Église de Jésus-Christ des Saints des Derniers Jours.
 
 ## Notre Mission
 
@@ -14,7 +14,7 @@ Favoriser un dialogue respectueux, informé et compatissant entre les approches 
 
 ## Notre Approche
 
-Cette initiative naît de l'observation d'un besoin réel : le manque de compréhension institutionnelle et de soutien structuré pour les membres qui, dans leur chemin de guérison, utilisent des méthodes non traditionnelles de régulation émotionnelle. Notre travail se fonde sur :
+Cette initiative naît de l'observation d'un besoin réel : le manque de compréhension institutionnelle et de soutien structuré pour les membres qui, dans leur chemin de guérison, utilisent des méthodes non traditionnelles de [régulation émotionnelle](https://inner-clarity.github.io/ClearPath/fr/prenc). Notre travail se fonde sur :
 
 - Des principes de psychologie clinique validés scientifiquement  
 - Des approches thérapeutiques telles que la thérapie cognitivo-comportementale  
@@ -24,4 +24,10 @@ Nous croyons que la foi et la science ne sont pas en conflit, mais peuvent chemi
 
 > « La charité est l'amour pur du Christ, et elle subsiste à jamais ; et celui qui sera trouvé en possession de cet amour au dernier jour, tout ira bien pour lui. »  
 > — Moroni 7:47
+---
 
+::: tip Bienvenue
+Note: InnerSight est une ressource educative independante, creee par des membres fideles pour soutenir les dirigeants, les familles et les professionnels. Elle nest pas affiliee ni officiellement approuvee par lEglise de Jesus-Christ des Saints des Derniers Jours.
+
+Chaque voyage interieur commence par un premier pas. Le votre commence ici.
+:::

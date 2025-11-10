@@ -1,4 +1,4 @@
-# Clarification sur la Nature des Besoins de Régulation Émotionnelle
+﻿# Clarification sur la Nature des Besoins de Régulation Émotionnelle
 
 ## Introduction
 
@@ -13,7 +13,7 @@ La régulation émotionnelle fait référence aux façons dont une personne gèr
 - Utilisation d'objets de confort ou de vêtements spécifiques  
 - Rythmes, sons ou comportements symboliques  
 
-Son but est de **rétablir le calme interne**, non d'exprimer une attraction envers les autres. Ces stratégies sont courantes chez les personnes qui ont vécu un traumatisme, ont des différences neurologiques (comme l'autisme ou le syndrome de Tourette), ou font face à une surcharge sensorielle.
+Son but est de **rétablir le calme interne**, non d'exprimer une attraction envers les autres. Ces stratégies sont courantes chez les personnes qui ont vécu un traumatisme, ont des différences neurologiques (comme l'[autisme](https://inner-clarity.github.io/ClearPath/fr/autisme) ou le [syndrome de Tourette](https://inner-clarity.github.io/ClearPath/fr/tourette)), ou font face à une surcharge sensorielle.
 
 ## Qu'est-ce que l'orientation sexuelle ?
 
@@ -71,3 +71,10 @@ Les stratégies de régulation émotionnelle, bien qu'elles puissent sembler inh
 
 > **"Accueillez-vous les uns les autres, comme Christ vous a accueillis, pour la gloire de Dieu."**  
 > — Romains 15:7
+---
+
+::: tip Bienvenue
+Note: InnerSight est une ressource educative independante, creee par des membres fideles pour soutenir les dirigeants, les familles et les professionnels. Elle nest pas affiliee ni officiellement approuvee par lEglise de Jesus-Christ des Saints des Derniers Jours.
+
+Chaque voyage interieur commence par un premier pas. Le votre commence ici.
+:::

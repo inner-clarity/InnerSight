@@ -1,8 +1,8 @@
-# Impacto de pedir o abandono de estratégias regulatórias necessárias
+﻿# Impacto de pedir o abandono de estratégias regulatórias necessárias
 
 ## Introdução Acadêmica
 
-A regulação emocional é essencial para o bem-estar psicológico, neurológico e espiritual. Algumas pessoas desenvolvem formas de autorregulação que, embora pouco familiares para outros, são necessárias para seu equilíbrio interno — especialmente após o trauma ou por diferenças neurológicas.
+A [regulação emocional](https://inner-clarity.github.io/ClearPath/pt/prenc) é essencial para o bem-estar psicológico, neurológico e espiritual. Algumas pessoas desenvolvem formas de autorregulação que, embora pouco familiares para outros, são necessárias para seu equilíbrio interno — especialmente após o trauma ou por diferenças neurológicas.
 
 Quando lhes pedem para abandonar essas estratégias — ainda que seja com boas intenções — podem experimentar angústia adicional, deterioração funcional e distanciamento da comunidade. Este documento explica por que, de uma perspectiva clínica, o apoio costuma ser mais efetivo que a correção.
 
@@ -46,9 +46,9 @@ Estas não são sinais de rebeldia espiritual, mas de que **necessita compreens�
 
 **Lições de condições reconhecidas**
 
-- Na Síndrome de Tourette, tentar suprimir os tiques causa acumulação de tensão.
-- No autismo, impedir os movimentos autorregulatórios aumenta a ansiedade.
-- No TEPT, proibir rituais de segurança pode reativar o medo.
+- Na [Síndrome de Tourette](https://inner-clarity.github.io/ClearPath/pt/tourette), tentar suprimir os tiques causa acumulação de tensão.
+- No [autismo](https://inner-clarity.github.io/ClearPath/pt/autismo), impedir os movimentos autorregulatórios aumenta a ansiedade.
+- No [TEPT](https://inner-clarity.github.io/ClearPath/pt/tept), proibir rituais de segurança pode reativar o medo.
 
 Esses exemplos mostram que **o cérebro necessita certas vias para sentir-se seguro.** O que parece incomum de fora pode ser essencial de dentro.
 
@@ -161,4 +161,10 @@ Proteger a integridade neurológica de cada indivíduo não é uma concessão, m
 
 ### Perspectivas Evolutivas
 - Gilbert, P. (2019). "Evolutionary Psychology and Mental Health: Past, present and future." *Clinical Psychology Review*, 73, 101751.
+---
 
+::: tip Bem-vindo
+Nota: InnerSight e um recurso educacional independente, criado por membros fieis para apoiar lideres, familias e profissionais. Nao e afiliado nem oficialmente endossado pela Igreja de Jesus Cristo dos Santos dos Ultimos Dias.
+
+Cada jornada interior comeca com um primeiro passo. A sua comeca aqui.
+:::

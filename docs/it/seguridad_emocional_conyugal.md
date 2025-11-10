@@ -1,10 +1,10 @@
-# Sicurezza Emotiva Coniugale
+﻿# Sicurezza Emotiva Coniugale
 
 ## Introduzione
 
 Il matrimonio è un'alleanza sacra fondata sull'amore, la fiducia e l'impegno reciproco. Perché questa unione prosperi, ogni coniuge ha bisogno di sentirsi **sicuro di essere autentico**, senza timore di essere giudicato, corretto o rifiutato per i propri bisogni interni.
 
-Quando uno dei coniugi affronta sfide di salute mentale o differenze neurologiche — come risposte al trauma, autismo o Tourette — può dipendere da certe strategie per mantenere il proprio equilibrio emotivo. Se questi bisogni sono **malinterpretati, minimizzati o condizionati all'accettazione**, le fondamenta emotive del matrimonio possono essere compromesse.
+Quando uno dei coniugi affronta sfide di salute mentale o differenze neurologiche — come risposte al trauma, [autismo](https://inner-clarity.github.io/ClearPath/it/autismo) o [Tourette](https://inner-clarity.github.io/ClearPath/it/tourette) — può dipendere da certe strategie ([P.R.E.N.C.](https://inner-clarity.github.io/ClearPath/it/prenc)) per mantenere il proprio equilibrio emotivo. Se questi bisogni sono **malinterpretati, minimizzati o condizionati all'accettazione**, le fondamenta emotive del matrimonio possono essere compromesse.
 
 Questo documento spiega, da una prospettiva clinica e dottrinale, perché la **sicurezza emotiva reciproca** è essenziale per la stabilità coniugale, e come il supporto compassionevole rafforza l'unione tra marito e moglie.
 
@@ -77,3 +77,10 @@ Supportare i bisogni legittimi di regolazione emotiva non indebolisce il matrimo
 
 > "Accoglietevi gli uni gli altri, come anche Cristo vi ha accolti, per la gloria di Dio."
 > — Romani 15:7
+---
+
+::: tip Benvenuto
+Nota: InnerSight e una risorsa educativa indipendente, creata da membri fedeli per supportare leader, famiglie e professionisti. Non e affiliata ne ufficialmente approvata dalla Chiesa di Gesu Cristo dei Santi degli Ultimi Giorni.
+
+Ogni viaggio interiore inizia con un primo passo. Il tuo inizia qui.
+:::

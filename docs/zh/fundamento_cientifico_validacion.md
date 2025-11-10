@@ -1,4 +1,4 @@
-# 科学依据：理解情绪调节中的神经学需求
+﻿# 科学依据：理解情绪调节中的神经学需求
 
 ## 学术介绍
 
@@ -167,3 +167,11 @@
 
 ### 进化视角
 - Gilbert, P. (2019). "Evolutionary Psychology and Mental Health: Past, present and future." *Clinical Psychology Review*, 73, 101751.
+
+---
+
+::: tip 欢迎！
+注意：InnerSight是一个独立的教育资源，由忠实成员创建，用于支持领袖、家庭和专业人士。它不与耶稣基督后期圣徒教会正式关联或认可。
+
+每一次内心之旅都从第一步开始。你的从这里开始。
+:::

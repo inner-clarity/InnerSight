@@ -1,19 +1,19 @@
-# Chiarificazione sulla Natura dei Bisogni di Regolazione Emotiva
+﻿# Chiarificazione sulla Natura dei Bisogni di Regolazione Emotiva
 
 ## Introduzione
 
-Alcune persone, osservando strategie di regolazione emotiva poco familiari, potrebbero chiedersi se queste siano correlate all'orientamento sessuale. Questa domanda sorge naturalmente quando mancano informazioni cliniche, ma la scienza e la dottrina offrono chiarezza.
+Alcune persone, osservando strategie di [regolazione emotiva](https://inner-clarity.github.io/ClearPath/it/prenc) poco familiari, potrebbero chiedersi se queste siano correlate all'orientamento sessuale. Questa domanda sorge naturalmente quando mancano informazioni cliniche, ma la scienza e la dottrina offrono chiarezza.
 
 La regolazione emotiva e l'orientamento sessuale appartengono a **domini diversi**: uno è **intrapersonale e regolatorio**, l'altro è **interpersonale e relazionale**. Comprendere questa differenza aiuta a evitare malintesi che possono influenzare la fede, l'appartenenza e il benessere dei membri fedeli.
 
 ## Cos'è la regolazione emotiva?
 
-La regolazione emotiva si riferisce ai modi in cui una persona gestisce emozioni intense o sensazioni travolgenti. Può includere:
+La [regolazione emotiva](https://inner-clarity.github.io/ClearPath/it/prenc) si riferisce ai modi in cui una persona gestisce emozioni intense o sensazioni travolgenti. Può includere:
 - Movimenti ripetitivi (come dondolarsi o strofinarsi le mani)
 - Uso di oggetti di conforto o indumenti specifici
 - Ritmi, suoni o comportamenti simbolici
 
-Il suo scopo è **ristabilire la calma interna**, non esprimere attrazione verso altri. Queste strategie sono comuni nelle persone che hanno sperimentato trauma, hanno differenze neurologiche (come autismo o Tourette) o affrontano sovraccarico sensoriale.
+Il suo scopo è **ristabilire la calma interna**, non esprimere attrazione verso altri. Queste strategie sono comuni nelle persone che hanno sperimentato trauma, hanno differenze neurologiche (come [autismo](https://inner-clarity.github.io/ClearPath/it/autismo) o [Tourette](https://inner-clarity.github.io/ClearPath/it/tourette)) o affrontano sovraccarico sensoriale.
 
 ## Cos'è l'orientamento sessuale?
 
@@ -26,7 +26,7 @@ Non si tratta di comportamenti isolati, ma di una dimensione relazionale persist
 
 ## Differenza chiave
 
-> **La regolazione emotiva cerca sicurezza interna; l'orientamento sessuale cerca connessione con altri.**
+> **La [regolazione emotiva](https://inner-clarity.github.io/ClearPath/it/prenc) cerca sicurezza interna; l'orientamento sessuale cerca connessione con altri.**
 
 Un comportamento regolatorio **non implica attrazione, desiderio o eccitazione sessuale**, anche se la sua forma esterna sembra insolita. Ciò che definisce la sua natura è la sua **funzione interna**, non il suo aspetto.
 
@@ -42,9 +42,9 @@ Quando la risposta è **calma, stress, solitudine e assenza di attrazione**, si 
 
 ### Esempi di condizioni riconosciute
 
-- **Autismo**: I movimenti ripetitivi (stimming) aiutano a gestire la sovrastimolazione sensoriale. Gli studi confermano che **non sono associati con attrazione sessuale**, ma con bisogni sensoriali (Kapp et al., 2019).
-- **PTSD**: Alcune persone usano oggetti o rituali che ricordano loro l'infanzia per sentirsi sicure. Questo **non è regressione sessuale**, ma ricerca di contenimento emotivo (Van der Kolk, 2014).
-- **Sindrome di Tourette**: Alcuni tic possono includere parole o gesti insoliti, ma **non riflettono i desideri della persona**. Sono scariche neurologiche involontarie, come uno starnuto.
+- **[Autismo](https://inner-clarity.github.io/ClearPath/it/autismo)**: I movimenti ripetitivi (stimming) aiutano a gestire la sovrastimolazione sensoriale. Gli studi confermano che **non sono associati con attrazione sessuale**, ma con bisogni sensoriali (Kapp et al., 2019).
+- **[PTSD](https://inner-clarity.github.io/ClearPath/it/tept)**: Alcune persone usano oggetti o rituali che ricordano loro l'infanzia per sentirsi sicure. Questo **non è regressione sessuale**, ma ricerca di contenimento emotivo (Van der Kolk, 2014).
+- **[Sindrome di Tourette](https://inner-clarity.github.io/ClearPath/it/tourette)**: Alcuni tic possono includere parole o gesti insoliti, ma **non riflettono i desideri della persona**. Sono scariche neurologiche involontarie, come uno starnuto.
 
 ## Principi del Vangelo
 
@@ -64,10 +64,17 @@ Ecco perché è vitale **imparare prima di assumere**, e **ascoltare prima di gi
 
 ## Conclusione
 
-Le strategie di regolazione emotiva, anche se sembrano insolite, **non sono correlate all'orientamento sessuale**. Riconoscere questo permette:
+Le strategie di [regolazione emotiva](https://inner-clarity.github.io/ClearPath/it/prenc), anche se sembrano insolite, **non sono correlate all'orientamento sessuale**. Riconoscere questo permette:
 - Ministrare con maggiore saggezza
 - Proteggere la dignità di tutti i figli di Dio
 - Rafforzare l'unità nel gregge di Cristo
 
 > **"Accoglietevi gli uni gli altri, come anche Cristo vi ha accolti, per la gloria di Dio."**
 > — Romani 15:7
+---
+
+::: tip Benvenuto
+Nota: InnerSight e una risorsa educativa indipendente, creata da membri fedeli per supportare leader, famiglie e professionisti. Non e affiliata ne ufficialmente approvata dalla Chiesa di Gesu Cristo dei Santi degli Ultimi Giorni.
+
+Ogni viaggio interiore inizia con un primo passo. Il tuo inizia qui.
+:::

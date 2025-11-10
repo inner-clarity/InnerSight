@@ -1,4 +1,4 @@
-## Häufig Gestellte Fragen für Führer
+﻿## Häufig Gestellte Fragen für Führer
 
 ### Über Kriterien und Differenzierung
 
@@ -14,7 +14,7 @@ Bedürfnisse sind durch qualifizierte Fachkräfte verifizierbar.
 
 1. Zeitliche Konsistenz: Das Bedürfnis ist über Monate oder Jahre vorhanden, nicht eine momentane Präferenz
 1. Resistenz gegen freiwillige Veränderung: Verschwindet nicht durch "Willenskraft" oder sozialen Druck
-1. Verifizierbare neurologische Basis: Assoziiert mit dokumentiertem Trauma, diagnostizierter neurologischer Zustand oder Muster atypischer neurologischer Entwicklung
+1. Verifizierbare neurologische Basis: Assoziiert mit dokumentiertem [Trauma](https://inner-clarity.github.io/ClearPath/de/tept), diagnostizierter neurologischer Zustand oder Muster atypischer neurologischer Entwicklung
 1. Aufrechterhaltung der Funktionalität: Die Person erfüllt soziale, berufliche und familiäre Rollen effektiv
 1. Professionelle Überwachung: Wenn möglich, validiert durch Spezialisten in Trauma, Neurologie oder Psychiatrie
 1. Abwesenheit von Schaden für Dritte: Verursacht keinen physischen oder emotionalen Schaden für andere
@@ -138,3 +138,10 @@ Führung in der Kirche Christi erfordert Weisheit, Mitgefühl und Verständnis. 
 
 > "Nehmt einander an, wie auch Christus uns angenommen hat, zur Ehre Gottes."  
 > — Römer 15:7
+---
+
+::: tip Willkommen
+Hinweis: InnerSight ist eine unabhangige Bildungsressource, die von treuen Mitgliedern erstellt wurde, um Fuhrungskrafte, Familien und Fachleute zu unterstutzen. Sie ist nicht mit der Kirche Jesu Christi der Heiligen der Letzten Tage verbunden oder wird von dieser offiziell unterstutzt.
+
+Jede innere Reise beginnt mit einem ersten Schritt. Deine beginnt hier.
+:::

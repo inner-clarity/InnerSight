@@ -1,0 +1,88 @@
+# URLs Correctas de GitHub Pages - InnerSight
+
+## 🎯 URLs del Proyecto
+
+### URL Principal
+```
+✅ https://inner-clarity.github.io/InnerSight/
+```
+
+### URLs por Idioma
+```
+Español:   https://inner-clarity.github.io/InnerSight/es/
+English:   https://inner-clarity.github.io/InnerSight/en/
+Português: https://inner-clarity.github.io/InnerSight/pt/
+Français:  https://inner-clarity.github.io/InnerSight/fr/
+Deutsch:   https://inner-clarity.github.io/InnerSight/de/
+Italiano:  https://inner-clarity.github.io/InnerSight/it/
+Русский:   https://inner-clarity.github.io/InnerSight/ru/
+한국어:    https://inner-clarity.github.io/InnerSight/ko/
+日本語:    https://inner-clarity.github.io/InnerSight/ja/
+中文:      https://inner-clarity.github.io/InnerSight/zh/
+हिन्दी:    https://inner-clarity.github.io/InnerSight/hi/
+Tagalog:   https://inner-clarity.github.io/InnerSight/tl/
+```
+
+## ⚠️ URLs Incorrectas (NUNCA usar)
+
+```
+❌ inner-clarity.github.io/es             (falta repositorio)
+❌ inner-clarity.github.io/innersight     (minúsculas)
+❌ inner-clarity.github.io/Innersight     (solo I mayúscula)
+❌ inner-clarity.github.io/innerSight     (S minúscula)
+❌ inner-clarity.github.io/InnerSight     (sin barra final)
+```
+
+## 🔧 Configuración Crítica
+
+### Base Path en config.mts
+```typescript
+base: '/InnerSight/',  // ← SIEMPRE con mayúsculas I y S
+```
+
+### Archivo Obligatorio
+```
+docs/public/.nojekyll  // ← DEBE existir
+```
+
+## 📋 Reglas de Oro
+
+1. **Case-Sensitive**: GitHub Pages distingue mayúsculas. `/InnerSight/` ≠ `/innersight/`
+2. **Nombre del repositorio SIEMPRE**: No existe `inner-clarity.github.io/es`, debe ser `inner-clarity.github.io/InnerSight/es/`
+3. **Barra final recomendada**: Usar `/InnerSight/` con barra al final
+4. **Mayúsculas correctas**: `InnerSight` con I y S mayúsculas
+5. **Archivo .nojekyll obligatorio**: Sin él, GitHub Pages ignora `_vitepress/`
+
+## 🚀 Proceso de Deploy
+
+```bash
+npm run build   # Construir con base: '/InnerSight/'
+npm run deploy  # Desplegar a gh-pages
+# Esperar 1-2 minutos
+# Acceder a: https://inner-clarity.github.io/InnerSight/
+```
+
+## 🔍 Verificación Post-Deploy
+
+- [ ] Los estilos cargan correctamente
+- [ ] La URL incluye `/InnerSight/` (con mayúsculas)
+- [ ] Todas las rutas de assets comienzan con `/InnerSight/`
+- [ ] No hay errores 404 en DevTools → Network
+- [ ] El selector de idiomas funciona
+- [ ] La navegación funciona correctamente
+
+## 📝 Si Ves Error 404
+
+1. **Verifica mayúsculas**: ¿Usas `/InnerSight/` exactamente?
+2. **Verifica nombre del repo**: ¿Incluiste `/InnerSight/` en la URL?
+3. **Limpia caché**: Ctrl + Shift + R (Windows) o Cmd + Shift + R (Mac)
+4. **Verifica deploy**: ¿Ejecutaste `npm run deploy`?
+5. **Espera propagación**: 1-2 minutos después del deploy
+
+## 🎓 Referencia Técnica
+
+- **Repositorio**: `https://github.com/inner-clarity/InnerSight`
+- **Branch principal**: `main`
+- **Branch deploy**: `gh-pages`
+- **Base path**: `/InnerSight/` (configurado en `docs/.vitepress/config.mts`)
+- **Documentación completa**: `ReportesIA/solucion-estilos-github-pages-2025-11-03.md`

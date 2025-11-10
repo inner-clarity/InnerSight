@@ -40,3 +40,11 @@ All interactions are guided by principles of:
 ---
 
 *"Wherefore, receive ye one another, as Christ also received us to the glory of God." - Romans 15:7*
+
+---
+
+::: tip Welcome
+Note: InnerSight is an independent educational resource, created by faithful members to support leaders, families, and professionals. It is not affiliated with or officially endorsed by The Church of Jesus Christ of Latter-day Saints.
+
+Every inner journey begins with a first step. Yours starts here.
+:::

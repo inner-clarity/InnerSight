@@ -1,4 +1,4 @@
-# PROPOSTA PER INCLUSIONE ISTITUZIONALE IN SALUTE MENTALE E CONDIZIONI NEUROLOGICHE
+﻿# PROPOSTA PER INCLUSIONE ISTITUZIONALE IN SALUTE MENTALE E CONDIZIONI NEUROLOGICHE
 
 **Presentato a:** La Prima Presidenza  
 **Da:** Alejandro Parada, Analista Programmatore e Specialista in Ricerca IA  
@@ -8,14 +8,14 @@
 
 ## RIASSUNTO ESECUTIVO
 
-Questa proposta affronta un bisogno crescente all'interno della Chiesa di Gesù Cristo dei Santi degli Ultimi Giorni: orientamento chiaro per includere e supportare membri con condizioni di salute mentale e differenze neurologiche che richiedono procedimenti di regolazione emotiva non convenzionali. La mancanza attuale di direzione istituzionale crea sofferenza non necessaria, conflitti familiari e potenziale perdita di membri preziosi.
+Questa proposta affronta un bisogno crescente all'interno della Chiesa di Gesù Cristo dei Santi degli Ultimi Giorni: orientamento chiaro per includere e supportare membri con condizioni di salute mentale e differenze neurologiche che richiedono procedimenti di [regolazione emotiva](https://inner-clarity.github.io/ClearPath/it/prenc) non convenzionali. La mancanza attuale di direzione istituzionale crea sofferenza non necessaria, conflitti familiari e potenziale perdita di membri preziosi.
 
 ### Entità del Bisogno
 
 Le ricerche indicano che:
 - 1 su 5 adulti sperimenta condizioni di salute mentale in un dato anno (NIMH, 2023)
 - Il disturbo dello spettro autistico colpisce approssimativamente 1 su 36 bambini (CDC, 2023)
-- La Sindrome di Tourette colpisce approssimativamente 1 su 160 bambini (Tourette Association)
+- La [Sindrome di Tourette](https://inner-clarity.github.io/ClearPath/it/tourette) colpisce approssimativamente 1 su 160 bambini (Tourette Association)
 - Gli studi ACEs (Esperienze Avverse nell'Infanzia) mostrano che 2 su 3 adulti riportano almeno un'esperienza traumatica significativa
 
 **Nella Chiesa, questo significa:**
@@ -29,7 +29,7 @@ Attualmente quasi 4 milioni di membri in tutta La Chiesa di Gesù Cristo dei San
 Questa non è una "rara eccezione" — è una realtà comune che richiede preparazione istituzionale.
 
 **Bisogno Identificato**
-I membri con condizioni che richiedono strategie di autoregolazione poco comuni — includendo risposte al trauma, Sindrome di Tourette, differenze dello spettro autistico e altre variazioni neurologiche — affrontano confusione, stigma e a volte esclusione nonostante la loro dignità spirituale e desiderio di servire.
+I membri con condizioni che richiedono strategie di autoregolazione poco comuni — includendo risposte al trauma, [Sindrome di Tourette](https://inner-clarity.github.io/ClearPath/it/tourette), differenze dello spettro autistico e altre variazioni neurologiche — affrontano confusione, stigma e a volte esclusione nonostante la loro dignità spirituale e desiderio di servire.
 
 **Soluzione Proposta**
 Una dichiarazione istituzionale chiara che affermi che:
@@ -180,3 +180,10 @@ Proteggere la dignità e l'inclusione di tutti i figli di Dio non è solo una qu
 - Holland, J.R. (2013). "Come un vaso rotto." Conferenza Generale.
 - Nelson, R.M. (2020). "Lasciate che Dio prevalga." Conferenza Generale.
 - La Famiglia: Una Proclamazione al Mondo (1995).
+---
+
+::: tip Benvenuto
+Nota: InnerSight e una risorsa educativa indipendente, creata da membri fedeli per supportare leader, famiglie e professionisti. Non e affiliata ne ufficialmente approvata dalla Chiesa di Gesu Cristo dei Santi degli Ultimi Giorni.
+
+Ogni viaggio interiore inizia con un primo passo. Il tuo inizia qui.
+:::

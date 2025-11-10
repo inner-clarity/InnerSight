@@ -1,8 +1,8 @@
-# Impatto del chiedere l'abbandono di strategie regolatorie necessarie
+﻿# Impatto del chiedere l'abbandono di strategie regolatorie necessarie
 
 ## Introduzione Accademica
 
-La regolazione emotiva è essenziale per il benessere psicologico, neurologico e spirituale. Alcune persone sviluppano forme di autoregolazione che, anche se poco familiari ad altri, sono necessarie per il loro equilibrio interno — specialmente dopo il trauma o per differenze neurologiche.
+La [regolazione emotiva](https://inner-clarity.github.io/ClearPath/it/prenc) è essenziale per il benessere psicologico, neurologico e spirituale. Alcune persone sviluppano forme di autoregolazione che, anche se poco familiari ad altri, sono necessarie per il loro equilibrio interno — specialmente dopo il trauma o per differenze neurologiche.
 
 Quando viene loro chiesto di abbandonare queste strategie — anche se con buone intenzioni — possono sperimentare angoscia aggiuntiva, deterioramento funzionale e distanziamento dalla comunità. Questo documento spiega perché, da una prospettiva clinica, il supporto è spesso più efficace della correzione.
 
@@ -18,7 +18,7 @@ Alcuni membri fedeli riportano che, nel tentativo di partecipare pienamente al g
 
 Il sistema nervoso umano sviluppa forme specifiche per mantenere la calma, specialmente quando una persona ha vissuto esperienze difficili o ha differenze neurologiche. Queste risposte diventano automatiche nel tempo.
 
-Se a qualcuno viene chiesto di smettere di usare una strategia che il suo cervello ha consolidato come essenziale, può sperimentare:
+Se a qualcuno viene chiesto di smettere di usare una strategia ([P.R.E.N.C.](https://inner-clarity.github.io/ClearPath/it/prenc)) che il suo cervello ha consolidato come essenziale, può sperimentare:
 
 - Aumento di ansia o tensione interna
 - Difficoltà a concentrarsi o partecipare alle attività
@@ -47,9 +47,9 @@ Questi non sono segnali di ribellione spirituale, ma che **ha bisogno di compren
 
 **Lezioni da condizioni riconosciute**
 
-- Nella Sindrome di Tourette, tentare di sopprimere i tic causa accumulo di tensione.
-- Nell'autismo, impedire i movimenti autoregolatori aumenta l'ansia.
-- Nel PTSD, proibire rituali di sicurezza può riattivare la paura.
+- Nella [Sindrome di Tourette](https://inner-clarity.github.io/ClearPath/it/tourette), tentare di sopprimere i tic causa accumulo di tensione.
+- Nell'[autismo](https://inner-clarity.github.io/ClearPath/it/autismo), impedire i movimenti autoregolatori aumenta l'ansia.
+- Nel [PTSD](https://inner-clarity.github.io/ClearPath/it/tept), ([P.R.E.N.C.](https://inner-clarity.github.io/ClearPath/it/prenc)) proibire rituali di sicurezza può riattivare la paura.
 
 Questi esempi mostrano che **il cervello ha bisogno di certe vie per sentirsi sicuro.** Ciò che sembra insolito dall'esterno può essere essenziale dall'interno.
 
@@ -155,3 +155,10 @@ Proteggere l'integrità neurologica di ogni individuo non è una concessione, ma
 
 ### Prospettive Evolutive
 - Gilbert, P. (2019). "Evolutionary Psychology and Mental Health: Past, present and future." *Clinical Psychology Review*, 73, 101751.
+---
+
+::: tip Benvenuto
+Nota: InnerSight e una risorsa educativa indipendente, creata da membri fedeli per supportare leader, famiglie e professionisti. Non e affiliata ne ufficialmente approvata dalla Chiesa di Gesu Cristo dei Santi degli Ultimi Giorni.
+
+Ogni viaggio interiore inizia con un primo passo. Il tuo inizia qui.
+:::

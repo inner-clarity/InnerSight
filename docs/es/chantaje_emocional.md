@@ -1,8 +1,8 @@
-# Cuando el amor se condiciona a la conformidad 
+﻿# Cuando el amor se condiciona a la conformidad 
 
 ## Introducción Académica
 
-Algunos miembros fieles reportan sentir que su pertenencia, amor o aceptación en la familia o la congregación depende de dejar ciertas necesidades de regulación emocional. Aunque estas dinámicas suelen surgir de buena intención —como el deseo de ayudar o proteger—, pueden tener consecuencias negativas en la salud mental, la fe y las relaciones. 
+Algunos miembros fieles reportan sentir que su pertenencia, amor o aceptación en la familia o la congregación depende de dejar ciertas necesidades de [regulación emocional](https://inner-clarity.github.io/ClearPath/es/prenc). Aunque estas dinámicas suelen surgir de buena intención —como el deseo de ayudar o proteger—, pueden tener consecuencias negativas en la salud mental, la fe y las relaciones. 
 
 Este documento explica, desde una perspectiva clínica, por qué es importante ministrar sin imponer condiciones, y cómo el apoyo incondicional fortalece tanto al individuo como a la comunidad.
 
@@ -74,9 +74,9 @@ Estas no son señales de falta de fe, sino de que **necesita apoyo profesional y
 
 **Lecciones de condiciones reconocidas**
 
-- En el Síndrome de Tourette, intentar suprimir los tics causa acumulación de tensión.
-- En el autismo, impedir los movimientos autorregulatorios aumenta la ansiedad.
-- En el TEPT, prohibir rituales de seguridad puede reactivar el miedo.
+- En el [Síndrome de Tourette](https://inner-clarity.github.io/ClearPath/es/tourette), intentar suprimir los tics causa acumulación de tensión.
+- En el [autismo](https://inner-clarity.github.io/ClearPath/es/autismo), impedir los movimientos autorregulatorios aumenta la ansiedad.
+- En el [TEPT](https://inner-clarity.github.io/ClearPath/es/tept), prohibir rituales de seguridad puede reactivar el miedo.
 
 Estos ejemplos muestran que **el cerebro necesita ciertas vías para sentirse seguro**. Lo que parece inusual desde fuera puede ser esencial desde dentro. 
 
@@ -170,3 +170,10 @@ Proteger la integridad neurológica de cada individuo no es una concesión, sino
 
 ### Perspectivas Evolutivas
 - Gilbert, P. (2019). "Evolutionary Psychology and Mental Health: Past, present and future." *Clinical Psychology Review*, 73, 101751.
+---
+
+::: tip Bienvenido
+Nota: InnerSight es un recurso educativo independiente, creado por miembros fieles para apoyar a lideres, familias y profesionales. No esta afiliado ni oficialmente respaldado por La Iglesia de Jesucristo de los Santos de los Ultimos Dias.
+
+Cada viaje interior comienza con un primer paso. El tuyo comienza aqui.
+:::

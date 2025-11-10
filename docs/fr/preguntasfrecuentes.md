@@ -104,10 +104,17 @@ formel.
 
 **R: Oui, surtout aux enfants et aux jeunes**, pour plusieurs raisons:
 
-1. **Développement neurologique:** De nombreux besoins régulateurs émergent dans l'enfance (autisme, Tourette, réponses au traumatisme)
+1. **Développement neurologique:** De nombreux besoins régulateurs émergent dans l'enfance ([autisme](https://inner-clarity.github.io/ClearPath/fr/autisme), [Tourette](https://inner-clarity.github.io/ClearPath/fr/tourette), réponses au traumatisme)
 2. **Vulnérabilité accrue:** Les jeunes sont plus susceptibles à la stigmatisation et à l'exclusion
 3. **Importance de l'intervention précoce:** Le soutien précoce prévient les dommages psychologiques supplémentaires
 4. **Implication des parents:** Les dirigeants doivent travailler avec les familles, en respectant que les parents connaissent mieux leurs enfants
 5. **Adaptations dans les classes et activités:** Permettre aux enfants ayant des besoins spéciaux de participer pleinement
 
 **Note spéciale:** Ne jamais utiliser des termes comme "désordre" ou "anormal" devant les enfants. Le langage est: "Votre cerveau fonctionne d'une manière unique, et c'est bien."
+---
+
+::: tip Bienvenue
+Note: InnerSight est une ressource educative independante, creee par des membres fideles pour soutenir les dirigeants, les familles et les professionnels. Elle nest pas affiliee ni officiellement approuvee par lEglise de Jesus-Christ des Saints des Derniers Jours.
+
+Chaque voyage interieur commence par un premier pas. Le votre commence ici.
+:::

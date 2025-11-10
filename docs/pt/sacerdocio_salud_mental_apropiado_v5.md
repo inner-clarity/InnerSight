@@ -1,4 +1,4 @@
-# Dignidade Espiritual e Saúde Mental
+﻿# Dignidade Espiritual e Saúde Mental
 
 ## Fundamentos Doutrinários
 
@@ -54,7 +54,7 @@ Estes ensinamentos nos convidam a **ministrar com humildade**, não com suposiç
 ## Compreensão Clínica e Doutrinária
 
 ### Regulação emocional: uma necessidade, não uma escolha
-A neurociência mostra que muitas estratégias de autorregulação—como no autismo, na Síndrome de Tourette ou após trauma—são respostas automáticas do sistema nervoso, não decisões conscientes. Tentar suprimi-las sem apoio profissional pode causar angústia adicional e distanciamento espiritual.
+A neurociência mostra que muitas estratégias de autorregulação—como no [autismo](https://inner-clarity.github.io/ClearPath/pt/autismo), na [Síndrome de Tourette](https://inner-clarity.github.io/ClearPath/pt/tourette) ou após trauma ([P.R.E.N.C.](https://inner-clarity.github.io/ClearPath/pt/prenc))—são respostas automáticas do sistema nervoso, não decisões conscientes. Tentar suprimi-las sem apoio profissional pode causar angústia adicional e distanciamento espiritual.
 
 ### Não é uma questão sexual
 É fundamental entender que **as estratégias de regulação emocional não estão relacionadas à orientação sexual**. Não implicam atração, desejo nem excitação. Seu propósito é **restabelecer a calma interna**, não expressar intimidade interpessoal. Confundi-las com assuntos sexuais gera mal-entendidos que afetam a fé e o pertencimento.
@@ -111,4 +111,10 @@ Apoiar estes membros fiéis não significa aprovar tudo, mas **reconhecer que o 
 - Porges, S.W. (2011). *The Polyvagal Theory*
 
 **Mais recursos:** https://inner-clarity.github.io/InnerSight/
+---
 
+::: tip Bem-vindo
+Nota: InnerSight e um recurso educacional independente, criado por membros fieis para apoiar lideres, familias e profissionais. Nao e afiliado nem oficialmente endossado pela Igreja de Jesus Cristo dos Santos dos Ultimos Dias.
+
+Cada jornada interior comeca com um primeiro passo. A sua comeca aqui.
+:::

@@ -1,4 +1,4 @@
-# Guide for Difficult Family Conversations about Emotional Regulation Needs
+﻿# Guide for Difficult Family Conversations about Emotional Regulation Needs
 
 ## Introduction
 
@@ -83,7 +83,7 @@ You don't have to explain everything at once. Consider sharing in stages:
 > "Imagine your body has an internal thermostat that regulates stress. Mine is configured differently due to [trauma/neurology]. [My strategy] is like adjusting that thermostat so it doesn't overheat."
 
 **Example 3 - Autism analogy (if applicable):**
-> "People with autism use repetitive movements to handle sensory overload. That's scientifically validated. What I need is similar: a way to stay calm when the world feels overwhelming."
+> "People with [autism](https://inner-clarity.github.io/ClearPath/en/autismo) use repetitive movements to handle sensory overload. That's scientifically validated. What I need is similar: a way to stay calm when the world feels overwhelming."
 
 #### Validate their possible reactions
 
@@ -402,7 +402,7 @@ Redefine "help": It doesn't mean eliminating the condition, but supporting the p
 3. **Recommended books:**
    - "The Body Keeps the Score" - Bessel van der Kolk (about trauma)
    - "The Whole-Brain Child" - Daniel Siegel (about neurological development)
-   - Resources about specific conditions (autism, Tourette, PTSD)
+   - Resources about specific conditions ([autism](https://inner-clarity.github.io/ClearPath/en/autismo), [Tourette](https://inner-clarity.github.io/ClearPath/en/tourette), [PTSD](https://inner-clarity.github.io/ClearPath/en/prenc))
 
 #### Support groups:
 - Mental health groups in the Church (if they exist in your area)
@@ -462,3 +462,11 @@ May we do the same with our loved ones.
 
 *"And if men come unto me I will show unto them their weakness. I give unto men weakness that they may be humble; and my grace is sufficient for all men that humble themselves before me; for if they humble themselves before me, and have faith in me, then will I make weak things become strong unto them."*  
 — Ether 12:27
+
+---
+
+::: tip Welcome
+Note: InnerSight is an independent educational resource, created by faithful members to support leaders, families, and professionals. It is not affiliated with or officially endorsed by The Church of Jesus Christ of Latter-day Saints.
+
+Every inner journey begins with a first step. Yours starts here.
+:::

@@ -1,4 +1,4 @@
-# Dignidad Espiritual y Salud Mental
+﻿# Dignidad Espiritual y Salud Mental
 
 ## Fundamentos Doctrinales
 
@@ -62,7 +62,7 @@ Estas enseñanzas nos invitan a **ministrar con humildad**, no con suposiciones.
 ## Comprensión Clínica y Doctrinal
 
 ### Regulación emocional: una necesidad, no una elección
-La neurociencia muestra que muchas estrategias de autorregulación —como en el autismo, el Síndrome de Tourette o tras el trauma— son respuestas automáticas del sistema nervioso, no decisiones conscientes. Intentar suprimirlas sin apoyo profesional puede causar angustia adicional y distanciamiento espiritual.
+La neurociencia muestra que muchas estrategias de autorregulación —como en el [autismo](https://inner-clarity.github.io/ClearPath/es/autismo), el [Síndrome de Tourette](https://inner-clarity.github.io/ClearPath/es/tourette) o tras el trauma ([P.R.E.N.C.](https://inner-clarity.github.io/ClearPath/es/prenc)) — son respuestas automáticas del sistema nervioso, no decisiones conscientes. Intentar suprimirlas sin apoyo profesional puede causar angustia adicional y distanciamiento espiritual.
 
 ### No es una cuestión sexual
 Es fundamental entender que **las estrategias de regulación emocional no están relacionadas con la orientación sexual**. No implican atracción, deseo ni excitación. Su propósito es **restablecer la calma interna**, no expresar intimidad interpersonal. Confundirlas con asuntos sexuales genera malentendidos que afectan la fe y la pertenencia.
@@ -119,3 +119,10 @@ Apoyar a estos miembros fieles no significa aprobar todo, sino **reconocer que e
 - Porges, S.W. (2011). *The Polyvagal Theory*
 
 **Más recursos:** https://inner-clarity.github.io/InnerSight/
+---
+
+::: tip Bienvenido
+Nota: InnerSight es un recurso educativo independiente, creado por miembros fieles para apoyar a lideres, familias y profesionales. No esta afiliado ni oficialmente respaldado por La Iglesia de Jesucristo de los Santos de los Ultimos Dias.
+
+Cada viaje interior comienza con un primer paso. El tuyo comienza aqui.
+:::

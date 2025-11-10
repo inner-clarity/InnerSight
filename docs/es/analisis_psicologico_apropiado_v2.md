@@ -1,10 +1,10 @@
-# Comprensión clínica de la regulación emocional en contextos de salud mental y neurológica
+﻿# Comprensión clínica de la regulación emocional en contextos de salud mental y neurológica
 
 ## Marco Teórico
 
 ### Definición de Regulación Emocional
 
-La regulación emocional se refiere a los procesos que las personas usan para manejar sus emociones de forma que les permita funcionar de manera efectiva en la vida diaria. Según la neurociencia, estos mecanismos son fundamentales para el bienestar psicológico y la participación plena en la familia, el trabajo y la comunidad. 
+La [regulación emocional](https://inner-clarity.github.io/ClearPath/es/prenc) se refiere a los procesos que las personas usan para manejar sus emociones de forma que les permita funcionar de manera efectiva en la vida diaria. Según la neurociencia, estos mecanismos son fundamentales para el bienestar psicológico y la participación plena en la familia, el trabajo y la comunidad. 
 
 ### Diversidad en Estrategias de Afrontamiento
 
@@ -18,7 +18,7 @@ La neurociencia muestra que el cerebro humano puede desarrollar respuestas únic
 - **Regulación neurológica:** Mecanismos para equilibrar diferencias en el procesamiento sensorial y motor
 - **Adaptaciones del neurodesarrollo:** Patrones que emergen para mantener homeostasis neurológica
 
-Estas adaptaciones, aunque pueden parecer poco convencionales desde una perspectiva externa, frecuentemente representan soluciones creativas y funcionales que permiten al individuo mantener estabilidad emocional y funcionamiento social.
+Estas adaptaciones, aunque pueden parecer poco convencionales desde una perspectiva externa ([P.R.E.N.C.](https://inner-clarity.github.io/ClearPath/es/prenc)), frecuentemente representan soluciones creativas y funcionales que permiten al individuo mantener estabilidad emocional y funcionamiento social.
 
 ### Formación Neurológica y Neurodesarrollo
 
@@ -26,7 +26,7 @@ La neurociencia del desarrollo indica que las experiencias entre los 0-8 años t
 
 Adicionalmente, las diferencias en el neurodesarrollo pueden resultar en configuraciones neurológicas que requieren mecanismos específicos de regulación. Por ejemplo:
 
-**Síndrome de Tourette:** Esta condición neurológica se caracteriza por movimientos o sonidos repetitivos (llamados tics) que ayudan a liberar tensión acumulada en el sistema nervioso. Para quienes la experimentan, los tics no son voluntarios ni opcionales, sino una respuesta automática del cerebro para mantener el equilibrio neurológico, especialmente en situaciones de estrés o sobreestimulación. 
+**[Síndrome de Tourette](https://inner-clarity.github.io/ClearPath/es/tourette):** Esta condición neurológica se caracteriza por movimientos o sonidos repetitivos (llamados tics) que ayudan a liberar tensión acumulada en el sistema nervioso. Para quienes la experimentan, los tics no son voluntarios ni opcionales, sino una respuesta automática del cerebro para mantener el equilibrio neurológico, especialmente en situaciones de estrés o sobreestimulación. 
 
 La investigación neurocientífica demuestra que los tics, aunque poco comprendidos externamente, cumplen una función regulatoria esencial para quienes los experimentan (Tourette Association of America, 2023).
 
@@ -50,7 +50,7 @@ Los profesionales de la salud mental evalúan si una conducta es parte de un tra
 - Compromiso con crecimiento personal y relacional
 - Reconocimiento de que algunos mecanismos pueden ser neurológicamente necesarios
 
-**Nota importante:** En condiciones neurológicas como el Síndrome de Tourette, la "flexibilidad" se refiere a la adaptación del entorno y la comprensión social, más que al cambio del mecanismo regulatorio en sí.
+**Nota importante:** En condiciones neurológicas como el [Síndrome de Tourette](https://inner-clarity.github.io/ClearPath/es/tourette), la "flexibilidad" se refiere a la adaptación del entorno y la comprensión social, más que al cambio del mecanismo regulatorio en sí.
 
 ## Implicaciones para los Miembros de la Iglesia
 
@@ -60,7 +60,7 @@ La comprensión de que existen múltiples caminos hacia la regulación emocional
 
 1. **Reconocimiento de Diversidad Neurológica:** Aceptar que las necesidades de salud mental y neurológica se manifiestan de maneras únicas en cada individuo, incluyendo:
    - Mecanismos de autorregulación desarrollados por trauma
-   - Diferencias neurológicas inherentes (como Síndrome de Tourette)
+   - Diferencias neurológicas inherentes (como [Síndrome de Tourette](https://inner-clarity.github.io/ClearPath/es/tourette))
    - Estrategias adaptativas para manejo de estrés y ansiedad
    - Respuestas sensoriales y motoras atípicas
 
@@ -68,7 +68,8 @@ La comprensión de que existen múltiples caminos hacia la regulación emocional
    
    - Algunos miembros pueden necesitar usar artículos de cuidado personal o dispositivos terapéuticos como parte de su regulación emocional o neurológica. Cuando estos son recomendados por profesionales de la salud o surgen de condiciones médicas reconocidas, merecen el mismo respeto que cualquier otra necesidad de salud. 
 
-(Nota: Se evita enumerar ejemplos específicos en el texto principal. Si es necesario, se pueden incluir en un anexo clínico confidencial, no en la página pública.) 
+   Mas informacion sobre [P.R.E.N.C.](https://inner-clarity.github.io/ClearPath/es/prenc )
+
 
  Todas estas y algunas otras no mencionadas pueden representar estrategias legítimas de regulación neurológica
 
@@ -137,3 +138,10 @@ La implementación de políticas inclusivas y marcos de apoyo apropiados puede s
 - Tourette Association of America (2023). "Understanding Tourette Syndrome: A Neurological Perspective."
 - Bliss, J., et al. (2020). "Tic disorders and emotional regulation: Clinical perspectives." *Journal of Neuropsychiatry*, 32(4), 198-205.
 - Robertson, M.M. (2015). "The Gilles de la Tourette syndrome: The current status." *Archives of Disease in Childhood*, 89(5), 428-433.
+---
+
+::: tip Bienvenido
+Nota: InnerSight es un recurso educativo independiente, creado por miembros fieles para apoyar a lideres, familias y profesionales. No esta afiliado ni oficialmente respaldado por La Iglesia de Jesucristo de los Santos de los Ultimos Dias.
+
+Cada viaje interior comienza con un primer paso. El tuyo comienza aqui.
+:::

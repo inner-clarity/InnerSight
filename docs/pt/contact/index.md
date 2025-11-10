@@ -1,4 +1,4 @@
-# Contato
+﻿# Contato
 
 Para consultas profissionais ou colaborações institucionais relacionadas com saúde mental e prática religiosa.
 
@@ -10,7 +10,7 @@ Pesquisador em IA aplicada à saúde mental
 
 ### Áreas de Especialização
 
-- **Pesquisa em Saúde Mental**: Métodos não convencionais de regulação emocional
+- **Pesquisa em Saúde Mental**: Métodos não convencionais de [regulação emocional](https://inner-clarity.github.io/ClearPath/pt/prenc)
 - **Análise Psicológica**: Aplicação de IA em padrões de saúde mental
 - **Sistemas Informáticos**: Implementação de ferramentas para bem-estar psicológico
 - **Psicologia Organizacional**: Meyer-Briggs Type Indicator (MBTI), Inteligência emocional
@@ -29,7 +29,7 @@ Se você representa uma instituição, organização ou tem consultas de pesquis
 
 - **Saúde mental e prática religiosa**
 - **Desenvolvimento de sistemas informáticos para bem-estar psicológico**
-- **Pesquisa em regulação emocional**
+- **Pesquisa em [regulação emocional](https://inner-clarity.github.io/ClearPath/pt/prenc)**
 - **Colaborações acadêmicas ou institucionais**
 
 ## Código de Conduta
@@ -58,4 +58,10 @@ Este espaço está projetado para fomentar o diálogo informado entre perspectiv
 *"A caridade é o puro amor de Cristo, e permanece para sempre; e a quem a possuir no último dia, tudo lhe irá bem." - Morôni 7:47*
 
 *Última atualização: Setembro 2025*
+---
 
+::: tip Bem-vindo!
+Nota: InnerSight é um recurso educacional independente, criado por membros fiéis para apoiar líderes, famílias e profissionais. Não está afiliado nem respaldado oficialmente por A Igreja de Jesus Cristo dos Santos dos Últimos Dias.
+
+Cada jornada interior começa com um primeiro passo. O seu começa aqui.
+:::

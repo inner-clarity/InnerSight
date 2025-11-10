@@ -1,10 +1,10 @@
-# Emotional Marital Security
+﻿# Emotional Marital Security
 
 ## Introduction
 
 Marriage is a sacred covenant founded on love, trust, and mutual commitment. For this union to thrive, each spouse needs to feel **safe to be authentic**, without fear of being judged, corrected, or rejected for their internal needs.
 
-When one spouse faces mental health challenges or neurological differences—such as trauma responses, autism, or Tourette syndrome—they may depend on certain strategies to maintain their emotional equilibrium. If these needs are **misunderstood, minimized, or conditioned on acceptance**, the emotional foundation of the marriage can be affected.
+When one spouse faces mental health challenges or neurological differences—such as trauma responses, [autism](https://inner-clarity.github.io/ClearPath/en/autismo), or [Tourette syndrome](https://inner-clarity.github.io/ClearPath/en/tourette)—they may depend on certain strategies ([P.T.S.D.](https://inner-clarity.github.io/ClearPath/en/prenc)) to maintain their emotional equilibrium. If these needs are **misunderstood, minimized, or conditioned on acceptance**, the emotional foundation of the marriage can be affected.
 
 This document explains, from a clinical and doctrinal perspective, why **mutual emotional security** is essential for marital stability, and how compassionate support strengthens the bond between husband and wife.
 
@@ -77,4 +77,10 @@ Supporting legitimate emotional regulation needs doesn't weaken marriage; on the
 
 > "Receive ye one another, as Christ also received us to the glory of God."  
 > — Romans 15:7
+---
 
+::: tip Welcome
+Note: InnerSight is an independent educational resource, created by faithful members to support leaders, families, and professionals. It is not affiliated with or officially endorsed by The Church of Jesus Christ of Latter-day Saints.
+
+Every inner journey begins with a first step. Yours starts here.
+:::

@@ -1,4 +1,4 @@
-### Praktischer Leitfaden: Häufige Szenarien für Führer
+﻿### Praktischer Leitfaden: Häufige Szenarien für Führer
 
 #### Szenario 1: Ein Mitglied offenbart ein ungewöhnliches Regulationsbedürfnis
 ✓ Ohne Unterbrechung oder Urteil zuhören<br/>
@@ -92,3 +92,10 @@ Führung in der Kirche Christi erfordert Weisheit, Mitgefühl und Verständnis. 
 
 > "Nehmt einander an, wie auch Christus uns angenommen hat, zur Ehre Gottes."  
 > — Römer 15:7
+---
+
+::: tip Willkommen
+Hinweis: InnerSight ist eine unabhangige Bildungsressource, die von treuen Mitgliedern erstellt wurde, um Fuhrungskrafte, Familien und Fachleute zu unterstutzen. Sie ist nicht mit der Kirche Jesu Christi der Heiligen der Letzten Tage verbunden oder wird von dieser offiziell unterstutzt.
+
+Jede innere Reise beginnt mit einem ersten Schritt. Deine beginnt hier.
+:::

@@ -1,10 +1,10 @@
-# Emotionale eheliche Sicherheit
+﻿# Emotionale eheliche Sicherheit
 
 ## Einführung
 
 Die Ehe ist ein heiliges Bündnis, gegründet auf Liebe, Vertrauen und gegenseitiger Verpflichtung. Damit diese Vereinigung gedeiht, muss sich jeder Ehepartner **sicher fühlen, authentisch zu sein**, ohne Angst, für seine inneren Bedürfnisse beurteilt, korrigiert oder abgelehnt zu werden.
 
-Wenn einer der Ehepartner Herausforderungen der psychischen Gesundheit oder neurologische Unterschiede bewältigt — wie Reaktionen auf Trauma, Autismus oder Tourette — kann er von bestimmten Strategien abhängen, um sein emotionales Gleichgewicht zu bewahren. Wenn diese Bedürfnisse **missverstanden, minimiert oder an Akzeptanz geknüpft werden**, kann die emotionale Grundlage der Ehe beeinträchtigt werden.
+Wenn einer der Ehepartner Herausforderungen der psychischen Gesundheit oder neurologische Unterschiede bewältigt — wie Reaktionen auf Trauma, [Autismus](https://inner-clarity.github.io/ClearPath/de/autismo) oder [Tourette](https://inner-clarity.github.io/ClearPath/de/tourette) — kann er von bestimmten Strategien ([P.R.E.N.C.](https://inner-clarity.github.io/ClearPath/de/prenc)) abhängen, um sein emotionales Gleichgewicht zu bewahren. Wenn diese Bedürfnisse **missverstanden, minimiert oder an Akzeptanz geknüpft werden**, kann die emotionale Grundlage der Ehe beeinträchtigt werden.
 
 Dieses Dokument erklärt aus klinischer und lehrmäßiger Perspektive, warum **gegenseitige emotionale Sicherheit** für eheliche Stabilität essentiell ist und wie mitfühlende Unterstützung die Vereinigung zwischen Ehemann und Ehefrau stärkt.
 
@@ -44,7 +44,7 @@ Dies ist nicht "Mangel an Glauben", sondern eine verständliche menschliche Reak
 
 Die Forschung zeigt, dass **eheliche Zufriedenheit** eng mit der Wahrnehmung verbunden ist, man selbst mit dem Partner sein zu können (Meston & Stanton, 2018). Authentizität bedeutet nicht Abwesenheit von Anstrengung, sondern die Freiheit, verletzlich zu sein, ohne Angst vor Ablehnung.
 
-Wenn beide Ehepartner sich sicher fühlen, ihre Kämpfe zu teilen — einschließlich Bedürfnisse der emotionalen Regulation — wird die Beziehung gestärkt, nicht geschwächt.
+Wenn beide Ehepartner sich sicher fühlen, ihre Kämpfe zu teilen — einschließlich Bedürfnisse der [emotionalen Regulation](https://inner-clarity.github.io/ClearPath/de/prenc) — wird die Beziehung gestärkt, nicht geschwächt.
 
 ## Unterstützung basierend auf Evangeliumsprinzipien
 
@@ -73,7 +73,14 @@ Die Schriften lehren, dass "euer Leib ein Tempel des Heiligen Geistes ist" (1 Ko
 
 Eheliche Intimität — in ihrem vollsten Sinne — blüht nicht in Uniformität, sondern in **gegenseitiger emotionaler Sicherheit**. Wenn sich jeder Ehepartner frei fühlt, authentisch zu sein, ohne Angst vor Ablehnung, wird die Ehe zu einer wahren Zuflucht der Liebe Christi.
 
-Die Unterstützung legitimer Bedürfnisse der emotionalen Regulation schwächt die Ehe nicht; im Gegenteil, **sie stärkt sie, indem sie eine Basis von Vertrauen, Respekt und geteilter Würde aufbaut**.
+Die Unterstützung legitimer Bedürfnisse der [emotionalen Regulation](https://inner-clarity.github.io/ClearPath/de/prenc) schwächt die Ehe nicht; im Gegenteil, **sie stärkt sie, indem sie eine Basis von Vertrauen, Respekt und geteilter Würde aufbaut**.
 
 > "Nehmt einander an, wie auch Christus uns angenommen hat, zur Ehre Gottes."
 > — Römer 15:7
+---
+
+::: tip Willkommen
+Hinweis: InnerSight ist eine unabhangige Bildungsressource, die von treuen Mitgliedern erstellt wurde, um Fuhrungskrafte, Familien und Fachleute zu unterstutzen. Sie ist nicht mit der Kirche Jesu Christi der Heiligen der Letzten Tage verbunden oder wird von dieser offiziell unterstutzt.
+
+Jede innere Reise beginnt mit einem ersten Schritt. Deine beginnt hier.
+:::

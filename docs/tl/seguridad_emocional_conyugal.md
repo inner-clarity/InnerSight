@@ -1,10 +1,10 @@
-# Seguridad Emosyonal sa Pag-aasawa
+﻿# Seguridad Emosyonal sa Pag-aasawa
 
 ## Panimula
 
 Ang kasal ay isang banal na tipan na nakabatay sa pagmamahal, tiwala at mutual na pangako. Upang umunlad ang unyon na ito, bawat mag-asawa ay kailangang makaramdam ng **ligtas na maging tunay**, nang walang takot na hahatulan, itutuwid o tatanggihan dahil sa kanilang mga panloob na pangangailangan.
 
-Kapag ang isa sa mga mag-asawa ay humaharap sa mga hamon sa kalusugan ng isip o neurological differences — tulad ng mga tugon sa trauma, autism o Tourette syndrome — maaaring umaasa sila sa ilang mga estratehiya upang mapanatili ang kanilang emosyonal na balanse. Kung ang mga pangangailangang ito ay **hindi nauunawaan, binabawasan o kinokondisyon sa pagtanggap**, ang emosyonal na pundasyon ng kasal ay maaaring maapektuhan.
+Kapag ang isa sa mga mag-asawa ay humaharap sa mga hamon sa kalusugan ng isip o neurological differences — tulad ng mga tugon sa trauma, [autism](https://inner-clarity.github.io/ClearPath/tl/autismo) o [Tourette syndrome](https://inner-clarity.github.io/ClearPath/tl/tourette) — maaaring umaasa sila sa ilang mga estratehiya ([P.R.E.N.C.](https://inner-clarity.github.io/ClearPath/tl/prenc)) upang mapanatili ang kanilang emosyonal na balanse. Kung ang mga pangangailangang ito ay **hindi nauunawaan, binabawasan o kinokondisyon sa pagtanggap**, ang emosyonal na pundasyon ng kasal ay maaaring maapektuhan.
 
 Ang dokumentong ito ay nagpapaliwanag, mula sa clinical at doctrinal na pananaw, kung bakit ang **mutual emotional security** ay mahalaga para sa marital stability, at kung paano ang compassionate support ay nagpapalakas ng ugnayan sa pagitan ng mag-asawa.
 
@@ -78,3 +78,10 @@ Ang pagsuporta sa lehitimong emotional regulation needs ay hindi pumapahina ng k
 > "Tanggapin ninyo ang isa't isa, gaya ng pagtanggap ni Cristo sa inyo, upang sa Dios ay magkaroon ng kaluwalhatian."  
 > — Roma 15:7
 
+---
+
+::: tip Maligayang pagdating!
+Tala: Ang InnerSight ay isang independiyenteng mapagkukunan ng edukasyon, na nilikha ng mga tapat na miyembro para suportahan ang mga lider, pamilya, at propesyonal. Ito ay hindi nauugnay o opisyal na sinusuportahan ng Ang Simbahan ni Jesucristo ng mga Banal sa mga Huling Araw.
+
+Ang bawat panloob na paglalakbay ay nagsisimula sa isang unang hakbang. Ang sa iyo ay nagsisimula dito.
+:::

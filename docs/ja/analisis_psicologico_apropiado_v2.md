@@ -1,4 +1,4 @@
-# メンタルヘルスおよび神経学的文脈における感情調節の臨床的理解
+﻿# メンタルヘルスおよび神経学的文脈における感情調節の臨床的理解
 
 ## 理論的フレームワーク
 
@@ -136,3 +136,11 @@
 - Tourette Association of America (2023). "Understanding Tourette Syndrome: A Neurological Perspective."
 - Bliss, J., et al. (2020). "Tic disorders and emotional regulation: Clinical perspectives." *Journal of Neuropsychiatry*, 32(4), 198-205.
 - Robertson, M.M. (2015). "The Gilles de la Tourette syndrome: The current status." *Archives of Disease in Childhood*, 89(5), 428-433.
+
+---
+
+::: tip ようこそ！
+注記：InnerSightは指導者、家族、専門家を支援するために忠実な会員によって作成された独立した教育リソースです。末日聖徒イエス・キリスト教会と正式に関連付けられたり承認されたりしているものではありません。
+
+すべての内面の旅は最初の一歩から始まります。あなたの旅はここから始まります。
+:::

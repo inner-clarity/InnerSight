@@ -1,4 +1,4 @@
-### Guia Prática: Cenários Comuns para Líderes
+﻿### Guia Prática: Cenários Comuns para Líderes
 
 #### Cenário 1: Um membro revela uma necessidade de regulação incomum
 ✓ Ouvir sem interromper ou julgar
@@ -19,3 +19,10 @@
 ✓ Criar espaços seguros (ex: quartos silenciosos)
 ✓ Não apontar publicamente as diferenças
 ✓ Normalizar a diversidade em discursos/lições
+---
+
+::: tip Bem-vindo
+Nota: InnerSight e um recurso educacional independente, criado por membros fieis para apoiar lideres, familias e profissionais. Nao e afiliado nem oficialmente endossado pela Igreja de Jesus Cristo dos Santos dos Ultimos Dias.
+
+Cada jornada interior comeca com um primeiro passo. A sua comeca aqui.
+:::

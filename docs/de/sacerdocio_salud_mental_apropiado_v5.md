@@ -1,4 +1,4 @@
-# Spirituelle Würde und psychische Gesundheit
+﻿# Spirituelle Würde und psychische Gesundheit
 
 ## Lehrmäßige Grundlagen
 
@@ -6,7 +6,7 @@
 Die Schrift lehrt klar, dass Würde vor Gott nicht von äußerem Erscheinungsbild abhängt, sondern vom Herzen (1 Samuel 16:7). Dies schließt diejenigen ein, die Herausforderungen der psychischen Gesundheit, Trauma oder neurologische Unterschiede bewältigen. Was zählt, ist Absicht, Glauben und der Wunsch, Christus zu folgen — nicht die Art, wie eine Person ihre Emotionen reguliert.
 
 ### Die Proklamation über die Familie
-*Die Familie: Eine Proklamation an die Welt* erkennt an, dass "Behinderung, Tod oder andere Umstände individuelle Anpassung erfordern können." Bedürfnisse der psychischen Gesundheit und neurologische Zustände — einschließlich ungewöhnlicher Selbstregulationsstrategien — fallen klar in "andere Umstände", die Verständnis und Unterstützung rechtfertigen.
+*Die Familie: Eine Proklamation an die Welt* erkennt an, dass "Behinderung, Tod oder andere Umstände individuelle Anpassung erfordern können." Bedürfnisse der psychischen Gesundheit und neurologische Zustände — einschließlich ungewöhnlicher Selbstregulationsstrategien ([P.R.E.N.C.](https://inner-clarity.github.io/ClearPath/de/prenc)) — fallen klar in "andere Umstände", die Verständnis und Unterstützung rechtfertigen.
 
 ### Der Umfang der Sühnung
 Der Erlöser trug "unsere Krankheiten und erlitt unsere Schmerzen" (Jesaja 53:4; Alma 7:11–12). Seine Sühnung umfasst nicht nur Sünde, sondern auch menschliches Leiden in all seinen Formen: physisch, emotional, neurologisch und spirituell.
@@ -52,7 +52,7 @@ Die aktuellen Führer haben diesen Ansatz mit Klarheit verstärkt:
 ## Anwendung praktischer Prinzipien
 
 ### Ministerium mit Weisheit
-Wenn ein Mitglied Bedürfnisse der emotionalen Regulation offenbart, die ungewöhnlich erscheinen:
+Wenn ein Mitglied Bedürfnisse der [emotionalen Regulation](https://inner-clarity.github.io/ClearPath/de/prenc) offenbart, die ungewöhnlich erscheinen:
 
 1. **Zuhören ohne Urteil** — "Wie kann ich dich am besten unterstützen?"
 2. **Verständnis suchen** — "Das ist neu für mich, könntest du mir helfen zu verstehen?"
@@ -67,7 +67,14 @@ Wenn ein Mitglied Bedürfnisse der emotionalen Regulation offenbart, die ungewö
 
 ## Schlussfolgerung
 
-Die Würde des Priestertums wird durch **Herz, Glauben und Charakter** bestimmt, nicht durch die Art, wie jemand seine Emotionen reguliert. Wenn wir diese Wahrheit verstehen und anwenden, schaffen wir Gemeinschaften, die das Beispiel Christi widerspiegeln — wo alle willkommen sind und alle wachsen können.
+Die Würde des Priestertums wird durch **Herz, Glauben und Charakter** bestimmt, nicht durch die Art, wie jemand seine [Emotionen reguliert](https://inner-clarity.github.io/ClearPath/de/prenc). Wenn wir diese Wahrheit verstehen und anwenden, schaffen wir Gemeinschaften, die das Beispiel Christi widerspiegeln — wo alle willkommen sind und alle wachsen können.
 
 > "Nehmt einander an, wie auch Christus uns angenommen hat, zur Ehre Gottes."  
 > — Römer 15:7
+---
+
+::: tip Willkommen
+Hinweis: InnerSight ist eine unabhangige Bildungsressource, die von treuen Mitgliedern erstellt wurde, um Fuhrungskrafte, Familien und Fachleute zu unterstutzen. Sie ist nicht mit der Kirche Jesu Christi der Heiligen der Letzten Tage verbunden oder wird von dieser offiziell unterstutzt.
+
+Jede innere Reise beginnt mit einem ersten Schritt. Deine beginnt hier.
+:::

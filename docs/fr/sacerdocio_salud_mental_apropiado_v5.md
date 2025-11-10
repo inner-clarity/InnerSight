@@ -1,4 +1,4 @@
-# Dignité Spirituelle et Santé Mentale
+﻿# Dignité Spirituelle et Santé Mentale
 
 ## Fondements Doctrinaux
 
@@ -54,7 +54,7 @@ Ces enseignements nous invitent à **servir avec humilité**, non avec des suppo
 ## Compréhension Clinique et Doctrinale
 
 ### Régulation émotionnelle : un besoin, pas un choix
-Les neurosciences montrent que de nombreuses stratégies d'autorégulation—comme dans l'autisme, le syndrome de Tourette ou suite à un traumatisme—sont des réponses automatiques du système nerveux, pas des décisions conscientes. Tenter de les supprimer sans soutien professionnel peut causer une détresse supplémentaire et un éloignement spirituel.
+Les neurosciences montrent que de nombreuses stratégies d'autorégulation—comme dans l'[autisme](https://inner-clarity.github.io/ClearPath/fr/autisme), le [syndrome de Tourette](https://inner-clarity.github.io/ClearPath/fr/tourette) ou suite à un traumatisme ([P.R.E.N.C.](https://inner-clarity.github.io/ClearPath/fr/prenc))—sont des réponses automatiques du système nerveux, pas des décisions conscientes. Tenter de les supprimer sans soutien professionnel peut causer une détresse supplémentaire et un éloignement spirituel.
 
 ### Pas une question sexuelle
 Il est fondamental de comprendre que **les stratégies de régulation émotionnelle ne sont pas liées à l'orientation sexuelle**. Elles n'impliquent ni attraction, ni désir, ni excitation. Leur but est de **rétablir le calme intérieur**, non d'exprimer une intimité interpersonnelle. Les confondre avec des questions sexuelles crée des malentendus qui affectent la foi et l'appartenance.
@@ -111,4 +111,10 @@ Soutenir ces membres fidèles ne signifie pas tout approuver, mais **reconnaîtr
 - Porges, S.W. (2011). *The Polyvagal Theory*
 
 **Plus de ressources :** https://inner-clarity.github.io/InnerSight/
+---
 
+::: tip Bienvenue
+Note: InnerSight est une ressource educative independante, creee par des membres fideles pour soutenir les dirigeants, les familles et les professionnels. Elle nest pas affiliee ni officiellement approuvee par lEglise de Jesus-Christ des Saints des Derniers Jours.
+
+Chaque voyage interieur commence par un premier pas. Le votre commence ici.
+:::

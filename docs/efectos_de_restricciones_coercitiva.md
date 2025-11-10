@@ -1,8 +1,8 @@
-# Consequences of Coercive Restriction of Unconventional Emotional Regulation Procedures
+﻿# Consequences of Coercive Restriction of Unconventional Emotional Regulation Procedures
 
 ## Academic Introduction
 
-Emotional regulation constitutes a fundamental pillar of psychological, neurological, and spiritual well-being. However, not all regulatory strategies are socially visible, verbalizable, or conventional. Some forms of self-regulation—though uncommon—emerge as legitimate adaptive responses of the nervous system to experiences of stress, trauma, or early environmental dysfunction.
+[Emotional regulation](https://inner-clarity.github.io/ClearPath/en/prenc) constitutes a fundamental pillar of psychological, neurological, and spiritual well-being. However, not all regulatory strategies are socially visible, verbalizable, or conventional. Some forms of self-regulation—though uncommon—emerge as legitimate adaptive responses of the nervous system to experiences of stress, trauma, or early environmental dysfunction.
 
 When these procedures are restricted, invalidated, or prohibited in a **coercive** manner—that is, through external imposition without consent, clinical understanding, or space for dialogue—profound physiological, psychological, and spiritual consequences are generated. This analysis examines the scientific, clinical, and community implications of such coercion, grounded in contemporary neuroscientific evidence and principles of ethical inclusion.
 
@@ -57,13 +57,13 @@ These patterns do not reflect "lack of faith" or "weak will," but the predictabl
 
 ### Comparison with Validated Neurological Conditions
 
-**Tourette Syndrome:**
+**[Tourette Syndrome](https://inner-clarity.github.io/ClearPath/en/tourette):**
 Voluntary suppression of tics generates measurable physiological tension accumulation, followed by explosive release. External coercion intensifies this cycle, increasing distress and social dysfunction.
 
-**Autism Spectrum Disorder:**
+**[Autism](https://inner-clarity.github.io/ClearPath/en/autismo) Spectrum Disorder:**
 Prohibition of stimming (self-regulatory behaviors) is associated with increased anxiety, aggression, and sensory collapse (Kapp et al., 2019). Inclusion, in contrast, improves adaptive functioning.
 
-**Complex PTSD:**
+**Complex [PTSD](https://inner-clarity.github.io/ClearPath/en/prenc):**
 Invalidation of safety rituals—though they may seem irrational—reactivates trauma, as the limbic system interprets prohibition as a new threat.
 
 ---
@@ -169,3 +169,11 @@ Protecting the neurological integrity of each individual is not a concession, bu
 
 ### Evolutionary Perspectives
 - Gilbert, P. (2019). "Evolutionary Psychology and Mental Health: Past, present and future." *Clinical Psychology Review*, 73, 101751.
+
+---
+
+::: tip Welcome
+Note: InnerSight is an independent educational resource, created by faithful members to support leaders, families, and professionals. It is not affiliated with or officially endorsed by The Church of Jesus Christ of Latter-day Saints.
+
+Every inner journey begins with a first step. Yours starts here.
+:::

@@ -1,4 +1,4 @@
-# PROPUESTA PARA INCLUSIÓN INSTITUCIONAL EN SALUD MENTAL Y CONDICIONES NEUROLÓGICAS
+﻿# PROPUESTA PARA INCLUSIÓN INSTITUCIONAL EN SALUD MENTAL Y CONDICIONES NEUROLÓGICAS
 
 **Presentado a:** La Primera Presidencia  
 **De:** Alejandro Parada, Analista Programador y Especialista en Investigación de IA  
@@ -8,14 +8,14 @@
 
 ## RESUMEN EJECUTIVO
 
-Esta propuesta aborda una necesidad creciente dentro de La Iglesia de Jesucristo de los Santos de los Últimos Días: orientación clara para incluir y apoyar a miembros con condiciones de salud mental y diferencias neurológicas que requieren procedimientos de regulación emocional no convencionales. La falta actual de dirección institucional crea sufrimiento innecesario, conflictos familiares y potencial pérdida de miembros valiosos.
+Esta propuesta aborda una necesidad creciente dentro de La Iglesia de Jesucristo de los Santos de los Últimos Días: orientación clara para incluir y apoyar a miembros con condiciones de salud mental y diferencias neurológicas que requieren procedimientos de [regulación emocional](https://inner-clarity.github.io/ClearPath/es/prenc) no convencionales. La falta actual de dirección institucional crea sufrimiento innecesario, conflictos familiares y potencial pérdida de miembros valiosos.
 
 ### Magnitud de la Necesidad
 
 Investigaciones indican que:  
 - 1 de cada 5 adultos experimenta condiciones de salud mental en un año dado (NIMH, 2023)  
 - El trastorno del espectro autista afecta aproximadamente a 1 de cada 36 niños (CDC, 2023)  
-- El Síndrome de Tourette afecta aproximadamente a 1 de cada 160 niños (Tourette Association)  
+- El [Síndrome de Tourette](https://inner-clarity.github.io/ClearPath/es/tourette) afecta aproximadamente a 1 de cada 160 niños (Tourette Association)  
 - Estudios de ACEs (Experiencias Adversas en la Infancia) muestran que 2 de cada 3 adultos reportan al menos una experiencia traumática significativa  
 
 **En la Iglesia, esto significa:**  
@@ -29,7 +29,7 @@ Actualmente cerca de 4 millones de miembros en toda la Iglesia de Jesucristo exp
 Esta no es una "excepción rara" — es una realidad común que requiere preparación institucional.
 
 **Necesidad Identificada**  
-Los miembros con condiciones que requieren estrategias de autorregulación poco comunes —incluyendo respuestas al trauma, Síndrome de Tourette, diferencias del espectro autista y otras variaciones neurológicas— enfrentan confusión, estigma y a veces exclusión a pesar de su dignidad espiritual y deseo de servir.
+Los miembros con condiciones que requieren estrategias de autorregulación poco comunes —incluyendo respuestas al trauma, [Síndrome de Tourette](https://inner-clarity.github.io/ClearPath/es/tourette), diferencias del espectro autista y otras variaciones neurológicas— enfrentan confusión, estigma y a veces exclusión a pesar de su dignidad espiritual y deseo de servir.
 
 **Solución Propuesta**  
 Una declaración institucional clara que afirme que:  
@@ -51,13 +51,13 @@ Una declaración institucional clara que afirme que:
 
 ### Comprensión de la Regulación Emocional
 
-La regulación emocional se refiere a procesos neurológicos que los individuos usan para manejar experiencias emocionales de manera adaptativa. La neurociencia contemporánea reconoce que las personas desarrollan estrategias de regulación diversas, particularmente tras trauma temprano o debido a diferencias neurológicas inherentes.
+La [regulación emocional](https://inner-clarity.github.io/ClearPath/es/prenc) se refiere a procesos neurológicos que los individuos usan para manejar experiencias emocionales de manera adaptativa. La neurociencia contemporánea reconoce que las personas desarrollan estrategias de regulación diversas, particularmente tras trauma temprano o debido a diferencias neurológicas inherentes.
 
 **Principios Científicos Clave:**
 
 1. **Neuroplasticidad y Respuesta al Trauma:** La investigación demuestra que las experiencias adversas tempranas crean adaptaciones neurales permanentes. Estas no son "daño" sino mecanismos de supervivencia (Van der Kolk, 2014).
 
-2. **Diversidad Neurológica:** Condiciones como el Síndrome de Tourette involucran respuestas regulatorias involuntarias que sirven funciones neurológicas esenciales (Tourette Association of America, 2023).
+2. **Diversidad Neurológica:** Condiciones como el [Síndrome de Tourette](https://inner-clarity.github.io/ClearPath/es/tourette) involucran respuestas regulatorias involuntarias que sirven funciones neurológicas esenciales (Tourette Association of America, 2023).
 
 3. **Funcionalidad como Criterio:** El DSM-5 define la patología por disfuncionalidad, no por no convencionalidad. Los comportamientos que mantienen funcionamiento efectivo son estrategias adaptativas, no trastornos.
 
@@ -74,11 +74,11 @@ Estas características distinguen necesidades neurológicas legítimas de prefer
 
 ### Condiciones Neurológicas Paralelas
 
-**Síndrome de Tourette:** Los tics sirven funciones esenciales de regulación de tensión. La supresión causa acumulación medible de angustia.
+**[Síndrome de Tourette](https://inner-clarity.github.io/ClearPath/es/tourette):** Los tics sirven funciones esenciales de regulación de tensión. La supresión causa acumulación medible de angustia.
 
 **Espectro Autista:** Los comportamientos autorregulatorios (stimming) están científicamente validados como regulación sensorial necesaria, no preferencias opcionales (Kapp et al., 2019).
 
-**TEPT Complejo:** Los mecanismos de seguridad desarrollados por trauma representan respuestas automáticas del sistema nervioso, no elecciones conscientes.
+**[TEPT](https://inner-clarity.github.io/ClearPath/es/tept) Complejo:** Los mecanismos de seguridad desarrollados por trauma representan respuestas automáticas del sistema nervioso, no elecciones conscientes.
 
 ---
 
@@ -264,4 +264,10 @@ Montevideo, Uruguay
 [Detalles de contacto]
 
 **Longitud estimada:** 12-15 páginas impresas
+---
 
+::: tip Bienvenido
+Nota: InnerSight es un recurso educativo independiente, creado por miembros fieles para apoyar a lideres, familias y profesionales. No esta afiliado ni oficialmente respaldado por La Iglesia de Jesucristo de los Santos de los Ultimos Dias.
+
+Cada viaje interior comienza con un primer paso. El tuyo comienza aqui.
+:::

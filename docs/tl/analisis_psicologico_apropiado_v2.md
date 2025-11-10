@@ -1,10 +1,10 @@
-# Clinical na Pag-unawa sa Emotional Regulation sa mga Konteksto ng Mental at Neurological Health
+﻿# Clinical na Pag-unawa sa Emotional Regulation sa mga Konteksto ng Mental at Neurological Health
 
 ## Theoretical Framework
 
 ### Kahulugan ng Emotional Regulation
 
-Ang emotional regulation ay tumutukoy sa mga proseso na ginagamit ng mga tao upang pamahalaan ang kanilang mga emosyon sa paraang nagpapahintulot sa kanila na gumana nang epektibo sa pang-araw-araw na buhay. Ayon sa neuroscience, ang mga mekanismong ito ay mahalaga para sa psychological well-being at ganap na pakikilahok sa pamilya, trabaho at komunidad.
+Ang [emotional regulation](https://inner-clarity.github.io/ClearPath/tl/prenc) ay tumutukoy sa mga proseso na ginagamit ng mga tao upang pamahalaan ang kanilang mga emosyon sa paraang nagpapahintulot sa kanila na gumana nang epektibo sa pang-araw-araw na buhay. Ayon sa neuroscience, ang mga mekanismong ito ay mahalaga para sa psychological well-being at ganap na pakikilahok sa pamilya, trabaho at komunidad.
 
 ### Pagkakaiba-iba sa mga Estratehiya ng Coping
 
@@ -18,7 +18,7 @@ Ipinapakita ng neuroscience na ang utak ng tao ay maaaring bumuo ng natatanging 
 - **Neurological Regulation:** Mga mekanismo upang balansehin ang mga pagkakaiba sa sensory at motor processing
 - **Mga Adaptasyon sa Neurodevelopment:** Mga pattern na lumalabas upang mapanatili ang neurological homeostasis
 
-Ang mga adaptasyong ito, bagaman maaaring mukhang hindi pangkaraniwan mula sa external perspective, ay madalas na kumakatawan sa mga creative at functional solutions na nagpapahintulot sa indibidwal na mapanatili ang emotional stability at social functioning.
+Ang mga adaptasyong ito, bagaman maaaring mukhang hindi pangkaraniwan mula sa external perspective ([P.R.E.N.C.](https://inner-clarity.github.io/ClearPath/tl/prenc)), ay madalas na kumakatawan sa mga creative at functional solutions na nagpapahintulot sa indibidwal na mapanatili ang emotional stability at social functioning.
 
 ### Neurological Formation at Neurodevelopment
 
@@ -26,7 +26,7 @@ Ipinapahiwatig ng developmental neuroscience na ang mga karanasan sa pagitan ng 
 
 Dagdag pa, ang mga pagkakaiba sa neurodevelopment ay maaaring magresulta sa neurological configurations na nangangailangan ng mga partikular na mekanismo ng regulasyon. Halimbawa:
 
-**Tourette Syndrome:** Ang kondisyong neurological na ito ay nailalarawan sa pamamagitan ng mga paulit-ulit na paggalaw o tunog (tinatawag na tics) na tumutulong na maglabas ng naipon na tensyon sa nervous system. Para sa mga nakakaranas nito, ang mga tic ay hindi kusang-loob o opsyonal, kundi isang awtomatikong tugon ng utak upang mapanatili ang neurological balance, lalo na sa mga sitwasyon ng stress o overstimulation.
+**[Tourette Syndrome](https://inner-clarity.github.io/ClearPath/tl/tourette):** Ang kondisyong neurological na ito ay nailalarawan sa pamamagitan ng mga paulit-ulit na paggalaw o tunog (tinatawag na tics) na tumutulong na maglabas ng naipon na tensyon sa nervous system. Para sa mga nakakaranas nito, ang mga tic ay hindi kusang-loob o opsyonal, kundi isang awtomatikong tugon ng utak upang mapanatili ang neurological balance, lalo na sa mga sitwasyon ng stress o overstimulation.
 
 Ipinakikita ng neuroscientific research na ang mga tic, bagaman hindi gaanong nauunawaan ng iba, ay gumaganap ng mahalagang regulatory function para sa mga nakakaranas nito (Tourette Association of America, 2023).
 
@@ -50,7 +50,7 @@ Sinusuri ng mga mental health professionals kung ang isang pag-uugali ay bahagi 
 - Commitment sa personal at relational growth
 - Pagkilala na ang ilang mekanismo ay maaaring neurologikally kailangan
 
-**Mahalagang paalala:** Sa mga neurological conditions tulad ng Tourette Syndrome, ang "flexibility" ay tumutukoy sa adaptasyon ng kapaligiran at pag-unawa ng lipunan, higit pa sa pagbabago ng regulatory mechanism mismo.
+**Mahalagang paalala:** Sa mga neurological conditions tulad ng [Tourette Syndrome](https://inner-clarity.github.io/ClearPath/tl/tourette), ang "flexibility" ay tumutukoy sa adaptasyon ng kapaligiran at pag-unawa ng lipunan, higit pa sa pagbabago ng regulatory mechanism mismo.
 
 ## Implikasyon para sa mga Miyembro ng Simbahan
 
@@ -60,7 +60,7 @@ Ang pag-unawa na may maraming landas tungo sa emotional at neurological regulati
 
 1. **Pagkilala sa Neurological Diversity:** Tanggapin na ang mga pangangailangan sa mental at neurological health ay nagpapakita sa natatanging paraan sa bawat indibidwal, kasama ang:
    - Mga mekanismo ng self-regulation na binuo dahil sa trauma
-   - Inherent neurological differences (tulad ng Tourette Syndrome)
+   - Inherent neurological differences (tulad ng [Tourette Syndrome](https://inner-clarity.github.io/ClearPath/tl/tourette))
    - Adaptive strategies para sa pamamahala ng stress at anxiety
    - Atypical sensory at motor responses
 
@@ -137,3 +137,10 @@ Ang pagpapatupad ng inclusive policies at angkop na support frameworks ay maaari
 - Bliss, J., et al. (2020). "Tic disorders and emotional regulation: Clinical perspectives." *Journal of Neuropsychiatry*, 32(4), 198-205.
 - Robertson, M.M. (2015). "The Gilles de la Tourette syndrome: The current status." *Archives of Disease in Childhood*, 89(5), 428-433.
 
+---
+
+::: tip Maligayang pagdating!
+Tala: Ang InnerSight ay isang independiyenteng mapagkukunan ng edukasyon, na nilikha ng mga tapat na miyembro para suportahan ang mga lider, pamilya, at propesyonal. Ito ay hindi nauugnay o opisyal na sinusuportahan ng Ang Simbahan ni Jesucristo ng mga Banal sa mga Huling Araw.
+
+Ang bawat panloob na paglalakbay ay nagsisimula sa isang unang hakbang. Ang sa iyo ay nagsisimula dito.
+:::

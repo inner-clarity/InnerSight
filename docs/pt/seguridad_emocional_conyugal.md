@@ -1,10 +1,10 @@
-# Segurança Emocional Conjugal
+﻿# Segurança Emocional Conjugal
 
 ## Introdução
 
 O matrimônio é uma aliança sagrada fundada no amor, na confiança e no compromisso mútuo. Para que esta união prospere, cada cônjuge precisa sentir-se **seguro para ser autêntico**, sem temor de ser julgado, corrigido ou rejeitado por suas necessidades internas.
 
-Quando um dos cônjuges enfrenta desafios de saúde mental ou diferenças neurológicas — como respostas ao trauma, autismo ou síndrome de Tourette — pode depender de certas estratégias para manter seu equilíbrio emocional. Se estas necessidades são **mal interpretadas, minimizadas ou condicionadas à aceitação**, a base emocional do matrimônio pode ser afetada.
+Quando um dos cônjuges enfrenta desafios de saúde mental ou diferenças neurológicas — como respostas ao trauma, [autismo](https://inner-clarity.github.io/ClearPath/pt/autismo) ou [síndrome de Tourette](https://inner-clarity.github.io/ClearPath/pt/tourette) — pode depender de certas estratégias ([P.R.E.N.C.](https://inner-clarity.github.io/ClearPath/pt/prenc)) para manter seu equilíbrio emocional. Se estas necessidades são **mal interpretadas, minimizadas ou condicionadas à aceitação**, a base emocional do matrimônio pode ser afetada.
 
 Este documento explica, desde uma perspectiva clínica e doutrinária, por que a **segurança emocional mútua** é essencial para a estabilidade conjugal, e como o apoio compassivo fortalece a união entre marido e mulher.
 
@@ -77,4 +77,10 @@ Apoiar as necessidades legítimas de regulação emocional não enfraquece o mat
 
 > "Recebei-vos uns aos outros, como também Cristo nos recebeu, para glória de Deus."  
 > — Romanos 15:7
+---
 
+::: tip Bem-vindo
+Nota: InnerSight e um recurso educacional independente, criado por membros fieis para apoiar lideres, familias e profissionais. Nao e afiliado nem oficialmente endossado pela Igreja de Jesus Cristo dos Santos dos Ultimos Dias.
+
+Cada jornada interior comeca com um primeiro passo. A sua comeca aqui.
+:::

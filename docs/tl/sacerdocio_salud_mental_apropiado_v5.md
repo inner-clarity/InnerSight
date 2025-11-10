@@ -1,4 +1,4 @@
-# Spiritual na Dignidad at Kalusugan ng Isip
+﻿# Spiritual na Dignidad at Kalusugan ng Isip
 
 ## Mga Pundasyon sa Doktrina
 
@@ -54,7 +54,7 @@ Ang mga turong ito ay nag-aanyaya sa atin na **maglingkod nang may pagpapakumbab
 ## Clinical at Doctrinal na Pag-unawa
 
 ### Emotional regulation: isang pangangailangan, hindi pagpili
-Ipinapakita ng neuroscience na maraming self-regulation strategies—tulad ng sa autism, Tourette Syndrome o pagkatapos ng trauma—ay automatic nervous system responses, hindi conscious decisions. Ang pagtatangka na pigilan ang mga ito nang walang professional support ay maaaring magdulot ng karagdagang distress at spiritual distancing.
+Ipinapakita ng neuroscience na maraming self-regulation strategies—tulad ng sa [autism](https://inner-clarity.github.io/ClearPath/tl/autismo), [Tourette Syndrome](https://inner-clarity.github.io/ClearPath/tl/tourette) o pagkatapos ng trauma ([P.R.E.N.C.](https://inner-clarity.github.io/ClearPath/tl/prenc))—ay automatic nervous system responses, hindi conscious decisions. Ang pagtatangka na pigilan ang mga ito nang walang professional support ay maaaring magdulot ng karagdagang distress at spiritual distancing.
 
 ### Hindi ito sexual na usapin
 Mahalaga na maintindihan na **ang emotional regulation strategies ay hindi nauugnay sa sexual orientation**. Hindi kasama dito ang attraction, desire o arousal. Ang layunin nila ay **ibalik ang internal calm**, hindi ipahayag ang interpersonal intimacy. Ang paglito sa kanila sa sexual matters ay lumilikha ng mga maling pag-unawa na nakakaapekto sa pananampalataya at pagiging bahagi.
@@ -112,3 +112,10 @@ Ang pagsuporta sa mga tapat na miyembrong ito ay hindi nangangahulugang pag-apru
 
 **Higit pang resources:** https://inner-clarity.github.io/InnerSight/
 
+---
+
+::: tip Maligayang pagdating!
+Tala: Ang InnerSight ay isang independiyenteng mapagkukunan ng edukasyon, na nilikha ng mga tapat na miyembro para suportahan ang mga lider, pamilya, at propesyonal. Ito ay hindi nauugnay o opisyal na sinusuportahan ng Ang Simbahan ni Jesucristo ng mga Banal sa mga Huling Araw.
+
+Ang bawat panloob na paglalakbay ay nagsisimula sa isang unang hakbang. Ang sa iyo ay nagsisimula dito.
+:::

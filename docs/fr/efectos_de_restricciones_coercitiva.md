@@ -1,8 +1,8 @@
-# Impact de demander l'abandon de stratégies régulatrices nécessaires
+﻿# Impact de demander l'abandon de stratégies régulatrices nécessaires
 
 ## Introduction Académique
 
-La régulation émotionnelle est essentielle pour le bien-être psychologique, neurologique et spirituel. Certaines personnes développent des formes d'autorégulation qui, bien que peu familières pour les autres, sont nécessaires pour leur équilibre interne — en particulier après un traumatisme ou en raison de différences neurologiques.
+La [régulation émotionnelle](https://inner-clarity.github.io/ClearPath/fr/prenc) est essentielle pour le bien-être psychologique, neurologique et spirituel. Certaines personnes développent des formes d'autorégulation qui, bien que peu familières pour les autres, sont nécessaires pour leur équilibre interne — en particulier après un traumatisme ou en raison de différences neurologiques.
 
 Lorsqu'on leur demande d'abandonner ces stratégies — même avec de bonnes intentions — elles peuvent éprouver une détresse supplémentaire, une détérioration fonctionnelle et un éloignement de la communauté. Ce document explique pourquoi, d'un point de vue clinique, le soutien est généralement plus efficace que la correction.
 
@@ -18,7 +18,7 @@ Certains membres fidèles rapportent que, en essayant de participer pleinement d
 
 Le système nerveux humain développe des façons spécifiques de maintenir le calme, en particulier lorsqu'une personne a vécu des expériences difficiles ou a des différences neurologiques. Ces réponses deviennent automatiques avec le temps.
 
-Si on demande à quelqu'un d'arrêter d'utiliser une stratégie que son cerveau a consolidée comme essentielle, il peut éprouver:
+Si on demande à quelqu'un d'arrêter d'utiliser une stratégie ([P.R.E.N.C.](https://inner-clarity.github.io/ClearPath/fr/prenc)) que son cerveau a consolidée comme essentielle, il peut éprouver:
 
 - Augmentation de l'anxiété ou de la tension interne
 - Difficulté à se concentrer ou à participer aux activités
@@ -46,9 +46,9 @@ Ce ne sont pas des signes de rébellion spirituelle, mais que **elle a besoin de
 
 **Leçons des conditions reconnues**
 
-- Dans le Syndrome de Tourette, essayer de supprimer les tics cause une accumulation de tension.
-- Dans l'autisme, empêcher les mouvements autorégulateurs augmente l'anxiété.
-- Dans le TSPT, interdire les rituels de sécurité peut réactiver la peur.
+- Dans le [Syndrome de Tourette](https://inner-clarity.github.io/ClearPath/fr/tourette), essayer de supprimer les tics cause une accumulation de tension.
+- Dans l'[autisme](https://inner-clarity.github.io/ClearPath/fr/autisme), empêcher les mouvements autorégulateurs augmente l'anxiété.
+- Dans le [TSPT](https://inner-clarity.github.io/ClearPath/fr/tept), ([P.R.E.N.C.](https://inner-clarity.github.io/ClearPath/fr/prenc)) interdire les rituels de sécurité peut réactiver la peur.
 
 Ces exemples montrent que **le cerveau a besoin de certaines voies pour se sentir en sécurité.** Ce qui semble inhabituel de l'extérieur peut être essentiel de l'intérieur.
 
@@ -161,4 +161,10 @@ Protéger l'intégrité neurologique de chaque individu n'est pas une concession
 
 ### Perspectives Évolutives
 - Gilbert, P. (2019). "Evolutionary Psychology and Mental Health: Past, present and future." *Clinical Psychology Review*, 73, 101751.
+---
 
+::: tip Bienvenue
+Note: InnerSight est une ressource educative independante, creee par des membres fideles pour soutenir les dirigeants, les familles et les professionnels. Elle nest pas affiliee ni officiellement approuvee par lEglise de Jesus-Christ des Saints des Derniers Jours.
+
+Chaque voyage interieur commence par un premier pas. Le votre commence ici.
+:::

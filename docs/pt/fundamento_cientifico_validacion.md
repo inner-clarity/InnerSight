@@ -1,8 +1,8 @@
-# Fundamento Científico: Compreensão das necessidades neurológicas na regulação emocional
+﻿# Fundamento Científico: Compreensão das necessidades neurológicas na regulação emocional
 
 ## Introdução Acadêmica
 
-A ciência atual reconhece que as pessoas regulam suas emoções de diferentes maneiras, especialmente quando experimentaram trauma ou têm diferenças neurológicas. Algumas dessas respostas podem parecer incomuns, mas estão respaldadas por evidência clínica como mecanismos funcionais do sistema nervoso.
+A ciência atual reconhece que as pessoas regulam suas emoções de diferentes maneiras, especialmente quando experimentaram trauma ou têm diferenças neurológicas. A [regulação emocional](https://inner-clarity.github.io/ClearPath/pt/prenc) se refere aos processos que permitem às pessoas manejar estados emocionais intensos. Algumas dessas respostas podem parecer incomuns, mas estão respaldadas por evidência clínica como mecanismos funcionais do sistema nervoso.
 
 ## Definições Científicas Fundamentais
 
@@ -13,7 +13,7 @@ Algumas estratégias de regulação emocional têm uma base neurológica clara. 
 - Persistir ao longo do tempo, mesmo quando a pessoa deseja mudá-las
 - Gerar mal-estar fisiológico ou emocional se tentarem suprimi-las
 - Não depender da vontade consciente, mas de respostas automáticas do sistema nervoso
-- Estar associadas com condições médicas reconhecidas (como trauma, autismo ou Tourette)
+- Estar associadas com condições médicas reconhecidas (como [trauma](https://inner-clarity.github.io/ClearPath/pt/tept), [autismo](https://inner-clarity.github.io/ClearPath/pt/autismo) ou [Tourette](https://inner-clarity.github.io/ClearPath/pt/tourette))
 - Permitir que a pessoa cumpra com suas responsabilidades familiares, espirituais e sociais
 
 Essas características ajudam profissionais e líderes a reconhecer quando uma conduta é parte do funcionamento de uma pessoa, não uma escolha momentânea.
@@ -27,7 +27,7 @@ A neurociência mostra que o cérebro humano pode desenvolver respostas únicas 
 Por exemplo:
 
 - Após o trauma, o cérebro pode associar certos estímulos com sensações de calma como mecanismo de proteção.
-- Em condições como o autismo ou a Síndrome de Tourette, o sistema nervoso pode requerer formas específicas de autorregulação para manejar a superestimulação ou a tensão interna.
+- Em condições como o [autismo](https://inner-clarity.github.io/ClearPath/pt/autismo) ou a [Síndrome de Tourette](https://inner-clarity.github.io/ClearPath/pt/tourette), o sistema nervoso pode requerer formas específicas de autorregulação para manejar a superestimulação ou a tensão interna.
 
 Essas respostas tornam-se automáticas com o tempo e não podem ser modificadas simplesmente por "força de vontade".
 
@@ -49,9 +49,9 @@ Esses critérios permitem distinguir entre condutas que fazem parte do bem-estar
 
 **Condições neurológicas reconhecidas oferecem compreensão útil**
 
-- Na Síndrome de Tourette, os tiques são respostas automáticas que ajudam a liberar tensão neurológica. Tentar suprimi-los causa acumulação de ansiedade.
-- No autismo, os movimentos repetitivos (stimming) regulam a entrada sensorial e previnem o esgotamento.
-- No TEPT, certos rituais proporcionam sensação de segurança após experiências traumáticas.
+- Na [Síndrome de Tourette](https://inner-clarity.github.io/ClearPath/pt/tourette), os tiques são respostas automáticas que ajudam a liberar tensão neurológica. Tentar suprimi-los causa acumulação de ansiedade.
+- No [autismo](https://inner-clarity.github.io/ClearPath/pt/autismo), os movimentos repetitivos (stimming) regulam a entrada sensorial e previnem o esgotamento.
+- No [TEPT](https://inner-clarity.github.io/ClearPath/pt/tept), certos rituais proporcionam sensação de segurança após experiências traumáticas.
 
 Esses exemplos mostram que **o cérebro humano utiliza diversas estratégias para manter o equilíbrio**, e que o que parece incomum de fora pode ser essencial de dentro.
 
@@ -166,4 +166,10 @@ A comunidade científica e religiosa tem a oportunidade de demonstrar liderança
 
 ### Perspectivas Evolutivas
 - Gilbert, P. (2019). "Evolutionary Psychology and Mental Health: Past, present and future." *Clinical Psychology Review*, 73, 101751.
+---
 
+::: tip Bem-vindo
+Nota: InnerSight e um recurso educacional independente, criado por membros fieis para apoiar lideres, familias e profissionais. Nao e afiliado nem oficialmente endossado pela Igreja de Jesus Cristo dos Santos dos Ultimos Dias.
+
+Cada jornada interior comeca com um primeiro passo. A sua comeca aqui.
+:::

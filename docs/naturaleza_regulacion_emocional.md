@@ -1,19 +1,19 @@
-# Clarification on the Nature of Emotional Regulation Needs
+﻿# Clarification on the Nature of Emotional Regulation Needs
 
 ## Introduction
 
-Some people, when observing unfamiliar emotional regulation strategies, may wonder if these are related to sexual orientation. This question arises naturally when clinical information is lacking, but science and doctrine offer clarity.
+Some people, when observing unfamiliar [emotional regulation](https://inner-clarity.github.io/ClearPath/en/prenc) strategies, may wonder if these are related to sexual orientation. This question arises naturally when clinical information is lacking, but science and doctrine offer clarity.
 
-Emotional regulation and sexual orientation belong to **distinct domains**: one is **intrapersonal and regulatory**, the other is **interpersonal and relational**. Understanding this difference helps avoid misunderstandings that can affect faith, belonging, and well-being of faithful members.
+[Emotional regulation](https://inner-clarity.github.io/ClearPath/en/prenc) and sexual orientation belong to **distinct domains**: one is **intrapersonal and regulatory**, the other is **interpersonal and relational**. Understanding this difference helps avoid misunderstandings that can affect faith, belonging, and well-being of faithful members.
 
 ## What is emotional regulation?
 
-Emotional regulation refers to the ways a person manages intense emotions or overwhelming sensations. It may include:
+[Emotional regulation](https://inner-clarity.github.io/ClearPath/en/prenc) refers to the ways a person manages intense emotions or overwhelming sensations. It may include:
 - Repetitive movements (such as rocking or hand rubbing)  
 - Use of comfort objects or specific clothing  
 - Rhythms, sounds, or symbolic behaviors  
 
-Its purpose is to **restore internal calm**, not to express attraction to others. These strategies are common in people who have experienced trauma, have neurological differences (such as autism or Tourette's), or face sensory overload.
+Its purpose is to **restore internal calm**, not to express attraction to others. These strategies are common in people who have experienced trauma, have neurological differences (such as [autism](https://inner-clarity.github.io/ClearPath/en/autismo) or [Tourette's](https://inner-clarity.github.io/ClearPath/en/tourette)), or face sensory overload.
 
 ## What is sexual orientation?
 
@@ -26,7 +26,7 @@ It's not about isolated behaviors, but a persistent relational dimension.
 
 ## Key difference
 
-> **Emotional regulation seeks internal safety; sexual orientation seeks connection with others.**
+> **[Emotional regulation](https://inner-clarity.github.io/ClearPath/en/prenc) seeks internal safety; sexual orientation seeks connection with others.**
 
 A regulatory behavior **does not imply attraction, desire, or sexual arousal**, even if its external form seems unusual. What defines its nature is its **internal function**, not its appearance.
 
@@ -42,9 +42,9 @@ When the answer is **calm, stress, solitude, and absence of attraction**, it con
 
 ### Examples of recognized conditions
 
-- **Autism**: Repetitive movements (*stimming*) help manage overstimulation. Studies confirm they **are not associated with sexual attraction**, but with sensory needs (Kapp et al., 2019).  
-- **PTSD**: Some people use objects or rituals that remind them of childhood to feel safe. This **is not sexual regression**, but seeking emotional containment (Van der Kolk, 2014).  
-- **Tourette Syndrome**: Some tics may include unusual words or gestures, but **do not reflect the person's desires**. They are involuntary neurological discharges, like a sneeze.
+- **[Autism](https://inner-clarity.github.io/ClearPath/en/autismo)**: Repetitive movements (*stimming*) help manage overstimulation. Studies confirm they **are not associated with sexual attraction**, but with sensory needs (Kapp et al., 2019).  
+- **[PTSD](https://inner-clarity.github.io/ClearPath/en/prenc)**: Some people use objects or rituals ([P.T.S.D.](https://inner-clarity.github.io/ClearPath/en/prenc)) that remind them of childhood to feel safe. This **is not sexual regression**, but seeking emotional containment (Van der Kolk, 2014).  
+- **[Tourette Syndrome](https://inner-clarity.github.io/ClearPath/en/tourette)**: Some tics may include unusual words or gestures, but **do not reflect the person's desires**. They are involuntary neurological discharges, like a sneeze.
 
 ## Gospel Principles
 
@@ -71,3 +71,11 @@ Emotional regulation strategies, though they may seem unusual, **are not related
 
 > **"Receive ye one another, as Christ also received us to the glory of God."**  
 > — Romans 15:7
+
+---
+
+::: tip Welcome
+Note: InnerSight is an independent educational resource, created by faithful members to support leaders, families, and professionals. It is not affiliated with or officially endorsed by The Church of Jesus Christ of Latter-day Saints.
+
+Every inner journey begins with a first step. Yours starts here.
+:::

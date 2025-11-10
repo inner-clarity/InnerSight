@@ -1,6 +1,6 @@
-# Acerca de InnerSight
+﻿# Acerca de InnerSight
 
-**InnerSight** es una iniciativa de la Fundación InnerSight dedicada a explorar la intersección entre la salud mental, los procesos de regulación emocional —incluidos aquellos considerados poco convencionales— y la vida espiritual dentro de La Iglesia de Jesucristo de los Santos de los Últimos Días.
+**InnerSight** es una iniciativa de la Fundación InnerSight dedicada a explorar la intersección entre la salud mental, los procesos de [regulación emocional](https://inner-clarity.github.io/ClearPath/es/prenc) —incluidos aquellos considerados poco convencionales— y la vida espiritual dentro de La Iglesia de Jesucristo de los Santos de los Últimos Días.
 
 ## Nuestra Misión
 
@@ -13,7 +13,7 @@ Fomentar un diálogo respetuoso, informado y compasivo entre enfoques clínicos 
 
 ## Nuestro Enfoque
 
-Esta iniciativa surge de la observación de una necesidad real: la falta de comprensión institucional y apoyo estructurado para miembros que, en su camino de sanación, utilizan métodos no tradicionales de regulación emocional. Nuestro trabajo se fundamenta en:
+Esta iniciativa surge de la observación de una necesidad real: la falta de comprensión institucional y apoyo estructurado para miembros que, en su camino de sanación, utilizan métodos no tradicionales de [regulación emocional](https://inner-clarity.github.io/ClearPath/es/prenc). Nuestro trabajo se fundamenta en:
 
 - Principios de psicología clínica validados científicamente  
 - Enfoques terapéuticos como la terapia cognitivo-conductual  
@@ -23,3 +23,10 @@ Creemos que la fe y la ciencia no están en conflicto, sino que pueden caminar j
 
 > “La caridad es el amor puro de Cristo, y permanece para siempre; y a quien la posea en el último día, le irá bien.”  
 > — Moroni 7:47
+---
+
+::: tip Bienvenido
+Nota: InnerSight es un recurso educativo independiente, creado por miembros fieles para apoyar a lideres, familias y profesionales. No esta afiliado ni oficialmente respaldado por La Iglesia de Jesucristo de los Santos de los Ultimos Dias.
+
+Cada viaje interior comienza con un primer paso. El tuyo comienza aqui.
+:::

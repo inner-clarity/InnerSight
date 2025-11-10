@@ -1,4 +1,4 @@
-### Guide Pratique : Scénarios Courants pour les Dirigeants
+﻿### Guide Pratique : Scénarios Courants pour les Dirigeants
 
 #### Scénario 1 : Un membre révèle un besoin de régulation inhabituel
 ✓ Écouter sans interrompre ou juger
@@ -19,3 +19,10 @@
 ✓ Créer des espaces sûrs (ex: salles calmes)
 ✓ Ne pas signaler publiquement les différences
 ✓ Normaliser la diversité dans les discours/leçons
+---
+
+::: tip Bienvenue
+Note: InnerSight est une ressource educative independante, creee par des membres fideles pour soutenir les dirigeants, les familles et les professionnels. Elle nest pas affiliee ni officiellement approuvee par lEglise de Jesus-Christ des Saints des Derniers Jours.
+
+Chaque voyage interieur commence par un premier pas. Le votre commence ici.
+:::

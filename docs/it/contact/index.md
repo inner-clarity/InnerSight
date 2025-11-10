@@ -1,6 +1,6 @@
-# Contatto
+﻿# Contatto
 
-Per consultazioni professionali o collaborazioni istituzionali relative alla salute mentale e alla pratica religiosa.
+Per consultazioni professionali, collaborazioni istituzionali o proposte di ricerca relative alla salute mentale, [regolazione emotiva](https://inner-clarity.github.io/ClearPath/it/prenc) e vita religiosa nel contesto della Chiesa di Gesù Cristo dei Santi degli Ultimi Giorni.
 
 ## Informazioni di Contatto
 
@@ -10,7 +10,7 @@ Ricercatore in IA applicata alla salute mentale
 
 ### Aree di Specializzazione
 
-- **Ricerca in Salute Mentale**: Metodi non convenzionali di regolazione emotiva
+- **Ricerca in Salute Mentale**: Metodi non convenzionali di [regolazione emotiva](https://inner-clarity.github.io/ClearPath/it/prenc)
 - **Analisi Psicologica**: Applicazione dell'IA nei pattern di salute mentale
 - **Sistemi Informatici**: Implementazione di strumenti per il benessere psicologico
 - **Psicologia Organizzativa**: Indicatore di Tipo Myers-Briggs (MBTI), Intelligenza emotiva
@@ -58,3 +58,10 @@ Questo spazio è progettato per favorire il dialogo informato tra prospettive cl
 *"La carità è il puro amore di Cristo, e rimane per sempre; e chiunque la possiederà nell'ultimo giorno, starà bene." - Moroni 7:47*
 
 *Ultimo aggiornamento: Settembre 2025*
+---
+
+::: tip Benvenuto!
+Nota: InnerSight è una risorsa educativa indipendente, creata da membri fedeli per supportare leader, famiglie e professionisti. Non è affiliata né ufficialmente sostenuta dalla Chiesa di Gesù Cristo dei Santi degli Ultimi Giorni.
+
+Ogni viaggio interiore inizia con un primo passo. Il tuo inizia qui.
+:::

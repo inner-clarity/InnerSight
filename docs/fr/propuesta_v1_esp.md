@@ -1,4 +1,4 @@
-# PROPOSITION POUR L'INCLUSION INSTITUTIONNELLE EN SANTÉ MENTALE ET CONDITIONS NEUROLOGIQUES
+﻿# PROPOSITION POUR L'INCLUSION INSTITUTIONNELLE EN SANTÉ MENTALE ET CONDITIONS NEUROLOGIQUES
 
 **Présenté à:** La Première Présidence  
 **De:** Alejandro Parada, Analyste de Systèmes et Spécialiste en Recherche IA  
@@ -8,7 +8,7 @@
 
 ## RÉSUMÉ EXÉCUTIF
 
-Cette proposition aborde un besoin croissant au sein de L'Église de Jésus-Christ des Saints des Derniers Jours: une orientation claire pour inclure et soutenir les membres avec des conditions de santé mentale et des différences neurologiques qui requièrent des procédures de régulation émotionnelle non conventionnelles. Le manque actuel de direction institutionnelle crée une souffrance inutile, des conflits familiaux et une perte potentielle de membres précieux.
+Cette proposition aborde un besoin croissant au sein de L'Église de Jésus-Christ des Saints des Derniers Jours: une orientation claire pour inclure et soutenir les membres avec des conditions de santé mentale et des différences neurologiques qui requièrent des procédures de [régulation émotionnelle](https://inner-clarity.github.io/ClearPath/fr/prenc) non conventionnelles. Le manque actuel de direction institutionnelle crée une souffrance inutile, des conflits familiaux et une perte potentielle de membres précieux.
 
 ### Magnitude du Besoin
 
@@ -29,7 +29,7 @@ Actuellement près de 4 millions de membres dans toute L'Église de Jésus-Chris
 Ce n'est pas une "exception rare" — c'est une réalité commune nécessitant une préparation institutionnelle.
 
 **Besoin Identifié**  
-Les membres avec des conditions qui requièrent des stratégies d'autorégulation peu communes — incluant des réponses au traumatisme, le Syndrome de Tourette, des différences du spectre autiste et d'autres variations neurologiques — font face à la confusion, à la stigmatisation et parfois à l'exclusion malgré leur dignité spirituelle et leur désir de servir.
+Les membres avec des conditions qui requièrent des stratégies d'autorégulation peu communes — incluant des réponses au traumatisme, le [Syndrome de Tourette](https://inner-clarity.github.io/ClearPath/fr/tourette), des différences du spectre autiste et d'autres variations neurologiques — font face à la confusion, à la stigmatisation et parfois à l'exclusion malgré leur dignité spirituelle et leur désir de servir.
 
 **Solution Proposée**  
 Une déclaration institutionnelle claire qui affirme que:  
@@ -51,13 +51,13 @@ Une déclaration institutionnelle claire qui affirme que:
 
 ### Compréhension de la Régulation Émotionnelle
 
-La régulation émotionnelle se réfère à des processus neurologiques que les individus utilisent pour gérer des expériences émotionnelles de manière adaptive. Les neurosciences contemporaines reconnaissent que les personnes développent des stratégies de régulation diverses, particulièrement après un traumatisme précoce ou en raison de différences neurologiques inhérentes.
+La [régulation émotionnelle](https://inner-clarity.github.io/ClearPath/fr/prenc) se réfère à des processus neurologiques que les individus utilisent pour gérer des expériences émotionnelles de manière adaptive. Les neurosciences contemporaines reconnaissent que les personnes développent des stratégies de régulation diverses, particulièrement après un traumatisme précoce ou en raison de différences neurologiques inhérentes.
 
 **Principes Scientifiques Clés:**
 
 1. **Neuroplasticité et Réponse au Traumatisme:** La recherche démontre que les expériences adverses précoces créent des adaptations neurales permanentes. Celles-ci ne sont pas des "dommages" mais des mécanismes de survie (Van der Kolk, 2014).
 
-2. **Diversité Neurologique:** Des conditions comme le Syndrome de Tourette impliquent des réponses régulatrices involontaires qui servent des fonctions neurologiques essentielles (Tourette Association of America, 2023).
+2. **Diversité Neurologique:** Des conditions comme le [Syndrome de Tourette](https://inner-clarity.github.io/ClearPath/fr/tourette) impliquent des réponses régulatrices involontaires qui servent des fonctions neurologiques essentielles (Tourette Association of America, 2023).
 
 3. **Fonctionnalité comme Critère:** Le DSM-5 définit la pathologie par dysfonctionnalité, non par non conventionnalité. Les comportements qui maintiennent un fonctionnement effectif sont des stratégies adaptatives, non des troubles.
 
@@ -74,11 +74,11 @@ Ces caractéristiques distinguent les besoins neurologiques légitimes des préf
 
 ### Conditions Neurologiques Parallèles
 
-**Syndrome de Tourette:** Les tics servent des fonctions essentielles de régulation de tension. La suppression cause une accumulation mesurable de détresse.
+**[Syndrome de Tourette](https://inner-clarity.github.io/ClearPath/fr/tourette):** Les tics servent des fonctions essentielles de régulation de tension. La suppression cause une accumulation mesurable de détresse.
 
 **Spectre Autiste:** Les comportements autorégulateurs (stimming) sont scientifiquement validés comme régulation sensorielle nécessaire, non des préférences optionnelles (Kapp et al., 2019).
 
-**TSPT Complexe:** Les mécanismes de sécurité développés par traumatisme représentent des réponses automatiques du système nerveux, non des choix conscients.
+**[TSPT](https://inner-clarity.github.io/ClearPath/fr/tept) Complexe:** Les mécanismes de sécurité développés par traumatisme représentent des réponses automatiques du système nerveux, non des choix conscients.
 
 ---
 
@@ -254,3 +254,10 @@ Montevideo, Uruguay
 [Détails de contact]
 
 **Longueur estimée:** 12-15 pages imprimées
+---
+
+::: tip Bienvenue
+Note: InnerSight est une ressource educative independante, creee par des membres fideles pour soutenir les dirigeants, les familles et les professionnels. Elle nest pas affiliee ni officiellement approuvee par lEglise de Jesus-Christ des Saints des Derniers Jours.
+
+Chaque voyage interieur commence par un premier pas. Le votre commence ici.
+:::

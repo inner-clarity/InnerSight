@@ -1,10 +1,10 @@
-# Compreensão clínica da regulação emocional em contextos de saúde mental e neurológica
+﻿# Compreensão clínica da regulação emocional em contextos de saúde mental e neurológica
 
 ## Marco Teórico
 
 ### Definição de Regulação Emocional
 
-A regulação emocional refere-se aos processos que as pessoas usam para gerenciar suas emoções de forma que lhes permita funcionar de maneira eficaz na vida diária. Segundo a neurociência, esses mecanismos são fundamentais para o bem-estar psicológico e a participação plena na família, no trabalho e na comunidade.
+A [regulação emocional](https://inner-clarity.github.io/ClearPath/pt/prenc) refere-se aos processos que as pessoas usam para gerenciar suas emoções de forma que lhes permita funcionar de maneira eficaz na vida diária. Segundo a neurociência, esses mecanismos são fundamentais para o bem-estar psicológico e a participação plena na família, no trabalho e na comunidade.
 
 ### Diversidade em Estratégias de Enfrentamento
 
@@ -18,7 +18,7 @@ A neurociência mostra que o cérebro humano pode desenvolver respostas únicas 
 - **Regulação neurológica:** Mecanismos para equilibrar diferenças no processamento sensorial e motor
 - **Adaptações do neurodesenvolvimento:** Padrões que emergem para manter homeostase neurológica
 
-Essas adaptações, embora possam parecer pouco convencionais de uma perspectiva externa, frequentemente representam soluções criativas e funcionais que permitem ao indivíduo manter estabilidade emocional e funcionamento social.
+Essas adaptações, embora possam parecer pouco convencionais de uma perspectiva externa ([P.R.E.N.C.](https://inner-clarity.github.io/ClearPath/pt/prenc)), frequentemente representam soluções criativas e funcionais que permitem ao indivíduo manter estabilidade emocional e funcionamento social.
 
 ### Formação Neurológica e Neurodesenvolvimento
 
@@ -26,7 +26,7 @@ A neurociência do desenvolvimento indica que as experiências entre os 0-8 anos
 
 Adicionalmente, as diferenças no neurodesenvolvimento podem resultar em configurações neurológicas que requerem mecanismos específicos de regulação. Por exemplo:
 
-**Síndrome de Tourette:** Esta condição neurológica se caracteriza por movimentos ou sons repetitivos (chamados tiques) que ajudam a liberar tensão acumulada no sistema nervoso. Para quem a experimenta, os tiques não são voluntários nem opcionais, mas uma resposta automática do cérebro para manter o equilíbrio neurológico, especialmente em situações de estresse ou superestimulação.
+**[Síndrome de Tourette](https://inner-clarity.github.io/ClearPath/pt/tourette):** Esta condição neurológica se caracteriza por movimentos ou sons repetitivos (chamados tiques) que ajudam a liberar tensão acumulada no sistema nervoso. Para quem a experimenta, os tiques não são voluntários nem opcionais, mas uma resposta automática do cérebro para manter o equilíbrio neurológico, especialmente em situações de estresse ou superestimulação.
 
 A pesquisa neurocientífica demonstra que os tiques, embora pouco compreendidos externamente, cumprem uma função regulatória essencial para quem os experimenta (Tourette Association of America, 2023).
 
@@ -50,7 +50,7 @@ Os profissionais de saúde mental avaliam se uma conduta é parte de um transtor
 - Compromisso com crescimento pessoal e relacional
 - Reconhecimento de que alguns mecanismos podem ser neurologicamente necessários
 
-**Nota importante:** Em condições neurológicas como a Síndrome de Tourette, a "flexibilidade" refere-se à adaptação do ambiente e à compreensão social, mais do que à mudança do mecanismo regulatório em si.
+**Nota importante:** Em condições neurológicas como a [Síndrome de Tourette](https://inner-clarity.github.io/ClearPath/pt/tourette), a "flexibilidade" refere-se à adaptação do ambiente e à compreensão social, mais do que à mudança do mecanismo regulatório em si.
 
 ## Implicações para Membros da Igreja
 
@@ -136,4 +136,10 @@ A implementação de políticas inclusivas e marcos de apoio apropriados pode se
 - Tourette Association of America (2023). "Understanding Tourette Syndrome: A Neurological Perspective."
 - Bliss, J., et al. (2020). "Tic disorders and emotional regulation: Clinical perspectives." *Journal of Neuropsychiatry*, 32(4), 198-205.
 - Robertson, M.M. (2015). "The Gilles de la Tourette syndrome: The current status." *Archives of Disease in Childhood*, 89(5), 428-433.
+---
 
+::: tip Bem-vindo
+Nota: InnerSight e um recurso educacional independente, criado por membros fieis para apoiar lideres, familias e profissionais. Nao e afiliado nem oficialmente endossado pela Igreja de Jesus Cristo dos Santos dos Ultimos Dias.
+
+Cada jornada interior comeca com um primeiro passo. A sua comeca aqui.
+:::

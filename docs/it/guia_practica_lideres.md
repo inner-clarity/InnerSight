@@ -1,4 +1,4 @@
-### Guida Pratica: Scenari Comuni per i Leader
+﻿### Guida Pratica: Scenari Comuni per i Leader
 
 #### Scenario 1: Un membro rivela un bisogno di regolazione insolito
 ✓ Ascoltare senza interrompere o giudicare<br/>
@@ -92,3 +92,10 @@ La leadership nella Chiesa di Cristo richiede saggezza, compassione e comprensio
 
 > "Accoglietevi gli uni gli altri, come anche Cristo vi ha accolti, per la gloria di Dio."  
 > — Romani 15:7
+---
+
+::: tip Benvenuto
+Nota: InnerSight e una risorsa educativa indipendente, creata da membri fedeli per supportare leader, famiglie e professionisti. Non e affiliata ne ufficialmente approvata dalla Chiesa di Gesu Cristo dei Santi degli Ultimi Giorni.
+
+Ogni viaggio interiore inizia con un primo passo. Il tuo inizia qui.
+:::

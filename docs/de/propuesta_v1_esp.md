@@ -1,4 +1,4 @@
-# VORSCHLAG FÜR INSTITUTIONELLE INKLUSION IN PSYCHISCHER GESUNDHEIT UND NEUROLOGISCHEN ZUSTÄNDEN
+﻿# VORSCHLAG FÜR INSTITUTIONELLE INKLUSION IN PSYCHISCHER GESUNDHEIT UND NEUROLOGISCHEN ZUSTÄNDEN
 
 **Vorgestellt an:** Die Erste Präsidentschaft  
 **Von:** Alejandro Parada, Programmieranalyst und Spezialist für KI-Forschung  
@@ -8,14 +8,14 @@
 
 ## EXECUTIVE SUMMARY
 
-Dieser Vorschlag befasst sich mit einem wachsenden Bedarf innerhalb der Kirche Jesu Christi der Heiligen der Letzten Tage: klare Orientierung zur Inklusion und Unterstützung von Mitgliedern mit psychischen Gesundheitszuständen und neurologischen Unterschieden, die nichtkonventionelle Verfahren der emotionalen Regulation erfordern. Der aktuelle Mangel an institutioneller Führung schafft unnötiges Leiden, familiäre Konflikte und potenziellen Verlust wertvoller Mitglieder.
+Dieser Vorschlag befasst sich mit einem wachsenden Bedarf innerhalb der Kirche Jesu Christi der Heiligen der Letzten Tage: klare Orientierung zur Inklusion und Unterstützung von Mitgliedern mit psychischen Gesundheitszuständen und neurologischen Unterschieden, die nichtkonventionelle Verfahren der [emotionalen Regulation](https://inner-clarity.github.io/ClearPath/de/prenc) erfordern. Der aktuelle Mangel an institutioneller Führung schafft unnötiges Leiden, familiäre Konflikte und potenziellen Verlust wertvoller Mitglieder.
 
 ### Ausmaß des Bedarfs
 
 Untersuchungen zeigen, dass:
 - 1 von 5 Erwachsenen erlebt psychische Gesundheitszustände in einem gegebenen Jahr (NIMH, 2023)
 - Autismus-Spektrum-Störung betrifft ungefähr 1 von 36 Kindern (CDC, 2023)
-- Tourette-Syndrom betrifft ungefähr 1 von 160 Kindern (Tourette Association)
+- [Tourette-Syndrom](https://inner-clarity.github.io/ClearPath/de/tourette) betrifft ungefähr 1 von 160 Kindern (Tourette Association)
 - ACEs-Studien (Ungünstige Kindheitserfahrungen) zeigen, dass 2 von 3 Erwachsenen mindestens eine signifikante traumatische Erfahrung berichten
 
 **In der Kirche bedeutet dies:**
@@ -29,7 +29,7 @@ Derzeit erleben fast 4 Millionen Mitglieder in der gesamten Kirche Jesu Christi 
 Dies ist keine "seltene Ausnahme" — es ist eine gemeinsame Realität, die institutionelle Vorbereitung erfordert.
 
 **Identifizierter Bedarf**
-Mitglieder mit Zuständen, die ungewöhnliche Selbstregulationsstrategien erfordern — einschließlich Reaktionen auf Trauma, Tourette-Syndrom, Autismus-Spektrum-Unterschiede und andere neurologische Variationen — stehen vor Verwirrung, Stigma und manchmal Ausschluss trotz ihrer spirituellen Würde und ihres Wunsches zu dienen.
+Mitglieder mit Zuständen, die ungewöhnliche Selbstregulationsstrategien erfordern — einschließlich Reaktionen auf Trauma, [Tourette-Syndrom](https://inner-clarity.github.io/ClearPath/de/tourette), Autismus-Spektrum-Unterschiede und andere neurologische Variationen — stehen vor Verwirrung, Stigma und manchmal Ausschluss trotz ihrer spirituellen Würde und ihres Wunsches zu dienen.
 
 **Vorgeschlagene Lösung**
 Eine klare institutionelle Erklärung, die bestätigt, dass:
@@ -51,7 +51,7 @@ Eine klare institutionelle Erklärung, die bestätigt, dass:
 
 ### Verständnis der emotionalen Regulation
 
-Die moderne Neurowissenschaft bestätigt, dass Menschen verschiedene Wege benötigen können, um ihre Emotionen zu regulieren, besonders nach Trauma oder durch neurologische Unterschiede. Diese Reaktionen sind keine "Wahl" oder "Laune", sondern funktionale Mechanismen des Nervensystems.
+Die moderne Neurowissenschaft bestätigt, dass Menschen verschiedene Wege benötigen können, um ihre [Emotionen zu regulieren](https://inner-clarity.github.io/ClearPath/de/prenc), besonders nach Trauma oder durch neurologische Unterschiede. Diese Reaktionen sind keine "Wahl" oder "Laune", sondern funktionale Mechanismen des Nervensystems.
 
 **Klinisch validierte Kriterien:**
 - Persistenz über Zeit trotz Versuche zu ändern
@@ -180,3 +180,10 @@ Die Würde und Inklusion aller Kinder Gottes zu schützen ist nicht nur eine Fra
 - Holland, J.R. (2013). "Like a Broken Vessel." Generalkonferenz.
 - Nelson, R.M. (2020). "Let God Prevail." Generalkonferenz.
 - Die Familie: Eine Proklamation an die Welt (1995).
+---
+
+::: tip Willkommen
+Hinweis: InnerSight ist eine unabhangige Bildungsressource, die von treuen Mitgliedern erstellt wurde, um Fuhrungskrafte, Familien und Fachleute zu unterstutzen. Sie ist nicht mit der Kirche Jesu Christi der Heiligen der Letzten Tage verbunden oder wird von dieser offiziell unterstutzt.
+
+Jede innere Reise beginnt mit einem ersten Schritt. Deine beginnt hier.
+:::

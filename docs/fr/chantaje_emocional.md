@@ -1,8 +1,8 @@
-# Quand l'amour est conditionné à la conformité
+﻿# Quand l'amour est conditionné à la conformité
 
 ## Introduction Académique
 
-Certains membres fidèles rapportent sentir que leur appartenance, leur amour ou leur acceptation dans la famille ou la congrégation dépend de l'abandon de certains besoins de régulation émotionnelle. Bien que ces dynamiques naissent généralement de bonnes intentions — comme le désir d'aider ou de protéger —, elles peuvent avoir des conséquences négatives sur la santé mentale, la foi et les relations.
+Certains membres fidèles rapportent sentir que leur appartenance, leur amour ou leur acceptation dans la famille ou la congrégation dépend de l'abandon de certains besoins de [régulation émotionnelle](https://inner-clarity.github.io/ClearPath/fr/prenc). Bien que ces dynamiques naissent généralement de bonnes intentions — comme le désir d'aider ou de protéger —, elles peuvent avoir des conséquences négatives sur la santé mentale, la foi et les relations.
 
 Ce document explique, d'un point de vue clinique, pourquoi il est important de servir sans imposer de conditions, et comment le soutien inconditionnel renforce à la fois l'individu et la communauté.
 
@@ -74,9 +74,9 @@ Ce ne sont pas des signes de manque de foi, mais que **il a besoin de soutien pr
 
 **Leçons des conditions reconnues**
 
-- Dans le Syndrome de Tourette, essayer de supprimer les tics cause une accumulation de tension.
-- Dans l'autisme, empêcher les mouvements autorégulateurs augmente l'anxiété.
-- Dans le TSPT, interdire les rituels de sécurité peut réactiver la peur.
+- Dans le [Syndrome de Tourette](https://inner-clarity.github.io/ClearPath/fr/tourette), essayer de supprimer les tics cause une accumulation de tension.
+- Dans l'[autisme](https://inner-clarity.github.io/ClearPath/fr/autisme), empêcher les mouvements autorégulateurs augmente l'anxiété.
+- Dans le [TSPT](https://inner-clarity.github.io/ClearPath/fr/tept), interdire les rituels de sécurité peut réactiver la peur.
 
 Ces exemples montrent que **le cerveau a besoin de certaines voies pour se sentir en sécurité**. Ce qui semble inhabituel de l'extérieur peut être essentiel de l'intérieur.
 
@@ -168,4 +168,10 @@ Protéger l'intégrité neurologique de chaque individu n'est pas une concession
 
 ### Perspectives Évolutives
 - Gilbert, P. (2019). "Evolutionary Psychology and Mental Health: Past, present and future." *Clinical Psychology Review*, 73, 101751.
+---
 
+::: tip Bienvenue
+Note: InnerSight est une ressource educative independante, creee par des membres fideles pour soutenir les dirigeants, les familles et les professionnels. Elle nest pas affiliee ni officiellement approuvee par lEglise de Jesus-Christ des Saints des Derniers Jours.
+
+Chaque voyage interieur commence par un premier pas. Le votre commence ici.
+:::

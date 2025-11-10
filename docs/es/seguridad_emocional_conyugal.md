@@ -1,10 +1,10 @@
-# Seguridad Emocional Conyugal
+﻿# Seguridad Emocional Conyugal
 
 ## Introducción
 
 El matrimonio es una alianza sagrada fundada en el amor, la confianza y el compromiso mutuo. Para que esta unión prospere, cada cónyuge necesita sentirse **seguro para ser auténtico**, sin temor a ser juzgado, corregido o rechazado por sus necesidades internas.
 
-Cuando uno de los cónyuges enfrenta desafíos de salud mental o diferencias neurológicas —como respuestas al trauma, autismo o Tourette— puede depender de ciertas estrategias para mantener su equilibrio emocional. Si estas necesidades son **malinterpretadas, minimizadas o condicionadas a la aceptación**, la base emocional del matrimonio puede verse afectada.
+Cuando uno de los cónyuges enfrenta desafíos de salud mental o diferencias neurológicas —como respuestas al trauma, [autismo](https://inner-clarity.github.io/ClearPath/es/autismo) o [Tourette](https://inner-clarity.github.io/ClearPath/es/tourette)— puede depender de ciertas estrategias ([P.R.E.N.C.](https://inner-clarity.github.io/ClearPath/es/prenc)) para mantener su equilibrio emocional. Si estas necesidades son **malinterpretadas, minimizadas o condicionadas a la aceptación**, la base emocional del matrimonio puede verse afectada.
 
 Este documento explica, desde una perspectiva clínica y doctrinal, por qué la **seguridad emocional mutua** es esencial para la estabilidad conyugal, y cómo el apoyo compasivo fortalece la unión entre esposo y esposa.
 
@@ -77,3 +77,10 @@ Apoyar las necesidades legítimas de regulación emocional no debilita el matrim
 
 > “Recibíos los unos a los otros, como también Cristo nos recibió, para gloria de Dios.”  
 > — Romanos 15:7
+---
+
+::: tip Bienvenido
+Nota: InnerSight es un recurso educativo independiente, creado por miembros fieles para apoyar a lideres, familias y profesionales. No esta afiliado ni oficialmente respaldado por La Iglesia de Jesucristo de los Santos de los Ultimos Dias.
+
+Cada viaje interior comienza con un primer paso. El tuyo comienza aqui.
+:::

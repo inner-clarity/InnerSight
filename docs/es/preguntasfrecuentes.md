@@ -104,10 +104,17 @@ formal.
 
 **R: Sí, especialmente a niños y jóvenes**, por varias razones:
 
-1. **Desarrollo neurológico:** Muchas necesidades regulatorias emergen en la infancia (autismo, Tourette, respuestas a trauma)
+1. **Desarrollo neurológico:** Muchas necesidades regulatorias emergen en la infancia ([autismo](https://inner-clarity.github.io/ClearPath/es/autismo), [Tourette](https://inner-clarity.github.io/ClearPath/es/tourette), respuestas a trauma)
 2. **Vulnerabilidad aumentada:** Los jóvenes son más susceptibles al estigma y exclusión
 3. **Importancia de intervención temprana:** El apoyo temprano previene daño psicológico adicional
 4. **Involucramiento de padres:** Los líderes deben trabajar con familias, respetando que los padres conocen mejor a sus hijos
 5. **Adaptaciones en clases y actividades:** Permitir que niños con necesidades especiales participen plenamente
 
 **Nota especial:** Nunca usar términos como "desorden" o "anormal" frente a niños. El lenguaje es: "Tu cerebro funciona de manera única, y eso está bien."
+---
+
+::: tip Bienvenido
+Nota: InnerSight es un recurso educativo independiente, creado por miembros fieles para apoyar a lideres, familias y profesionales. No esta afiliado ni oficialmente respaldado por La Iglesia de Jesucristo de los Santos de los Ultimos Dias.
+
+Cada viaje interior comienza con un primer paso. El tuyo comienza aqui.
+:::

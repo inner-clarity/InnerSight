@@ -1,4 +1,4 @@
----
+﻿---
 layout: home
 
 hero:
@@ -29,7 +29,7 @@ Eine Bildungsressource zum besseren Verständnis der Bedürfnisse in der psychis
 
 ### Zweck
 
-InnerSight ist eine Bildungsressource, die Führungskräfte, Familien und Mitglieder der Kirche Jesu Christi der Heiligen der Letzten Tage dabei unterstützen möchte, besser zu verstehen, wie neurologische Unterschiede und Traumareaktionen legitime Formen der emotionalen Regulation erfordern können. Diese Arbeit basiert auf klinischen Beweisen, Evangeliumsprinzipien und dem gemeinsamen Wunsch, mit Christus-ähnlicher Liebe zu dienen.
+InnerSight ist eine Bildungsressource, die Führungskräfte, Familien und Mitglieder der Kirche Jesu Christi der Heiligen der Letzten Tage dabei unterstützen möchte, besser zu verstehen, wie neurologische Unterschiede und Traumareaktionen legitime Formen der [emotionalen Regulation](https://inner-clarity.github.io/ClearPath/de/prenc) erfordern können. Diese Arbeit basiert auf klinischen Beweisen, Evangeliumsprinzipien und dem gemeinsamen Wunsch, mit Christus-ähnlicher Liebe zu dienen.
 
 ### Grundlage
 
@@ -40,16 +40,16 @@ Diese Ressource beantwortet häufige Fragen von Führungskräften und Familien d
 ### Zeugnisse
 
 > **Nachdenklicher Bruder**: \
-> "Ich bin Träger des Melchisedekischen Priestertums, ich habe in mehreren Berufungen gedient. Mein neurologischer Zustand erfordert spezifische Anpassungen für die sensorische Regulation. Jahre lang fühlte ich mich beschämt, bis ein verständnisvoller Bischof mir sagte: 'Deine Würde vor Gott hängt nicht von deiner Neurodiversität ab'. Diese Worte haben mein Leben verändert."
+> "Ich bin Träger des Melchisedekischen Priestertums, ich habe in mehreren Berufungen gedient. Mein neurologischer Zustand erfordert spezifische Anpassungen für die sensorische Regulation ([PRENC](https://inner-clarity.github.io/ClearPath/de/prenc)). Jahre lang fühlte ich mich beschämt, bis ein verständnisvoller Bischof mir sagte: 'Deine Würde vor Gott hängt nicht von deiner Neurodiversität ab'. Diese Worte haben mein Leben verändert."
 
 > **Treues Mitglied**: \
-> "In einem Gespräch mit einem Führer, als ich das Bedürfnis äußerte, persönliche Pflegeartikel (PEPT) zu verwenden, stellte dieser Führer die Legitimität in Frage und machte deutlich, dass es 'widersprüchlich für einen würdigen Priestertumsträger sei, das zu verwenden oder dass es schlecht aussehen würde, oder dass es peinlich wäre', ohne zu verstehen, dass es kein Laune war, sondern ein neurologisches Bedürfnis. Obwohl ich mich missverstanden fühlte, spürte ich, dass Gott WEISS, was mit mir passiert und dass Er mein Herz versteht."
+> "In einem Gespräch mit einem Führer, als ich das Bedürfnis äußerte, persönliche Pflegeartikel ([TEPT](https://inner-clarity.github.io/ClearPath/de/tept)) zu verwenden, stellte dieser Führer die Legitimität in Frage und machte deutlich, dass es 'widersprüchlich für einen würdigen Priestertumsträger sei, das zu verwenden oder dass es schlecht aussehen würde, oder dass es peinlich wäre', ohne zu verstehen, dass es kein Laune war, sondern ein neurologisches Bedürfnis. Obwohl ich mich missverstanden fühlte, spürte ich, dass Gott WEISS, was mit mir passiert und dass Er mein Herz versteht."
 
 > **Zurückgekehrter Missionar**: \
-> "Während meiner Mission war ich Situationen ausgesetzt, die andere unwohl fühlten, manchmal habe ich Tics, ich stoße sogar unbewusst verbale Laute aus (Tourette-Syndrom). Es gab Führer, die mich darauf aufmerksam machten, dass ich 'respektlos oder unheilig' sei, aber ich tat es unfreiwillig, ich hätte mir gewünscht, dass sie über diese neurologischen Bedingungen informiert wären. Ich bin dankbar, einen liebevollen und verständnisvollen Missionspräsidenten gehabt zu haben, ich hatte sehr geduldige Gefährten, sie ließen mich fühlen, dass der Erlöser sich um mich kümmerte. Ich beendete meine Mission mit Ehre"
+> "Während meiner Mission war ich Situationen ausgesetzt, die andere unwohl fühlten, manchmal habe ich Tics, ich stoße sogar unbewusst verbale Laute aus ([Tourette-Syndrom](https://inner-clarity.github.io/ClearPath/de/tourette)). Es gab Führer, die mich darauf aufmerksam machten, dass ich 'respektlos oder unheilig' sei, aber ich tat es unfreiwillig, ich hätte mir gewünscht, dass sie über diese neurologischen Bedingungen informiert wären. Ich bin dankbar, einen liebevollen und verständnisvollen Missionspräsidenten gehabt zu haben, ich hatte sehr geduldige Gefährten, sie ließen mich fühlen, dass der Erlöser sich um mich kümmerte. Ich beendete meine Mission mit Ehre"
 
 > **Aufopfernde Mutter**: \
-> "Viele haben mir gesagt 'warum ich meinen Sohn nicht ruhig hielt' oder dass 'ich eine schlechte Mutter war', weil ich meinen Sohn nicht kontrolliere (mein Sohn hat Autismus), sie schlugen sogar die Möglichkeit vor, nicht mehr zur Kirche zu gehen. Sie verstehen nicht alles, was ich täglich durchmache, trotzdem erhalte ich Kraft von einem Himmlischen Vater, der mich liebt, die Stärke eines liebevollen, treuen und guten Vater-Ehemanns, und das Versprechen, dass wenn ich treu bleibe 'der Herr mich auf seinen Schultern tragen wird'. Wenn andere größeres Verständnis haben könnten, würde ich meine Last etwas leichter fühlen. Aber vor allem weiß ich, dass der Erlöser mich perfekt versteht, und das gibt mir Frieden."
+> "Viele haben mir gesagt 'warum ich meinen Sohn nicht ruhig hielt' oder dass 'ich eine schlechte Mutter war', weil ich meinen Sohn nicht kontrolliere (mein Sohn hat [Autismus](https://inner-clarity.github.io/ClearPath/de/autismo)), sie schlugen sogar die Möglichkeit vor, nicht mehr zur Kirche zu gehen. Sie verstehen nicht alles, was ich täglich durchmache, trotzdem erhalte ich Kraft von einem Himmlischen Vater, der mich liebt, die Stärke eines liebevollen, treuen und guten Vater-Ehemanns, und das Versprechen, dass wenn ich treu bleibe 'der Herr mich auf seinen Schultern tragen wird'. Wenn andere größeres Verständnis haben könnten, würde ich meine Last etwas leichter fühlen. Aber vor allem weiß ich, dass der Erlöser mich perfekt versteht, und das gibt mir Frieden."
 
 ---
 
@@ -65,13 +65,13 @@ Evidenzbasierter Leitfaden zur Erkennung, wann bestimmte Verhaltensweisen neurol
 Dieser Abschnitt erklärt, basierend auf Neurowissenschaften und klinischen Studien, wie das Bitten jemanden, eine essentielle emotionale Regulationsstrategie aufzugeben—auch mit guten Absichten—zusätzliche Belastung, funktionale Verschlechterung und spirituelle Distanzierung verursachen kann.
 
 ### [Wenn Liebe an Konformität geknüpft ist](/de/chantaje_emocional)
-Einige Mitglieder berichten, dass sie das Gefühl haben, ihre Zugehörigkeit oder spiritueller Wert hängt davon ab, bestimmte emotionale Regulationsbedürfnisse aufzugeben. Dieser Abschnitt analysiert, wie diese Dynamiken—obwohl unbeabsichtigt—Glauben, Selbstwertgefühl und Beziehungen beeinflussen können, und bietet Prinzipien für den Dienst ohne Bedingungen zu stellen.
+Einige Mitglieder berichten, dass sie das Gefühl haben, ihre Zugehörigkeit oder spiritueller Wert hängt davon ab, bestimmte [emotionale Regulationsbedürfnisse](https://inner-clarity.github.io/ClearPath/de/prenc) aufzugeben. Dieser Abschnitt analysiert, wie diese Dynamiken—obwohl unbeabsichtigt—Glauben, Selbstwertgefühl und Beziehungen beeinflussen können, und bietet Prinzipien für den Dienst ohne Bedingungen zu stellen.
 
 ### [Natur der Emotionalen Regulation](/de/naturaleza_regulacion_emocional)
-Einige Menschen verwechseln bestimmte emotionale Regulationsstrategien mit Fragen der Identität oder sexuellen Präferenz. Dieser Abschnitt bietet eine klare klinische Erklärung, basierend auf Neurowissenschaften, warum diese Bedürfnisse mit mentaler und neurologischer Gesundheit zusammenhängen, nicht mit sexueller Orientierung.
+Einige Menschen verwechseln bestimmte [emotionale Regulationsstrategien](https://inner-clarity.github.io/ClearPath/de/prenc) mit Fragen der Identität oder sexuellen Präferenz. Dieser Abschnitt bietet eine klare klinische Erklärung, basierend auf Neurowissenschaften, warum diese Bedürfnisse mit mentaler und neurologischer Gesundheit zusammenhängen, nicht mit sexueller Orientierung.
 
 ### [Emotionale Eheliche Sicherheit](/de/seguridad_emocional_conyugal)
-Dieser Abschnitt untersucht, wie zwanghafte Einschränkungen in der ehelichen Intimität die emotionale Sicherheit und mentale Gesundheit der Ehepartner beeinflussen können. Er analysiert die Auswirkungen auf eheliche Beziehungen, wenn Einschränkungen auferlegt werden, die die legitime emotionale Regulation stören, und bietet Perspektiven basierend auf Evangeliumsprinzipien und klinischem Verständnis der ehelichen Intimität.
+Dieser Abschnitt untersucht, wie zwanghafte Einschränkungen in der ehelichen Intimität die emotionale Sicherheit und mentale Gesundheit der Ehepartner beeinflussen können. Er analysiert die Auswirkungen auf eheliche Beziehungen, wenn Einschränkungen auferlegt werden, die die legitime [emotionale Regulation](https://inner-clarity.github.io/ClearPath/de/prenc) stören, und bietet Perspektiven basierend auf Evangeliumsprinzipien und klinischem Verständnis der ehelichen Intimität.
 
 ### [Spirituelle Würde und Mentale Gesundheit](/de/sacerdocio_salud_mental_apropiado_v5)  
 Dieser Abschnitt untersucht, wie Evangeliumslehren—einschließlich der Schriften, der Familienproklamation und moderner Offenbarung—bestätigen, dass die Würde eines Mitglieds vor Gott nicht von ihrem mentalen Gesundheits- oder neurologischen Zustand abhängt, sondern von ihrem Glauben, Umkehr und Wunsch, Christus zu folgen.

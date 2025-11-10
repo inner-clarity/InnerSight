@@ -1,8 +1,8 @@
-# When Love is Conditioned on Conformity
+﻿# When Love is Conditioned on Conformity
 
 ## Academic Introduction
 
-Some faithful members report feeling that their belonging, love, or acceptance in their family or congregation depends on abandoning certain emotional regulation needs. Although these dynamics usually arise from good intentions—such as the desire to help or protect—they can have negative consequences on mental health, faith, and relationships.
+Some faithful members report feeling that their belonging, love, or acceptance in their family or congregation depends on abandoning certain [emotional regulation](https://inner-clarity.github.io/ClearPath/en/prenc) needs. Although these dynamics usually arise from good intentions—such as the desire to help or protect—they can have negative consequences on mental health, faith, and relationships.
 
 This document explains, from a clinical perspective, why it is important to minister without imposing conditions, and how unconditional support strengthens both the individual and the community.
 
@@ -74,9 +74,9 @@ These are not signs of lack of faith, but that **they need professional support 
 
 **Lessons from recognized conditions**
 
-- In Tourette Syndrome, attempting to suppress tics causes tension accumulation.
-- In autism, preventing self-regulatory movements increases anxiety.
-- In PTSD, prohibiting safety rituals can reactivate fear.
+- In [Tourette Syndrome](https://inner-clarity.github.io/ClearPath/en/tourette), attempting to suppress tics causes tension accumulation.
+- In [autism](https://inner-clarity.github.io/ClearPath/en/autismo), preventing self-regulatory movements increases anxiety.
+- In [PTSD](https://inner-clarity.github.io/ClearPath/en/prenc), prohibiting safety rituals can reactivate fear.
 
 These examples show that **the brain needs certain pathways to feel safe**. What seems unusual from the outside can be essential from within.
 
@@ -168,3 +168,11 @@ Protecting the neurological integrity of each individual is not a concession, bu
 
 ### Evolutionary Perspectives
 - Gilbert, P. (2019). "Evolutionary Psychology and Mental Health: Past, present and future." *Clinical Psychology Review*, 73, 101751.
+
+---
+
+::: tip Welcome
+Note: InnerSight is an independent educational resource, created by faithful members to support leaders, families, and professionals. It is not affiliated with or officially endorsed by The Church of Jesus Christ of Latter-day Saints.
+
+Every inner journey begins with a first step. Yours starts here.
+:::

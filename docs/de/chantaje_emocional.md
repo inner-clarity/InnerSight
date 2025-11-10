@@ -1,8 +1,8 @@
-# Wenn Liebe an Konformität geknüpft wird
+﻿# Wenn Liebe an Konformität geknüpft wird
 
 ## Akademische Einführung
 
-Einige treue Mitglieder berichten zu fühlen, dass ihre Zugehörigkeit, Liebe oder Akzeptanz in der Familie oder Gemeinde davon abhängt, bestimmte Bedürfnisse der emotionalen Regulation aufzugeben. Obwohl diese Dynamiken oft aus guter Absicht entstehen — wie dem Wunsch zu helfen oder zu schützen — können sie negative Konsequenzen für psychische Gesundheit, Glauben und Beziehungen haben.
+Einige treue Mitglieder berichten zu fühlen, dass ihre Zugehörigkeit, Liebe oder Akzeptanz in der Familie oder Gemeinde davon abhängt, bestimmte Bedürfnisse der [emotionalen Regulation](https://inner-clarity.github.io/ClearPath/de/prenc) aufzugeben. Obwohl diese Dynamiken oft aus guter Absicht entstehen — wie dem Wunsch zu helfen oder zu schützen — können sie negative Konsequenzen für psychische Gesundheit, Glauben und Beziehungen haben.
 
 Dieses Dokument erklärt aus klinischer Perspektive, warum es wichtig ist, ohne Bedingungen aufzuerlegen zu dienen, und wie bedingungslose Unterstützung sowohl das Individuum als auch die Gemeinschaft stärkt.
 
@@ -75,9 +75,9 @@ Diese sind keine Zeichen mangelnden Glaubens, sondern dass **professionelle Unte
 
 **Lektionen aus anerkannten Zuständen**
 
-- Beim Tourette-Syndrom verursacht der Versuch, Tics zu unterdrücken, Spannungsansammlung.
-- Bei Autismus erhöht das Verhindern selbstregulatorischer Bewegungen die Angst.
-- Bei PTBS kann das Verbieten von Sicherheitsritualen Angst reaktivieren.
+- Beim [Tourette-Syndrom](https://inner-clarity.github.io/ClearPath/de/tourette) verursacht der Versuch, Tics zu unterdrücken, Spannungsansammlung.
+- Bei [Autismus](https://inner-clarity.github.io/ClearPath/de/autismo) erhöht das Verhindern selbstregulatorischer Bewegungen die Angst.
+- Bei [PTBS](https://inner-clarity.github.io/ClearPath/de/tept) kann das Verbieten von Sicherheitsritualen Angst reaktivieren.
 
 Diese Beispiele zeigen, dass **das Gehirn bestimmte Wege benötigt, um sich sicher zu fühlen.** Was von außen ungewöhnlich erscheint, kann von innen essentiell sein.
 
@@ -87,7 +87,7 @@ Diese Beispiele zeigen, dass **das Gehirn bestimmte Wege benötigt, um sich sich
 
 ### Neuronale Automatisierung und Resistenz gegen freiwillige Veränderung
 
-Die Forschung von **Gross (2015)** etabliert, dass Strategien der emotionalen Regulation **neurologisch automatisiert** werden nach wiederholter Nutzung. Einmal konsolidiert, sind sie nicht leicht modifizierbar durch "Willenskraft" oder sozialen Druck.
+Die Forschung von **Gross (2015)** etabliert, dass Strategien der [emotionalen Regulation](https://inner-clarity.github.io/ClearPath/de/prenc) **neurologisch automatisiert** werden nach wiederholter Nutzung. Einmal konsolidiert, sind sie nicht leicht modifizierbar durch "Willenskraft" oder sozialen Druck.
 
 **Kritische Implikation:**
 Jemanden zu bitten, eine konsolidierte regulatorische Strategie aufzugeben — ohne professionelle Unterstützung — ist wie ihn zu bitten, anhaltende physische Schmerzen zu ignorieren. Es ist keine Frage des Willens, sondern neurologischen Funktionierens.
@@ -169,3 +169,10 @@ Die neurologische Integrität jedes Individuums zu schützen ist keine Konzessio
 
 ### Evolutive Perspektiven
 - Gilbert, P. (2019). "Evolutionary Psychology and Mental Health: Past, present and future." *Clinical Psychology Review*, 73, 101751.
+---
+
+::: tip Willkommen
+Hinweis: InnerSight ist eine unabhangige Bildungsressource, die von treuen Mitgliedern erstellt wurde, um Fuhrungskrafte, Familien und Fachleute zu unterstutzen. Sie ist nicht mit der Kirche Jesu Christi der Heiligen der Letzten Tage verbunden oder wird von dieser offiziell unterstutzt.
+
+Jede innere Reise beginnt mit einem ersten Schritt. Deine beginnt hier.
+:::

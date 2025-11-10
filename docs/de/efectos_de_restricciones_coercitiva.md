@@ -1,14 +1,14 @@
-# Auswirkungen des Verlangens nach Aufgabe notwendiger regulatorischer Strategien
+﻿# Auswirkungen des Verlangens nach Aufgabe notwendiger regulatorischer Strategien
 
 ## Akademische Einführung
 
-Emotionale Regulation ist essentiell für psychologisches, neurologisches und spirituelles Wohlbefinden. Einige Menschen entwickeln Formen der Selbstregulation, die, obwohl anderen wenig vertraut, notwendig für ihr inneres Gleichgewicht sind — besonders nach Trauma oder durch neurologische Unterschiede.
+[Emotionale Regulation](https://inner-clarity.github.io/ClearPath/de/prenc) ist essentiell für psychologisches, neurologisches und spirituelles Wohlbefinden. Einige Menschen entwickeln Formen der Selbstregulation, die, obwohl anderen wenig vertraut, notwendig für ihr inneres Gleichgewicht sind — besonders nach Trauma oder durch neurologische Unterschiede.
 
 Wenn sie gebeten werden, diese Strategien aufzugeben — auch wenn es gut gemeint ist — können sie zusätzliche Not, funktionale Beeinträchtigung und Distanzierung von der Gemeinschaft erfahren. Dieses Dokument erklärt, warum aus klinischer Perspektive Unterstützung oft effektiver ist als Korrektur.
 
 ### Die Auswirkungen von Unterstützung gegenüber gut gemeintem Druck
 
-Einige treue Mitglieder berichten, dass sie beim Versuch, vollständig an der Herde teilzunehmen, gebeten wurden, bestimmte Strategien der emotionalen Regulation aufzugeben, die für sie essentiell sind. Dieser Abschnitt präsentiert klinische Evidenz über die Auswirkungen, die diese Art von Bitte — auch wenn sie gut gemeint ist — auf das physische, emotionale und spirituelle Wohlbefinden der Person haben kann.
+Einige treue Mitglieder berichten, dass sie beim Versuch, vollständig an der Herde teilzunehmen, gebeten wurden, bestimmte Strategien der [emotionalen Regulation](https://inner-clarity.github.io/ClearPath/de/prenc) aufzugeben, die für sie essentiell sind. Dieser Abschnitt präsentiert klinische Evidenz über die Auswirkungen, die diese Art von Bitte — auch wenn sie gut gemeint ist — auf das physische, emotionale und spirituelle Wohlbefinden der Person haben kann.
 
 ---
 
@@ -47,9 +47,9 @@ Diese sind keine Zeichen spiritueller Rebellion, sondern dass **professionelle U
 
 **Lektionen aus anerkannten Zuständen**
 
-- Beim Tourette-Syndrom verursacht der Versuch, Tics zu unterdrücken, Spannungsansammlung.
-- Bei Autismus erhöht das Verhindern selbstregulatorischer Bewegungen die Angst.
-- Bei PTBS kann das Verbieten von Sicherheitsritualen Angst reaktivieren.
+- Beim [Tourette-Syndrom](https://inner-clarity.github.io/ClearPath/de/tourette) verursacht der Versuch, Tics zu unterdrücken, Spannungsansammlung.
+- Bei [Autismus](https://inner-clarity.github.io/ClearPath/de/autismo) erhöht das Verhindern selbstregulatorischer Bewegungen die Angst.
+- Bei [PTBS](https://inner-clarity.github.io/ClearPath/de/tept) ([P.R.E.N.C.](https://inner-clarity.github.io/ClearPath/de/prenc)) kann das Verbieten von Sicherheitsritualen Angst reaktivieren.
 
 Diese Beispiele zeigen, dass **das Gehirn bestimmte Wege benötigt, um sich sicher zu fühlen.** Was von außen ungewöhnlich erscheint, kann von innen essentiell sein.
 
@@ -59,7 +59,7 @@ Diese Beispiele zeigen, dass **das Gehirn bestimmte Wege benötigt, um sich sich
 
 ### Neuronale Automatisierung und Resistenz gegen freiwillige Veränderung
 
-Die Forschung von Gross (2015) etabliert, dass Strategien der emotionalen Regulation **neurologisch automatisiert** werden nach wiederholter Nutzung. Einmal konsolidiert, sind sie nicht leicht modifizierbar durch "Willenskraft" oder sozialen Druck.
+Die Forschung von Gross (2015) etabliert, dass Strategien der [emotionalen Regulation](https://inner-clarity.github.io/ClearPath/de/prenc) **neurologisch automatisiert** werden nach wiederholter Nutzung. Einmal konsolidiert, sind sie nicht leicht modifizierbar durch "Willenskraft" oder sozialen Druck.
 
 **Kritische Implikation:**
 Jemanden zu bitten, eine konsolidierte regulatorische Strategie aufzugeben — ohne professionelle Unterstützung — ist wie ihn zu bitten, anhaltende physische Schmerzen zu ignorieren. Es ist keine Frage des Willens, sondern neurologischen Funktionierens.
@@ -80,7 +80,7 @@ Das DSM-5 (APA, 2013) definiert Pathologie durch **Dysfunktionalität**, nicht d
 
 ### Regulatorische Vielfalt als kollektive Resilienz
 
-Die Evolutionspsychologie (Gilbert, 2019) schlägt vor, dass Vielfalt in Strategien der emotionalen Regulation eine **adaptive Überlegenheit der menschlichen Spezies** darstellt. Verhaltensweisen, die in modernen Kontexten "ungewöhnlich" erscheinen, können hochwirksame Lösungen sein, die für spezifische Umgebungen der Widrigkeit entwickelt wurden.
+Die Evolutionspsychologie (Gilbert, 2019) schlägt vor, dass Vielfalt in Strategien der [emotionalen Regulation](https://inner-clarity.github.io/ClearPath/de/prenc) eine **adaptive Überlegenheit der menschlichen Spezies** darstellt. Verhaltensweisen, die in modernen Kontexten "ungewöhnlich" erscheinen, können hochwirksame Lösungen sein, die für spezifische Umgebungen der Widrigkeit entwickelt wurden.
 
 **Schlüsselevolutives Prinzip:**
 Das menschliche Gehirn optimiert nicht für soziale Konformität, sondern für **Überleben und funktionale Kontinuität**. Die zwangsweise Einschränkung dieser Anpassungen reduziert die kollektive Resilienz der Gemeinschaft.
@@ -162,3 +162,10 @@ Die neurologische Integrität jedes Individuums zu schützen ist keine Konzessio
 
 ### Evolutive Perspektiven
 - Gilbert, P. (2019). "Evolutionary Psychology and Mental Health: Past, present and future." *Clinical Psychology Review*, 73, 101751.
+---
+
+::: tip Willkommen
+Hinweis: InnerSight ist eine unabhangige Bildungsressource, die von treuen Mitgliedern erstellt wurde, um Fuhrungskrafte, Familien und Fachleute zu unterstutzen. Sie ist nicht mit der Kirche Jesu Christi der Heiligen der Letzten Tage verbunden oder wird von dieser offiziell unterstutzt.
+
+Jede innere Reise beginnt mit einem ersten Schritt. Deine beginnt hier.
+:::

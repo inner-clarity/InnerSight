@@ -1,10 +1,10 @@
-# Clinical Understanding of Emotional Regulation in Mental Health and Neurological Contexts
+﻿# Clinical Understanding of Emotional Regulation in Mental Health and Neurological Contexts
 
 ## Theoretical Framework
 
 ### Definition of Emotional Regulation
 
-Emotional regulation refers to the processes that people use to manage their emotions in ways that allow them to function effectively in daily life. According to neuroscience, these mechanisms are fundamental for psychological well-being and full participation in family, work, and community.
+[Emotional regulation](https://inner-clarity.github.io/ClearPath/en/prenc) refers to the processes that people use to manage their emotions in ways that allow them to function effectively in daily life. According to neuroscience, these mechanisms are fundamental for psychological well-being and full participation in family, work, and community.
 
 ### Diversity in Coping Strategies
 
@@ -18,7 +18,7 @@ Neuroscience shows that the human brain can develop unique responses when a pers
 - **Neurological regulation:** Mechanisms to balance differences in sensory and motor processing
 - **Neurodevelopmental adaptations:** Patterns that emerge to maintain neurological homeostasis
 
-These adaptations, while they may seem unconventional from an external perspective, frequently represent creative and functional solutions that allow the individual to maintain emotional stability and social functioning.
+These adaptations, while they may seem unconventional from an external perspective ([P.T.S.D.](https://inner-clarity.github.io/ClearPath/en/prenc)), frequently represent creative and functional solutions that allow the individual to maintain emotional stability and social functioning.
 
 ### Neurological Formation and Neurodevelopment
 
@@ -26,7 +26,7 @@ Developmental neuroscience indicates that experiences between ages 0-8 have a pr
 
 Additionally, differences in neurodevelopment can result in neurological configurations that require specific regulation mechanisms. For example:
 
-**Tourette Syndrome:** This neurological condition is characterized by repetitive movements or sounds (called tics) that help release accumulated tension in the nervous system. For those who experience it, tics are neither voluntary nor optional, but an automatic brain response to maintain neurological balance, especially in situations of stress or overstimulation.
+**[Tourette Syndrome](https://inner-clarity.github.io/ClearPath/en/tourette):** This neurological condition is characterized by repetitive movements or sounds (called tics) that help release accumulated tension in the nervous system. For those who experience it, tics are neither voluntary nor optional, but an automatic brain response to maintain neurological balance, especially in situations of stress or overstimulation.
 
 Neuroscientific research demonstrates that tics, while poorly understood externally, fulfill an essential regulatory function for those who experience them (Tourette Association of America, 2023).
 
@@ -50,7 +50,7 @@ Mental health professionals evaluate whether a behavior is part of a disorder or
 - Commitment to personal and relational growth
 - Recognition that some mechanisms may be neurologically necessary
 
-**Important note:** In neurological conditions like Tourette Syndrome, "flexibility" refers to environmental adaptation and social understanding, rather than changing the regulatory mechanism itself.
+**Important note:** In neurological conditions like [Tourette Syndrome](https://inner-clarity.github.io/ClearPath/en/tourette), "flexibility" refers to environmental adaptation and social understanding, rather than changing the regulatory mechanism itself.
 
 ## Implications for Church Members
 
@@ -60,7 +60,7 @@ Understanding that there are multiple paths toward emotional and neurological re
 
 1. **Recognition of Neurological Diversity:** Accepting that mental and neurological health needs manifest in unique ways in each individual, including:
    - Self-regulation mechanisms developed by trauma
-   - Inherent neurological differences (like Tourette Syndrome)
+   - Inherent neurological differences (like [Tourette Syndrome](https://inner-clarity.github.io/ClearPath/en/tourette))
    - Adaptive strategies for managing stress and anxiety
    - Atypical sensory and motor responses
 
@@ -68,7 +68,8 @@ Understanding that there are multiple paths toward emotional and neurological re
    
    - Some members may need to use personal care items or therapeutic devices as part of their emotional or neurological regulation. When these are recommended by health professionals or arise from recognized medical conditions, they deserve the same respect as any other health need.
 
-(Note: Specific examples are avoided in the main text. If necessary, they can be included in a confidential clinical appendix, not on the public page.)
+   More information about [P.T.S.D.](https://inner-clarity.github.io/ClearPath/en/prenc)
+
 
  All of these and some others not mentioned may represent legitimate neurological regulation strategies
 
@@ -134,3 +135,11 @@ The implementation of inclusive policies and appropriate support frameworks can 
 - Tourette Association of America (2023). "Understanding Tourette Syndrome: A Neurological Perspective."
 - Bliss, J., et al. (2020). "Tic disorders and emotional regulation: Clinical perspectives." *Journal of Neuropsychiatry*, 32(4), 198-205.
 - Robertson, M.M. (2015). "The Gilles de la Tourette syndrome: The current status." *Archives of Disease in Childhood*, 89(5), 428-433.
+
+---
+
+::: tip Welcome
+Note: InnerSight is an independent educational resource, created by faithful members to support leaders, families, and professionals. It is not affiliated with or officially endorsed by The Church of Jesus Christ of Latter-day Saints.
+
+Every inner journey begins with a first step. Yours starts here.
+:::

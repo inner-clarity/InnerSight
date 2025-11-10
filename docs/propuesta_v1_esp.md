@@ -1,4 +1,4 @@
-# PROPOSAL FOR INSTITUTIONAL INCLUSION IN MENTAL HEALTH AND NEUROLOGICAL CONDITIONS
+﻿# PROPOSAL FOR INSTITUTIONAL INCLUSION IN MENTAL HEALTH AND NEUROLOGICAL CONDITIONS
 
 **Submitted to:** The First Presidency  
 **From:** Alejandro Parada, Systems Analyst & AI Research Specialist  
@@ -8,11 +8,11 @@
 
 ## EXECUTIVE SUMMARY
 
-This proposal addresses a growing need within The Church of Jesus Christ of Latter-day Saints: clear guidance for including and supporting members with mental health conditions and neurological differences that require unconventional emotional regulation procedures. Current lack of institutional direction creates unnecessary suffering, family conflict, and potential loss of valuable members.
+This proposal addresses a growing need within The Church of Jesus Christ of Latter-day Saints: clear guidance for including and supporting members with mental health conditions and neurological differences that require unconventional [emotional regulation](https://inner-clarity.github.io/ClearPath/en/prenc) procedures. Current lack of institutional direction creates unnecessary suffering, family conflict, and potential loss of valuable members.
 
 ### Identified Need
 
-Members with conditions requiring uncommon self-regulation strategies—including trauma responses, Tourette Syndrome, autism spectrum differences, and other neurological variations—face confusion, stigma, and sometimes exclusion despite their spiritual worthiness and desire to serve.
+Members with conditions requiring uncommon self-regulation strategies—including trauma responses, [Tourette Syndrome](https://inner-clarity.github.io/ClearPath/en/tourette), autism spectrum differences, and other neurological variations—face confusion, stigma, and sometimes exclusion despite their spiritual worthiness and desire to serve.
 
 ### Proposed Solution
 
@@ -36,13 +36,13 @@ A clear institutional statement affirming that:
 
 ### Understanding Emotional Regulation
 
-Emotional regulation refers to neurological processes individuals use to manage emotional experiences adaptively. Contemporary neuroscience recognizes that people develop diverse regulation strategies, particularly following early trauma or due to inherent neurological differences.
+[Emotional regulation](https://inner-clarity.github.io/ClearPath/en/prenc) refers to neurological processes individuals use to manage emotional experiences adaptively. Contemporary neuroscience recognizes that people develop diverse regulation strategies, particularly following early trauma or due to inherent neurological differences.
 
 **Key Scientific Principles:**
 
 1. **Neuroplasticity and Trauma Response:** Research demonstrates that early adverse experiences create permanent neural adaptations. These aren't "damage" but survival mechanisms (Van der Kolk, 2014).
 
-2. **Neurological Diversity:** Conditions like Tourette Syndrome involve involuntary regulatory responses that serve essential neurological functions (Tourette Association of America, 2023).
+2. **Neurological Diversity:** Conditions like [Tourette Syndrome](https://inner-clarity.github.io/ClearPath/en/tourette) involve involuntary regulatory responses that serve essential neurological functions (Tourette Association of America, 2023).
 
 3. **Functionality as Criterion:** The DSM-5 defines pathology by dysfunction, not unconventionality. Behaviors maintaining effective functioning are adaptive strategies, not disorders.
 
@@ -59,11 +59,11 @@ These characteristics distinguish legitimate neurological needs from arbitrary p
 
 ### Parallel Neurological Conditions
 
-**Tourette Syndrome:** Tics serve essential tension regulation functions. Suppression causes measurable distress accumulation.
+**[Tourette Syndrome](https://inner-clarity.github.io/ClearPath/en/tourette):** Tics serve essential tension regulation functions. Suppression causes measurable distress accumulation.
 
 **Autism Spectrum:** Self-regulatory behaviors (stimming) are scientifically validated as necessary sensory regulation, not optional preferences (Kapp et al., 2019).
 
-**Complex PTSD:** Trauma-developed safety mechanisms represent automatic nervous system responses, not conscious choices.
+**Complex [PTSD](https://inner-clarity.github.io/ClearPath/en/prenc):** Trauma-developed safety mechanisms represent automatic nervous system responses, not conscious choices.
 
 ---
 
@@ -189,3 +189,11 @@ Montevideo, Uruguay
 [Contact details]
 
 **Estimated length:** 12-15 pages printed
+
+---
+
+::: tip Welcome
+Note: InnerSight is an independent educational resource, created by faithful members to support leaders, families, and professionals. It is not affiliated with or officially endorsed by The Church of Jesus Christ of Latter-day Saints.
+
+Every inner journey begins with a first step. Yours starts here.
+:::

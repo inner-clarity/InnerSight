@@ -1,4 +1,4 @@
-# Spiritual Dignity and Mental Health
+﻿# Spiritual Dignity and Mental Health
 
 ## Doctrinal Foundations
 
@@ -49,12 +49,20 @@ Current leaders have reinforced this approach with clarity:
 > *"Stop adding to the Gospel requirements things the Lord has not imposed."*  
 > — *Let God Prevail*, General Conference, October 2020
 
+> **Elder Dale G. Renlund**:  
+> *"The Savior does not exclude anyone. He reaches out to all, especially to those who feel marginalized."*  
+> — General Conference, April 2021, "The Savior's Healing Power"
+
+> **Elder Jeffrey R. Holland**:  
+> *"Another truth evident here are the instruments the Creator of heaven and earth, and all things therein, used to provide this miracle (giving sight to the blind): saliva and some dirt! These unlikely ingredients declare that **God can bless us through any method He chooses.** ... how easy it is for us to disdain the source of our redemption because **the ingredients and means seem to be embarrassingly simple**."*  
+> — General Conference, October 2025, "Mine Eyes Do See at Last"
+
 These teachings invite us to **minister with humility**, not with assumptions.
 
 ## Clinical and Doctrinal Understanding
 
 ### Emotional regulation: a need, not a choice
-Neuroscience shows that many self-regulation strategies—as in autism, Tourette Syndrome, or following trauma—are automatic nervous system responses, not conscious decisions. Attempting to suppress them without professional support can cause additional distress and spiritual distancing.
+Neuroscience shows that many self-regulation strategies—as in [autism](https://inner-clarity.github.io/ClearPath/en/autismo), [Tourette Syndrome](https://inner-clarity.github.io/ClearPath/en/tourette), or following trauma ([P.T.S.D.](https://inner-clarity.github.io/ClearPath/en/prenc))—are automatic nervous system responses, not conscious decisions. Attempting to suppress them without professional support can cause additional distress and spiritual distancing.
 
 ### Not a sexual matter
 It is fundamental to understand that **emotional regulation strategies are not related to sexual orientation**. They do not involve attraction, desire, or arousal. Their purpose is to **restore internal calm**, not express interpersonal intimacy. Confusing them with sexual matters creates misunderstandings that affect faith and belonging.
@@ -112,3 +120,10 @@ Supporting these faithful members does not mean approving everything, but **reco
 
 **More resources:** https://inner-clarity.github.io/InnerSight/
 
+---
+
+::: tip Welcome
+Note: InnerSight is an independent educational resource, created by faithful members to support leaders, families, and professionals. It is not affiliated with or officially endorsed by The Church of Jesus Christ of Latter-day Saints.
+
+Every inner journey begins with a first step. Yours starts here.
+:::

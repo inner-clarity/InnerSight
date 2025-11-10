@@ -1,4 +1,4 @@
-### Practical Guide: Common Scenarios for Leaders
+﻿### Practical Guide: Common Scenarios for Leaders
 
 #### Scenario 1: A member reveals an unusual regulation need
 ✓ Listen without interrupting or judging
@@ -19,6 +19,10 @@
 ✓ Create safe spaces (e.g.: quiet rooms)
 ✓ Don't publicly point out differences
 ✓ Normalize diversity in talks/lessons
+---
 
+::: tip Welcome
+Note: InnerSight is an independent educational resource, created by faithful members to support leaders, families, and professionals. It is not affiliated with or officially endorsed by The Church of Jesus Christ of Latter-day Saints.
 
-
+Every inner journey begins with a first step. Yours starts here.
+:::

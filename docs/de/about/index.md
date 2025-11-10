@@ -1,7 +1,7 @@
-# Über InnerSight
+﻿# Über InnerSight
 <!-- i18n: synchronisiert mit docs/es/about/index.md (Okt 2025). -->
 
-InnerSight ist eine Initiative der InnerSight Foundation, die sich der Erforschung der Schnittmenge von psychischer Gesundheit, Prozessen der Emotionsregulation —einschließlich solcher, die als unkonventionell gelten— und dem geistlichen Leben innerhalb der Kirche Jesu Christi der Heiligen der Letzten Tage widmet.
+InnerSight ist eine Initiative der InnerSight Foundation, die sich der Erforschung der Schnittmenge von psychischer Gesundheit, Prozessen der [Emotionsregulation](https://inner-clarity.github.io/ClearPath/de/prenc) —einschließlich solcher, die als unkonventionell gelten— und dem geistlichen Leben innerhalb der Kirche Jesu Christi der Heiligen der Letzten Tage widmet.
 
 ## Unsere Mission
 
@@ -14,7 +14,7 @@ Einen respektvollen, informierten und mitfühlenden Dialog zwischen zeitgenössi
 
 ## Unser Ansatz
 
-Diese Initiative entsteht aus der Beobachtung eines realen Bedarfs: mangelndes institutionelles Verständnis und fehlende strukturierte Unterstützung für Mitglieder, die auf ihrem Heilungsweg unkonventionelle Methoden der Emotionsregulation nutzen. Unsere Arbeit gründet auf:
+Diese Initiative entsteht aus der Beobachtung eines realen Bedarfs: mangelndes institutionelles Verständnis und fehlende strukturierte Unterstützung für Mitglieder, die auf ihrem Heilungsweg unkonventionelle Methoden der [Emotionsregulation](https://inner-clarity.github.io/ClearPath/de/prenc) nutzen. Unsere Arbeit gründet auf:
 
 - Wissenschaftlich validierten Grundsätzen der Klinischen Psychologie  
 - Therapeutischen Ansätzen wie der Kognitiven Verhaltenstherapie  
@@ -24,3 +24,10 @@ Wir glauben, dass Glaube und Wissenschaft nicht im Widerspruch stehen, sondern g
 
 > „Die Nächstenliebe ist die reine Liebe Christi und bleibt für immer; und wer sie am letzten Tag besitzt, dem wird es gut gehen.“  
 > — Moroni 7:47
+---
+
+::: tip Willkommen
+Hinweis: InnerSight ist eine unabhangige Bildungsressource, die von treuen Mitgliedern erstellt wurde, um Fuhrungskrafte, Familien und Fachleute zu unterstutzen. Sie ist nicht mit der Kirche Jesu Christi der Heiligen der Letzten Tage verbunden oder wird von dieser offiziell unterstutzt.
+
+Jede innere Reise beginnt mit einem ersten Schritt. Deine beginnt hier.
+:::

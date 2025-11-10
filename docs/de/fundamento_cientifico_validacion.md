@@ -1,19 +1,19 @@
-# Wissenschaftliche Grundlage: Verständnis der neurologischen Bedürfnisse in der emotionalen Regulation
+﻿# Wissenschaftliche Grundlage: Verständnis der neurologischen Bedürfnisse in der emotionalen Regulation
 
 ## Akademische Einführung
 
-Die moderne Wissenschaft erkennt an, dass Menschen ihre Emotionen auf verschiedene Weise regulieren, besonders wenn sie Trauma erlebt haben oder neurologische Unterschiede aufweisen. Einige dieser Reaktionen mögen ungewöhnlich erscheinen, aber sie werden durch klinische Evidenz als funktionale Mechanismen des Nervensystems unterstützt.
+Die moderne Wissenschaft erkennt an, dass Menschen ihre [Emotionen auf verschiedene Weise regulieren](https://inner-clarity.github.io/ClearPath/de/prenc), besonders wenn sie Trauma erlebt haben oder neurologische Unterschiede aufweisen. Einige dieser Reaktionen mögen ungewöhnlich erscheinen, aber sie werden durch klinische Evidenz als funktionale Mechanismen des Nervensystems unterstützt.
 
 ## Grundlegende wissenschaftliche Definitionen
 
 ### Eigenschaften neurologisch fundierter regulatorischer Reaktionen
 
-Einige Strategien der emotionalen Regulation haben eine klare neurologische Basis. Diese sind gekennzeichnet durch:
+Einige Strategien der [emotionalen Regulation](https://inner-clarity.github.io/ClearPath/de/prenc) haben eine klare neurologische Basis. Diese sind gekennzeichnet durch:
 
 - Bestehen über Zeit, auch wenn die Person sie ändern möchte
 - Verursachen physiologisches oder emotionales Unbehagen bei Unterdrückungsversuchen
 - Abhängigkeit nicht von bewusstem Willen, sondern von automatischen Reaktionen des Nervensystems
-- Assoziation mit anerkannten medizinischen Zuständen (wie Trauma, Autismus oder Tourette)
+- Assoziation mit anerkannten medizinischen Zuständen (wie [Trauma](https://inner-clarity.github.io/ClearPath/de/tept), [Autismus](https://inner-clarity.github.io/ClearPath/de/autismo) oder [Tourette](https://inner-clarity.github.io/ClearPath/de/tourette))
 - Ermöglichen der Person, ihre familiären, spirituellen und sozialen Verantwortungen zu erfüllen
 
 Diese Eigenschaften helfen Fachleuten und Führern zu erkennen, wann ein Verhalten Teil des Funktionierens einer Person ist, nicht eine momentane Wahl.
@@ -27,7 +27,7 @@ Die Neurowissenschaft zeigt, dass das menschliche Gehirn einzigartige Reaktionen
 Zum Beispiel:
 
 - Nach Trauma kann das Gehirn bestimmte Stimuli mit Ruhegefühlen als Schutzmechanismus assoziieren.
-- Bei Zuständen wie Autismus oder Tourette-Syndrom kann das Nervensystem spezifische Formen der Selbstregulation benötigen, um mit sensorischer Überstimulation oder innerer Spannung umzugehen.
+- Bei Zuständen wie [Autismus](https://inner-clarity.github.io/ClearPath/de/autismo) oder [Tourette-Syndrom](https://inner-clarity.github.io/ClearPath/de/tourette) kann das Nervensystem spezifische Formen der Selbstregulation benötigen, um mit sensorischer Überstimulation oder innerer Spannung umzugehen.
 
 Diese Reaktionen werden mit der Zeit automatisch und können nicht einfach durch "Willenskraft" geändert werden.
 
@@ -49,9 +49,9 @@ Diese Kriterien ermöglichen es, zwischen Verhaltensweisen zu unterscheiden, die
 
 **Anerkannte neurologische Zustände bieten nützliches Verständnis**
 
-- Beim Tourette-Syndrom sind Tics automatische Reaktionen, die helfen, neurologische Spannung zu lösen. Versuche, sie zu unterdrücken, verursachen Angstansammlung.
-- Bei Autismus regulieren repetitive Bewegungen (Stimming) sensorischen Input und verhindern Erschöpfung.
-- Bei PTBS bieten bestimmte Rituale nach traumatischen Erfahrungen Sicherheitsgefühl.
+- Beim [Tourette-Syndrom](https://inner-clarity.github.io/ClearPath/de/tourette) sind Tics automatische Reaktionen, die helfen, neurologische Spannung zu lösen. Versuche, sie zu unterdrücken, verursachen Angstansammlung.
+- Bei [Autismus](https://inner-clarity.github.io/ClearPath/de/autismo) regulieren repetitive Bewegungen (Stimming) sensorischen Input und verhindern Erschöpfung.
+- Bei [PTBS](https://inner-clarity.github.io/ClearPath/de/tept) bieten bestimmte Rituale nach traumatischen Erfahrungen Sicherheitsgefühl.
 
 Diese Beispiele zeigen, dass **das menschliche Gehirn verschiedene Strategien verwendet, um das Gleichgewicht zu erhalten**, und dass das, was von außen ungewöhnlich erscheint, von innen essentiell sein kann.
 
@@ -168,3 +168,10 @@ Die wissenschaftliche und religiöse Gemeinschaft hat die Gelegenheit, Führung 
 
 ### Evolutive Perspektiven
 - Gilbert, P. (2019). "Evolutionary Psychology and Mental Health: Past, present and future." *Clinical Psychology Review*, 73, 101751.
+---
+
+::: tip Willkommen
+Hinweis: InnerSight ist eine unabhangige Bildungsressource, die von treuen Mitgliedern erstellt wurde, um Fuhrungskrafte, Familien und Fachleute zu unterstutzen. Sie ist nicht mit der Kirche Jesu Christi der Heiligen der Letzten Tage verbunden oder wird von dieser offiziell unterstutzt.
+
+Jede innere Reise beginnt mit einem ersten Schritt. Deine beginnt hier.
+:::

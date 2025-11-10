@@ -1,6 +1,6 @@
-# Kontakt
+﻿# Kontakt
 
-Für professionelle Beratung oder institutionelle Zusammenarbeit im Bereich psychische Gesundheit und religiöse Praxis.
+Für professionelle Beratung, institutionelle Zusammenarbeit oder Forschungsvorschläge im Zusammenhang mit psychischer Gesundheit, [emotionaler Regulation](https://inner-clarity.github.io/ClearPath/de/prenc) und religiösem Leben im Kontext der Kirche Jesu Christi der Heiligen der Letzten Tage.
 
 ## Kontaktinformationen
 
@@ -10,7 +10,7 @@ Forscher in KI-Anwendung für psychische Gesundheit
 
 ### Fachbereiche
 
-- **Forschung in psychischer Gesundheit**: Unkonventionelle Methoden der emotionalen Regulation
+- **Forschung in psychischer Gesundheit**: Unkonventionelle Methoden der [emotionalen Regulation](https://inner-clarity.github.io/ClearPath/de/prenc)
 - **Psychologische Analyse**: Anwendung von KI auf Muster psychischer Gesundheit
 - **Computersysteme**: Implementierung von Tools für psychisches Wohlbefinden
 - **Organisationspsychologie**: Meyer-Briggs Type Indicator (MBTI), Emotionale Intelligenz
@@ -29,7 +29,7 @@ Wenn Sie eine Institution, Organisation vertreten oder Forschungsanfragen haben,
 
 - **Psychische Gesundheit und religiöse Praxis**
 - **Entwicklung von Computersystemen für psychisches Wohlbefinden**
-- **Forschung in emotionaler Regulation**
+- **Forschung in [emotionaler Regulation](https://inner-clarity.github.io/ClearPath/de/prenc)**
 - **Akademische oder institutionelle Zusammenarbeit**
 
 ## Verhaltenskodex
@@ -58,3 +58,10 @@ Dieser Raum ist darauf ausgelegt, informierten Dialog zwischen professionellen k
 *"Die Nächstenliebe ist die reine Liebe Christi und bleibt für immer; und wer sie am letzten Tag besitzt, dem wird es gut gehen." - Moroni 7:47*
 
 *Letzte Aktualisierung: September 2025*
+---
+
+::: tip Willkommen!
+Hinweis: InnerSight ist eine unabhängige Bildungsressource, erstellt von treuen Mitgliedern zur Unterstützung von Führungskräften, Familien und Fachleuten. Sie ist nicht mit der Kirche Jesu Christi der Heiligen der Letzten Tage verbunden oder offiziell von ihr unterstützt.
+
+Jede innere Reise beginnt mit einem ersten Schritt. Ihre beginnt hier.
+:::

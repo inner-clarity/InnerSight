@@ -1,10 +1,10 @@
-# Klinisches Verständnis der emotionalen Regulation in Kontexten der psychischen und neurologischen Gesundheit
+﻿# Klinisches Verständnis der emotionalen Regulation in Kontexten der psychischen und neurologischen Gesundheit
 
 ## Theoretischer Rahmen
 
 ### Definition der emotionalen Regulation
 
-Emotionale Regulation bezieht sich auf die Prozesse, die Menschen verwenden, um ihre Emotionen so zu handhaben, dass sie effektiv im täglichen Leben funktionieren können. Laut der Neurowissenschaft sind diese Mechanismen grundlegend für das psychische Wohlbefinden und die vollständige Teilnahme an Familie, Arbeit und Gemeinschaft.
+[Emotionale Regulation](https://inner-clarity.github.io/ClearPath/de/prenc) bezieht sich auf die Prozesse, die Menschen verwenden, um ihre Emotionen so zu handhaben, dass sie effektiv im täglichen Leben funktionieren können. Laut der Neurowissenschaft sind diese Mechanismen grundlegend für das psychische Wohlbefinden und die vollständige Teilnahme an Familie, Arbeit und Gemeinschaft.
 
 ### Vielfalt in Bewältigungsstrategien
 
@@ -26,7 +26,7 @@ Die Entwicklungsneurowissenschaft zeigt, dass Erfahrungen zwischen 0-8 Jahren ei
 
 Zusätzlich können Unterschiede in der Neuroentwicklung zu neurologischen Konfigurationen führen, die spezifische Regulierungsmechanismen erfordern. Zum Beispiel:
 
-**Tourette-Syndrom:** Diese neurologische Erkrankung ist durch wiederholte Bewegungen oder Geräusche (genannt Tics) gekennzeichnet, die helfen, angesammelte Spannung im Nervensystem zu lösen. Für diejenigen, die es erleben, sind Tics weder freiwillig noch optional, sondern eine automatische Reaktion des Gehirns, um das neurologische Gleichgewicht aufrechtzuerhalten, besonders in Stress- oder Überstimulationssituationen.
+**[Tourette-Syndrom](https://inner-clarity.github.io/ClearPath/de/tourette):** Diese neurologische Erkrankung ist durch wiederholte Bewegungen oder Geräusche (genannt Tics) gekennzeichnet, die helfen, angesammelte Spannung im Nervensystem zu lösen. Für diejenigen, die es erleben, sind Tics weder freiwillig noch optional, sondern eine automatische Reaktion des Gehirns, um das neurologische Gleichgewicht aufrechtzuerhalten, besonders in Stress- oder Überstimulationssituationen.
 
 Die neurowissenschaftliche Forschung zeigt, dass Tics, obwohl von außen wenig verstanden, eine wesentliche regulatorische Funktion für diejenigen erfüllen, die sie erleben (Tourette Association of America, 2023).
 
@@ -60,7 +60,7 @@ Das Verständnis, dass es multiple Wege zur emotionalen und neurologischen Regul
 
 1. **Anerkennung neurologischer Vielfalt:** Akzeptanz, dass sich Bedürfnisse der psychischen und neurologischen Gesundheit in jeder Person einzigartig manifestieren, einschließlich:
    - Selbstregulierungsmechanismen, die durch Trauma entwickelt wurden
-   - Inhärente neurologische Unterschiede (wie Tourette-Syndrom)
+   - Inhärente neurologische Unterschiede (wie [Tourette-Syndrom](https://inner-clarity.github.io/ClearPath/de/tourette))
    - Adaptive Strategien für Stress- und Angstbewältigung
    - Atypische sensorische und motorische Reaktionen
 
@@ -136,3 +136,10 @@ Die Umsetzung inklusiver Richtlinien und angemessener Unterstützungsrahmen kann
 - Tourette Association of America (2023). "Understanding Tourette Syndrome: A Neurological Perspective."
 - Bliss, J., et al. (2020). "Tic disorders and emotional regulation: Clinical perspectives." *Journal of Neuropsychiatry*, 32(4), 198-205.
 - Robertson, M.M. (2015). "The Gilles de la Tourette syndrome: The current status." *Archives of Disease in Childhood*, 89(5), 428-433.
+---
+
+::: tip Willkommen
+Hinweis: InnerSight ist eine unabhangige Bildungsressource, die von treuen Mitgliedern erstellt wurde, um Fuhrungskrafte, Familien und Fachleute zu unterstutzen. Sie ist nicht mit der Kirche Jesu Christi der Heiligen der Letzten Tage verbunden oder wird von dieser offiziell unterstutzt.
+
+Jede innere Reise beginnt mit einem ersten Schritt. Deine beginnt hier.
+:::

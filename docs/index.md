@@ -29,7 +29,7 @@ An educational resource to better understand mental health and neurological need
 
 ### Purpose
 
-InnerSight is an educational resource that seeks to support leaders, families, and members of The Church of Jesus Christ of Latter-day Saints in better understanding how neurological differences and trauma responses may require legitimate forms of emotional regulation. This work is based on clinical evidence, Gospel principles, and the shared desire to minister with Christ-like love.
+InnerSight is an educational resource that seeks to support leaders, families, and members of The Church of Jesus Christ of Latter-day Saints in better understanding how neurological differences and trauma responses may require legitimate forms of [emotional regulation](https://inner-clarity.github.io/ClearPath/en/prenc). This work is based on clinical evidence, Gospel principles, and the shared desire to minister with Christ-like love.
 
 ### Foundation
 
@@ -40,16 +40,16 @@ This resource responds to common questions from leaders and families about how t
 ### Testimonies
 
 > **Brother reflective**: \
-> "I am a holder of the Melchizedek Priesthood, I have served in multiple callings. My neurological condition requires specific adaptations for sensory regulation. For years I felt shame, until a understanding bishop told me: 'Your dignity before God does not depend on your neurodiversity'. Those words changed my life."
+> "I am a holder of the Melchizedek Priesthood, I have served in multiple callings. My neurological condition requires specific adaptations for sensory regulation ([PTSD](https://inner-clarity.github.io/ClearPath/en/prenc)). For years I felt shame, until a understanding bishop told me: 'Your dignity before God does not depend on your neurodiversity'. Those words changed my life."
 
 > **Faithful member**: \
-> "In an interview with a leader, when I raised the need to use personal care items (PEPT), this leader questioned the legitimacy and made it clear that it was 'contrary for a worthy priesthood holder to use that or that it would look bad, or that it would be embarrassing' without understanding that it was not a whim but a neurological need. Although I felt misunderstood, I felt that God DOES know what is happening to me and that He DOES understand my heart."
+> "In an interview with a leader, when I raised the need to use personal care items ([PTSD](https://inner-clarity.github.io/ClearPath/en/prenc)), this leader questioned the legitimacy and made it clear that it was 'contrary for a worthy priesthood holder to use that or that it would look bad, or that it would be embarrassing' without understanding that it was not a whim but a neurological need. Although I felt misunderstood, I felt that God DOES know what is happening to me and that He DOES understand my heart."
 
 > **Returned missionary**: \
-> "During my mission, I was exposed to situations that made others uncomfortable, sometimes I have tics, I even emit unconscious verbal sounds (Tourette's Syndrome). There were leaders who called my attention for 'disrespecting or being irreverent' but I did it involuntarily, I would have liked them to be informed about these neurological conditions. I am grateful to have had a loving and understanding mission president, I have had very patient companions, they made me feel that the Savior was taking care of me. I finished my mission with honor"
+> "During my mission, I was exposed to situations that made others uncomfortable, sometimes I have tics, I even emit unconscious verbal sounds ([Tourette's Syndrome](https://inner-clarity.github.io/ClearPath/en/tourette)). There were leaders who called my attention for 'disrespecting or being irreverent' but I did it involuntarily, I would have liked them to be informed about these neurological conditions. I am grateful to have had a loving and understanding mission president, I have had very patient companions, they made me feel that the Savior was taking care of me. I finished my mission with honor"
 
 > **Selfless mother**: \
-> "Many have told me 'why I didn't keep my son quiet' or that 'I was a bad mother' because I don't control my son (my son has autism), they even suggested the possibility of not going to church anymore. They don't understand everything I go through daily, even so I receive strength from a Heavenly Father who loves me, the strength of a loving, faithful and good father husband, and the promise that if I remain faithful 'The Lord will carry me on his shoulders'. If others could have greater understanding, I would feel my burden a little lighter. But above all, I know that the Savior understands me perfectly, and that gives me peace."
+> "Many have told me 'why I didn't keep my son quiet' or that 'I was a bad mother' because I don't control my son (my son has [autism](https://inner-clarity.github.io/ClearPath/en/autismo)), they even suggested the possibility of not going to church anymore. They don't understand everything I go through daily, even so I receive strength from a Heavenly Father who loves me, the strength of a loving, faithful and good father husband, and the promise that if I remain faithful 'The Lord will carry me on his shoulders'. If others could have greater understanding, I would feel my burden a little lighter. But above all, I know that the Savior understands me perfectly, and that gives me peace."
 
 ---
 
@@ -62,16 +62,16 @@ This section presents a clinical perspective on how people regulate their emotio
 Evidence-based guide to recognize when certain behaviors reflect neurological needs or trauma responses, rather than personal preferences. Includes clinical criteria, illustrative examples, and guidance for leaders and families who wish to minister with understanding.
 
 ### [Impact of Demanding Abandonment of Necessary Regulatory Strategies](/en/efectos_de_restricciones_coercitiva)
-This section explains, based on neuroscience and clinical studies, how asking someone to stop using an essential emotional regulation strategy—even with good intentions—can cause additional distress, functional deterioration, and spiritual distancing.
+This section explains, based on neuroscience and clinical studies, how asking someone to stop using an essential [emotional regulation](https://inner-clarity.github.io/ClearPath/en/prenc) strategy—even with good intentions—can cause additional distress, functional deterioration, and spiritual distancing.
 
 ### [When Love is Conditioned on Conformity](/en/chantaje_emocional)
-Some members report feeling that their belonging or spiritual worth depends on abandoning certain emotional regulation needs. This section analyzes how these dynamics—though unintended—can affect faith, self-esteem, and relationships, and offers principles for ministering without imposing conditions.
+Some members report feeling that their belonging or spiritual worth depends on abandoning certain [emotional regulation](https://inner-clarity.github.io/ClearPath/en/prenc) needs. This section analyzes how these dynamics—though unintended—can affect faith, self-esteem, and relationships, and offers principles for ministering without imposing conditions.
 
 ### [Nature of Emotional Regulation](/en/naturaleza_regulacion_emocional)
-Some people confuse certain emotional regulation strategies with matters of identity or sexual preference. This section offers a clear clinical explanation, based on neuroscience, about why these needs are related to mental and neurological health, not sexual orientation.
+Some people confuse certain [emotional regulation](https://inner-clarity.github.io/ClearPath/en/prenc) strategies with matters of identity or sexual preference. This section offers a clear clinical explanation, based on neuroscience, about why these needs are related to mental and neurological health, not sexual orientation.
 
 ### [Emotional Marital Security](/en/seguridad_emocional_conyugal)
-This section examines how coercive restrictions in marital intimacy can affect emotional security and mental health of spouses. It analyzes the impact on marital relationships when restrictions are imposed that interfere with legitimate emotional regulation, offering perspectives based on Gospel principles and clinical understanding of marital intimacy.
+This section examines how coercive restrictions in marital intimacy can affect emotional security and mental health of spouses. It analyzes the impact on marital relationships when restrictions are imposed that interfere with legitimate [emotional regulation](https://inner-clarity.github.io/ClearPath/en/prenc), offering perspectives based on Gospel principles and clinical understanding of marital intimacy.
 
 ### [Spiritual Dignity and Mental Health](/en/sacerdocio_salud_mental_apropiado_v5)  
 This section examines how Gospel teachings—including the Scriptures, The Family Proclamation, and modern revelation—affirm that a member's dignity before God does not depend on their mental health or neurological condition, but on their faith, repentance, and desire to follow Christ.

@@ -1,4 +1,4 @@
-# PROPOSTA PARA INCLUSÃO INSTITUCIONAL EM SAÚDE MENTAL E CONDIÇÕES NEUROLÓGICAS
+﻿# PROPOSTA PARA INCLUSÃO INSTITUCIONAL EM SAÚDE MENTAL E CONDIÇÕES NEUROLÓGICAS
 
 **Apresentado a:** A Primeira Presidência  
 **De:** Alejandro Parada, Analista de Sistemas e Especialista em Pesquisa de IA  
@@ -8,14 +8,14 @@
 
 ## RESUMO EXECUTIVO
 
-Esta proposta aborda uma necessidade crescente dentro de A Igreja de Jesus Cristo dos Santos dos Últimos Dias: orientação clara para incluir e apoiar membros com condições de saúde mental e diferenças neurológicas que requerem procedimentos de regulação emocional não convencionais. A falta atual de direção institucional cria sofrimento desnecessário, conflitos familiares e potencial perda de membros valiosos.
+Esta proposta aborda uma necessidade crescente dentro de A Igreja de Jesus Cristo dos Santos dos Últimos Dias: orientação clara para incluir e apoiar membros com condições de saúde mental e diferenças neurológicas que requerem procedimentos de [regulação emocional](https://inner-clarity.github.io/ClearPath/pt/prenc) não convencionais. A falta atual de direção institucional cria sofrimento desnecessário, conflitos familiares e potencial perda de membros valiosos.
 
 ### Magnitude da Necessidade
 
 Pesquisas indicam que:  
 - 1 em cada 5 adultos experimenta condições de saúde mental em um ano dado (NIMH, 2023)  
 - O transtorno do espectro autista afeta aproximadamente 1 em cada 36 crianças (CDC, 2023)  
-- A Síndrome de Tourette afeta aproximadamente 1 em cada 160 crianças (Tourette Association)  
+- A [Síndrome de Tourette](https://inner-clarity.github.io/ClearPath/pt/tourette) afeta aproximadamente 1 em cada 160 crianças (Tourette Association)  
 - Estudos de ACEs (Experiências Adversas na Infância) mostram que 2 de cada 3 adultos relatam pelo menos uma experiência traumática significativa  
 
 **Na Igreja, isto significa:**  
@@ -29,7 +29,7 @@ Atualmente cerca de 4 milhões de membros em toda A Igreja de Jesus Cristo dos S
 Esta não é uma "exceção rara" — é uma realidade comum que requer preparação institucional.
 
 **Necessidade Identificada**  
-Os membros com condições que requerem estratégias de autorregulação pouco comuns — incluindo respostas ao trauma, Síndrome de Tourette, diferenças do espectro autista e outras variações neurológicas — enfrentam confusão, estigma e às vezes exclusão apesar de sua dignidade espiritual e desejo de servir.
+Os membros com condições que requerem estratégias de autorregulação pouco comuns — incluindo respostas ao trauma, [Síndrome de Tourette](https://inner-clarity.github.io/ClearPath/pt/tourette), diferenças do espectro autista e outras variações neurológicas — enfrentam confusão, estigma e às vezes exclusão apesar de sua dignidade espiritual e desejo de servir.
 
 **Solução Proposta**  
 Uma declaração institucional clara que afirme que:  
@@ -51,13 +51,13 @@ Uma declaração institucional clara que afirme que:
 
 ### Compreensão da Regulação Emocional
 
-A regulação emocional refere-se a processos neurológicos que os indivíduos usam para manejar experiências emocionais de maneira adaptativa. A neurociência contemporânea reconhece que as pessoas desenvolvem estratégias de regulação diversas, particularmente após trauma precoce ou devido a diferenças neurológicas inerentes.
+A [regulação emocional](https://inner-clarity.github.io/ClearPath/pt/prenc) refere-se a processos neurológicos que os indivíduos usam para manejar experiências emocionais de maneira adaptativa. A neurociência contemporânea reconhece que as pessoas desenvolvem estratégias de regulação diversas, particularmente após trauma precoce ou devido a diferenças neurológicas inerentes.
 
 **Princípios Científicos Chave:**
 
 1. **Neuroplasticidade e Resposta ao Trauma:** A pesquisa demonstra que as experiências adversas precoces criam adaptações neurais permanentes. Estas não são "dano" mas mecanismos de sobrevivência (Van der Kolk, 2014).
 
-2. **Diversidade Neurológica:** Condições como a Síndrome de Tourette envolvem respostas regulatórias involuntárias que servem funções neurológicas essenciais (Tourette Association of America, 2023).
+2. **Diversidade Neurológica:** Condições como a [Síndrome de Tourette](https://inner-clarity.github.io/ClearPath/pt/tourette) envolvem respostas regulatórias involuntárias que servem funções neurológicas essenciais (Tourette Association of America, 2023).
 
 3. **Funcionalidade como Critério:** O DSM-5 define a patologia por disfuncionalidade, não por não convencionalidade. Os comportamentos que mantêm funcionamento efetivo são estratégias adaptativas, não transtornos.
 
@@ -74,11 +74,11 @@ Estas características distinguem necessidades neurológicas legítimas de prefe
 
 ### Condições Neurológicas Paralelas
 
-**Síndrome de Tourette:** Os tiques servem funções essenciais de regulação de tensão. A supressão causa acumulação mensurável de angústia.
+**[Síndrome de Tourette](https://inner-clarity.github.io/ClearPath/pt/tourette):** Os tiques servem funções essenciais de regulação de tensão. A supressão causa acumulação mensurável de angústia.
 
 **Espectro Autista:** Os comportamentos autorregulatórios (stimming) estão cientificamente validados como regulação sensorial necessária, não preferências opcionais (Kapp et al., 2019).
 
-**TEPT Complexo:** Os mecanismos de segurança desenvolvidos por trauma representam respostas automáticas do sistema nervoso, não escolhas conscientes.
+**[TEPT](https://inner-clarity.github.io/ClearPath/pt/tept) Complexo:** Os mecanismos de segurança desenvolvidos por trauma representam respostas automáticas do sistema nervoso, não escolhas conscientes.
 
 ---
 
@@ -254,3 +254,10 @@ Montevidéu, Uruguai
 [Detalhes de contato]
 
 **Comprimento estimado:** 12-15 páginas impressas
+---
+
+::: tip Bem-vindo
+Nota: InnerSight e um recurso educacional independente, criado por membros fieis para apoiar lideres, familias e profissionais. Nao e afiliado nem oficialmente endossado pela Igreja de Jesus Cristo dos Santos dos Ultimos Dias.
+
+Cada jornada interior comeca com um primeiro passo. A sua comeca aqui.
+:::

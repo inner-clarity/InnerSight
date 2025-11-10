@@ -1,4 +1,4 @@
-# Compréhension clinique de la régulation émotionnelle dans les contextes de santé mentale et neurologique
+﻿# Compréhension clinique de la régulation émotionnelle dans les contextes de santé mentale et neurologique
 
 ## Cadre Théorique
 
@@ -26,7 +26,7 @@ Les neurosciences du développement indiquent que les expériences entre 0 et 8 
 
 De plus, les différences dans le neurodéveloppement peuvent résulter en des configurations neurologiques qui nécessitent des mécanismes spécifiques de régulation. Par exemple:
 
-**Syndrome de Tourette:** Cette condition neurologique se caractérise par des mouvements ou des sons répétitifs (appelés tics) qui aident à libérer la tension accumulée dans le système nerveux. Pour ceux qui en font l'expérience, les tics ne sont ni volontaires ni optionnels, mais une réponse automatique du cerveau pour maintenir l'équilibre neurologique, en particulier dans des situations de stress ou de surstimulation.
+**[Syndrome de Tourette](https://inner-clarity.github.io/ClearPath/fr/tourette):** Cette condition neurologique se caractérise par des mouvements ou des sons répétitifs (appelés tics) qui aident à libérer la tension accumulée dans le système nerveux. Pour ceux qui en font l'expérience, les tics ne sont ni volontaires ni optionnels, mais une réponse automatique du cerveau pour maintenir l'équilibre neurologique, en particulier dans des situations de stress ou de surstimulation.
 
 La recherche neuroscientifique démontre que les tics, bien que peu compris extérieurement, remplissent une fonction régulatrice essentielle pour ceux qui les expérimentent (Tourette Association of America, 2023).
 
@@ -60,7 +60,7 @@ La compréhension qu'il existe plusieurs chemins vers la régulation émotionnel
 
 1. **Reconnaissance de la Diversité Neurologique:** Accepter que les besoins de santé mentale et neurologique se manifestent de manières uniques chez chaque individu, incluant:
    - Mécanismes d'autorégulation développés par traumatisme
-   - Différences neurologiques inhérentes (comme le Syndrome de Tourette)
+   - Différences neurologiques inhérentes (comme le [Syndrome de Tourette](https://inner-clarity.github.io/ClearPath/fr/tourette))
    - Stratégies adaptatives pour la gestion du stress et de l'anxiété
    - Réponses sensorielles et motrices atypiques
 
@@ -136,4 +136,10 @@ La mise en œuvre de politiques inclusives et de cadres de soutien appropriés p
 - Tourette Association of America (2023). "Understanding Tourette Syndrome: A Neurological Perspective."
 - Bliss, J., et al. (2020). "Tic disorders and emotional regulation: Clinical perspectives." *Journal of Neuropsychiatry*, 32(4), 198-205.
 - Robertson, M.M. (2015). "The Gilles de la Tourette syndrome: The current status." *Archives of Disease in Childhood*, 89(5), 428-433.
+---
 
+::: tip Bienvenue
+Note: InnerSight est une ressource educative independante, creee par des membres fideles pour soutenir les dirigeants, les familles et les professionnels. Elle nest pas affiliee ni officiellement approuvee par lEglise de Jesus-Christ des Saints des Derniers Jours.
+
+Chaque voyage interieur commence par un premier pas. Le votre commence ici.
+:::

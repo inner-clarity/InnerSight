@@ -1,4 +1,4 @@
-# Fondement Scientifique: Compréhension des besoins neurologiques dans la régulation émotionnelle
+﻿# Fondement Scientifique: Compréhension des besoins neurologiques dans la régulation émotionnelle
 
 ## Introduction Académique
 
@@ -49,9 +49,9 @@ Ces critères permettent de distinguer entre les conduites qui font partie du bi
 
 **Les conditions neurologiques reconnues offrent une compréhension utile**
 
-- Dans le Syndrome de Tourette, les tics sont des réponses automatiques qui aident à libérer la tension neurologique. Essayer de les supprimer cause une accumulation d'anxiété.
-- Dans l'autisme, les mouvements répétitifs (stimming) régulent l'entrée sensorielle et préviennent l'épuisement.
-- Dans le TSPT, certains rituels procurent une sensation de sécurité après des expériences traumatiques.
+- Dans le [Syndrome de Tourette](https://inner-clarity.github.io/ClearPath/fr/tourette), les tics sont des réponses automatiques qui aident à libérer la tension neurologique. Essayer de les supprimer cause une accumulation d'anxiété.
+- Dans l'[autisme](https://inner-clarity.github.io/ClearPath/fr/autisme), les mouvements répétitifs (stimming) régulent l'entrée sensorielle et préviennent l'épuisement.
+- Dans le [TSPT](https://inner-clarity.github.io/ClearPath/fr/tept), certains rituels procurent une sensation de sécurité après des expériences traumatiques.
 
 Ces exemples montrent que **le cerveau humain utilise diverses stratégies pour maintenir l'équilibre**, et que ce qui semble inhabituel de l'extérieur peut être essentiel de l'intérieur.
 
@@ -166,4 +166,10 @@ La communauté scientifique et religieuse a l'opportunité de démontrer le lead
 
 ### Perspectives Évolutives
 - Gilbert, P. (2019). "Evolutionary Psychology and Mental Health: Past, present and future." *Clinical Psychology Review*, 73, 101751.
+---
 
+::: tip Bienvenue
+Note: InnerSight est une ressource educative independante, creee par des membres fideles pour soutenir les dirigeants, les familles et les professionnels. Elle nest pas affiliee ni officiellement approuvee par lEglise de Jesus-Christ des Saints des Derniers Jours.
+
+Chaque voyage interieur commence par un premier pas. Le votre commence ici.
+:::

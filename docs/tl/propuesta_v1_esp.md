@@ -1,4 +1,4 @@
-# PROPOSAL PARA SA INSTITUTIONAL INCLUSION SA MENTAL HEALTH AT NEUROLOGICAL CONDITIONS
+﻿# PROPOSAL PARA SA INSTITUTIONAL INCLUSION SA MENTAL HEALTH AT NEUROLOGICAL CONDITIONS
 
 **Ipinresenta sa:** Ang First Presidency  
 **Mula kay:** Alejandro Parada, Systems Analyst at AI Research Specialist  
@@ -15,7 +15,7 @@ Tinutugunan ng proposal na ito ang lumalaking pangangailangan sa loob ng Simbaha
 Ipinapakita ng mga pananaliksik na:  
 - 1 sa 5 adults ay nakakaranas ng mental health conditions sa isang taon (NIMH, 2023)  
 - Ang autism spectrum disorder ay nakakaapekto sa humigit-kumulang 1 sa 36 bata (CDC, 2023)  
-- Ang Tourette Syndrome ay nakakaapekto sa humigit-kumulang 1 sa 160 bata (Tourette Association)  
+- Ang [Tourette Syndrome](https://inner-clarity.github.io/ClearPath/tl/tourette) ay nakakaapekto sa humigit-kumulang 1 sa 160 bata (Tourette Association)  
 - Ang ACEs (Adverse Childhood Experiences) studies ay nagpapakita na 2 sa 3 adults ay nag-uulat ng kahit isang significant traumatic experience  
 
 **Sa Simbahan, ito ay nangangahulugan:**  
@@ -29,7 +29,7 @@ Kasalukuyang halos 4 milyong miyembro sa buong The Church of Jesus Christ of Lat
 Ito ay hindi "rare exception" — ito ay common reality na nangangailangan ng institutional preparation.
 
 **Identified Need**  
-Ang mga miyembrong may conditions na nangangailangan ng uncommon self-regulation strategies — kasama ang trauma responses, Tourette Syndrome, autism spectrum differences, at iba pang neurological variations — ay humaharap sa confusion, stigma at kung minsan ay exclusion sa kabila ng kanilang spiritual dignity at desire na maglingkod.
+Ang mga miyembrong may conditions na nangangailangan ng uncommon self-regulation strategies — kasama ang trauma responses, [Tourette Syndrome](https://inner-clarity.github.io/ClearPath/tl/tourette), autism spectrum differences, at iba pang neurological variations — ay humaharap sa confusion, stigma at kung minsan ay exclusion sa kabila ng kanilang spiritual dignity at desire na maglingkod.
 
 **Proposed Solution**  
 Isang malinaw na institutional statement na nagpapatibay na:  
@@ -51,13 +51,13 @@ Isang malinaw na institutional statement na nagpapatibay na:
 
 ### Pag-unawa sa Emotional Regulation
 
-Ang emotional regulation ay tumutukoy sa neurological processes na ginagamit ng mga indibidwal upang pamahalaan ang emotional experiences sa adaptive way. Kinikilala ng contemporary neuroscience na ang mga tao ay bumubuo ng diverse regulation strategies, lalo na pagkatapos ng early trauma o dahil sa inherent neurological differences.
+Ang [emotional regulation](https://inner-clarity.github.io/ClearPath/tl/prenc) ay tumutukoy sa neurological processes na ginagamit ng mga indibidwal upang pamahalaan ang emotional experiences sa adaptive way. Kinikilala ng contemporary neuroscience na ang mga tao ay bumubuo ng diverse regulation strategies, lalo na pagkatapos ng early trauma o dahil sa inherent neurological differences.
 
 **Key Scientific Principles:**
 
 1. **Neuroplasticity at Trauma Response:** Ipinapakita ng research na ang early adverse experiences ay lumilikha ng permanent neural adaptations. Ang mga ito ay hindi "damage" kundi survival mechanisms (Van der Kolk, 2014).
 
-2. **Neurological Diversity:** Ang conditions tulad ng Tourette Syndrome ay nagsasangkot ng involuntary regulatory responses na nagsisilbi ng essential neurological functions (Tourette Association of America, 2023).
+2. **Neurological Diversity:** Ang conditions tulad ng [Tourette Syndrome](https://inner-clarity.github.io/ClearPath/tl/tourette) ay nagsasangkot ng involuntary regulatory responses na nagsisilbi ng essential neurological functions (Tourette Association of America, 2023).
 
 3. **Functionality bilang Criterion:** Ang DSM-5 ay tumutukoy sa pathology sa pamamagitan ng dysfunctionality, hindi sa non-conventionality. Ang behaviors na nagpapanatili ng effective functioning ay adaptive strategies, hindi disorders.
 
@@ -74,11 +74,11 @@ Ang characteristics na ito ay tumutukoy sa lehitimong neurological needs mula sa
 
 ### Parallel Neurological Conditions
 
-**Tourette Syndrome:** Ang tics ay nagsisilbi ng essential tension regulation functions. Ang suppression ay nagiging sanhi ng measurable distress accumulation.
+**[Tourette Syndrome](https://inner-clarity.github.io/ClearPath/tl/tourette):** Ang tics ay nagsisilbi ng essential tension regulation functions. Ang suppression ay nagiging sanhi ng measurable distress accumulation.
 
 **Autism Spectrum:** Ang self-regulatory behaviors (stimming) ay scientifically validated bilang necessary sensory regulation, hindi optional preferences (Kapp et al., 2019).
 
-**Complex PTSD:** Ang safety mechanisms na binuo dahil sa trauma ay kumakatawan sa automatic nervous system responses, hindi conscious choices.
+**Complex [PTSD](https://inner-clarity.github.io/ClearPath/tl/tept):** Ang safety mechanisms na binuo dahil sa trauma ay kumakatawan sa automatic nervous system responses, hindi conscious choices.
 
 ---
 
@@ -254,3 +254,11 @@ Montevideo, Uruguay
 [Contact details]
 
 **Estimated length:** 12-15 printed pages
+
+---
+
+::: tip Maligayang pagdating!
+Tala: Ang InnerSight ay isang independiyenteng mapagkukunan ng edukasyon, na nilikha ng mga tapat na miyembro para suportahan ang mga lider, pamilya, at propesyonal. Ito ay hindi nauugnay o opisyal na sinusuportahan ng Ang Simbahan ni Jesucristo ng mga Banal sa mga Huling Araw.
+
+Ang bawat panloob na paglalakbay ay nagsisimula sa isang unang hakbang. Ang sa iyo ay nagsisimula dito.
+:::

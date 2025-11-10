@@ -21,4 +21,10 @@ S: [Gabay tungkol sa family therapy, respeto sa both parties, hindi kumuha ng si
 **T: Kailangan ba nating payagan ang LAHAT sa Church activities?**
 S: Hinahanap ang reasonable accommodation na nagpapahintulot ng dignified participation. Kumunsulta case by case nang may sensitivity at creativity.
 
+---
 
+::: tip Maligayang pagdating!
+Tala: Ang InnerSight ay isang independiyenteng mapagkukunan ng edukasyon, na nilikha ng mga tapat na miyembro para suportahan ang mga lider, pamilya, at propesyonal. Ito ay hindi nauugnay o opisyal na sinusuportahan ng Ang Simbahan ni Jesucristo ng mga Banal sa mga Huling Araw.
+
+Ang bawat panloob na paglalakbay ay nagsisimula sa isang unang hakbang. Ang sa iyo ay nagsisimula dito.
+:::

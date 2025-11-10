@@ -1,19 +1,19 @@
-# Klarstellung über die Natur der Bedürfnisse emotionaler Regulation
+﻿# Klarstellung über die Natur der Bedürfnisse emotionaler Regulation
 
 ## Einführung
 
 Einige Menschen, die ungewohnte Strategien der emotionalen Regulation beobachten, fragen sich möglicherweise, ob diese mit sexueller Orientierung zusammenhängen. Diese Frage entsteht natürlich, wenn klinische Informationen fehlen, aber Wissenschaft und Lehre bieten Klarheit.
 
-Emotionale Regulation und sexuelle Orientierung gehören zu **verschiedenen Bereichen**: einer ist **intrapersonal und regulatorisch**, der andere ist **interpersonal und relational**. Das Verständnis dieser Differenz hilft, Missverständnisse zu vermeiden, die den Glauben, die Zugehörigkeit und das Wohlbefinden treuer Mitglieder beeinträchtigen können.
+[Emotionale Regulation](https://inner-clarity.github.io/ClearPath/de/prenc) und sexuelle Orientierung gehören zu **verschiedenen Bereichen**: einer ist **intrapersonal und regulatorisch**, der andere ist **interpersonal und relational**. Das Verständnis dieser Differenz hilft, Missverständnisse zu vermeiden, die den Glauben, die Zugehörigkeit und das Wohlbefinden treuer Mitglieder beeinträchtigen können.
 
 ## Was ist emotionale Regulation?
 
-Emotionale Regulation bezieht sich auf die Wege, wie eine Person intensive Emotionen oder überwältigende Empfindungen bewältigt. Sie kann einschließen:
+[Emotionale Regulation](https://inner-clarity.github.io/ClearPath/de/prenc) bezieht sich auf die Wege, wie eine Person intensive Emotionen oder überwältigende Empfindungen bewältigt. Sie kann einschließen:
 - Repetitive Bewegungen (wie Schaukeln oder Hände reiben)
 - Verwendung von Komfortobjekten oder spezifischen Kleidungsstücken
 - Rhythmen, Geräusche oder symbolische Verhaltensweisen
 
-Ihr Zweck ist, **innere Ruhe wiederherzustellen**, nicht Anziehung zu anderen auszudrücken. Diese Strategien sind bei Menschen üblich, die Trauma erlebt haben, neurologische Unterschiede haben (wie Autismus oder Tourette) oder sensorische Überlastung erleben.
+Ihr Zweck ist, **innere Ruhe wiederherzustellen**, nicht Anziehung zu anderen auszudrücken. Diese Strategien sind bei Menschen üblich, die Trauma erlebt haben, neurologische Unterschiede haben (wie [Autismus](https://inner-clarity.github.io/ClearPath/de/autismo) oder [Tourette](https://inner-clarity.github.io/ClearPath/de/tourette)) oder sensorische Überlastung erleben.
 
 ## Was ist sexuelle Orientierung?
 
@@ -42,9 +42,9 @@ Wenn die Antwort **Ruhe, Stress, Einsamkeit und Abwesenheit von Anziehung** ist,
 
 ### Beispiele anerkannter Zustände
 
-- **Autismus**: Repetitive Bewegungen (Stimming) helfen, sensorische Überstimulation zu bewältigen. Studien bestätigen, dass sie **nicht mit sexueller Anziehung assoziiert sind**, sondern mit sensorischen Bedürfnissen (Kapp et al., 2019).
-- **PTBS**: Einige Menschen verwenden Objekte oder Rituale, die sie an die Kindheit erinnern, um sich sicher zu fühlen. Dies ist **keine sexuelle Regression**, sondern Suche nach emotionaler Unterstützung (Van der Kolk, 2014).
-- **Tourette-Syndrom**: Einige Tics können ungewöhnliche Wörter oder Gesten einschließen, aber sie **spiegeln nicht die Wünsche der Person wider**. Sie sind unwillkürliche neurologische Entladungen, wie ein Niesen.
+- **[Autismus](https://inner-clarity.github.io/ClearPath/de/autismo)**: Repetitive Bewegungen (Stimming) helfen, sensorische Überstimulation zu bewältigen. Studien bestätigen, dass sie **nicht mit sexueller Anziehung assoziiert sind**, sondern mit sensorischen Bedürfnissen (Kapp et al., 2019).
+- **[PTBS](https://inner-clarity.github.io/ClearPath/de/tept)**: Einige Menschen verwenden Objekte oder Rituale, die sie an die Kindheit erinnern, um sich sicher zu fühlen. Dies ist **keine sexuelle Regression**, sondern Suche nach emotionaler Unterstützung (Van der Kolk, 2014).
+- **[Tourette-Syndrom](https://inner-clarity.github.io/ClearPath/de/tourette)**: Einige Tics können ungewöhnliche Wörter oder Gesten einschließen, aber sie **spiegeln nicht die Wünsche der Person wider**. Sie sind unwillkürliche neurologische Entladungen, wie ein Niesen.
 
 ## Evangeliumsprinzipien
 
@@ -64,10 +64,17 @@ Deshalb ist es vital, **zuerst zu lernen, bevor man annimmt**, und **zuzuhören,
 
 ## Schlussfolgerung
 
-Strategien der emotionalen Regulation, obwohl sie ungewöhnlich erscheinen mögen, **sind nicht mit sexueller Orientierung verbunden**. Dies zu erkennen ermöglicht:
+Strategien der [emotionalen Regulation](https://inner-clarity.github.io/ClearPath/de/prenc), obwohl sie ungewöhnlich erscheinen mögen, **sind nicht mit sexueller Orientierung verbunden**. Dies zu erkennen ermöglicht:
 - Mit größerer Weisheit zu dienen
 - Die Würde aller Kinder Gottes zu schützen
 - Die Einheit in Christi Herde zu stärken
 
 > **"Nehmt einander an, wie auch Christus uns angenommen hat, zur Ehre Gottes."**
 > — Römer 15:7
+---
+
+::: tip Willkommen
+Hinweis: InnerSight ist eine unabhangige Bildungsressource, die von treuen Mitgliedern erstellt wurde, um Fuhrungskrafte, Familien und Fachleute zu unterstutzen. Sie ist nicht mit der Kirche Jesu Christi der Heiligen der Letzten Tage verbunden oder wird von dieser offiziell unterstutzt.
+
+Jede innere Reise beginnt mit einem ersten Schritt. Deine beginnt hier.
+:::

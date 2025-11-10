@@ -1,8 +1,8 @@
-# Epekto ng Paghiling na Iwanan ang Kinakailangang Regulatory Strategies
+﻿# Epekto ng Paghiling na Iwanan ang Kinakailangang Regulatory Strategies
 
 ## Academic Introduction
 
-Ang emotional regulation ay mahalaga para sa psychological, neurological at spiritual well-being. Ang ilang mga tao ay bumubuo ng mga paraan ng self-regulation na, bagaman hindi pamilyar para sa iba, ay kinakailangan para sa kanilang internal balance — lalo na pagkatapos ng trauma o dahil sa neurological differences.
+Ang [emotional regulation](https://inner-clarity.github.io/ClearPath/tl/prenc) ay mahalaga para sa psychological, neurological at spiritual well-being. Ang ilang mga tao ay bumubuo ng mga paraan ng self-regulation na, bagaman hindi pamilyar para sa iba, ay kinakailangan para sa kanilang internal balance — lalo na pagkatapos ng trauma o dahil sa neurological differences.
 
 Kapag hinihiling sa kanila na iwanan ang mga estratehiyang ito — kahit na may mabuting layunin — maaari silang makaranas ng karagdagang distress, functional deterioration at spiritual distancing. Ipinapaliwanag ng dokumentong ito kung bakit, mula sa clinical perspective, ang support ay karaniwang mas epektibo kaysa sa correction.
 
@@ -18,7 +18,7 @@ Nag-uulat ang ilang tapat na miyembro na, sa pagsisikap na ganap na makilahok sa
 
 Ang human nervous system ay bumubuo ng partikular na paraan ng pagpapanatili ng kalma, lalo na kapag ang isang tao ay nakaranas ng mahihirap na karanasan o may neurological differences. Ang mga tugong ito ay nagiging awtomatiko sa paglipas ng panahon.
 
-Kung hinihiling sa isang tao na itigil ang paggamit ng estratehiya na consolidated ng kanyang utak bilang essential, maaari niyang maranasan ang:
+Kung hinihiling sa isang tao na itigil ang paggamit ng estratehiya ([P.R.E.N.C.](https://inner-clarity.github.io/ClearPath/tl/prenc)) na consolidated ng kanyang utak bilang essential, maaari niyang maranasan ang:
 
 - Pagtaas ng anxiety o internal tension
 - Kahirapan sa pag-concentrate o pakikilahok sa mga aktibidad
@@ -46,9 +46,9 @@ Ang mga ito ay hindi senyales ng spiritual rebellion, kundi na **nangangailangan
 
 **Mga aral mula sa kinikilalang kondisyon**
 
-- Sa Tourette Syndrome, ang pagtatangkang pigilin ang mga tic ay nagiging sanhi ng accumulation ng tension.
-- Sa autism, ang pagpigil sa self-regulatory movements ay nagpapataas ng anxiety.
-- Sa PTSD, ang pagbabawal ng safety rituals ay maaaring muling mag-activate ng takot.
+- Sa [Tourette Syndrome](https://inner-clarity.github.io/ClearPath/tl/tourette), ang pagtatangkang pigilin ang mga tic ay nagiging sanhi ng accumulation ng tension.
+- Sa [autism](https://inner-clarity.github.io/ClearPath/tl/autismo), ang pagpigil sa self-regulatory movements ay nagpapataas ng anxiety.
+- Sa [PTSD](https://inner-clarity.github.io/ClearPath/tl/tept), ([P.R.E.N.C.](https://inner-clarity.github.io/ClearPath/tl/prenc)) ang pagbabawal ng safety rituals ay maaaring muling mag-activate ng takot.
 
 Ang mga halimbawang ito ay nagpapakita na **ang utak ay nangangailangan ng ilang pathways upang maramdamang ligtas.** Ang mukhang hindi pangkaraniwan mula sa labas ay maaaring mahalaga mula sa loob.
 
@@ -162,3 +162,10 @@ Ang pagprotekta sa neurological integrity ng bawat indibidwal ay hindi concessio
 ### Evolutionary Perspectives
 - Gilbert, P. (2019). "Evolutionary Psychology and Mental Health: Past, present and future." *Clinical Psychology Review*, 73, 101751.
 
+---
+
+::: tip Maligayang pagdating!
+Tala: Ang InnerSight ay isang independiyenteng mapagkukunan ng edukasyon, na nilikha ng mga tapat na miyembro para suportahan ang mga lider, pamilya, at propesyonal. Ito ay hindi nauugnay o opisyal na sinusuportahan ng Ang Simbahan ni Jesucristo ng mga Banal sa mga Huling Araw.
+
+Ang bawat panloob na paglalakbay ay nagsisimula sa isang unang hakbang. Ang sa iyo ay nagsisimula dito.
+:::

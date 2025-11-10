@@ -1,4 +1,4 @@
-# Contact
+﻿# Contact
 
 Para sa propesyonal na konsultasyon o institutional collaborations na may kaugnayan sa kalusugan ng isip at relihiyosong praktis.
 
@@ -10,7 +10,7 @@ Mananaliksik sa AI na inilapat sa kalusugan ng isip
 
 ### Mga Larangan ng Espesyalisasyon
 
-- **Pananaliksik sa Kalusugan ng Isip**: Hindi pangkaraniwang pamamaraan ng emotional regulation
+- **Pananaliksik sa Kalusugan ng Isip**: Hindi pangkaraniwang pamamaraan ng [emotional regulation](https://inner-clarity.github.io/ClearPath/tl/prenc)
 - **Psychological Analysis**: Aplikasyon ng AI sa mga pattern ng kalusugan ng isip
 - **Computer Systems**: Pagpapatupad ng mga tool para sa psychological well-being
 - **Organizational Psychology**: Meyer-Briggs Type Indicator (MBTI), Emotional intelligence
@@ -29,7 +29,7 @@ Kung ikaw ay kumakatawan sa isang institusyon, organisasyon o may mga tanong sa 
 
 - **Kalusugan ng isip at relihiyosong praktis**
 - **Development ng computer systems para sa psychological well-being**
-- **Pananaliksik sa emotional regulation**
+- **Pananaliksik sa [emotional regulation](https://inner-clarity.github.io/ClearPath/tl/prenc)**
 - **Academic o institutional collaborations**
 
 ## Code of Conduct
@@ -59,3 +59,10 @@ Ang espasyong ito ay dinisenyo upang magtaguyod ng informed dialogue sa pagitan 
 
 *Huling update: Setyembre 2025*
 
+---
+
+::: tip Maligayang pagdating!
+Tala: Ang InnerSight ay isang independiyenteng mapagkukunan ng edukasyon, na nilikha ng mga tapat na miyembro para suportahan ang mga lider, pamilya, at propesyonal. Ito ay hindi nauugnay o opisyal na sinusuportahan ng Ang Simbahan ni Jesucristo ng mga Banal sa mga Huling Araw.
+
+Ang bawat panloob na paglalakbay ay nagsisimula sa isang unang hakbang. Ang sa iyo ay nagsisimula dito.
+:::

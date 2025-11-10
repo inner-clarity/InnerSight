@@ -1,4 +1,4 @@
-# 정신 건강 및 신경학적 맥락에서의 감정 조절에 대한 임상적 이해
+﻿# 정신 건강 및 신경학적 맥락에서의 감정 조절에 대한 임상적 이해
 
 ## 이론적 프레임워크
 
@@ -136,3 +136,11 @@
 - Tourette Association of America (2023). "Understanding Tourette Syndrome: A Neurological Perspective."
 - Bliss, J., et al. (2020). "Tic disorders and emotional regulation: Clinical perspectives." *Journal of Neuropsychiatry*, 32(4), 198-205.
 - Robertson, M.M. (2015). "The Gilles de la Tourette syndrome: The current status." *Archives of Disease in Childhood*, 89(5), 428-433.
+
+---
+
+::: tip 환영합니다!
+참고: InnerSight는 지도자, 가족, 전문가들을 지원하기 위해 신실한 회원들이 만든 독립적인 교육 자료입니다. 후기 성도 예수 그리스도 교회와 공식적으로 연관되거나 승인받은 것은 아닙니다.
+
+모든 내면의 여정은 첫 걸음으로 시작됩니다. 당신의 여정이 여기서 시작됩니다.
+:::

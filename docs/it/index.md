@@ -1,4 +1,4 @@
----
+﻿---
 layout: home
 
 hero:
@@ -29,7 +29,7 @@ Una risorsa educativa per comprendere meglio i bisogni di salute mentale e neuro
 
 ### Scopo
 
-InnerSight è una risorsa educativa che cerca di supportare leader, famiglie e membri della Chiesa di Gesù Cristo dei Santi degli Ultimi Giorni nel comprendere meglio come le differenze neurologiche e le risposte al trauma possano richiedere forme legittime di regolazione emotiva. Questo lavoro è basato su evidenze cliniche, principi del Vangelo e il desiderio condiviso di ministrare con amore simile a quello di Cristo.
+InnerSight è una risorsa educativa che cerca di supportare leader, famiglie e membri della Chiesa di Gesù Cristo dei Santi degli Ultimi Giorni nel comprendere meglio come le differenze neurologiche e le risposte al trauma possano richiedere forme legittime di [regolazione emotiva](https://inner-clarity.github.io/ClearPath/it/prenc). Questo lavoro è basato su evidenze cliniche, principi del Vangelo e il desiderio condiviso di ministrare con amore simile a quello di Cristo.
 
 ### Fondamento
 
@@ -40,16 +40,16 @@ Questa risorsa risponde alle domande comuni di leader e famiglie su come support
 ### Testimonianze
 
 > **Fratello riflessivo**: \
-> "Sono detentore del Sacerdozio di Melchisedec, ho servito in molte chiamate. La mia condizione neurologica richiede adattamenti specifici per la regolazione sensoriale. Per anni ho provato vergogna, fino a quando un vescovo comprensivo mi disse: 'La tua dignità davanti a Dio non dipende dalla tua neurodiversità'. Quelle parole hanno cambiato la mia vita."
+> "Sono detentore del Sacerdozio di Melchisedec, ho servito in molte chiamate. La mia condizione neurologica richiede adattamenti specifici per la regolazione sensoriale ([PRENC](https://inner-clarity.github.io/ClearPath/it/prenc)). Per anni ho provato vergogna, fino a quando un vescovo comprensivo mi disse: 'La tua dignità davanti a Dio non dipende dalla tua neurodiversità'. Quelle parole hanno cambiato la mia vita."
 
 > **Membro fedele**: \
-> "In un colloquio con un leader, quando ho sollevato la necessità di usare articoli di cura personale (PEPT), questo leader ha messo in discussione la legittimità e ha reso chiaro che era 'contrario per un detentore degno del sacerdozio usare quello o che sarebbe sembrato male, o che sarebbe stato imbarazzante' senza capire che non era un capriccio ma un bisogno neurologico. Anche se mi sentivo incompreso, ho sentito che Dio SA quello che mi sta succedendo e che Lui SA capire il mio cuore."
+> "In un colloquio con un leader, quando ho sollevato la necessità di usare articoli di cura personale ([PEPT](https://inner-clarity.github.io/ClearPath/it/tept)), questo leader ha messo in discussione la legittimità e ha reso chiaro che era 'contrario per un detentore degno del sacerdozio usare quello o che sarebbe sembrato male, o che sarebbe stato imbarazzante' senza capire che non era un capriccio ma un bisogno neurologico. Anche se mi sentivo incompreso, ho sentito che Dio SA quello che mi sta succedendo e che Lui SA capire il mio cuore."
 
 > **Missionario di ritorno**: \
-> "Durante la mia missione, sono stato esposto a situazioni che mettevano a disagio gli altri, a volte ho tic, emetto anche suoni verbali inconsci (Sindrome di Tourette). C'erano leader che mi hanno richiamato l'attenzione per 'mancare di rispetto o essere irriverente' ma lo facevo involontariamente, avrei voluto che fossero informati su queste condizioni neurologiche. Sono grato di aver avuto un presidente di missione amorevole e comprensivo, ho avuto compagni molto pazienti, mi hanno fatto sentire che il Salvatore si stava prendendo cura di me. Ho finito la mia missione con onore"
+> "Durante la mia missione, sono stato esposto a situazioni che mettevano a disagio gli altri, a volte ho tic, emetto anche suoni verbali inconsci ([Sindrome di Tourette](https://inner-clarity.github.io/ClearPath/it/tourette)). C'erano leader che mi hanno richiamato l'attenzione per 'mancare di rispetto o essere irriverente' ma lo facevo involontariamente, avrei voluto che fossero informati su queste condizioni neurologiche. Sono grato di aver avuto un presidente di missione amorevole e comprensivo, ho avuto compagni molto pazienti, mi hanno fatto sentire che il Salvatore si stava prendendo cura di me. Ho finito la mia missione con onore"
 
 > **Madre abnegata**: \
-> "Molti mi hanno detto 'perché non tenevo mio figlio tranquillo' o che 'ero una cattiva madre' perché non controllo mio figlio (mio figlio ha l'autismo), hanno persino suggerito la possibilità di non andare più in chiesa. Non capiscono tutto quello che vivo quotidianamente, anche così ricevo forza da un Padre Celeste che mi ama, la forza di un marito amorevole, fedele e buon padre, e la promessa che se rimango fedele 'Il Signore mi porterà sulle sue spalle'. Se gli altri potessero avere maggiore comprensione, sentirei il mio fardello un po' più leggero. Ma soprattutto, so che il Salvatore mi capisce perfettamente, e questo mi dà pace."
+> "Molti mi hanno detto 'perché non tenevo mio figlio tranquillo' o che 'ero una cattiva madre' perché non controllo mio figlio (mio figlio ha l'[autismo](https://inner-clarity.github.io/ClearPath/it/autismo)), hanno persino suggerito la possibilità di non andare più in chiesa. Non capiscono tutto quello che vivo quotidianamente, anche così ricevo forza da un Padre Celeste che mi ama, la forza di un marito amorevole, fedele e buon padre, e la promessa che se rimango fedele 'Il Signore mi porterà sulle sue spalle'. Se gli altri potessero avere maggiore comprensione, sentirei il mio fardello un po' più leggero. Ma soprattutto, so che il Salvatore mi capisce perfettamente, e questo mi dà pace."
 
 ---
 
@@ -62,16 +62,16 @@ Questa sezione presenta una prospettiva clinica su come le persone regolano le l
 Guida basata su evidenze per riconoscere quando certi comportamenti riflettono bisogni neurologici o risposte al trauma, piuttosto che preferenze personali. Include criteri clinici, esempi illustrativi e guida per leader e famiglie che desiderano ministrare con comprensione.
 
 ### [Impatto del Richiedere l'Abbandono di Strategie Regolatorie Necessarie](/it/efectos_de_restricciones_coercitiva)
-Questa sezione spiega, basandosi su neuroscienze e studi clinici, come chiedere a qualcuno di smettere di usare una strategia essenziale di regolazione emotiva—anche con buone intenzioni—possa causare angoscia aggiuntiva, deterioramento funzionale e distanziamento spirituale.
+Questa sezione spiega, basandosi su neuroscienze e studi clinici, come chiedere a qualcuno di smettere di usare una strategia essenziale di [regolazione emotiva](https://inner-clarity.github.io/ClearPath/it/prenc)—anche con buone intenzioni—possa causare angoscia aggiuntiva, deterioramento funzionale e distanziamento spirituale.
 
 ### [Quando l'Amore è Condizionato alla Conformità](/it/chantaje_emocional)
-Alcuni membri riportano di sentire che la loro appartenenza o valore spirituale dipende dall'abbandonare certi bisogni di regolazione emotiva. Questa sezione analizza come queste dinamiche—sebbene non intenzionali—possano influenzare la fede, l'autostima e le relazioni, e offre principi per ministrare senza imporre condizioni.
+Alcuni membri riportano di sentire che la loro appartenenza o valore spirituale dipende dall'abbandonare certi bisogni di [regolazione emotiva](https://inner-clarity.github.io/ClearPath/it/prenc). Questa sezione analizza come queste dinamiche—sebbene non intenzionali—possano influenzare la fede, l'autostima e le relazioni, e offre principi per ministrare senza imporre condizioni.
 
 ### [Natura della Regolazione Emotiva](/it/naturaleza_regulacion_emocional)
-Alcune persone confondono certe strategie di regolazione emotiva con questioni di identità o preferenza sessuale. Questa sezione offre una spiegazione clinica chiara, basata su neuroscienze, sul perché questi bisogni sono legati alla salute mentale e neurologica, non all'orientamento sessuale.
+Alcune persone confondono certe strategie di [regolazione emotiva](https://inner-clarity.github.io/ClearPath/it/prenc) con questioni di identità o preferenza sessuale. Questa sezione offre una spiegazione clinica chiara, basata su neuroscienze, sul perché questi bisogni sono legati alla salute mentale e neurologica, non all'orientamento sessuale.
 
 ### [Sicurezza Emotiva Coniugale](/it/seguridad_emocional_conyugal)
-Questa sezione esamina come le restrizioni coercitive nell'intimità coniugale possano influenzare la sicurezza emotiva e la salute mentale dei coniugi. Analizza l'impatto sulle relazioni matrimoniali quando vengono imposte restrizioni che interferiscono con la regolazione emotiva legittima, offrendo prospettive basate sui principi del Vangelo e comprensione clinica dell'intimità coniugale.
+Questa sezione esamina come le restrizioni coercitive nell'intimità coniugale possano influenzare la sicurezza emotiva e la salute mentale dei coniugi. Analizza l'impatto sulle relazioni matrimoniali quando vengono imposte restrizioni che interferiscono con la [regolazione emotiva](https://inner-clarity.github.io/ClearPath/it/prenc) legittima, offrendo prospettive basate sui principi del Vangelo e comprensione clinica dell'intimità coniugale.
 
 ### [Dignità Spirituale e Salute Mentale](/it/sacerdocio_salud_mental_apropiado_v5)  
 Questa sezione esamina come gli insegnamenti del Vangelo—includendo le Scritture, la Proclamazione sulla Famiglia e la rivelazione moderna—affermano che la dignità di un membro davanti a Dio non dipende dalla sua condizione di salute mentale o neurologica, ma dalla sua fede, pentimento e desiderio di seguire Cristo.

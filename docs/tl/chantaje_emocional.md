@@ -1,8 +1,8 @@
-# Kapag ang Pagmamahal ay Kondisyonado sa Conformity
+﻿# Kapag ang Pagmamahal ay Kondisyonado sa Conformity
 
 ## Academic Introduction
 
-Nag-uulat ang ilang tapat na miyembro na nararamdaman nila na ang kanilang sense of belonging, pagmamahal o acceptance sa pamilya o kongregasyon ay nakasalalay sa pag-iwas sa ilang emotional regulation needs. Bagaman ang dynamics na ito ay karaniwang nagmumula sa good intention — tulad ng pagnanais na tumulong o protektahan —, maaari itong magkaroon ng negatibong consequences sa mental health, pananampalataya at mga relasyon.
+Nag-uulat ang ilang tapat na miyembro na nararamdaman nila na ang kanilang sense of belonging, pagmamahal o acceptance sa pamilya o kongregasyon ay nakasalalay sa pag-iwas sa ilang [emotional regulation](https://inner-clarity.github.io/ClearPath/tl/prenc) needs. Bagaman ang dynamics na ito ay karaniwang nagmumula sa good intention — tulad ng pagnanais na tumulong o protektahan —, maaari itong magkaroon ng negatibong consequences sa mental health, pananampalataya at mga relasyon.
 
 Ipinapaliwanag ng dokumentong ito, mula sa clinical perspective, kung bakit mahalaga na maglingkod nang walang pag-impose ng mga kondisyon, at kung paano ang unconditional support ay nagpapalakas sa parehong indibidwal at komunidad.
 
@@ -74,9 +74,9 @@ Ang mga ito ay hindi senyales ng kakulangan ng pananampalataya, kundi na **nanga
 
 **Mga aral mula sa kinikilalang kondisyon**
 
-- Sa Tourette Syndrome, ang pagtatangkang pigilin ang mga tic ay nagiging sanhi ng accumulation ng tension.
-- Sa autism, ang pagpigil sa self-regulatory movements ay nagpapataas ng anxiety.
-- Sa PTSD, ang pagbabawal ng safety rituals ay maaaring muling mag-activate ng takot.
+- Sa [Tourette Syndrome](https://inner-clarity.github.io/ClearPath/tl/tourette), ang pagtatangkang pigilin ang mga tic ay nagiging sanhi ng accumulation ng tension.
+- Sa [autism](https://inner-clarity.github.io/ClearPath/tl/autismo), ang pagpigil sa self-regulatory movements ay nagpapataas ng anxiety.
+- Sa [PTSD](https://inner-clarity.github.io/ClearPath/tl/tept), ang pagbabawal ng safety rituals ay maaaring muling mag-activate ng takot.
 
 Ang mga halimbawang ito ay nagpapakita na **ang utak ay nangangailangan ng ilang pathways upang maramdamang ligtas**. Ang mukhang hindi pangkaraniwan mula sa labas ay maaaring mahalaga mula sa loob.
 
@@ -169,3 +169,10 @@ Ang pagprotekta sa neurological integrity ng bawat indibidwal ay hindi concessio
 ### Evolutionary Perspectives
 - Gilbert, P. (2019). "Evolutionary Psychology and Mental Health: Past, present and future." *Clinical Psychology Review*, 73, 101751.
 
+---
+
+::: tip Maligayang pagdating!
+Tala: Ang InnerSight ay isang independiyenteng mapagkukunan ng edukasyon, na nilikha ng mga tapat na miyembro para suportahan ang mga lider, pamilya, at propesyonal. Ito ay hindi nauugnay o opisyal na sinusuportahan ng Ang Simbahan ni Jesucristo ng mga Banal sa mga Huling Araw.
+
+Ang bawat panloob na paglalakbay ay nagsisimula sa isang unang hakbang. Ang sa iyo ay nagsisimula dito.
+:::

@@ -1,0 +1,152 @@
+# Configuración VitePress para GitHub Pages
+
+## 🎯 Configuración Obligatoria para InnerSight
+
+### 1. Base Path en config.mts
+```typescript
+export default defineConfig({
+  base: '/InnerSight/',  // ← CRÍTICO: Debe coincidir con nombre del repo
+  // ... resto de configuración
+})
+```
+
+### 2. Archivo .nojekyll
+**Ubicación**: `docs/public/.nojekyll`
+**Contenido**: Archivo vacío
+**Propósito**: Desactivar Jekyll para que GitHub Pages sirva `_vitepress/`
+
+### 3. Package.json - Scripts
+```json
+{
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs",
+    "deploy": "gh-pages -d docs/.vitepress/dist"
+  }
+}
+```
+
+## ⚠️ Errores Comunes a Evitar
+
+### ❌ Error 1: Base Path Incorrecto
+```typescript
+// INCORRECTO
+base: '/',  // ← Solo funciona en desarrollo local
+
+// CORRECTO para GitHub Pages
+base: '/InnerSight/',  // ← Nombre exacto del repositorio
+```
+
+### ❌ Error 2: Minúsculas en Base Path
+```typescript
+// INCORRECTO
+base: '/innersight/',  // ← GitHub Pages es case-sensitive
+
+// CORRECTO
+base: '/InnerSight/',  // ← Mayúsculas I y S
+```
+
+### ❌ Error 3: Archivo .nojekyll Faltante
+```
+❌ Sin .nojekyll → GitHub Pages ignora _vitepress/
+✅ Con .nojekyll → Todo funciona correctamente
+```
+
+### ❌ Error 4: Referencias a Archivos Inexistentes
+```typescript
+// EVITAR referencias a archivos que no existen
+head: [
+  ['script', { src: '/archivo-que-no-existe.js' }],  // ← Causa 404
+]
+```
+
+## 🔧 Estructura Requerida del Proyecto
+
+```
+InnerSight/
+├── docs/
+│   ├── .vitepress/
+│   │   ├── config.mts       ← base: '/InnerSight/'
+│   │   └── dist/            ← Generado por build
+│   ├── public/
+│   │   └── .nojekyll        ← OBLIGATORIO
+│   ├── es/                  ← Idioma base
+│   ├── en/                  ← Otros idiomas
+│   └── [otros idiomas]/
+├── package.json             ← Scripts de deploy
+└── ReportesIA/             ← Documentación interna
+```
+
+## 🚀 Flujo de Deploy Correcto
+
+### Paso 1: Build
+```bash
+npm run build
+```
+**Verifica**: Que `docs/.vitepress/dist/` se generó correctamente
+
+### Paso 2: Deploy
+```bash
+npm run deploy
+```
+**Resultado**: Sube contenido de `dist/` a rama `gh-pages`
+
+### Paso 3: Configurar GitHub Pages
+En GitHub → Settings → Pages:
+- **Source**: Deploy from a branch
+- **Branch**: `gh-pages`
+- **Folder**: `/ (root)`
+
+### Paso 4: Esperar y Verificar
+- Espera 1-2 minutos
+- Accede a: `https://inner-clarity.github.io/InnerSight/`
+- Verifica que estilos carguen correctamente
+
+## 📝 Checklist Pre-Deploy
+
+- [ ] `base: '/InnerSight/'` en `config.mts`
+- [ ] Archivo `docs/public/.nojekyll` existe
+- [ ] `npm run build` ejecuta sin errores
+- [ ] `docs/.vitepress/dist/` contiene archivos generados
+- [ ] Todas las rutas en config usan el base path correcto
+
+## 🔍 Diagnóstico de Problemas
+
+### Estilos No Cargan (página blanca con HTML)
+**Causa**: Base path incorrecto
+**Solución**: Verificar que `base: '/InnerSight/'` esté configurado
+
+### Error 404 en la Página Principal
+**Causa**: URL incorrecta o deploy no completado
+**Solución**: 
+1. Usar URL completa: `https://inner-clarity.github.io/InnerSight/`
+2. Verificar que rama `gh-pages` existe
+3. Esperar 1-2 minutos después del deploy
+
+### Errores 404 en Assets (_vitepress/)
+**Causa**: Falta archivo `.nojekyll`
+**Solución**: Crear archivo vacío en `docs/public/.nojekyll`
+
+### Links Internos No Funcionan
+**Causa**: Links no usan rutas relativas correctas
+**Solución**: Todos los links deben incluir el idioma (ej. `/es/pagina`)
+
+## 🎓 Documentación de Referencia
+
+- **VitePress**: https://vitepress.dev/guide/deploy#github-pages
+- **Base Config**: https://vitepress.dev/reference/site-config#base
+- **GitHub Pages**: https://docs.github.com/en/pages
+- **Solución Completa**: `ReportesIA/solucion-estilos-github-pages-2025-11-03.md`
+
+## 💡 Consejos Avanzados
+
+1. **Desarrollo Local**: Con `base: '/InnerSight/'` configurado, el servidor de desarrollo funciona correctamente en `localhost:5173/`
+
+2. **Preview Local**: Usar `npm run preview` para probar el build localmente
+
+3. **Limpiar Caché**: Si cambios no se reflejan, limpiar caché del navegador (Ctrl + Shift + R)
+
+4. **Verificar Build**: Siempre revisar `docs/.vitepress/dist/` después de build para confirmar que archivos se generaron correctamente
+
+5. **Monitorear Deploy**: Revisar GitHub Actions para ver si el deploy se completó exitosamente

@@ -1,4 +1,4 @@
-# Contact
+﻿# Contact
 
 For professional inquiries or institutional collaborations related to mental health and religious practice.
 
@@ -10,7 +10,7 @@ Researcher in AI applied to mental health
 
 ### Areas of Specialization
 
-- **Mental Health Research**: Unconventional methods of emotional regulation
+- **Mental Health Research**: Unconventional methods of [emotional regulation](https://inner-clarity.github.io/ClearPath/en/prenc)
 - **Psychological Analysis**: Application of AI in mental health patterns
 - **Computer Systems**: Implementation of tools for psychological well-being
 - **Organizational Psychology**: Meyer-Briggs Type Indicator (MBTI), Emotional intelligence
@@ -29,7 +29,7 @@ If you represent an institution, organization, or have research inquiries relate
 
 - **Mental health and religious practice**
 - **Development of computer systems for psychological well-being**
-- **Research in emotional regulation**
+- **Research in [emotional regulation](https://inner-clarity.github.io/ClearPath/en/prenc)**
 - **Academic or institutional collaborations**
 
 ## Code of Conduct
@@ -58,3 +58,10 @@ This space is designed to foster informed dialogue between professional clinical
 *"Charity is the pure love of Christ, and it endureth forever; and whoso is found possessed of it at the last day, it shall be well with him." - Moroni 7:47*
 
 *Last updated: September 2025*
+---
+
+::: tip Welcome
+Note: InnerSight is an independent educational resource, created by faithful members to support leaders, families, and professionals. It is not affiliated with or officially endorsed by The Church of Jesus Christ of Latter-day Saints.
+
+Every inner journey begins with a first step. Yours starts here.
+:::
