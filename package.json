@@ -19,8 +19,8 @@
   "author": "Tu Nombre",
   "license": "MIT",
   "devDependencies": {
-    "vitepress": "1.0.0",
-    "gh-pages": "^4.0.0",
+    "gh-pages": "^6.3.0",
+    "vitepress": "^1.6.4",
     "vue": "^3.4.0"
   },
   "repository": {
