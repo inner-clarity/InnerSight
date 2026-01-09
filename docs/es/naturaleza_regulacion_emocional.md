@@ -43,7 +43,7 @@ Cuando la respuesta es **calma, estrés, soledad y ausencia de atracción**, se 
 ### Ejemplos de condiciones reconocidas
 
 - **[Autismo](https://inner-clarity.github.io/ClearPath/es/autismo)**: Los movimientos repetitivos (*stimming*) ayudan a manejar la sobreestimulación. Estudios confirman que **no están asociados con atracción sexual**, sino con necesidades sensoriales (Kapp et al., 2019).  
-- **[TEPT](https://inner-clarity.github.io/ClearPath/es/tept)**: Algunas personas usan objetos o rituales que les recuerdan a la infancia para sentirse seguras. Esto **no es regresión sexual**, sino búsqueda de contención emocional (Van der Kolk, 2014).  
+- **[TEPT](https://inner-clarity.github.io/ClearPath/es/tept)**: Algunas personas usan objetos o rituales ([P.R.E.N.C.](https://inner-clarity.github.io/ClearPath/es/prenc)) que les recuerdan a la infancia para sentirse seguras. Esto **no es regresión sexual**, sino búsqueda de contención emocional (Van der Kolk, 2014).  
 - **[Síndrome de Tourette](https://inner-clarity.github.io/ClearPath/es/tourette)**: Algunos tics pueden incluir palabras o gestos inusuales, pero **no reflejan los deseos de la persona**. Son descargas neurológicas involuntarias, como un estornudo.
 
 ## Principios del Evangelio
