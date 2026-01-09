@@ -1,13 +1,5 @@
 ---
 title: Una nota personal
-description: Reflexión personal sobre trauma, sanación e intimidad.
-head:
-  - - meta
-    - name: robots
-      content: noindex, nofollow
-  - - meta
-    - name: viewport
-      content: width=device-width, initial-scale=1
 ---
 
 # Una nota personal
