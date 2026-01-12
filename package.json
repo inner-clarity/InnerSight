@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "vitepress dev docs",
-    "build": "vitepress build docs",
+     "build": "vitepress build docs && cp personal-note.html docs/.vitepress/dist/",
     "preview": "vitepress preview docs",
     "deploy": "gh-pages -d docs/.vitepress/dist"
   },

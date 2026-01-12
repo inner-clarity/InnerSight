@@ -7,3 +7,16 @@
 @import './styles/animations.css';
 @import './styles/responsive.css';
 
+/* Ocultar sidebar y navbar en /es/personal-note/ */
+:root:has(.VPContent[data-vue-router-path='/es/personal-note/']) .VPSidebar,
+:root:has(.VPContent[data-vue-router-path='/es/personal-note/']) .VPNav {
+  display: none !important;
+}
+
+:root:has(.VPContent[data-vue-router-path='/es/personal-note/']) .VPContent {
+  padding-left: 0 !important;
+  max-width: 780px !important;
+  margin: 0 auto !important;
+  padding-top: 2rem !important;
+  padding-bottom: 2rem !important;
+}

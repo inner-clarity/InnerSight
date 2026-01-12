@@ -1,4 +1,6 @@
 import { defineConfig } from 'vitepress'
+import fs from 'fs'
+import path from 'path'
 
 export default defineConfig({
   // Base URL: '/' para desarrollo local, '/InnerSight/' para GitHub Pages
@@ -674,5 +676,33 @@ export default defineConfig({
   },
   
   lastUpdated: true,
-  cleanUrls: true
+  cleanUrls: true,
+  
+  vite: {
+    plugins: [
+      {
+        name: 'serve-static-personal-note',
+        configureServer(server) {
+          server.middlewares.use((req, res, next) => {
+            const url = req.url || ''
+
+            // Servir en ambas rutas: con y sin prefijo
+            if (
+              url === '/personal-note.html' ||
+              url === '/InnerSight/personal-note.html'
+            ) {
+              const filePath = path.resolve(process.cwd(), 'personal-note.html')
+              if (fs.existsSync(filePath)) {
+                res.setHeader('Content-Type', 'text/html')
+                fs.createReadStream(filePath).pipe(res)
+                return // evita continuar con otros middlewares
+              }
+            }
+
+            next() // pasa al siguiente middleware si no coincide
+          })
+        }
+      }
+    ]
+  }
 })
